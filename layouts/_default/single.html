@@ -22,14 +22,6 @@
       <span aria-current="page">{{ .Title }}</span>
     </nav>
 
-    {{ with .Params.tags }}
-      <div class="article-tags" role="list" aria-label="תגיות">
-        {{ range . }}
-          <span class="tag" role="listitem">{{ . }}</span>
-        {{ end }}
-      </div>
-    {{ end }}
-
     <h1 class="article-title">{{ .Title }}</h1>
 
     {{ with .Description }}
