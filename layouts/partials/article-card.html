@@ -1,0 +1,24 @@
+<article class="article-card">
+  <div class="article-card-body">
+    <div class="article-card-meta">
+      <time class="article-card-date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02.01.2006" }}</time>
+      {{ range first 2 .Params.tags }}
+        <span class="tag">{{ . }}</span>
+      {{ end }}
+    </div>
+    <h2 class="article-card-title">
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </h2>
+    <p class="article-card-excerpt">
+      {{ with .Description }}{{ . }}{{ else }}{{ .Summary | truncate 110 }}{{ end }}
+    </p>
+  </div>
+  <div class="article-card-footer">
+    <a href="{{ .RelPermalink }}" class="read-more" aria-label="קרא עוד על {{ .Title }}">
+      קרא עוד
+      <svg class="arrow-icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M3 8h10"/><path d="M9 4l4 4-4 4"/>
+      </svg>
+    </a>
+  </div>
+</article>

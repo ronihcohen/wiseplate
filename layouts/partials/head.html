@@ -1,0 +1,29 @@
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ if .IsHome }}{{ .Site.Title }} — תזונה, ציוד וביצועים בספורט{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description | default "ידע מדעי על תזונה, תוספים ובריאות — מידע מאוזן ומבוסס מחקר" }}{{ end }}">
+
+<!-- Favicon — all sizes required by browsers and Google Search -->
+<link rel="icon" type="image/x-icon"       href="{{ "favicon.ico" | relURL }}">
+<link rel="icon" type="image/svg+xml"      href="{{ "favicon.svg" | relURL }}">
+<link rel="icon" type="image/png" sizes="16x16"  href="{{ "favicon-16x16.png" | relURL }}">
+<link rel="icon" type="image/png" sizes="32x32"  href="{{ "favicon-32x32.png" | relURL }}">
+<link rel="icon" type="image/png" sizes="48x48"  href="{{ "favicon-48x48.png" | relURL }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ "apple-touch-icon.png" | relURL }}">
+<link rel="manifest" href="{{ "site.webmanifest" | relURL }}">
+<meta name="theme-color" content="#059669">
+
+<!-- Open Graph (used by Google, social sharing) -->
+<meta property="og:type"        content="{{ if .IsHome }}website{{ else }}article{{ end }}">
+<meta property="og:title"       content="{{ if .IsHome }}{{ .Site.Title }} — תזונה, ציוד וביצועים בספורט{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
+<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description | default "ידע מדעי על תזונה, תוספים ובריאות — מידע מאוזן ומבוסס מחקר" }}{{ end }}">
+<meta property="og:url"         content="{{ .Permalink }}">
+<meta property="og:image"       content="{{ "android-chrome-512x512.png" | absURL }}">
+<meta property="og:locale"      content="he_IL">
+<meta property="og:site_name"   content="{{ .Site.Title }}">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&family=Heebo:wght@300;400;500;700&display=swap">
+<link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&family=Heebo:wght@300;400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ "css/style.css" | relURL }}">

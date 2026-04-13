@@ -1,0 +1,124 @@
+{{ define "main" }}
+
+<!-- ===== HERO ===== -->
+<section class="hero">
+  <div class="container">
+    <span class="hero-label">מדע התזונה</span>
+    <h1 class="hero-title">{{ .Title }}</h1>
+    <p class="hero-description">
+      {{ with .Description }}{{ . }}{{ else }}ידע מדעי ומאוזן על תזונה, תוספים ובריאות — מידע מבוסס מחקר לקבלת החלטות נכונות לגוף ולביצועים שלך.{{ end }}
+    </p>
+    <div class="hero-actions">
+      <a href="{{ "/food/" | relURL }}" class="btn btn-primary">
+        גלה מזונות
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M3 8h10"/><path d="M9 4l4 4-4 4"/>
+        </svg>
+      </a>
+      <a href="{{ "/compare/" | relURL }}" class="btn btn-outline">השוואות תזונתיות</a>
+    </div>
+  </div>
+</section>
+
+<!-- ===== FEATURE SECTIONS ===== -->
+<section class="section">
+  <div class="container">
+    <div class="section-header">
+      <p class="section-label">תחומי ידע</p>
+      <h2 class="section-title">מה תמצאו כאן?</h2>
+      <p class="section-subtitle">סקירה מדעית ומאוזנת של עולם התזונה, התוספים והספורט</p>
+    </div>
+    <div class="section-cards">
+
+      <!-- Food -->
+      <a href="{{ "/food/" | relURL }}" class="section-card">
+        <div class="section-card-icon icon-green">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.48 19 2c1 2 2 4.18 2 8 0 5.5-4.78 10-10 10z"/>
+            <path d="M2 21c0-3 1.85-5.36 5.08-6C9.5 14.52 12 13 13 12"/>
+          </svg>
+        </div>
+        <h3 class="section-card-title">מזון ותזונה</h3>
+        <p class="section-card-desc">יתרונות וחסרונות של מאות מזונות ורכיבים תזונתיים, מבוסס על מחקר מדעי עדכני</p>
+        <span class="section-card-cta">
+          גלה מזונות
+          <svg class="arrow-icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M3 8h10"/><path d="M9 4l4 4-4 4"/>
+          </svg>
+        </span>
+      </a>
+
+      <!-- Supplements -->
+      <a href="{{ "/food/supplements/" | relURL }}" class="section-card">
+        <div class="section-card-icon icon-orange">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M9 3H5a2 2 0 0 0-2 2v4m6-6h10a2 2 0 0 1 2 2v4M9 3v18m0 0h10a2 2 0 0 0 2-2V9M9 21H5a2 2 0 0 1-2-2V9m0 0h18"/>
+          </svg>
+        </div>
+        <h3 class="section-card-title">תוספי תזונה</h3>
+        <p class="section-card-desc">ויטמינים, מינרלים ותוספים נפוצים — מידע מדעי על יעילות, מינון ובטיחות</p>
+        <span class="section-card-cta">
+          גלה תוספים
+          <svg class="arrow-icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M3 8h10"/><path d="M9 4l4 4-4 4"/>
+          </svg>
+        </span>
+      </a>
+
+      <!-- Compare -->
+      <a href="{{ "/compare/" | relURL }}" class="section-card">
+        <div class="section-card-icon icon-blue">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M18 20V10"/><path d="M12 20V4"/><path d="M6 20v-6"/>
+          </svg>
+        </div>
+        <h3 class="section-card-title">השוואות תזונתיות</h3>
+        <p class="section-card-desc">השוואות מעמיקות בין מזונות ותוספים דומים כדי לעזור לך לבחור את המתאים ביותר</p>
+        <span class="section-card-cta">
+          גלה השוואות
+          <svg class="arrow-icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M3 8h10"/><path d="M9 4l4 4-4 4"/>
+          </svg>
+        </span>
+      </a>
+
+      <!-- Run -->
+      <a href="{{ "/run/" | relURL }}" class="section-card">
+        <div class="section-card-icon icon-green" style="background:#F0FDF4;">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="12" cy="5" r="1"/><path d="m9 20 3-6 3 6"/><path d="m6 8 2 2 4-2 2 4"/><path d="M6 10H4"/><path d="M20 14h-2"/>
+          </svg>
+        </div>
+        <h3 class="section-card-title">ריצה וספורט</h3>
+        <p class="section-card-desc">סקירות ציוד, אזורי אימון, וטכניקות ריצה לשיפור הביצועים שלך</p>
+        <span class="section-card-cta">
+          גלה עוד
+          <svg class="arrow-icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M3 8h10"/><path d="M9 4l4 4-4 4"/>
+          </svg>
+        </span>
+      </a>
+
+    </div>
+  </div>
+</section>
+
+<!-- ===== RECENT ARTICLES ===== -->
+<section class="section section-alt">
+  <div class="container">
+    <div class="section-header">
+      <p class="section-label">פורסם לאחרונה</p>
+      <h2 class="section-title">מאמרים אחרונים</h2>
+    </div>
+    <div class="article-grid">
+      {{ range first 6 .Site.RegularPages }}
+        {{ partial "article-card.html" . }}
+      {{ end }}
+    </div>
+    <div class="view-all-wrap">
+      <a href="{{ "/food/" | relURL }}" class="btn btn-outline">כל המאמרים</a>
+    </div>
+  </div>
+</section>
+
+{{ end }}

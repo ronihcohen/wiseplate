@@ -1,0 +1,67 @@
+{{ define "main" }}
+
+<!-- ===== LIST HEADER ===== -->
+<div class="list-header">
+  <div class="container">
+    <nav class="breadcrumb" aria-label="breadcrumb">
+      <a href="{{ "/" | relURL }}">בית</a>
+      <span class="breadcrumb-sep" aria-hidden="true">›</span>
+      {{ if .Parent }}
+        {{ if not .Parent.IsHome }}
+          <a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a>
+          <span class="breadcrumb-sep" aria-hidden="true">›</span>
+        {{ end }}
+      {{ end }}
+      <span aria-current="page">{{ .Title }}</span>
+    </nav>
+    <div class="list-header-inner">
+      <h1 class="list-header-title">{{ .Title }}</h1>
+      {{ with .Description }}
+        <p class="list-header-desc">{{ . }}</p>
+      {{ end }}
+    </div>
+  </div>
+</div>
+
+<!-- ===== LIST CONTENT ===== -->
+<div class="list-content">
+  <div class="container">
+
+    {{/* Sub-sections (e.g. supplements inside food) */}}
+    {{ if .Sections }}
+      <div class="subsections">
+        <p class="subsections-title">תת-קטגוריות</p>
+        <div class="section-cards">
+          {{ range .Sections }}
+            <a href="{{ .RelPermalink }}" class="section-card">
+              <h2 class="section-card-title">{{ .Title }}</h2>
+              {{ with .Description }}
+                <p class="section-card-desc">{{ . }}</p>
+              {{ end }}
+              <span class="section-card-cta">
+                גלה עוד
+                <svg class="arrow-icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                  <path d="M3 8h10"/><path d="M9 4l4 4-4 4"/>
+                </svg>
+              </span>
+            </a>
+          {{ end }}
+        </div>
+      </div>
+    {{ end }}
+
+    {{/* Regular pages */}}
+    {{ if .RegularPages }}
+      <div class="article-grid">
+        {{ range .RegularPages }}
+          {{ partial "article-card.html" . }}
+        {{ end }}
+      </div>
+    {{ else }}
+      <p style="text-align:center; color: var(--color-text-muted); padding: 3rem 0;">אין מאמרים בקטגוריה זו עדיין.</p>
+    {{ end }}
+
+  </div>
+</div>
+
+{{ end }}

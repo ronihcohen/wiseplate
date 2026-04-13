@@ -1,0 +1,11 @@
+languageCode = 'he'
+baseURL = 'https://wiseplate.blog/'
+title = 'מדע בתנועה'
+trailingSlash = true
+canonifyURLs = true
+
+[params]
+  description = "ידע מדעי על תזונה, תוספים ובריאות — מידע מאוזן ומבוסס מחקר"
+  description_en = "Nutritional pros and cons of various foods - Scientifically-based information for a healthy diet."
+  keywords = ["תזונה", "בריאות", "ערכים תזונתיים", "יתרונות בריאותיים", "מזון בריא", "דיאטה", "פירות", "ירקות", "חלבון", "ויטמינים"]
+  keywords_en = ["Nutrition", "Health", "Nutritional Values", "Health Benefits", "Healthy Food", "Diet", "Fruits", "Vegetables", "Protein", "Vitamins"]

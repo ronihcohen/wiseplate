@@ -1,0 +1,55 @@
+{{ define "main" }}
+
+<!-- ===== ARTICLE HEADER ===== -->
+<div class="article-header">
+  <div class="container">
+
+    <nav class="breadcrumb" aria-label="breadcrumb" style="justify-content:center;">
+      <a href="{{ "/" | relURL }}">בית</a>
+      <span class="breadcrumb-sep" aria-hidden="true">›</span>
+      {{ if .Parent }}
+        {{ if not .Parent.IsHome }}
+          {{ if .Parent.Parent }}
+            {{ if not .Parent.Parent.IsHome }}
+              <a href="{{ .Parent.Parent.RelPermalink }}">{{ .Parent.Parent.Title }}</a>
+              <span class="breadcrumb-sep" aria-hidden="true">›</span>
+            {{ end }}
+          {{ end }}
+          <a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a>
+          <span class="breadcrumb-sep" aria-hidden="true">›</span>
+        {{ end }}
+      {{ end }}
+      <span aria-current="page">{{ .Title }}</span>
+    </nav>
+
+    {{ with .Params.tags }}
+      <div class="article-tags" role="list" aria-label="תגיות">
+        {{ range . }}
+          <span class="tag" role="listitem">{{ . }}</span>
+        {{ end }}
+      </div>
+    {{ end }}
+
+    <h1 class="article-title">{{ .Title }}</h1>
+
+    {{ with .Description }}
+      <p class="article-description">{{ . }}</p>
+    {{ end }}
+
+    <time class="article-date" datetime="{{ .Date.Format "2006-01-02" }}">
+      {{ .Date.Format "02.01.2006" }}
+    </time>
+
+  </div>
+</div>
+
+<!-- ===== ARTICLE BODY ===== -->
+<div class="article-body">
+  <div class="container">
+    <div class="article-content">
+      {{ .Content }}
+    </div>
+  </div>
+</div>
+
+{{ end }}
