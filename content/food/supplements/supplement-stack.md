@@ -11,7 +11,7 @@ description: "כיצד לשלב 9 תוספי תזונה מובילים ביום 
 בעולם תוספי התזונה, המונח "סטאק" (Stack) מתייחס לשילוב אסטרטגי של מספר תוספים הנלקחים יחד או לאורך היום כדי להשיג מטרה בריאותית מסוימת (כגון בניית שריר, שיפור מטבולי או בריאות כללית). הרעיון הוא שחלק מהתוספים עובדים טוב יותר יחד ("סינרגיה"), בעוד אחרים עלולים להפריע זה לזה.
 במדריך זה נלמד כיצד לשלב את 9 התוספים שסקרנו באתר: **[קראטין](/food/supplements/creatine/), חלבון, [אומגה 3](/food/supplements/omega-3/), [מגנזיום](/food/supplements/magnesium/), [קפאין](/food/supplements/caffeine/), [ברברין](/food/supplements/berberine/), [אבץ](/food/supplements/zinc/), [ויטמין D](/food/supplements/vitamin-d/) ו[כורכום](/food/supplements/turmeric/).**
 
-## חוקי ה[ברזל](/food/supplements/iron/) לשילוב
+## חוקי ה[ברזל](/food/iron/) לשילוב
 
 ### 1. שילובים מנצחים (Synergies)
 *   **[ויטמין D](/food/supplements/vitamin-d/) + [מגנזיום](/food/supplements/magnesium/):** [ויטמין D](/food/supplements/vitamin-d/) זקוק ל[מגנזיום](/food/supplements/magnesium/) כדי להפוך לצורתו הפעילה. נטילתם יחד (או באותו יום) היא חיונית.

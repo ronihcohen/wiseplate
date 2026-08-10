@@ -1,7 +1,19 @@
+{{/* seo_title lets an article target the phrasing people actually search for
+     ("קפיר: יתרונות וחסרונות") without changing the H1 shown on the page. */}}
+{{- $seoTitle := "" -}}
+{{- if .IsHome -}}
+  {{- $seoTitle = printf "%s — תזונה, ציוד וביצועים בספורט" .Site.Title -}}
+{{- else -}}
+  {{- $seoTitle = printf "%s | %s" (.Params.seo_title | default .Title) .Site.Title -}}
+{{- end -}}
+{{- $desc := .Description | default .Site.Params.description | default "ידע מדעי על תזונה, תוספים ובריאות — מידע מאוזן ומבוסס מחקר" -}}
+
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{{ if .IsHome }}{{ .Site.Title }} — תזונה, ציוד וביצועים בספורט{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
-<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description | default "ידע מדעי על תזונה, תוספים ובריאות — מידע מאוזן ומבוסס מחקר" }}{{ end }}">
+<title>{{ $seoTitle }}</title>
+<meta name="description" content="{{ $desc }}">
+<link rel="canonical" href="{{ .Permalink }}">
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
 
 <!-- Favicon — all sizes required by browsers and Google Search -->
 <link rel="icon" type="image/x-icon"       href="{{ "favicon.ico" | relURL }}">
@@ -15,8 +27,8 @@
 
 <!-- Open Graph (used by Google, social sharing) -->
 <meta property="og:type"        content="{{ if .IsHome }}website{{ else }}article{{ end }}">
-<meta property="og:title"       content="{{ if .IsHome }}{{ .Site.Title }} — תזונה, ציוד וביצועים בספורט{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
-<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description | default "ידע מדעי על תזונה, תוספים ובריאות — מידע מאוזן ומבוסס מחקר" }}{{ end }}">
+<meta property="og:title"       content="{{ $seoTitle }}">
+<meta property="og:description" content="{{ $desc }}">
 <meta property="og:url"         content="{{ .Permalink }}">
 <meta property="og:image"       content="{{ "android-chrome-512x512.png" | absURL }}">
 <meta property="og:locale"      content="he_IL">
@@ -27,3 +39,50 @@
 <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&family=Heebo:wght@300;400;500;700&display=swap">
 <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&family=Heebo:wght@300;400;500;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+
+{{/* ===== Structured data =====
+     Built as maps and marshalled once. Emitting raw JSON inside <script> makes
+     Hugo apply JS-context escaping to each jsonify'd value, which double-quotes
+     every string; safeJS on a single marshalled document avoids that. */}}
+{{- $org := dict "@type" "Organization" "name" .Site.Title "url" .Site.BaseURL -}}
+
+{{- if .IsHome -}}
+  {{- $ld := dict
+        "@context"   "https://schema.org"
+        "@type"      "WebSite"
+        "name"       .Site.Title
+        "url"        .Site.BaseURL
+        "inLanguage" "he-IL"
+        "description" $desc -}}
+<script type="application/ld+json">{{ $ld | jsonify | safeJS }}</script>
+{{- else if eq .Kind "page" -}}
+  {{- $ld := dict
+        "@context"         "https://schema.org"
+        "@type"            "Article"
+        "headline"         .Title
+        "description"      $desc
+        "inLanguage"       "he-IL"
+        "url"              .Permalink
+        "mainEntityOfPage" (dict "@type" "WebPage" "@id" .Permalink)
+        "datePublished"    (.Date.Format "2006-01-02T15:04:05Z07:00")
+        "dateModified"     (.Lastmod.Format "2006-01-02T15:04:05Z07:00")
+        "wordCount"        .WordCount
+        "author"           $org
+        "publisher"        $org -}}
+  {{- with .Params.tags }}{{ $ld = merge $ld (dict "keywords" (delimit . ", ")) }}{{ end -}}
+<script type="application/ld+json">{{ $ld | jsonify | safeJS }}</script>
+
+  {{- $chain := slice -}}
+  {{- range .Ancestors.Reverse }}{{ if not .IsHome }}{{ $chain = $chain | append . }}{{ end }}{{ end -}}
+  {{- if $chain -}}
+    {{- $items := slice (dict "@type" "ListItem" "position" 1 "name" "בית" "item" .Site.BaseURL) -}}
+    {{- $pos := 1 -}}
+    {{- range $chain -}}
+      {{- $pos = add $pos 1 -}}
+      {{- $items = $items | append (dict "@type" "ListItem" "position" $pos "name" .Title "item" .Permalink) -}}
+    {{- end -}}
+    {{- $items = $items | append (dict "@type" "ListItem" "position" (add $pos 1) "name" .Title "item" .Permalink) -}}
+    {{- $crumbs := dict "@context" "https://schema.org" "@type" "BreadcrumbList" "itemListElement" $items -}}
+<script type="application/ld+json">{{ $crumbs | jsonify | safeJS }}</script>
+  {{- end -}}
+{{- end -}}
