@@ -14,7 +14,7 @@ description: "סקירה של ג'ינג'ר: שורש ריחני עשיר בגי�
 
 - גינג'רול וגינג'ורון: תרכובות אנטי־דלקתיות ונוגדות חמצון  
 - תמיכה בעיכול: הקלה על בחילות עקב תנועה ובהיריון  
-- [ויטמין C](/food/supplements/vitamin-c/) ו[Manganese](/food/supplements/manganese/) בכמויות קטנות; מינרלים בעקבויות
+- [ויטמין C](/food/supplements/vitamin-c/) ו[מנגן](/food/supplements/manganese/) בכמויות קטנות; מינרלים בכמויות עקבות
 
 ### אזהרות
 

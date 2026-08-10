@@ -47,7 +47,7 @@ description: "ניתוח תזונתי של גרעיני דלעת: אחד המק�
 | [מגנזיום](/food/supplements/magnesium/) | 156 מ"ג | ~37% |
 | [אבץ](/food/supplements/zinc/) | 2.2 מ"ג | ~20% |
 | [ברזל](/food/iron/) | 2.5 מ"ג | ~14% |
-| [פוטסיום](/food/supplements/potassium/) | 261 מ"ג | ~6% |
+| [אשלגן](/food/supplements/potassium/) | 261 מ"ג | ~6% |
 
 ### שימוש קולינרי ומעשי
 
