@@ -12,3 +12,6 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
+
+# Google Search Console exports (local analysis only)
+google/
