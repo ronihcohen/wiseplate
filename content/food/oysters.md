@@ -8,7 +8,7 @@ description: "סקירה תזונתית של צדפות ואויסטרים: מק
 
 ## צדפות (Oysters)
 
-צדפות הן מזון ימי עשיר במינרלים: במיוחד [אבץ](/food/supplements/zinc/) (צינק), וכן [ויטמין B12](/food/supplements/vitamin-b12/), [ברזל](/food/supplements/iron/) ו[זרחן](/food/supplements/phosphorus/). הן מהוות מקור חלבון דל בשומן ועם צפיפות מיקרונוטריינטים גבוהה יחסית ליחידת משקל.
+צדפות הן מזון ימי עשיר במינרלים: במיוחד [אבץ](/food/supplements/zinc/) (צינק), וכן [ויטמין B12](/food/supplements/vitamin-b12/), [ברזל](/food/iron/) ו[זרחן](/food/supplements/phosphorus/). הן מהוות מקור חלבון דל בשומן ועם צפיפות מיקרונוטריינטים גבוהה יחסית ליחידת משקל.
 
 ### יתרונות תזונתיים
 
