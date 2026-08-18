@@ -71,18 +71,73 @@
         "publisher"        $org -}}
   {{- with .Params.tags }}{{ $ld = merge $ld (dict "keywords" (delimit . ", ")) }}{{ end -}}
 <script type="application/ld+json">{{ $ld | jsonify | safeJS }}</script>
-
-  {{- $chain := slice -}}
-  {{- range .Ancestors.Reverse }}{{ if not .IsHome }}{{ $chain = $chain | append . }}{{ end }}{{ end -}}
-  {{- if $chain -}}
-    {{- $items := slice (dict "@type" "ListItem" "position" 1 "name" "בית" "item" .Site.BaseURL) -}}
-    {{- $pos := 1 -}}
-    {{- range $chain -}}
-      {{- $pos = add $pos 1 -}}
-      {{- $items = $items | append (dict "@type" "ListItem" "position" $pos "name" .Title "item" .Permalink) -}}
-    {{- end -}}
-    {{- $items = $items | append (dict "@type" "ListItem" "position" (add $pos 1) "name" .Title "item" .Permalink) -}}
-    {{- $crumbs := dict "@context" "https://schema.org" "@type" "BreadcrumbList" "itemListElement" $items -}}
-<script type="application/ld+json">{{ $crumbs | jsonify | safeJS }}</script>
+{{- else if eq .Kind "section" -}}
+  {{/* Hub pages are collections, not articles. The ItemList names what the
+       section actually holds, which is the only signal a card grid carries. */}}
+  {{- $els := slice -}}
+  {{- range $i, $p := .RegularPages -}}
+    {{- $els = $els | append (dict "@type" "ListItem" "position" (add $i 1) "url" $p.Permalink "name" $p.Title) -}}
   {{- end -}}
+  {{- $ld := dict
+        "@context"         "https://schema.org"
+        "@type"            "CollectionPage"
+        "name"             .Title
+        "description"      $desc
+        "inLanguage"       "he-IL"
+        "url"              .Permalink
+        "isPartOf"         (dict "@type" "WebSite" "name" .Site.Title "url" .Site.BaseURL)
+        "publisher"        $org
+        "mainEntity"       (dict "@type" "ItemList" "numberOfItems" (len $els) "itemListElement" $els) -}}
+<script type="application/ld+json">{{ $ld | jsonify | safeJS }}</script>
+
+{{- end -}}
+
+{{/* Breadcrumbs apply to articles and to hub pages alike, so they sit
+     outside the kind-specific branches above. */}}
+{{- if or (eq .Kind "page") (eq .Kind "section") -}}
+{{- $chain := slice -}}
+{{- range .Ancestors.Reverse }}{{ if not .IsHome }}{{ $chain = $chain | append . }}{{ end }}{{ end -}}
+{{- if $chain -}}
+  {{- $items := slice (dict "@type" "ListItem" "position" 1 "name" "בית" "item" .Site.BaseURL) -}}
+  {{- $pos := 1 -}}
+  {{- range $chain -}}
+    {{- $pos = add $pos 1 -}}
+    {{- $items = $items | append (dict "@type" "ListItem" "position" $pos "name" .Title "item" .Permalink) -}}
+  {{- end -}}
+  {{- $items = $items | append (dict "@type" "ListItem" "position" (add $pos 1) "name" .Title "item" .Permalink) -}}
+  {{- $crumbs := dict "@context" "https://schema.org" "@type" "BreadcrumbList" "itemListElement" $items -}}
+<script type="application/ld+json">{{ $crumbs | jsonify | safeJS }}</script>
+{{- end -}}
+{{- end -}}
+
+{{/* FAQPage: 113 articles carry a "שאלות ותשובות נפוצות" block written in a
+     fixed shape — `**שאלה: …**` on one line, `תשובה: …` on the next. Parsing
+     it here keeps the schema in lockstep with the prose instead of asking
+     every author to repeat the Q&A in front matter. findRE gives whole
+     matches only, so each pair is re-split with replaceRE, then reduced to
+     plain text: schema.org answers take a narrow HTML subset, and the body's
+     relative links would resolve against the wrong base inside JSON-LD. */}}
+{{/* Two shapes are in use: the bold-line form `**שאלה: …**` and the heading
+     form `### שאלה: …`. Both put the answer on the next line after `תשובה:`,
+     so one pattern with an alternating prefix covers them. */}}
+{{- $faq := slice -}}
+{{- range findRE `(?:\*\*|#{2,4}[ \t]*)שאלה:[^\n]+[ \t]*\r?\n[ \t]*תשובה:[^\n]+` .RawContent -}}
+  {{- $q := replaceRE `(?s)^(?:\*\*|#{2,4}[ \t]*)שאלה:[ \t]*(.*?)[ \t]*(?:\*\*)?[ \t]*\r?\n.*$` "$1" . -}}
+  {{- $a := replaceRE `(?s)^.*?\r?\n[ \t]*תשובה:[ \t]*(.*)$` "$1" . -}}
+  {{- $plain := slice $q $a -}}
+  {{- $out := slice -}}
+  {{- range $plain -}}
+    {{- $t := replaceRE `\[([^\]]+)\]\([^)]*\)` "$1" . -}}
+    {{- $t = replaceRE `\*\*([^*]+)\*\*` "$1" $t -}}
+    {{- $t = replaceRE "`([^`]+)`" "$1" $t -}}
+    {{- $out = $out | append (trim $t " ") -}}
+  {{- end -}}
+  {{- $faq = $faq | append (dict
+        "@type" "Question"
+        "name"  (index $out 0)
+        "acceptedAnswer" (dict "@type" "Answer" "text" (index $out 1))) -}}
+{{- end -}}
+{{- if ge (len $faq) 2 -}}
+  {{- $faqLd := dict "@context" "https://schema.org" "@type" "FAQPage" "inLanguage" "he-IL" "mainEntity" $faq -}}
+<script type="application/ld+json">{{ $faqLd | jsonify | safeJS }}</script>
 {{- end -}}
