@@ -39,7 +39,15 @@
 <div class="article-body">
   <div class="container">
     <div class="article-content">
-      {{ .Content }}
+      {{/* Wrap the FAQ section in <section class="faq"> so it can be styled as a
+           unit. Markdown gives no hook for this, so the region is matched from
+           its heading up to the next heading of the same or shallower level.
+           Two passes because the FAQ heading sits at h3 in most articles but at
+           h2 in those whose questions are h3 — the boundary depends on it. */}}
+      {{- $c := .Content -}}
+      {{- $c = replaceRE `(?s)(<h2[^>]*id=["']?שאלות-ותשובות[^>]*>.*?)(<h[12][\s>]|$)` `<section class="faq">${1}</section>${2}` $c -}}
+      {{- $c = replaceRE `(?s)(<h3[^>]*id=["']?שאלות-ותשובות[^>]*>.*?)(<h[123][\s>]|$)` `<section class="faq">${1}</section>${2}` $c -}}
+      {{ $c | safeHTML }}
     </div>
   </div>
 </div>

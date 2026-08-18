@@ -733,6 +733,141 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* ============================================================
+   FAQ — שאלות ותשובות נפוצות
+   Wrapped in <section class="faq"> by layouts/_default/single.html.
+   Three markup shapes exist across the content, and a Q&A may span a
+   heading, a paragraph and a list, so items are separated by hairline
+   rules rather than boxed — a card would need a per-item wrapper that
+   the markdown does not provide.
+     A. one <p> per Q&A, question in a leading <strong>   (94 articles)
+     B. h2 section title, h3 question + answer            (10 articles)
+     C. h3 section title, h4 question + answer            (10 articles)
+   ============================================================ */
+
+.article-content .faq {
+  margin: var(--s12) 0 var(--s8);
+  padding: var(--s6) var(--s6) var(--s5);
+  background: var(--color-bg-alt);
+  border: 1px solid var(--color-border);
+  border-radius: var(--r-xl);
+}
+
+/* Section title — the first child, whatever its heading level */
+.article-content .faq > :first-child {
+  display: flex;
+  align-items: center;
+  gap: var(--s3);
+  margin: 0 0 var(--s5);
+  padding: 0 0 var(--s4);
+  border-bottom: 2px solid var(--color-border);
+  font-size: var(--text-2xl);
+  color: var(--color-heading);
+}
+.article-content .faq > :first-child::before {
+  content: "?";
+  flex: 0 0 auto;
+  width: 1.75rem;
+  height: 1.75rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-heading);
+  font-size: var(--text-base);
+  font-weight: 700;
+  line-height: 1;
+  color: #fff;
+  background: var(--color-primary);
+  border-radius: 50%;
+  box-shadow: var(--shadow-sm);
+}
+
+/* --- Item separation ---------------------------------------------------
+   A new item begins at a question: a <p> in shape A, a heading in B/C. */
+.article-content .faq > p,
+.article-content .faq > h3:not(:first-child),
+.article-content .faq > h4:not(:first-child) {
+  margin: var(--s5) 0 0;
+  padding: var(--s5) 0 0;
+  border-top: 1px solid var(--color-border);
+}
+
+/* The first item sits directly under the title — no rule above it */
+.article-content .faq > :first-child + * {
+  margin-top: 0;
+  padding-top: 0;
+  border-top: none;
+}
+
+/* An answer following a question heading continues the same item */
+.article-content .faq > h3:not(:first-child) + p,
+.article-content .faq > h4:not(:first-child) + p {
+  margin-top: var(--s2);
+  padding-top: 0;
+  border-top: none;
+}
+
+/* --- Questions --------------------------------------------------------- */
+/* Shape A: promote the leading <strong> to its own question line */
+.article-content .faq > p > strong:first-child {
+  display: block;
+  margin-bottom: var(--s2);
+  font-family: var(--font-heading);
+  font-size: var(--text-lg);
+  font-weight: 600;
+  line-height: 1.5;
+  color: var(--color-primary-dark);
+}
+
+/* Shapes B & C */
+.article-content .faq > h3:not(:first-child),
+.article-content .faq > h4:not(:first-child) {
+  font-family: var(--font-heading);
+  font-size: var(--text-lg);
+  font-weight: 600;
+  line-height: 1.5;
+  color: var(--color-primary-dark);
+}
+
+/* :first-child counts elements only, so a <strong> that merely opens the
+   first tag of an answer would otherwise be mistaken for a question. */
+.article-content .faq > h3:not(:first-child) + p > strong:first-child,
+.article-content .faq > h4:not(:first-child) + p > strong:first-child {
+  display: inline;
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: 700;
+  color: var(--color-heading);
+}
+
+/* --- Answers ----------------------------------------------------------- */
+.article-content .faq > p {
+  font-size: var(--text-base);
+  line-height: 1.8;
+}
+.article-content .faq > ul,
+.article-content .faq > ol {
+  margin: var(--s2) 0 0;
+  font-size: var(--text-base);
+  line-height: 1.8;
+}
+.article-content .faq > ul li,
+.article-content .faq > ol li { margin-bottom: var(--s1); }
+
+.article-content .faq hr { display: none; }
+
+@media (max-width: 640px) {
+  .article-content .faq {
+    padding: var(--s4) var(--s4) var(--s3);
+    border-radius: var(--r-lg);
+  }
+  .article-content .faq > :first-child { font-size: var(--text-xl); }
+  .article-content .faq > p > strong:first-child,
+  .article-content .faq > h3:not(:first-child),
+  .article-content .faq > h4:not(:first-child) { font-size: var(--text-base); }
+}
+
+/* ============================================================
    FOOTER
    ============================================================ */
 
