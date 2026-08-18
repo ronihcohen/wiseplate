@@ -27,6 +27,14 @@
 <div class="list-content">
   <div class="container">
 
+    {{/* Section intro. Hub pages carried only front matter until now, which left
+         them as bare card grids with nothing for a search engine to rank on. */}}
+    {{ with .Content }}
+      {{- $c := . -}}
+      {{- $c = replaceRE `(?s)(<h3[^>]*id=["']?שאלות-ותשובות[^>]*>.*?)(<h[123][\s>]|$)` `<section class="faq">${1}</section>${2}` $c -}}
+      <div class="article-content section-intro">{{ $c | safeHTML }}</div>
+    {{ end }}
+
     {{/* Sub-sections (e.g. supplements inside food) */}}
     {{ if .Sections }}
       <div class="subsections">
