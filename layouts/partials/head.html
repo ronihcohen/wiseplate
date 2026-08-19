@@ -13,7 +13,15 @@
 <title>{{ $seoTitle }}</title>
 <meta name="description" content="{{ $desc }}">
 <link rel="canonical" href="{{ .Permalink }}">
+{{/* Thin tag pages are crawlable but not worth indexing: they duplicate the
+     site description and list one or two articles that are indexed already.
+     "follow" is kept so link equity still reaches those articles. */}}
+{{- $thinTerm := and (eq .Kind "term") (lt (len .Pages) (site.Params.min_term_pages | default 5)) -}}
+{{- if $thinTerm }}
+<meta name="robots" content="noindex, follow">
+{{- else }}
 <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
+{{- end }}
 
 <!-- Favicon — all sizes required by browsers and Google Search -->
 <link rel="icon" type="image/x-icon"       href="{{ "favicon.ico" | relURL }}">

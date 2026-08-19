@@ -9,3 +9,14 @@ canonifyURLs = true
   description_en = "Nutritional pros and cons of various foods - Scientifically-based information for a healthy diet."
   keywords = ["תזונה", "בריאות", "ערכים תזונתיים", "יתרונות בריאותיים", "מזון בריא", "דיאטה", "פירות", "ירקות", "חלבון", "ויטמינים"]
   keywords_en = ["Nutrition", "Health", "Nutritional Values", "Health Benefits", "Healthy Food", "Diet", "Fruits", "Vegetables", "Protein", "Vitamins"]
+
+  # A tag page listing fewer than this many articles carries no information the
+  # articles themselves don't. 120 of 206 tag pages listed a single article, all
+  # sharing one boilerplate description. Those are noindexed and kept out of the
+  # sitemap; see layouts/sitemap.xml and layouts/partials/head.html.
+  min_term_pages = 5
+
+# Only `tags` is used in front matter. Left at Hugo's defaults, `categories`
+# also produced an indexable, permanently empty /categories/ page.
+[taxonomies]
+  tag = "tags"
