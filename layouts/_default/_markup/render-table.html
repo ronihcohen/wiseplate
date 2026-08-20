@@ -1,0 +1,43 @@
+{{/* Carries each column's header onto its body cells as data-label, so narrow
+     screens can stack a wide table into one card per row and still say what
+     every number means. Markdown alone gives no way to attach that label.
+
+     plainify strips the markup from header cells — many are links such as
+     [סידן](/food/supplements/calcium/) — because the value lands in an
+     attribute, where a nested <a> would not survive.
+
+     data-cols drives the breakpoint: 2- and 3-column tables stay tabular on
+     mobile because they still fit, and only 4+ collapse into cards. */}}
+{{- $labels := slice -}}
+{{- with .THead -}}
+  {{- range (index . 0) -}}
+    {{- $labels = $labels | append (trim (.Text | plainify) " ") -}}
+  {{- end -}}
+{{- end -}}
+<div class="table-wrap" data-cols="{{ len $labels }}">
+  <table>
+    {{- with .THead }}
+    <thead>
+      {{- range . }}
+      <tr>
+        {{- range . }}
+        <th{{ with .Alignment }} style="text-align: {{ . }}"{{ end }}>{{ .Text }}</th>
+        {{- end }}
+      </tr>
+      {{- end }}
+    </thead>
+    {{- end }}
+    <tbody>
+      {{- range .TBody }}
+      <tr>
+        {{- range $i, $cell := . }}
+        {{- $label := "" -}}
+        {{- if lt $i (len $labels) }}{{ $label = index $labels $i }}{{ end -}}
+        <td{{ with $cell.Alignment }} style="text-align: {{ . }}"{{ end }}
+           {{- with $label }} data-label="{{ . }}"{{ end }}>{{ $cell.Text }}</td>
+        {{- end }}
+      </tr>
+      {{- end }}
+    </tbody>
+  </table>
+</div>
