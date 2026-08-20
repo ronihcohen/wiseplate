@@ -722,6 +722,101 @@ h1, h2, h3, h4, h5, h6 {
 .article-content tr:last-child td { border-bottom: none; }
 .article-content tr:hover td { background: var(--color-bg); }
 
+/* The wrapper carries data-cols from the table render hook. It is not a
+   scroll container: the mobile rules below reflow wide tables instead, so
+   nothing here should ever need horizontal panning. */
+.article-content .table-wrap { margin: var(--s6) 0; }
+.article-content .table-wrap table { margin: 0; }
+
+/* ---- Tables on phones -------------------------------------------------
+   Split by table shape, which column count only partly predicts.
+
+   Up to 4 columns stay a real table: they fit at 360px once padding and type
+   come down a step, and these are mostly nutrition tables — one row per
+   nutrient, up to 18 of them, with short values. Stacking those would repeat
+   a long column header ("ל-28 גרם (חופן, כ-4 כפות)") on every line and turn
+   one screenful into a very long scroll.
+
+   5-6 columns cannot fit at any readable size. Those are all comparison
+   tables — one row per food, 8 rows at most — so each row becomes a card
+   headed by the food's name, with every value paired to the column header
+   the render hook stored in data-label. Reading turns vertical, which is the
+   direction a phone already scrolls.
+
+   Written flat rather than nested: a browser without CSS nesting support
+   drops the whole block, and the fallback would be the overflowing table
+   this exists to prevent. :is() alone is supported far more widely. */
+@media (max-width: 640px) {
+  .article-content table { font-size: var(--text-xs); }
+  .article-content th,
+  .article-content td { padding: var(--s2) var(--s3); }
+
+  .article-content .table-wrap:is([data-cols="5"],[data-cols="6"],[data-cols="7"]) table {
+    display: block;
+    background: none;
+    box-shadow: none;
+    border-radius: 0;
+    overflow: visible;
+    font-size: var(--text-sm);
+  }
+
+  /* Not dropped from the accessibility tree — every header's text is
+     reproduced on its own cells through data-label. */
+  .article-content .table-wrap:is([data-cols="5"],[data-cols="6"],[data-cols="7"]) thead { display: none; }
+  .article-content .table-wrap:is([data-cols="5"],[data-cols="6"],[data-cols="7"]) tbody { display: block; }
+
+  .article-content .table-wrap:is([data-cols="5"],[data-cols="6"],[data-cols="7"]) tr {
+    display: block;
+    background: var(--color-card);
+    border: 1px solid var(--color-border-card);
+    border-radius: var(--r-lg);
+    box-shadow: var(--shadow-sm);
+    padding: var(--s2) var(--s4) var(--s3);
+    margin-bottom: var(--s4);
+  }
+  .article-content .table-wrap:is([data-cols="5"],[data-cols="6"],[data-cols="7"]) tr:last-child { margin-bottom: 0; }
+  .article-content .table-wrap:is([data-cols="5"],[data-cols="6"],[data-cols="7"]) tr:hover td { background: none; }
+
+  .article-content .table-wrap:is([data-cols="5"],[data-cols="6"],[data-cols="7"]) td {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: var(--s4);
+    padding: var(--s2) 0;
+    border-bottom: 1px solid var(--color-border-card);
+    /* Per-cell alignment from the hook is meaningless once stacked. */
+    text-align: start !important;
+  }
+  .article-content .table-wrap:is([data-cols="5"],[data-cols="6"],[data-cols="7"]) td:last-child { border-bottom: none; }
+
+  .article-content .table-wrap:is([data-cols="5"],[data-cols="6"],[data-cols="7"]) td::before {
+    content: attr(data-label);
+    flex: 0 0 auto;
+    max-width: 55%;
+    color: var(--color-text-muted);
+    font-size: var(--text-xs);
+    font-weight: 600;
+  }
+
+  /* The first cell names the row, so it heads the card: no label, full
+     width. Where the source leaves that header blank the cell still holds
+     the row's name, which is exactly what belongs in the heading. */
+  .article-content .table-wrap:is([data-cols="5"],[data-cols="6"],[data-cols="7"]) td:first-child {
+    display: block;
+    font-family: var(--font-heading);
+    font-weight: 700;
+    font-size: var(--text-base);
+    color: var(--color-heading);
+    padding: var(--s1) 0 var(--s2);
+    border-bottom: 2px solid var(--color-border);
+    margin-bottom: var(--s1);
+  }
+  .article-content .table-wrap:is([data-cols="5"],[data-cols="6"],[data-cols="7"]) td:first-child::before { content: none; }
+  /* A genuinely empty leading cell would render as a headed rule with
+     nothing above it. */
+  .article-content .table-wrap:is([data-cols="5"],[data-cols="6"],[data-cols="7"]) td:first-child:empty { display: none; }
+}
+
 /* Blockquote */
 .article-content blockquote {
   border-inline-start: 4px solid var(--color-primary);
