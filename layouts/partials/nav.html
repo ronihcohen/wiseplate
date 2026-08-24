@@ -22,6 +22,12 @@
           </a>
         </li>
         <li>
+          <a href="{{ "/recipes/" | relURL }}"
+             {{ if hasPrefix .RelPermalink "/recipes/" }}class="active"{{ end }}>
+            מתכונים
+          </a>
+        </li>
+        <li>
           <a href="{{ "/run/" | relURL }}"
              {{ if hasPrefix .RelPermalink "/run/" }}class="active"{{ end }}>
             ריצה וספורט
