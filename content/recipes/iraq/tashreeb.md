@@ -6,6 +6,14 @@ lastmod: 2026-08-24T02:35:00+03:00
 tags: ["מתכונים", "מטבח עיראקי", "עיראק", "מרקים", "קטניות", "בשר"]
 featured_image: ""
 description: "מתכון לתשריב (Tashreeb) — נזיד שעועית לבנה וטלה שנמזג על לחם קרוע, מנת יום חורף עיראקית, כ-620 קלוריות למנה."
+recipe_cuisine: "עיראקי"
+recipe_category: "מנה עיקרית"
+prep_time: "PT20M"
+cook_time: "PT2H"
+total_time: "PT2H20M"
+recipe_yield: "6 מנות"
+recipe_yield_count: 6
+calories: 620
 ---
 
 ## תשריב (Tashreeb)

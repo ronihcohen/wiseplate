@@ -6,6 +6,14 @@ lastmod: 2026-08-24T03:40:00+03:00
 tags: ["מתכונים", "מטבח מרוקאי", "מרוקו", "בשר", "ירקות", "נזידים"]
 featured_image: ""
 description: "מתכון לקוסקוס מרוקאי עם שבעה ירקות ובשר — כולל שיטת שלושת האידויים המסורתית והערכה קלורית: כ-650 קלוריות למנה."
+recipe_cuisine: "מרוקאי"
+recipe_category: "מנה עיקרית"
+prep_time: "PT40M"
+cook_time: "PT2H30M"
+total_time: "PT3H10M"
+recipe_yield: "8 מנות"
+recipe_yield_count: 8
+calories: 650
 ---
 
 ## קוסקוס עם שבעה ירקות (Couscous bidaoui)

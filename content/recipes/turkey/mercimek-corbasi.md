@@ -6,6 +6,14 @@ lastmod: 2026-08-23T09:10:00+03:00
 tags: ["מתכונים", "מטבח טורקי", "טורקיה", "מרקים", "קטניות", "צמחוני"]
 featured_image: ""
 description: "מתכון למרק עדשים כתומות טורקי (Mercimek Çorbası) — חמישה מרכיבים, קדירה אחת וכ-290 קלוריות לקערה, כולל חמאת הפלפל האדום שמוזגים מעל."
+recipe_cuisine: "טורקי"
+recipe_category: "מרק"
+prep_time: "PT10M"
+cook_time: "PT35M"
+total_time: "PT45M"
+recipe_yield: "6 מנות"
+recipe_yield_count: 6
+calories: 290
 ---
 
 ## מרק עדשים כתומות טורקי (Mercimek Çorbası)

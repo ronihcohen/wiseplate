@@ -6,6 +6,14 @@ lastmod: 2026-08-23T10:30:00+03:00
 tags: ["מתכונים", "מטבח טורקי", "טורקיה", "קינוחים", "אגוזים", "סוכר"]
 featured_image: ""
 description: "מתכון לבאקלווה טורקית — עלי פילו, פיסטוקים או אגוזי מלך וסירופ סוכר, עם הערכה קלורית מפורטת: כ-205 קלוריות לריבוע של 45 גרם."
+recipe_cuisine: "טורקי"
+recipe_category: "קינוח"
+prep_time: "PT45M"
+cook_time: "PT50M"
+total_time: "PT5H35M"
+recipe_yield: "כ-30 ריבועים"
+recipe_yield_count: 30
+calories: 205
 ---
 
 ## באקלווה (Baklava)

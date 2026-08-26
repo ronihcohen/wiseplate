@@ -6,6 +6,14 @@ lastmod: 2026-08-23T09:50:00+03:00
 tags: ["מתכונים", "מטבח טורקי", "טורקיה", "מאפים", "בשר"]
 featured_image: ""
 description: "מתכון ללחמג'ון טורקי — בצק דק כנייר עם בשר טחון, עגבניות ופלפלים, כ-280 קלוריות ליחידה, כולל הסוד לאפייה ביתית בלי טאבון."
+recipe_cuisine: "טורקי"
+recipe_category: "מנה עיקרית"
+prep_time: "PT1H30M"
+cook_time: "PT6M"
+total_time: "PT1H36M"
+recipe_yield: "12 יחידות"
+recipe_yield_count: 12
+calories: 280
 ---
 
 ## לחמג'ון (Lahmacun)

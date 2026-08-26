@@ -6,6 +6,14 @@ lastmod: 2026-08-24T01:00:00+03:00
 tags: ["מתכונים", "מטבח פרסי", "איראן", "ביצים", "צמחוני", "ירקות"]
 featured_image: ""
 description: "מתכון לקוקו סבזי (Kuku Sabzi) — חביתת עשבים פרסית ירוקה עם אגוזי מלך וברבריס, מנת הנוברוז, כ-240 קלוריות למנה."
+recipe_cuisine: "פרסי"
+recipe_category: "מנה עיקרית"
+prep_time: "PT25M"
+cook_time: "PT35M"
+total_time: "PT1H"
+recipe_yield: "6 מנות"
+recipe_yield_count: 6
+calories: 240
 ---
 
 ## קוקו סבזי (Kuku Sabzi)

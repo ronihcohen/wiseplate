@@ -6,6 +6,14 @@ lastmod: 2026-08-24T02:15:00+03:00
 tags: ["מתכונים", "מטבח עיראקי", "עיראק", "ירקות", "אורז", "בשר"]
 featured_image: ""
 description: "מתכון לדולמה עיראקית — שישה סוגי ירקות ממולאים באורז ובשר ברוטב תמר הינדי, סיר אחד שמתהפך למגש, כ-420 קלוריות למנה."
+recipe_cuisine: "עיראקי"
+recipe_category: "מנה עיקרית"
+prep_time: "PT1H"
+cook_time: "PT1H30M"
+total_time: "PT2H30M"
+recipe_yield: "8 מנות"
+recipe_yield_count: 8
+calories: 420
 ---
 
 ## דולמה עיראקית (Dolma)

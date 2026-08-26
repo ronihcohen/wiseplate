@@ -6,6 +6,14 @@ lastmod: 2026-08-23T10:00:00+03:00
 tags: ["מתכונים", "מטבח טורקי", "טורקיה", "מאפים", "גבינות"]
 featured_image: ""
 description: "מתכון לפידה טורקית (Pide) — מאפה בצורת סירה במילוי בשר טחון או גבינה וביצה, עם הערכה קלורית של כ-470 קלוריות לחצי פידה."
+recipe_cuisine: "טורקי"
+recipe_category: "מנה עיקרית"
+prep_time: "PT1H30M"
+cook_time: "PT15M"
+total_time: "PT1H45M"
+recipe_yield: "4 פידות (8 מנות)"
+recipe_yield_count: 8
+calories: 470
 ---
 
 ## פידה (Pide)

@@ -6,6 +6,14 @@ lastmod: 2026-08-24T00:50:00+03:00
 tags: ["מתכונים", "מטבח פרסי", "איראן", "מרקים", "קטניות", "צמחוני"]
 featured_image: ""
 description: "מתכון לאש רשתה (Ash Reshteh) — מרק העשבים, הקטניות והאטריות של איראן, מנת הנוברוז המסורתית, כ-420 קלוריות לקערה."
+recipe_cuisine: "פרסי"
+recipe_category: "מרק"
+prep_time: "PT30M"
+cook_time: "PT2H"
+total_time: "PT2H30M"
+recipe_yield: "8 מנות"
+recipe_yield_count: 8
+calories: 420
 ---
 
 ## אש רשתה (Ash Reshteh)
