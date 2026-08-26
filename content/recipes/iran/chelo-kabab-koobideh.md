@@ -6,6 +6,14 @@ lastmod: 2026-08-24T00:10:00+03:00
 tags: ["מתכונים", "מטבח פרסי", "איראן", "בשר", "על האש", "אורז"]
 featured_image: ""
 description: "מתכון לצ'לו כבאב כובידה (Chelo Kabab Koobideh) — המנה הלאומית של איראן: קבב טחון על שיפוד רחב ואורז זעפרן, כ-550 קלוריות למנה."
+recipe_cuisine: "פרסי"
+recipe_category: "מנה עיקרית"
+prep_time: "PT1H30M"
+cook_time: "PT58M"
+total_time: "PT2H30M"
+recipe_yield: "4 מנות"
+recipe_yield_count: 4
+calories: 550
 ---
 
 ## צ'לו כבאב כובידה (Chelo Kabab Koobideh)

@@ -6,6 +6,14 @@ lastmod: 2026-08-23T10:20:00+03:00
 tags: ["מתכונים", "מטבח טורקי", "טורקיה", "בשר", "על האש"]
 featured_image: ""
 description: "מתכון לקבב אדנה (Adana Kebabı) — טלה קצוץ בסכין עם שומן כבש ופלפל איסות, המתכון המקורי מהעיר אדנה, כ-450 קלוריות לשיפוד."
+recipe_cuisine: "טורקי"
+recipe_category: "מנה עיקרית"
+prep_time: "PT1H30M"
+cook_time: "PT8M"
+total_time: "PT1H38M"
+recipe_yield: "6 שיפודים"
+recipe_yield_count: 6
+calories: 450
 ---
 
 ## קבב אדנה (Adana Kebabı)

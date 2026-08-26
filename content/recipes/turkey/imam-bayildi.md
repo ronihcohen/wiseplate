@@ -6,6 +6,14 @@ lastmod: 2026-08-23T09:40:00+03:00
 tags: ["מתכונים", "מטבח טורקי", "טורקיה", "ירקות", "טבעוני", "צמחוני"]
 featured_image: ""
 description: "מתכון לאימאם ביילדי (İmam Bayıldı) — חצילים ממולאים בבצל, שום ועגבניות בשמן זית, מנה טבעונית קלאסית, כ-300 קלוריות לחצי חציל."
+recipe_cuisine: "טורקי"
+recipe_category: "מנה ראשונה"
+prep_time: "PT25M"
+cook_time: "PT45M"
+total_time: "PT1H10M"
+recipe_yield: "4 מנות"
+recipe_yield_count: 4
+calories: 300
 ---
 
 ## אימאם ביילדי (İmam Bayıldı)

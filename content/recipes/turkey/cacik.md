@@ -6,6 +6,14 @@ lastmod: 2026-08-23T09:30:00+03:00
 tags: ["מתכונים", "מטבח טורקי", "טורקיה", "מוצרי חלב", "צמחוני", "סלטים"]
 featured_image: ""
 description: "מתכון לג'אג'יק (Cacık) — יוגורט, מלפפון, שום ונענע — מנת הפתיחה הטורקית הפשוטה ביותר, כ-120 קלוריות לקערית ועשיר בחלבון ובסידן."
+recipe_cuisine: "טורקי"
+recipe_category: "מנה ראשונה"
+prep_time: "PT15M"
+cook_time: "PT0M"
+total_time: "PT45M"
+recipe_yield: "4 קעריות"
+recipe_yield_count: 4
+calories: 120
 ---
 
 ## ג'אג'יק (Cacık)

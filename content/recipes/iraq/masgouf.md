@@ -6,6 +6,14 @@ lastmod: 2026-08-24T02:00:00+03:00
 tags: ["מתכונים", "מטבח עיראקי", "עיראק", "דגים", "על האש"]
 featured_image: ""
 description: "מתכון למסגוף (Masgouf) — הדג הצלוי של בגדד, המנה הלאומית של עיראק, בטכניקת הצלייה האנכית מול אש פתוחה, כ-470 קלוריות למנה."
+recipe_cuisine: "עיראקי"
+recipe_category: "מנה עיקרית"
+prep_time: "PT20M"
+cook_time: "PT2H"
+total_time: "PT2H20M"
+recipe_yield: "4 מנות"
+recipe_yield_count: 4
+calories: 470
 ---
 
 ## מסגוף (Masgouf)

@@ -6,6 +6,14 @@ lastmod: 2026-08-24T02:20:00+03:00
 tags: ["מתכונים", "מטבח עיראקי", "עיראק", "מרקים", "בשר", "ירקות"]
 featured_image: ""
 description: "מתכון לקובה חמוסטה — כדורי סולת ממולאים בבשר במרק ירוק חמוץ של סלרי, מנגולד ולימון, כ-490 קלוריות למנה."
+recipe_cuisine: "עיראקי"
+recipe_category: "מרק"
+prep_time: "PT1H"
+cook_time: "PT40M"
+total_time: "PT1H40M"
+recipe_yield: "6 מנות"
+recipe_yield_count: 6
+calories: 490
 ---
 
 ## קובה חמוסטה (Kubba Hamusta)

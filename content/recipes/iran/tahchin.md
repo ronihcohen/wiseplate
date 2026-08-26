@@ -6,6 +6,14 @@ lastmod: 2026-08-24T00:40:00+03:00
 tags: ["מתכונים", "מטבח פרסי", "איראן", "אורז", "עוף", "מוצרי חלב"]
 featured_image: ""
 description: "מתכון לתהצ'ין (Tahchin) — עוגת אורז אפויה עם יוגורט, זעפרן וחלמונים, עם קרום זהוב ופריך, כ-550 קלוריות לפרוסה."
+recipe_cuisine: "פרסי"
+recipe_category: "מנה עיקרית"
+prep_time: "PT40M"
+cook_time: "PT1H30M"
+total_time: "PT2H10M"
+recipe_yield: "8 מנות"
+recipe_yield_count: 8
+calories: 550
 ---
 
 ## תהצ'ין (Tahchin)

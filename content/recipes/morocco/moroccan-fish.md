@@ -6,6 +6,14 @@ lastmod: 2026-08-24T04:10:00+03:00
 tags: ["מתכונים", "מטבח מרוקאי", "מרוקו", "דגים"]
 featured_image: ""
 description: "מתכון לדג מרוקאי — פילה דג לבן ברוטב פלפלים אדומים, שום וכוסברה, מנת שבת קלאסית, כ-390 קלוריות למנה."
+recipe_cuisine: "מרוקאי"
+recipe_category: "מנה עיקרית"
+prep_time: "PT20M"
+cook_time: "PT30M"
+total_time: "PT50M"
+recipe_yield: "4 מנות"
+recipe_yield_count: 4
+calories: 390
 ---
 
 ## דג מרוקאי (*الحوت بالشرمولة*)

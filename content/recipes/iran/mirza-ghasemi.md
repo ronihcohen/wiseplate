@@ -6,6 +6,14 @@ lastmod: 2026-08-24T01:10:00+03:00
 tags: ["מתכונים", "מטבח פרסי", "איראן", "ירקות", "ביצים", "צמחוני"]
 featured_image: ""
 description: "מתכון למירזא קאסמי (Mirza Ghasemi) — חציל מעושן עם שום, עגבניות וביצים ממחוז גילאן, כ-245 קלוריות למנה."
+recipe_cuisine: "פרסי"
+recipe_category: "מנה ראשונה"
+prep_time: "PT20M"
+cook_time: "PT45M"
+total_time: "PT1H5M"
+recipe_yield: "4 מנות"
+recipe_yield_count: 4
+calories: 245
 ---
 
 ## מירזא קאסמי (Mirza Ghasemi)

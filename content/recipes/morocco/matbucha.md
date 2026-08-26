@@ -6,6 +6,14 @@ lastmod: 2026-08-24T03:10:00+03:00
 tags: ["מתכונים", "מטבח מרוקאי", "מרוקו", "סלטים", "ירקות", "טבעוני"]
 featured_image: ""
 description: "מתכון למטבוחה מרוקאית — עגבניות ופלפלים אדומים שמתבשלים שעה בשמן זית, סלט מבושל טבעוני, כ-130 קלוריות למנה."
+recipe_cuisine: "מרוקאי"
+recipe_category: "מנה ראשונה"
+prep_time: "PT20M"
+cook_time: "PT1H15M"
+total_time: "PT1H35M"
+recipe_yield: "8 מנות"
+recipe_yield_count: 8
+calories: 130
 ---
 
 ## מטבוחה (Matbucha / *مطبوخة*)

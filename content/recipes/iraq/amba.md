@@ -6,6 +6,14 @@ lastmod: 2026-08-24T02:05:00+03:00
 tags: ["מתכונים", "מטבח עיראקי", "עיראק", "אוכל מותסס", "רטבים", "טבעוני"]
 featured_image: ""
 description: "מתכון לעמבה עיראקית ביתית — מנגו כבוש בכורכום, חילבה וחומץ, הרוטב שהגיע מהודו דרך בגדד, כ-30 קלוריות לשתי כפות."
+recipe_cuisine: "עיראקי"
+recipe_category: "רוטב"
+prep_time: "PT30M"
+cook_time: "PT0M"
+total_time: "P7D"
+recipe_yield: "כ-1 ליטר (כ-30 מנות)"
+recipe_yield_count: 30
+calories: 30
 ---
 
 ## עמבה (Amba)

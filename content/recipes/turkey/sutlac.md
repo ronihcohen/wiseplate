@@ -6,6 +6,14 @@ lastmod: 2026-08-23T10:40:00+03:00
 tags: ["מתכונים", "מטבח טורקי", "טורקיה", "קינוחים", "מוצרי חלב", "צמחוני"]
 featured_image: ""
 description: "מתכון לסוטלאץ' (Sütlaç) — אורז בחלב טורקי אפוי עם קרום שרוף מלמעלה, כ-210 קלוריות לכוסית, הקינוח היומיומי של המטבח הטורקי."
+recipe_cuisine: "טורקי"
+recipe_category: "קינוח"
+prep_time: "PT15M"
+cook_time: "PT1H"
+total_time: "PT4H"
+recipe_yield: "8 כוסיות"
+recipe_yield_count: 8
+calories: 210
 ---
 
 ## סוטלאץ' (Sütlaç)

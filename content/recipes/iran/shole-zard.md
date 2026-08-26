@@ -6,6 +6,14 @@ lastmod: 2026-08-24T01:40:00+03:00
 tags: ["מתכונים", "מטבח פרסי", "איראן", "קינוחים", "אורז", "צמחוני"]
 featured_image: ""
 description: "מתכון לשולה זרד (Sholeh Zard) — פודינג אורז זעפרן פרסי עם מי ורדים והל, קינוח טבעוני מסורתי, כ-290 קלוריות למנה."
+recipe_cuisine: "פרסי"
+recipe_category: "קינוח"
+prep_time: "PT15M"
+cook_time: "PT1H30M"
+total_time: "PT4H45M"
+recipe_yield: "8 מנות"
+recipe_yield_count: 8
+calories: 290
 ---
 
 ## שולה זרד (Sholeh Zard)

@@ -6,6 +6,14 @@ lastmod: 2026-08-24T00:20:00+03:00
 tags: ["מתכונים", "מטבח פרסי", "איראן", "בשר", "קטניות", "נזידים"]
 featured_image: ""
 description: "מתכון לקורמה סבזי (Ghormeh Sabzi) — נזיד העשבים הפרסי עם לימון מיובש ושעועית, המנה הלאומית של איראן, כ-500 קלוריות למנת נזיד."
+recipe_cuisine: "פרסי"
+recipe_category: "מנה עיקרית"
+prep_time: "PT30M"
+cook_time: "PT2H45M"
+total_time: "PT3H15M"
+recipe_yield: "6 מנות"
+recipe_yield_count: 6
+calories: 500
 ---
 
 ## קורמה סבזי (Ghormeh Sabzi)

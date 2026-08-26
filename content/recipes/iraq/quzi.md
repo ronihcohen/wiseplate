@@ -6,6 +6,14 @@ lastmod: 2026-08-24T02:30:00+03:00
 tags: ["מתכונים", "מטבח עיראקי", "עיראק", "בשר", "אורז", "אירוח"]
 featured_image: ""
 description: "מתכון לקוזי (Quzi) — טלה שמתבשל שעות על מצע אורז עם שקדים, צימוקים ובהראט, מנת האירוח העיראקית, כ-900 קלוריות למנה."
+recipe_cuisine: "עיראקי"
+recipe_category: "מנה עיקרית"
+prep_time: "PT30M"
+cook_time: "PT3H45M"
+total_time: "PT4H15M"
+recipe_yield: "6 מנות"
+recipe_yield_count: 6
+calories: 900
 ---
 
 ## קוזי (Quzi)

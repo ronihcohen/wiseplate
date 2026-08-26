@@ -6,6 +6,14 @@ lastmod: 2026-08-23T10:10:00+03:00
 tags: ["מתכונים", "מטבח טורקי", "טורקיה", "בשר", "מוצרי חלב"]
 featured_image: ""
 description: "מתכון למנתי טורקי (Mantı) — כיסוני בשר זעירים ברוטב יוגורט־שום וחמאת פפריקה, המנה הטורקית העתיקה ביותר, כ-610 קלוריות למנה."
+recipe_cuisine: "טורקי"
+recipe_category: "מנה עיקרית"
+prep_time: "PT1H15M"
+cook_time: "PT12M"
+total_time: "PT1H30M"
+recipe_yield: "4 מנות"
+recipe_yield_count: 4
+calories: 610
 ---
 
 ## מנתי (Mantı)

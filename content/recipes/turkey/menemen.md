@@ -6,6 +6,14 @@ lastmod: 2026-08-23T09:20:00+03:00
 tags: ["מתכונים", "מטבח טורקי", "טורקיה", "ארוחת בוקר", "ביצים", "צמחוני"]
 featured_image: ""
 description: "מתכון למנמן (Menemen) — ביצים טורקיות בעגבניות ופלפל ירוק, המנה שמופרדת מהשקשוקה בפרט אחד, עם הערכה קלורית של כ-320 קלוריות למנה אישית."
+recipe_cuisine: "טורקי"
+recipe_category: "ארוחת בוקר"
+prep_time: "PT10M"
+cook_time: "PT15M"
+total_time: "PT25M"
+recipe_yield: "2 מנות"
+recipe_yield_count: 2
+calories: 320
 ---
 
 ## מנמן (Menemen)

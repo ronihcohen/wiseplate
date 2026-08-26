@@ -6,6 +6,14 @@ lastmod: 2026-08-24T02:25:00+03:00
 tags: ["מתכונים", "מטבח עיראקי", "עיראק", "ירקות", "בשר", "נזידים"]
 featured_image: ""
 description: "מתכון לבמיה עיראקית — נזיד במיה, טלה ועגבניות בחומציות לימון ותמר הינדי, כולל הפתרון לריריות, כ-410 קלוריות למנת נזיד."
+recipe_cuisine: "עיראקי"
+recipe_category: "מנה עיקרית"
+prep_time: "PT20M"
+cook_time: "PT1H30M"
+total_time: "PT1H50M"
+recipe_yield: "6 מנות"
+recipe_yield_count: 6
+calories: 410
 ---
 
 ## במיה עיראקית (Bamia)

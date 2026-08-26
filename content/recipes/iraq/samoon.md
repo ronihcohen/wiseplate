@@ -6,6 +6,14 @@ lastmod: 2026-08-24T02:40:00+03:00
 tags: ["מתכונים", "מטבח עיראקי", "עיראק", "מאפים", "לחם", "צמחוני"]
 featured_image: ""
 description: "מתכון לסמון (Samoon) — לחם המעוין העיראקי עם קרום פריך ופנים אוורירי, כ-275 קלוריות ליחידה."
+recipe_cuisine: "עיראקי"
+recipe_category: "לחם"
+prep_time: "PT2H25M"
+cook_time: "PT15M"
+total_time: "PT2H40M"
+recipe_yield: "8 לחמים"
+recipe_yield_count: 8
+calories: 275
 ---
 
 ## סמון (Samoon)

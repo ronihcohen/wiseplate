@@ -6,6 +6,14 @@ lastmod: 2026-08-24T01:20:00+03:00
 tags: ["מתכונים", "מטבח פרסי", "איראן", "בשר", "קטניות", "מרקים"]
 featured_image: ""
 description: "מתכון לאבגושת (Abgoosht) הפרסי, המוכר גם כדיזי — נזיד טלה, חומוס ולימון מיובש שמוגש כשתי מנות נפרדות, כ-630 קלוריות למנה."
+recipe_cuisine: "פרסי"
+recipe_category: "מנה עיקרית"
+prep_time: "PT20M"
+cook_time: "PT3H30M"
+total_time: "PT3H50M"
+recipe_yield: "4 מנות"
+recipe_yield_count: 4
+calories: 630
 ---
 
 ## אבגושת / דיזי (Abgoosht / Dizi)

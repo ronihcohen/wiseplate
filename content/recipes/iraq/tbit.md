@@ -6,6 +6,14 @@ lastmod: 2026-08-24T02:10:00+03:00
 tags: ["מתכונים", "מטבח עיראקי", "עיראק", "עוף", "אורז", "שבת"]
 featured_image: ""
 description: "מתכון לתבית (T'bit) — עוף ממולא באורז שמתבשל כל הלילה, מנת השבת של יהודי עיראק, כ-820 קלוריות למנה."
+recipe_cuisine: "עיראקי"
+recipe_category: "מנה עיקרית"
+prep_time: "PT40M"
+cook_time: "PT11H"
+total_time: "PT11H40M"
+recipe_yield: "6 מנות"
+recipe_yield_count: 6
+calories: 820
 ---
 
 ## תבית (T'bit)

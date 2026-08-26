@@ -6,6 +6,14 @@ lastmod: 2026-08-24T00:30:00+03:00
 tags: ["מתכונים", "מטבח פרסי", "איראן", "אגוזים", "נזידים", "עוף"]
 featured_image: ""
 description: "מתכון לפסנג'אן (Fesenjan) — נזיד עוף באגוזי מלך טחונים ורכז רימונים, המנה החגיגית של המטבח הפרסי, כ-900 קלוריות למנת נזיד."
+recipe_cuisine: "פרסי"
+recipe_category: "מנה עיקרית"
+prep_time: "PT20M"
+cook_time: "PT2H30M"
+total_time: "PT2H50M"
+recipe_yield: "6 מנות"
+recipe_yield_count: 6
+calories: 900
 ---
 
 ## פסנג'אן (Fesenjan)

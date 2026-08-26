@@ -63,6 +63,61 @@
         "inLanguage" "he-IL"
         "description" $desc -}}
 <script type="application/ld+json">{{ $ld | jsonify | safeJS }}</script>
+{{- else if and (eq .Kind "page") .Params.recipe_yield -}}
+  {{/* Recipe pages carry the machine-readable fields Google needs for a recipe
+       result. Ingredients and steps are parsed out of the body rather than
+       duplicated in front matter, so the markdown stays the single source of
+       truth — the same approach the FAQPage block below uses.
+
+       `image` is emitted only when the page actually has one. Google requires
+       a photo of the finished dish for a recipe rich result, and the site logo
+       is not one, so a page without featured_image gets valid Recipe data that
+       simply is not rich-result eligible until a photo is added. */}}
+  {{- $strip := `\[([^\]]+)\]\([^)]+\)` -}}
+  {{- $ing := slice -}}
+  {{- $steps := slice -}}
+  {{- range split .RawContent "\n### " -}}
+    {{- $block := . -}}
+    {{- if hasPrefix $block "מרכיבים" -}}
+      {{- range findRE `(?m)^\* .+$` $block -}}
+        {{- $t := replaceRE `^\* ` "" . -}}
+        {{- $t = replaceRE $strip "$1" $t -}}
+        {{- $t = replaceRE `\*+` "" $t -}}
+        {{- $ing = $ing | append (trim $t " ") -}}
+      {{- end -}}
+    {{- else if hasPrefix $block "אופן ההכנה" -}}
+      {{- range findRE `(?m)^\d+\. .+$` $block -}}
+        {{- $t := replaceRE `^\d+\. ` "" . -}}
+        {{- $t = replaceRE $strip "$1" $t -}}
+        {{- $t = replaceRE `\*+` "" $t -}}
+        {{- $steps = $steps | append (dict "@type" "HowToStep" "text" (trim $t " ")) -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $ld := dict
+        "@context"          "https://schema.org"
+        "@type"             "Recipe"
+        "name"              .Title
+        "description"       $desc
+        "inLanguage"        "he-IL"
+        "url"               .Permalink
+        "mainEntityOfPage"  (dict "@type" "WebPage" "@id" .Permalink)
+        "datePublished"     (.Date.Format "2006-01-02T15:04:05Z07:00")
+        "dateModified"      (.Lastmod.Format "2006-01-02T15:04:05Z07:00")
+        "author"            $org
+        "publisher"         $org
+        "recipeCuisine"     .Params.recipe_cuisine
+        "recipeCategory"    .Params.recipe_category
+        "prepTime"          .Params.prep_time
+        "cookTime"          .Params.cook_time
+        "totalTime"         .Params.total_time
+        "recipeYield"       .Params.recipe_yield
+        "recipeIngredient"  $ing
+        "recipeInstructions" $steps -}}
+  {{- with .Params.calories }}{{ $ld = merge $ld (dict "nutrition" (dict "@type" "NutritionInformation" "calories" (printf "%v קלוריות" .) "servingSize" (printf "1/%v מהמתכון" ($.Params.recipe_yield_count | default 1)))) }}{{ end -}}
+  {{- with .Params.featured_image }}{{ $ld = merge $ld (dict "image" (absURL .)) }}{{ end -}}
+  {{- with .Params.tags }}{{ $ld = merge $ld (dict "keywords" (delimit . ", ")) }}{{ end -}}
+<script type="application/ld+json">{{ $ld | jsonify | safeJS }}</script>
 {{- else if eq .Kind "page" -}}
   {{- $ld := dict
         "@context"         "https://schema.org"
