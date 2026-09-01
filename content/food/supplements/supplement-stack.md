@@ -33,7 +33,7 @@ description: "כיצד לשלב 9 תוספי תזונה מובילים ביום 
 *   **[ויטמין D](/food/supplements/vitamin-d/):** דורש שומן לספיגה.
 *   **[אומגה 3](/food/supplements/omega-3/):** דורש שומן לספיגה (מצוין עם [ויטמין D](/food/supplements/vitamin-d/)).
 *   **[כורכום](/food/supplements/turmeric/):** דורש שומן (הולך נהדר עם ה[אומגה 3](/food/supplements/omega-3/)).
-*   **[ברברין](/food/supplements/berberine/) (מנה 1):** לשיפור רגישות לאינסולין בארוחה.
+*   **[ברברין](/food/supplements/berberine/) (מנה 1):** לשיפור רגישות ל[אינסולין](/food/supplements/insulin/) בארוחה.
 *   **מולטי-ויטמין / [אבץ](/food/supplements/zinc/):** אם אתם לוקחים בנפרד ([אבץ](/food/supplements/zinc/) לא על קיבה ריקה!).
 
 ### ⚡ לפני אימון (Pre-Workout)
