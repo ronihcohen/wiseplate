@@ -22,7 +22,7 @@ description: "ערכים תזונתיים, קלוריות, חלבון, יתרו�
 | כמה חלבון יש במזון | [טונה](/food/tuna/) · [עדשים](/food/lentil/) · [טופו](/food/tofu/) · [חמאת בוטנים](/food/peanut-butter/) · [יוגורט יווני](/food/greek-yogurt/) |
 | מזונות מותססים ופרוביוטיקה | [קפיר](/food/kefir/) · [קימצ'י](/food/kimchi/) · [קומבוצ'ה](/food/kombucha/) · [מחמצת](/food/sourdough/) · [טמפה](/food/tempeh/) |
 | שומנים ואומגה 3 | [סלמון](/food/salmon/) · [סרדינים](/food/sardines/) · [זרעי פשתן](/food/flax-seeds/) · [שמן זית](/food/olive-oil/) |
-| נוגדי חמצון ופוליפנולים | [תה ירוק](/food/green-tea/) · [EGCG](/food/egcg/) · [פוליפנולים](/food/polyphenols/) · [שוקולד מריר](/food/dark-chocolate/) |
+| נוגדי חמצון ופוליפנולים | [תה ירוק](/food/green-tea/) · [EGCG](/food/egcg/) · [קקאו ופולי קקאו](/food/cacao-nibs/) · [פוליפנולים](/food/polyphenols/) · [שוקולד מריר](/food/dark-chocolate/) |
 | גלוטן, צליאק ודגנים | [גלוטן](/food/gluten/) · [שיבולת שועל](/food/oatmeal/) · [שעורה](/food/barley/) · [לחם שיפון](/food/rye-bread/) · [כוסמת](/food/buckwheat/) · [קינואה](/food/quinoa/) |
 | מזון מעובד — מה באמת הבעיה | [מזון אולטרה־מעובד](/food/ultra-processed-foods/) · [נקניקיות](/food/sausages/) · [משקאות ממותקים](/food/sugary-soft-drinks/) · [ממתיקים מלאכותיים](/food/artificial-sweeteners-trap/) |
 
