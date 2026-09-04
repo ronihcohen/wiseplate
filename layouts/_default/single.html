@@ -28,8 +28,8 @@
       <p class="article-description">{{ . }}</p>
     {{ end }}
 
-    <time class="article-date" datetime="{{ .Date.Format "2006-01-02" }}">
-      {{ .Date.Format "02.01.2006" }}
+    <time class="article-date" datetime="{{ .Lastmod.Format "2006-01-02" }}">
+      {{ if gt .Lastmod .Date }}עודכן לאחרונה: {{ end }}{{ .Lastmod.Format "02.01.2006" }}
     </time>
 
   </div>
