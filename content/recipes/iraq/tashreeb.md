@@ -4,7 +4,7 @@ seo_title: "תשריב: מתכון עיראקי למרק על לחם — קלו�
 date: 2026-08-24T02:35:00+03:00
 lastmod: 2026-08-24T02:35:00+03:00
 tags: ["מתכונים", "מטבח עיראקי", "עיראק", "מרקים", "קטניות", "בשר"]
-featured_image: ""
+featured_image: "/images/recipes/iraq/tashreeb.webp"
 description: "מתכון לתשריב (Tashreeb) — נזיד שעועית לבנה וטלה שנמזג על לחם קרוע, מנת יום חורף עיראקית, כ-620 קלוריות למנה."
 recipe_cuisine: "עיראקי"
 recipe_category: "מנה עיקרית"

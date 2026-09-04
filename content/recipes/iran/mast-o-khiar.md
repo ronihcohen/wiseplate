@@ -4,7 +4,7 @@ seo_title: "מאסט-או-חיאר: מתכון פרסי ליוגורט עם מל
 date: 2026-08-24T01:30:00+03:00
 lastmod: 2026-08-24T01:30:00+03:00
 tags: ["מתכונים", "מטבח פרסי", "איראן", "מוצרי חלב", "צמחוני", "סלטים"]
-featured_image: ""
+featured_image: "/images/recipes/iran/mast-o-khiar.webp"
 description: "מתכון למאסט-או-חיאר (Mast-o Khiar) — יוגורט פרסי עם מלפפון, אגוזי מלך, צימוקים ונענע, כ-220 קלוריות לקערית ועשיר בחלבון ובסידן."
 recipe_cuisine: "פרסי"
 recipe_category: "מנה ראשונה"

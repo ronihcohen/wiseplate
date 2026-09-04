@@ -4,7 +4,7 @@ seo_title: "לחם מסמן: מתכון ללחם המרוקאי במחבת — �
 date: 2026-08-24T03:30:00+03:00
 lastmod: 2026-08-24T03:30:00+03:00
 tags: ["מתכונים", "מטבח מרוקאי", "מרוקו", "מאפים", "לחם", "ארוחת בוקר"]
-featured_image: ""
+featured_image: "/images/recipes/morocco/msemen.webp"
 description: "מתכון למסמן (Msemen) — לחם העלים המרוקאי המקופל שנאפה במחבת, מתכון מלא וטכניקת הקיפול, כ-270 קלוריות ליחידה."
 recipe_cuisine: "מרוקאי"
 recipe_category: "ארוחת בוקר"

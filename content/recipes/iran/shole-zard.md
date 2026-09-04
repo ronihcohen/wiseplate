@@ -4,7 +4,7 @@ seo_title: "שולה זרד: מתכון פרסי לקינוח אורז זעפר�
 date: 2026-08-24T01:40:00+03:00
 lastmod: 2026-08-24T01:40:00+03:00
 tags: ["מתכונים", "מטבח פרסי", "איראן", "קינוחים", "אורז", "צמחוני"]
-featured_image: ""
+featured_image: "/images/recipes/iran/shole-zard.webp"
 description: "מתכון לשולה זרד (Sholeh Zard) — פודינג אורז זעפרן פרסי עם מי ורדים והל, קינוח טבעוני מסורתי, כ-290 קלוריות למנה."
 recipe_cuisine: "פרסי"
 recipe_category: "קינוח"

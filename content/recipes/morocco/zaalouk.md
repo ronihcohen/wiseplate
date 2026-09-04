@@ -4,7 +4,7 @@ seo_title: "סלט זעלוק: מתכון מרוקאי לסלט חצילים מ�
 date: 2026-08-24T03:20:00+03:00
 lastmod: 2026-08-24T03:20:00+03:00
 tags: ["מתכונים", "מטבח מרוקאי", "מרוקו", "סלטים", "ירקות", "טבעוני"]
-featured_image: ""
+featured_image: "/images/recipes/morocco/zaalouk.webp"
 description: "מתכון לזעלוק (Zaalouk) — סלט חצילים ועגבניות מרוקאי בשמן זית, טבעוני ומוגש קר, כ-155 קלוריות למנה."
 recipe_cuisine: "מרוקאי"
 recipe_category: "מנה ראשונה"

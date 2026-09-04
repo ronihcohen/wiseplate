@@ -4,7 +4,7 @@ seo_title: "אש רשתה: מתכון פרסי למרק אטריות וקטני�
 date: 2026-08-24T00:50:00+03:00
 lastmod: 2026-08-24T00:50:00+03:00
 tags: ["מתכונים", "מטבח פרסי", "איראן", "מרקים", "קטניות", "צמחוני"]
-featured_image: ""
+featured_image: "/images/recipes/iran/ash-reshteh.webp"
 description: "מתכון לאש רשתה (Ash Reshteh) — מרק העשבים, הקטניות והאטריות של איראן, מנת הנוברוז המסורתית, כ-420 קלוריות לקערה."
 recipe_cuisine: "פרסי"
 recipe_category: "מרק"

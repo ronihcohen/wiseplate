@@ -4,7 +4,7 @@ seo_title: "סמון עיראקי: מתכון ללחם המעוין של בגד�
 date: 2026-08-24T02:40:00+03:00
 lastmod: 2026-08-24T02:40:00+03:00
 tags: ["מתכונים", "מטבח עיראקי", "עיראק", "מאפים", "לחם", "צמחוני"]
-featured_image: ""
+featured_image: "/images/recipes/iraq/samoon.webp"
 description: "מתכון לסמון (Samoon) — לחם המעוין העיראקי עם קרום פריך ופנים אוורירי, כ-275 קלוריות ליחידה."
 recipe_cuisine: "עיראקי"
 recipe_category: "לחם"

@@ -4,7 +4,7 @@ seo_title: "מרק מיסו: מתכון יפני אותנטי עם דאשי — 
 date: 2026-09-01T10:30:00+03:00
 lastmod: 2026-09-01T10:30:00+03:00
 tags: ["מתכונים", "מרקים", "מטבח יפני", "מיסו", "מזון מותסס", "טופו"]
-featured_image: ""
+featured_image: "/images/recipes/soups/miso-soup.webp"
 description: "מתכון למרק מיסו יפני — דאשי ביתי, הטמפרטורה שאסור לחרוג ממנה, וכ-80 קלוריות לקערה (עם כ-700 מ\"ג נתרן)."
 recipe_cuisine: "יפני"
 recipe_category: "מרק"

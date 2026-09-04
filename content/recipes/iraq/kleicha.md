@@ -4,7 +4,7 @@ seo_title: "קליצ'ה: מתכון לעוגיות התמרים העיראקיו
 date: 2026-08-24T02:45:00+03:00
 lastmod: 2026-08-24T02:45:00+03:00
 tags: ["מתכונים", "מטבח עיראקי", "עיראק", "קינוחים", "מאפים", "תמרים"]
-featured_image: ""
+featured_image: "/images/recipes/iraq/kleicha.webp"
 description: "מתכון לקליצ'ה (Kleicha) — עוגיות התמרים והֶל של עיראק, עוגיית החג הלאומית, כ-250 קלוריות לשתי יחידות."
 recipe_cuisine: "עיראקי"
 recipe_category: "קינוח"

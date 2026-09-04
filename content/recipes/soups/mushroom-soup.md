@@ -4,7 +4,7 @@ seo_title: "מרק פטריות: מתכון קרם פטריות ביתי — ק�
 date: 2026-09-01T09:50:00+03:00
 lastmod: 2026-09-01T09:50:00+03:00
 tags: ["מתכונים", "מרקים", "פטריות", "צמחוני", "מוצרי חלב"]
-featured_image: ""
+featured_image: "/images/recipes/soups/mushroom-soup.webp"
 description: "מתכון למרק פטריות ביתי — למה אסור להעמיס את המחבת, מה עושות פטריות מיובשות, וכ-200 קלוריות לקערה."
 recipe_cuisine: "אירופי"
 recipe_category: "מרק"

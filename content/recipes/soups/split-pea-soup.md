@@ -4,7 +4,7 @@ seo_title: "מרק אפונה יבשה: מתכון ביתי סמיך — קלו�
 date: 2026-09-01T09:30:00+03:00
 lastmod: 2026-09-01T09:30:00+03:00
 tags: ["מתכונים", "מרקים", "קטניות", "אפונה", "חלבון", "סיבים תזונתיים"]
-featured_image: ""
+featured_image: "/images/recipes/soups/split-pea-soup.webp"
 description: "מתכון למרק אפונה יבשה — בלי השריה, בלי קמח ובלי שמנת, עם כ-240 קלוריות, 14 גרם חלבון ו-15 גרם סיבים לקערה."
 recipe_cuisine: "אירופי"
 recipe_category: "מרק"

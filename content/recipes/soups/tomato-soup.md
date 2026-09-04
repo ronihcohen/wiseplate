@@ -4,7 +4,7 @@ seo_title: "מרק עגבניות: מתכון מעגבניות צלויות עם
 date: 2026-09-01T10:20:00+03:00
 lastmod: 2026-09-01T10:20:00+03:00
 tags: ["מתכונים", "מרקים", "עגבניות", "צמחוני", "ליקופן"]
-featured_image: ""
+featured_image: "/images/recipes/soups/tomato-soup.webp"
 description: "מתכון למרק עגבניות מעגבניות צלויות — איך מאזנים את החומציות בלי להטביע אותה בסוכר, וכ-185 קלוריות לקערה."
 recipe_cuisine: "אירופי"
 recipe_category: "מרק"

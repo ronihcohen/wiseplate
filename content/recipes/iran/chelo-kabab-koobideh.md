@@ -4,7 +4,7 @@ seo_title: "כבאב כובידה: מתכון פרסי אותנטי לקבב ע�
 date: 2026-08-24T00:10:00+03:00
 lastmod: 2026-08-24T00:10:00+03:00
 tags: ["מתכונים", "מטבח פרסי", "איראן", "בשר", "על האש", "אורז"]
-featured_image: ""
+featured_image: "/images/recipes/iran/chelo-kabab-koobideh.webp"
 description: "מתכון לצ'לו כבאב כובידה (Chelo Kabab Koobideh) — המנה הלאומית של איראן: קבב טחון על שיפוד רחב ואורז זעפרן, כ-550 קלוריות למנה."
 recipe_cuisine: "פרסי"
 recipe_category: "מנה עיקרית"

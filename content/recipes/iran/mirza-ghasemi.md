@@ -4,7 +4,7 @@ seo_title: "מירזא קאסמי: מתכון פרסי לחציל מעושן ע�
 date: 2026-08-24T01:10:00+03:00
 lastmod: 2026-08-24T01:10:00+03:00
 tags: ["מתכונים", "מטבח פרסי", "איראן", "ירקות", "ביצים", "צמחוני"]
-featured_image: ""
+featured_image: "/images/recipes/iran/mirza-ghasemi.webp"
 description: "מתכון למירזא קאסמי (Mirza Ghasemi) — חציל מעושן עם שום, עגבניות וביצים ממחוז גילאן, כ-245 קלוריות למנה."
 recipe_cuisine: "פרסי"
 recipe_category: "מנה ראשונה"

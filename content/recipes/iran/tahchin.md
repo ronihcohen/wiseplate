@@ -4,7 +4,7 @@ seo_title: "תהצ'ין: מתכון פרסי לעוגת אורז זעפרן עם
 date: 2026-08-24T00:40:00+03:00
 lastmod: 2026-08-24T00:40:00+03:00
 tags: ["מתכונים", "מטבח פרסי", "איראן", "אורז", "עוף", "מוצרי חלב"]
-featured_image: ""
+featured_image: "/images/recipes/iran/tahchin.webp"
 description: "מתכון לתהצ'ין (Tahchin) — עוגת אורז אפויה עם יוגורט, זעפרן וחלמונים, עם קרום זהוב ופריך, כ-550 קלוריות לפרוסה."
 recipe_cuisine: "פרסי"
 recipe_category: "מנה עיקרית"

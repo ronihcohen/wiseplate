@@ -4,7 +4,7 @@ seo_title: "טאג'ין עוף מרוקאי עם לימון כבוש וזיתי�
 date: 2026-08-24T03:50:00+03:00
 lastmod: 2026-08-24T03:50:00+03:00
 tags: ["מתכונים", "מטבח מרוקאי", "מרוקו", "עוף", "נזידים"]
-featured_image: ""
+featured_image: "/images/recipes/morocco/tagine-djaj.webp"
 description: "מתכון לטאג'ין עוף מרוקאי עם לימון כבוש וזיתים (Djaj Mqualli) — נזיד זעפרן קלאסי בסיר חרס, כ-620 קלוריות למנה."
 recipe_cuisine: "מרוקאי"
 recipe_category: "מנה עיקרית"
