@@ -4,7 +4,7 @@ seo_title: "קובה חמוסטה: מתכון למרק החמוץ עם כדור�
 date: 2026-08-24T02:20:00+03:00
 lastmod: 2026-08-24T02:20:00+03:00
 tags: ["מתכונים", "מטבח עיראקי", "עיראק", "מרקים", "בשר", "ירקות"]
-featured_image: ""
+featured_image: "/images/recipes/iraq/kubba-hamusta.webp"
 description: "מתכון לקובה חמוסטה — כדורי סולת ממולאים בבשר במרק ירוק חמוץ של סלרי, מנגולד ולימון, כ-490 קלוריות למנה."
 recipe_cuisine: "עיראקי"
 recipe_category: "מרק"

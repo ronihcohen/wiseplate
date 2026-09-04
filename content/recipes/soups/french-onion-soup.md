@@ -4,7 +4,7 @@ seo_title: "מרק בצל צרפתי: מתכון קלאסי עם גרוייר �
 date: 2026-09-01T10:00:00+03:00
 lastmod: 2026-09-01T10:00:00+03:00
 tags: ["מתכונים", "מרקים", "מטבח צרפתי", "בצל", "גבינות"]
-featured_image: ""
+featured_image: "/images/recipes/soups/french-onion-soup.webp"
 description: "מתכון למרק בצל צרפתי (Soupe à l'oignon) — 45 דקות קרמול שהן כל המרק, ופירוט הקלוריות: כ-210 למרק וכ-480 עם כיסוי הלחם והגבינה."
 recipe_cuisine: "צרפתי"
 recipe_category: "מרק"

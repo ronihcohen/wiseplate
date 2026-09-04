@@ -4,7 +4,7 @@ seo_title: "תבית: מתכון עיראקי לעוף ממולא באורז ל�
 date: 2026-08-24T02:10:00+03:00
 lastmod: 2026-08-24T02:10:00+03:00
 tags: ["מתכונים", "מטבח עיראקי", "עיראק", "עוף", "אורז", "שבת"]
-featured_image: ""
+featured_image: "/images/recipes/iraq/tbit.webp"
 description: "מתכון לתבית (T'bit) — עוף ממולא באורז שמתבשל כל הלילה, מנת השבת של יהודי עיראק, כ-820 קלוריות למנה."
 recipe_cuisine: "עיראקי"
 recipe_category: "מנה עיקרית"

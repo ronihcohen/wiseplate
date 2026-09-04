@@ -4,7 +4,7 @@ seo_title: "טום יאם: מתכון תאילנדי אותנטי למרק חמ�
 date: 2026-09-01T10:40:00+03:00
 lastmod: 2026-09-01T10:40:00+03:00
 tags: ["מתכונים", "מרקים", "מטבח תאילנדי", "שרימפס", "חלבון"]
-featured_image: ""
+featured_image: "/images/recipes/soups/tom-yum-soup.webp"
 description: "מתכון לטום יאם גונג תאילנדי — למה גלנגל אינו ג'ינג'ר, מתי מוסיפים לימון, וכ-160 קלוריות עם 24 גרם חלבון לקערה."
 recipe_cuisine: "תאילנדי"
 recipe_category: "מרק"

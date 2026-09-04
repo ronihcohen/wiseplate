@@ -4,7 +4,7 @@ seo_title: "דג מרוקאי: מתכון לדג ברוטב פלפלים וכו�
 date: 2026-08-24T04:10:00+03:00
 lastmod: 2026-08-24T04:10:00+03:00
 tags: ["מתכונים", "מטבח מרוקאי", "מרוקו", "דגים"]
-featured_image: ""
+featured_image: "/images/recipes/morocco/moroccan-fish.webp"
 description: "מתכון לדג מרוקאי — פילה דג לבן ברוטב פלפלים אדומים, שום וכוסברה, מנת שבת קלאסית, כ-390 קלוריות למנה."
 recipe_cuisine: "מרוקאי"
 recipe_category: "מנה עיקרית"

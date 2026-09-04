@@ -4,7 +4,7 @@ seo_title: "קוקו סבזי: מתכון פרסי לחביתת עשבים אפ�
 date: 2026-08-24T01:00:00+03:00
 lastmod: 2026-08-24T01:00:00+03:00
 tags: ["מתכונים", "מטבח פרסי", "איראן", "ביצים", "צמחוני", "ירקות"]
-featured_image: ""
+featured_image: "/images/recipes/iran/kuku-sabzi.webp"
 description: "מתכון לקוקו סבזי (Kuku Sabzi) — חביתת עשבים פרסית ירוקה עם אגוזי מלך וברבריס, מנת הנוברוז, כ-240 קלוריות למנה."
 recipe_cuisine: "פרסי"
 recipe_category: "מנה עיקרית"

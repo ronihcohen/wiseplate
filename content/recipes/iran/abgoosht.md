@@ -4,7 +4,7 @@ seo_title: "אבגושת: מתכון פרסי לנזיד הבשר והחומוס
 date: 2026-08-24T01:20:00+03:00
 lastmod: 2026-08-24T01:20:00+03:00
 tags: ["מתכונים", "מטבח פרסי", "איראן", "בשר", "קטניות", "מרקים"]
-featured_image: ""
+featured_image: "/images/recipes/iran/abgoosht.webp"
 description: "מתכון לאבגושת (Abgoosht) הפרסי, המוכר גם כדיזי — נזיד טלה, חומוס ולימון מיובש שמוגש כשתי מנות נפרדות, כ-630 קלוריות למנה."
 recipe_cuisine: "פרסי"
 recipe_category: "מנה עיקרית"

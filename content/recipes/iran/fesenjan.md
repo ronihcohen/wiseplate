@@ -4,7 +4,7 @@ seo_title: "פסנג'אן: מתכון פרסי לנזיד אגוזי מלך ור
 date: 2026-08-24T00:30:00+03:00
 lastmod: 2026-08-24T00:30:00+03:00
 tags: ["מתכונים", "מטבח פרסי", "איראן", "אגוזים", "נזידים", "עוף"]
-featured_image: ""
+featured_image: "/images/recipes/iran/fesenjan.webp"
 description: "מתכון לפסנג'אן (Fesenjan) — נזיד עוף באגוזי מלך טחונים ורכז רימונים, המנה החגיגית של המטבח הפרסי, כ-900 קלוריות למנת נזיד."
 recipe_cuisine: "פרסי"
 recipe_category: "מנה עיקרית"

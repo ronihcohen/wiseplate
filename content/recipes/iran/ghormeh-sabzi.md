@@ -4,7 +4,7 @@ seo_title: "קורמה סבזי: מתכון פרסי אותנטי לנזיד ה�
 date: 2026-08-24T00:20:00+03:00
 lastmod: 2026-08-24T00:20:00+03:00
 tags: ["מתכונים", "מטבח פרסי", "איראן", "בשר", "קטניות", "נזידים"]
-featured_image: ""
+featured_image: "/images/recipes/iran/ghormeh-sabzi.webp"
 description: "מתכון לקורמה סבזי (Ghormeh Sabzi) — נזיד העשבים הפרסי עם לימון מיובש ושעועית, המנה הלאומית של איראן, כ-500 קלוריות למנת נזיד."
 recipe_cuisine: "פרסי"
 recipe_category: "מנה עיקרית"

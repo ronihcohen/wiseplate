@@ -161,6 +161,7 @@
         "isPartOf"         (dict "@type" "WebSite" "name" .Site.Title "url" .Site.BaseURL)
         "publisher"        $org
         "mainEntity"       (dict "@type" "ItemList" "numberOfItems" (len $els) "itemListElement" $els) -}}
+  {{- with .Params.featured_image }}{{ $ld = merge $ld (dict "image" (absURL .)) }}{{ end -}}
 <script type="application/ld+json">{{ $ld | jsonify | safeJS }}</script>
 
 {{- end -}}

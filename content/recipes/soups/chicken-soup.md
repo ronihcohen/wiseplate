@@ -4,7 +4,7 @@ seo_title: "מרק עוף: מתכון ביתי לציר צלול — קלורי�
 date: 2026-09-01T09:10:00+03:00
 lastmod: 2026-09-01T09:10:00+03:00
 tags: ["מתכונים", "מרקים", "עוף", "מרק עוף", "חלבון"]
-featured_image: ""
+featured_image: "/images/recipes/soups/chicken-soup.webp"
 description: "מתכון למרק עוף ביתי עם ציר צלול — הכלל היחיד שקובע את התוצאה, ירקות השורש הנכונים, וכ-190 קלוריות לקערה עם בשר."
 recipe_cuisine: "יהודי"
 recipe_category: "מרק"

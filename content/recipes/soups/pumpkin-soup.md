@@ -4,7 +4,7 @@ seo_title: "מרק דלעת: מתכון עם דלעת צלויה — קלורי�
 date: 2026-09-01T09:40:00+03:00
 lastmod: 2026-09-01T09:40:00+03:00
 tags: ["מתכונים", "מרקים", "דלעת", "טבעוני", "ירקות"]
-featured_image: ""
+featured_image: "/images/recipes/soups/pumpkin-soup.webp"
 description: "מתכון למרק דלעת קטיפתי מדלעת צלויה — למה צלייה עדיפה על בישול, וכמה באמת מוסיף חלב הקוקוס. כ-235 קלוריות לקערה."
 recipe_cuisine: "ביתי"
 recipe_category: "מרק"

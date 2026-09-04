@@ -4,7 +4,7 @@ seo_title: "מרק ירקות: מתכון ביתי סמיך בלי אבקת מר
 date: 2026-09-01T09:20:00+03:00
 lastmod: 2026-09-01T09:20:00+03:00
 tags: ["מתכונים", "מרקים", "ירקות", "טבעוני", "צמחוני"]
-featured_image: ""
+featured_image: "/images/recipes/soups/vegetable-soup.webp"
 description: "מתכון למרק ירקות ביתי — סדר הכנסת הירקות שקובע את הטעם, איך מקבלים גוף בלי אבקת מרק, וכ-150 קלוריות לקערה."
 recipe_cuisine: "ביתי"
 recipe_category: "מרק"
