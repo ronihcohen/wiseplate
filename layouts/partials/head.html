@@ -145,11 +145,13 @@
   {{- with .Params.tags }}{{ $ld = merge $ld (dict "keywords" (delimit . ", ")) }}{{ end -}}
 <script type="application/ld+json">{{ $ld | jsonify | safeJS }}</script>
 {{- else if eq .Kind "section" -}}
-  {{/* Hub pages are collections, not articles. The ItemList names what the
-       section actually holds, which is the only signal a card grid carries. */}}
+  {{/* Match the visible card order in list.html: subsections first, then
+       direct articles. A hub with nested content still has useful items. */}}
   {{- $els := slice -}}
-  {{- range $i, $p := .RegularPages -}}
-    {{- $els = $els | append (dict "@type" "ListItem" "position" (add $i 1) "url" $p.Permalink "name" $p.Title) -}}
+  {{- range slice .Sections .RegularPages -}}
+    {{- range . -}}
+      {{- $els = $els | append (dict "@type" "ListItem" "position" (add (len $els) 1) "url" .Permalink "name" .Title) -}}
+    {{- end -}}
   {{- end -}}
   {{- $ld := dict
         "@context"         "https://schema.org"
