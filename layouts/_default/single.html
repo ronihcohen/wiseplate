@@ -28,9 +28,13 @@
       <p class="article-description">{{ . }}</p>
     {{ end }}
 
-    <time class="article-date" datetime="{{ .Lastmod.Format "2006-01-02" }}">
-      {{ if gt .Lastmod .Date }}עודכן לאחרונה: {{ end }}{{ .Lastmod.Format "02.01.2006" }}
-    </time>
+    <p class="article-date">
+      פורסם: <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02.01.2006" }}</time>
+      {{ if gt .Lastmod .Date }}
+        <span aria-hidden="true"> · </span>
+        עודכן: <time datetime="{{ .Lastmod.Format "2006-01-02" }}">{{ .Lastmod.Format "02.01.2006" }}</time>
+      {{ end }}
+    </p>
 
   </div>
 </div>

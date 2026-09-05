@@ -65,7 +65,7 @@
           {{ partial "article-card.html" . }}
         {{ end }}
       </div>
-    {{ else }}
+    {{ else if not .Sections }}
       <p style="text-align:center; color: var(--color-text-muted); padding: 3rem 0;">אין מאמרים בקטגוריה זו עדיין.</p>
     {{ end }}
 
