@@ -1,0 +1,11 @@
+<div class="site-search" role="search" aria-label="חיפוש באתר" data-search-index="{{ (.Site.Home.OutputFormats.Get "JSON").RelPermalink }}" hidden>
+  <label class="sr-only" for="site-search-input">חיפוש באתר</label>
+  <input id="site-search-input" type="search" placeholder="חיפוש באתר…" autocomplete="off"
+         role="combobox" aria-autocomplete="list" aria-expanded="false"
+         aria-controls="site-search-results" aria-describedby="site-search-status">
+  <div class="search-panel" hidden>
+    <ul id="site-search-results" role="listbox" aria-label="הצעות חיפוש"></ul>
+    <p id="site-search-status" role="status" aria-live="polite"></p>
+  </div>
+</div>
+<script src="{{ "js/search.js" | relURL }}" defer></script>
