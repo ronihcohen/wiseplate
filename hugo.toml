@@ -4,6 +4,9 @@ title = 'מדע בתנועה'
 trailingSlash = true
 canonifyURLs = true
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 [params]
   description = "ידע מדעי על תזונה, תוספים ובריאות — מידע מאוזן ומבוסס מחקר"
   description_en = "Nutritional pros and cons of various foods - Scientifically-based information for a healthy diet."
