@@ -97,10 +97,20 @@
       {{- end -}}
     {{- else if hasPrefix $block "אופן ההכנה" -}}
       {{- range findRE `(?m)^\d+\. .+$` $block -}}
-        {{- $t := replaceRE `^\d+\. ` "" . -}}
+        {{- $raw := replaceRE `^\d+\. ` "" . -}}
+        {{/* Every recipe step starts with a short bold summary. Expose that
+             summary as HowToStep.name, then keep only the actual direction in
+             text so Google does not have to infer the step name from prose. */}}
+        {{- $name := replaceRE `^\*\*([^*]+)\*\*.*$` "$1" $raw -}}
+        {{- $name = replaceRE $strip "$1" $name -}}
+        {{- $name = replaceRE `\*+` "" $name -}}
+        {{- $t := replaceRE `^\*\*[^*]+\*\*[ \t]*` "" $raw -}}
         {{- $t = replaceRE $strip "$1" $t -}}
         {{- $t = replaceRE `\*+` "" $t -}}
-        {{- $steps = $steps | append (dict "@type" "HowToStep" "text" (trim $t " ")) -}}
+        {{- $steps = $steps | append (dict
+              "@type" "HowToStep"
+              "name"  (trim $name " ")
+              "text"  (trim $t " ")) -}}
       {{- end -}}
     {{- end -}}
   {{- end -}}
