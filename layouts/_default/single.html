@@ -53,6 +53,21 @@
       {{- $c = replaceRE `(?s)(<h3[^>]*id=["']?שאלות-ותשובות[^>]*>.*?)(<h[123][\s>]|$)` `<section class="faq">${1}</section>${2}` $c -}}
       {{ $c | safeHTML }}
     </div>
+
+    {{/* Tag pages were indexable and in the sitemap, yet nothing linked to
+         them, so crawlers only found them through the sitemap. Link the ones
+         that are real hubs; thin tags stay noindexed and unlinked. */}}
+    {{- $min := site.Params.min_term_pages | default 5 -}}
+    {{- $hubs := slice -}}
+    {{- range .GetTerms "tags" }}{{ if ge (len .RegularPages) $min }}{{ $hubs = $hubs | append . }}{{ end }}{{ end -}}
+    {{- with $hubs }}
+    <nav class="article-tags article-tags-footer" aria-label="נושאים">
+      <span class="article-tags-label">נושאים:</span>
+      {{- range . }}
+      <a class="tag" href="{{ .RelPermalink }}">{{ .Title }}</a>
+      {{- end }}
+    </nav>
+    {{- end }}
   </div>
 </div>
 

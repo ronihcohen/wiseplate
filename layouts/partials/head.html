@@ -6,7 +6,7 @@
 {{- else -}}
   {{- $seoTitle = printf "%s | %s" (.Params.seo_title | default .Title) .Site.Title -}}
 {{- end -}}
-{{- $desc := .Description | default .Site.Params.description | default "ידע מדעי על תזונה, תוספים ובריאות — מידע מאוזן ומבוסס מחקר" -}}
+{{- $desc := partial "page-description.html" . -}}
 {{- $socialImage := "android-chrome-512x512.png" | absURL -}}
 {{- with .Params.featured_image -}}
   {{- $socialImage = . | absURL -}}
@@ -21,7 +21,7 @@
 {{/* Thin tag pages are crawlable but not worth indexing: they duplicate the
      site description and list one or two articles that are indexed already.
      "follow" is kept so link equity still reaches those articles. */}}
-{{- $thinTerm := and (eq .Kind "term") (lt (len .Pages) (site.Params.min_term_pages | default 5)) -}}
+{{- $thinTerm := and (eq .Kind "term") (lt (len .RegularPages) (site.Params.min_term_pages | default 5)) -}}
 {{- if $thinTerm }}
 <meta name="robots" content="noindex, follow">
 {{- else }}
@@ -63,7 +63,7 @@
      Built as maps and marshalled once. Emitting raw JSON inside <script> makes
      Hugo apply JS-context escaping to each jsonify'd value, which double-quotes
      every string; safeJS on a single marshalled document avoids that. */}}
-{{- $org := dict "@type" "Organization" "name" .Site.Title "url" .Site.BaseURL -}}
+{{- $org := dict "@type" "Organization" "name" .Site.Title "url" .Site.BaseURL "logo" ("android-chrome-512x512.png" | absURL) -}}
 
 {{- if .IsHome -}}
   {{- $ld := dict

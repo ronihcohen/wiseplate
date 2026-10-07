@@ -13,7 +13,8 @@ canonifyURLs = true
   keywords = ["תזונה", "בריאות", "ערכים תזונתיים", "יתרונות בריאותיים", "מזון בריא", "דיאטה", "פירות", "ירקות", "חלבון", "ויטמינים"]
   keywords_en = ["Nutrition", "Health", "Nutritional Values", "Health Benefits", "Healthy Food", "Diet", "Fruits", "Vegetables", "Protein", "Vitamins"]
 
-  # A tag page listing fewer than this many articles carries no information the
+  # A tag page listing fewer than this many articles (regular pages only;
+  # section hubs tagged in _index.md do not count) carries no information the
   # articles themselves don't. 120 of 206 tag pages listed a single article, all
   # sharing one boilerplate description. Those are noindexed and kept out of the
   # sitemap; see layouts/sitemap.xml and layouts/partials/head.html.

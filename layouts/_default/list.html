@@ -16,7 +16,7 @@
     </nav>
     <div class="list-header-inner">
       <h1 class="list-header-title">{{ .Title }}</h1>
-      {{ with .Description }}
+      {{ with partial "page-description.html" . }}
         <p class="list-header-desc">{{ . }}</p>
       {{ end }}
     </div>

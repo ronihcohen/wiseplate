@@ -96,7 +96,18 @@ There is no theme; `layouts/` holds the site's own templates (9 files):
 `head.html` is where the SEO surface lives — `<title>`/`seo_title`, meta
 description, canonical, robots, Open Graph, and JSON-LD for Article,
 CollectionPage, BreadcrumbList and FAQPage. Tag pages listing fewer than
-`min_term_pages` articles are noindexed there and excluded from the sitemap.
+`min_term_pages` articles (regular pages only) are noindexed there and excluded
+from the sitemap; tags at or above it are linked from the foot of every article
+that carries them. `partials/page-description.html` supplies the description
+for both the meta tag and list headers, generating one for tag pages.
+
+### Tags: one spelling per tag
+
+Hugo builds the tag URL by stripping spaces and punctuation, so `"אומגה 3"` and
+`"אומגה-3"`, or `"פרהביוטיקה"` and `"פרה־ביוטיקה"`, collide on one URL and two
+pages race to write the same file (this once produced a corrupted HTML file).
+Reuse the existing spelling of a tag; check with
+`grep -rho '^tags:.*' content | tr ',' '\n' | sort | uniq -c`.
 
 `public/` is generated output and should not be edited directly. Deploys run
 from `.github/workflows/hugo.yml`.
