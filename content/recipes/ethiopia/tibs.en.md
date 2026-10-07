@@ -27,7 +27,7 @@ A kilogram of meat cools a home pan. Fry in three batches and return it all at t
 
 ### Ingredients (for 5 servings)
 
-* 1 kg lean [beef](/en/food/red-meat/) for searing, such as sirloin (sheitel) or entrecôte (sinta), in 2 cm cubes
+* 1 kg lean [beef](/en/food/red-meat/) for searing, such as rump (sheitel) or sirloin (sinta), in 2 cm cubes
 * 60 ml canola or olive oil
 * 400 grams sliced onion
 * 2 green bell peppers and one hot chili, sliced
@@ -77,7 +77,7 @@ Good tibs depends on a hot pan, a suitable cut and small batches. A serving is a
 Answer: A serving out of five is about 595 calories without injera, based on a lean-to-medium cut.
 
 **Question: Which Israeli cut works?**
-Answer: Sheitel, sinta or fillet. Shoulder and goulash cubes need long cooking and are not suited to a short stir-fry.
+Answer: Rump (sheitel), sirloin (sinta) or fillet. Shoulder and goulash cubes need long cooking and are not suited to a short stir-fry.
 
 **Question: Is spiced butter a must?**
 Answer: No. In a kosher meat dish, use oil and spices; there is no need for a dairy substitute.
