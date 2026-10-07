@@ -11,6 +11,7 @@ description: "Kefir's downsides and side effects: bloating at first, histamine, 
 
 {{< youtube id="gI376ILAzk4" title="Kefir: Ancient, Immortal and a Bit Boozy? (video)" loading="lazy" >}}
 
+
 **Kefir is a fermented milk drink, sometimes also spelled kephir or kefier.** In Hebrew it is written two ways, "קפיר" and "כפיר" — both refer to exactly the same drink.
 
 Kefir is an ancient fermented drink whose documented origins lie in the Caucasus Mountains, the dramatic range that separates Europe from Asia, between the Black Sea and the Caspian Sea. It is made by adding cultures known as "kefir grains" to a liquid base, usually milk (cow, goat or sheep) or sweetened water. Despite their name, kefir grains are not real grains like wheat or oats. They are colonies of lactic acid bacteria and yeasts living in symbiosis (a SCOBY – Symbiotic Culture of Bacteria and Yeast). These structures, which look like tiny cauliflower florets, are made of a matrix of proteins and polysaccharides that holds dozens of species of bacteria and yeasts together.
