@@ -126,7 +126,7 @@ def r_stat(ctx, el, t, tl):
     p = ease_out_cubic(clamp((t - el["_at"]) / 1.1))
     v = el["value"] * p
     dec = el.get("decimals", 0)
-    txt = f"{v:.{dec}f}{el.get('unit', '')}"
+    txt = f"{v:,.{dec}f}{el.get('unit', '')}"
     ctx.save()
     ctx.translate(el["x"], el["y"] + dy)
     ctx.scale(s, s)
