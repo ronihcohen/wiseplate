@@ -9,7 +9,7 @@ description: "Kefir's downsides and side effects: bloating at first, histamine, 
 
 ## Introduction: Kefir
 
-{{< youtube id="gI376ILAzk4" title="Kefir: Ancient, Immortal and a Bit Boozy? (video)" loading="lazy" >}}
+{{< youtube id="v8vFlBZUMmE" title="Kefir: Ancient, Immortal and a Bit Boozy? (video)" loading="lazy" >}}
 
 **Kefir is a fermented milk drink, sometimes also spelled kephir or kefier.** In Hebrew it is written two ways, "קפיר" and "כפיר" — both refer to exactly the same drink.
 
