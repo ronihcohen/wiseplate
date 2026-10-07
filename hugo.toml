@@ -1,5 +1,6 @@
 baseURL = 'https://wiseplate.blog/'
-# Hebrew is the site; English holds translations of individual articles only.
+# Hebrew is the original; every article and section also has an English
+# translation.
 # Hebrew stays at the root so no existing URL moves, and English lives under
 # /en/. A page is translated by adding a sibling file with an .en.md suffix
 # (content/food/kefir.md -> content/food/kefir.en.md); see CLAUDE.md.
@@ -52,16 +53,15 @@ canonifyURLs = true
       inLanguage = 'en'
       dateFormat = 'January 2, 2006'
 
-# English has no section or tag pages: with only a handful of translated
-# articles they would be near-empty hubs, and translated articles carry no
-# tags. (disableKinds is site-wide, so it cannot do this per language.) The
-# English home, /en/, lists every English article (layouts/index.en.html).
+# English has no tag pages: translated articles carry no tags, since tag names
+# are Hebrew. (disableKinds is site-wide, so it cannot do this per language.)
+# English sections do render, from their _index.en.md files.
 [[cascade]]
   [cascade.build]
     render = 'never'
   [cascade.target]
     lang = 'en'
-    kind = '{section,taxonomy,term}'
+    kind = '{taxonomy,term}'
 
 # Hugo turns on its built-in link and image render hooks for multilingual
 # sites, which rewrites every in-page "#anchor" link into an absolute URL.

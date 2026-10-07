@@ -9,6 +9,8 @@
   let results = [];
   let active = -1;
   let revision = 0;
+  // Status messages come from the page (i18n/*.yaml via search.html).
+  const msg = root.dataset;
 
   // Ignore case, punctuation and Hebrew vowel/cantillation marks.
   const normalize = (value) => value.normalize('NFKD').toLowerCase()
@@ -55,7 +57,7 @@
       return;
     }
     panel.hidden = false;
-    status.textContent = 'טוען חיפוש…';
+    status.textContent = msg.loading;
     try {
       const pages = await loadIndex();
       if (current !== revision) return;
@@ -63,7 +65,7 @@
       results = pages.filter((page) => words.every((word) => page.text.includes(word)))
         .map((page) => ({ ...page, score: page.name === query ? 0
           : page.name.startsWith(query) ? 1 : page.name.includes(query) ? 2 : 3 }))
-        .sort((a, b) => a.score - b.score || a.title.localeCompare(b.title, 'he'))
+        .sort((a, b) => a.score - b.score || a.title.localeCompare(b.title, document.documentElement.lang))
         .slice(0, 10);
       results.forEach((page, i) => {
         const item = document.createElement('li');
@@ -83,10 +85,10 @@
         list.append(item);
       });
       input.setAttribute('aria-expanded', String(results.length > 0));
-      status.textContent = results.length ? `מוצגות ${results.length} הצעות` : 'לא נמצאו תוצאות';
+      status.textContent = results.length ? msg.found.replace('%d', results.length) : msg.none;
     } catch {
       if (current !== revision) return;
-      status.textContent = 'לא ניתן לטעון את החיפוש. נסו שוב.';
+      status.textContent = msg.error;
     }
   }
 
