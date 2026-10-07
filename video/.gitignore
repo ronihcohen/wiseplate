@@ -1,0 +1,4 @@
+# Generated media and downloaded models/fonts (see README.md)
+out/
+.cache/
+__pycache__/
