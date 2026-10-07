@@ -131,7 +131,7 @@ def wrap(text, font, max_w):
 @lru_cache(maxsize=4096)
 def text_surface(text, size=60, font="rubik", weight=500, color="ink", max_w=None,
                  align="center", line_h=1.18, stroke=0, stroke_color="white"):
-    if font == "fredoka" and any(c in text for c in "≠≤≥"):
+    if font == "fredoka" and any(c in text for c in "≠≤≥≈"):
         font = "rubik"  # Fredoka has no math glyphs
         weight = min(700, weight + 100)
     f = _font(font, size, weight)

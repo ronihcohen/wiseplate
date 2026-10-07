@@ -133,7 +133,7 @@ def build_timeline():
                     e["_at_k"] = resolve(el["at_k"], lines)
                 if "grab" in el:
                     e["_grab"] = resolve(el["grab"], lines)
-                if e["type"] == "bars":
+                if e["type"] in ("bars", "versus"):
                     e["rows"] = [dict(r, _at=resolve(r["at"], lines)) for r in el["rows"]]
                 els.append(e)
             s["els"] = els
@@ -399,7 +399,7 @@ def build_audio(path):
             kind = elements.SFX.get(el["type"])
             if el["type"] == "check" and not el["ok"]:
                 kind = "buzz"
-            if el["type"] == "bars":
+            if el["type"] in ("bars", "versus"):
                 for r in el["rows"]:
                     put(fx, audio.sfx("tick"), r["_at"])
             if el["type"] == "people":
@@ -475,21 +475,30 @@ def thumbnail(path):
         ctx.close_path()
         ctx.set_source_rgba(1, 1, 1, 0.22)
         ctx.fill()
+    th = getattr(EP, "THUMB", {})
     import random
     rnd = random.Random(5)
-    for i in range(14):
-        gfx.seed(ctx, rnd.uniform(900, 1880), rnd.uniform(40, 1040), rnd.uniform(70, 130), "green",
-                 rnd.uniform(-1.5, 1.5), 0.9)
-    gfx.pip(ctx, 1380, 600, 760, 0.6, 0.0, "surprised", (-0.4, 0.0), False, 1.0, -0.08)
-    gfx.text(ctx, "TINY SEED", 70, 300, 190, "fredoka", 700, "white", anchor="l", stroke=14, stroke_color="#064E3B")
-    gfx.text(ctx, "BIG DEAL?", 70, 520, 210, "fredoka", 700, "#F97316", anchor="l", stroke=14, stroke_color="#064E3B")
+    for i in range(14):  # scattered food (pumpkin seeds by default)
+        x, y, s, r = rnd.uniform(900, 1880), rnd.uniform(40, 1040), rnd.uniform(70, 130), rnd.uniform(-1.5, 1.5)
+        if th.get("scatter"):
+            gfx.emoji(ctx, th["scatter"], x, y, s * 0.9, 1.0, 0.9, r * 0.3)
+        else:
+            gfx.seed(ctx, x, y, s, "green", r, 0.9)
+    gfx.pip(ctx, 1380, 600, 760, 0.6, 0.0, th.get("mood", "surprised"), (-0.4, 0.0), False, 1.0, -0.08)
+    if th.get("hero"):  # the food itself, next to Pip
+        gfx.emoji(ctx, th["hero"], 1000, 820, 300, 1.0, 1.0, -0.12)
+    gfx.text(ctx, th.get("top", "TINY SEED"), 70, 300, th.get("top_size", 190), "fredoka", 700, "white",
+             anchor="l", stroke=14, stroke_color="#064E3B")
+    gfx.text(ctx, th.get("bottom", "BIG DEAL?"), 70, 520, th.get("bottom_size", 210), "fredoka", 700, "#F97316",
+             anchor="l", stroke=14, stroke_color="#064E3B")
     # badge
     ctx.save()
     ctx.translate(330, 820)
     ctx.rotate(-0.06)
-    gfx.card(ctx, -280, -105, 580, 210, "#0EA5E9", 40, 1.0)
-    gfx.text(ctx, "37%", -130, -8, 130, "fredoka", 700, "white")
-    gfx.text(ctx, "magnesium\nper handful", 40, 0, 46, "fredoka", 600, "white", align="left", anchor="l")
+    gfx.card(ctx, -280, -105, 580, 210, th.get("badge_color", "#0EA5E9"), 40, 1.0)
+    gfx.text(ctx, th.get("badge", "37%"), -130, -8, th.get("badge_size", 130), "fredoka", 700, "white")
+    gfx.text(ctx, th.get("badge_label", "magnesium\nper handful"), 40, 0, 46, "fredoka", 600, "white",
+             align="left", anchor="l")
     ctx.restore()
     gfx.blit(ctx, gfx.png_surface(LOGO, 120), 1820, 980)
     surf.flush()

@@ -157,11 +157,55 @@ def r_bars(ctx, el, t, tl):
             ctx.set_source_rgba(*rgb(row["color"], a))
             gfx.rrect(ctx, x0 + label_w, y - 28, max(56, bw), 56, 28)
             ctx.fill()
-        val = int(round(row["value"] * ease_out_cubic(p)))
-        gfx.text(ctx, f"{val}%", x0 + label_w + max(56, bw) + 20, y, 46, "fredoka", 700, row["color"], alpha=a, anchor="l")
+        dec = row.get("decimals", el.get("decimals", 0))
+        val = f'{row["value"] * ease_out_cubic(p):.{dec}f}{row.get("unit", el.get("unit", "%"))}'
+        if row.get("text") and p >= 1:
+            val = row["text"]
+        gfx.text(ctx, val, x0 + label_w + max(56, bw) + 20, y, 46, "fredoka", 700, row["color"], alpha=a, anchor="l")
         if row.get("star") and p >= 1:
             pulse = 1 + 0.08 * math.sin(t * 6)
             gfx.emoji(ctx, "⭐", x0 + label_w + bw + 150, y, 54, pulse, a)
+
+
+def r_versus(ctx, el, t, tl):
+    """Side-by-side comparison: per row, two bars (A on top, B below), each
+    scaled to that row's larger value. Rows: label, a, b, unit, decimals, at."""
+    x0, y0, W, rh = el["x"], el["y"], el["w"], el.get("row_h", 120)
+    label_w = el.get("label_w", 300)
+    ca, cb = el.get("color_a", "green"), el.get("color_b", "#94A3B8")
+    a0 = clamp((t - el["_at"]) / 0.3)
+    if a0 > 0 and el.get("names"):  # legend
+        na, nb = el["names"]
+        lx = x0 + label_w
+        ctx.set_source_rgba(*rgb(ca, a0))
+        gfx.rrect(ctx, lx, y0 - 92, 40, 40, 12)
+        ctx.fill()
+        wa, _ = gfx.text(ctx, na, lx + 56, y0 - 72, 40, "fredoka", 600, ca, alpha=a0, anchor="l")
+        ctx.set_source_rgba(*rgb(cb, a0))
+        gfx.rrect(ctx, lx + 56 + wa + 50, y0 - 92, 40, 40, 12)
+        ctx.fill()
+        gfx.text(ctx, nb, lx + 56 + wa + 106, y0 - 72, 40, "fredoka", 600, "#64748B", alpha=a0, anchor="l")
+    full = W - label_w - 200
+    for i, row in enumerate(el["rows"]):
+        at = row["_at"]
+        p = ease_out_cubic(clamp((t - at) / 0.9))
+        a = clamp((t - at) / 0.25)
+        if a <= 0:
+            continue
+        y = y0 + i * rh
+        gfx.text(ctx, row["label"], x0 + label_w - 24, y, 44, "fredoka", 600, "ink", alpha=a, anchor="r")
+        m = max(row["a"], row["b"]) or 1
+        dec = row.get("decimals", 0)
+        unit = row.get("unit", "")
+        for j, (v, c) in enumerate(((row["a"], ca), (row["b"], cb))):
+            yy = y - 24 + j * 48
+            bw = max(40, full * v / m * p)
+            ctx.set_source_rgba(*rgb(c, a))
+            gfx.rrect(ctx, x0 + label_w, yy - 19, bw, 38, 19)
+            ctx.fill()
+            txt = row.get(("a_text", "b_text")[j]) if p >= 1 else None
+            gfx.text(ctx, txt or f"{v * p:.{dec}f}{unit}", x0 + label_w + bw + 16, yy, 36, "fredoka", 700,
+                     c if j == 0 else "#64748B", alpha=a, anchor="l")
 
 
 def r_ring(ctx, el, t, tl):
@@ -357,7 +401,7 @@ def r_endslot(ctx, el, t, tl):
 
 RENDER = {
     "text": r_text, "emoji": r_emoji, "card": r_card, "pill": r_pill, "banner": r_banner,
-    "stat": r_stat, "bars": r_bars, "ring": r_ring, "people": r_people, "seed": r_seed,
+    "stat": r_stat, "bars": r_bars, "versus": r_versus, "ring": r_ring, "people": r_people, "seed": r_seed,
     "seedpile": r_seedpile, "arrow": r_arrow, "check": r_check, "phytate": r_phytate,
     "zzz": r_zzz, "confetti": r_confetti, "logo": r_logo, "endslot": r_endslot,
 }
