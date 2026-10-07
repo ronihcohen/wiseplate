@@ -96,9 +96,12 @@ article, add a sibling file with an `.en.md` suffix, e.g.
 `<head>` and the sitemap, and a language switcher appears in the nav of both
 versions. Pages without a translation show no switcher.
 
-- English has no home, section or tag pages (a `[[cascade]]` in `hugo.toml`
-  stops them rendering), so translated articles carry no `tags` and their
+- English has no section or tag pages (a `[[cascade]]` in `hugo.toml` stops
+  them rendering), so translated articles carry no `tags` and their
   breadcrumb is just Home › title.
+- The English home, `/en/` (`content/_index.en.md` +
+  `layouts/index.en.html`), lists every English article automatically,
+  newest first. The Hebrew home links to it through the language switcher.
 - Write the English FAQ as `### Question: ...?` / `Answer: ...` — head.html
   parses those labels into FAQPage the same way as `שאלה:` / `תשובה:`, and the
   heading `## Frequently asked questions` gets the FAQ styling.

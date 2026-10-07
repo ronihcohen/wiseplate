@@ -5,7 +5,7 @@
   <div class="container">
 
     <nav class="breadcrumb" aria-label="breadcrumb" style="justify-content:center;">
-      <a href="{{ "/" | relURL }}">{{ T "home" }}</a>
+      <a href="{{ site.Home.RelPermalink }}">{{ T "home" }}</a>
       <span class="breadcrumb-sep" aria-hidden="true">›</span>
       {{ if and .Parent .Parent.File }}
         {{ if not .Parent.IsHome }}

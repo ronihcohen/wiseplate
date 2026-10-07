@@ -1,0 +1,28 @@
+{{ define "main" }}
+{{/* The English home is the index of every English article. It lists
+     site.RegularPages, which on the English site is exactly the translated
+     articles, so a new .en.md file appears here with no template change. */}}
+
+<section class="hero">
+  <div class="container">
+    <span class="hero-label">Nutrition science</span>
+    <h1 class="hero-title">{{ .Title }}</h1>
+    <p class="hero-description">{{ .Description }}</p>
+  </div>
+</section>
+
+<section class="section section-alt">
+  <div class="container">
+    <div class="section-header">
+      <p class="section-label">{{ len site.RegularPages }} {{ cond (eq (len site.RegularPages) 1) "article" "articles" }}</p>
+      <h2 class="section-title">All articles in English</h2>
+    </div>
+    <div class="article-grid">
+      {{ range site.RegularPages.ByDate.Reverse }}
+        {{ partial "article-card.html" . }}
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+{{ end }}

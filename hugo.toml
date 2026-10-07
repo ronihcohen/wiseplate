@@ -52,15 +52,16 @@ canonifyURLs = true
       inLanguage = 'en'
       dateFormat = 'January 2, 2006'
 
-# English has no home, section or tag pages: with only a handful of translated
+# English has no section or tag pages: with only a handful of translated
 # articles they would be near-empty hubs, and translated articles carry no
-# tags. (disableKinds is site-wide, so it cannot do this per language.)
+# tags. (disableKinds is site-wide, so it cannot do this per language.) The
+# English home, /en/, lists every English article (layouts/index.en.html).
 [[cascade]]
   [cascade.build]
     render = 'never'
   [cascade.target]
     lang = 'en'
-    kind = '{home,section,taxonomy,term}'
+    kind = '{section,taxonomy,term}'
 
 # Hugo turns on its built-in link and image render hooks for multilingual
 # sites, which rewrites every in-page "#anchor" link into an absolute URL.
