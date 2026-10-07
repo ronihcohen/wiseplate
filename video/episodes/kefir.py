@@ -232,7 +232,7 @@ CHAPTERS = [
         ], "els": [
             T("% Daily Value per cup", 760, 175, 56, at=0, font="fredoka", weight=600, color="green"),
             {"type": "bars", "x": 260, "y": 300, "w": 1000, "row_h": 105, "max": 34, "rows": [
-                {"label": "B12", "value": 30, "text": "~30%", "color": "#8B5CF6", "at": [1, "B12"], "star": True},
+                {"label": "B12", "value": 30, "text": "~30%", "color": "#8B5CF6", "at": [1, "B12"]},
                 {"label": "Riboflavin", "value": 25, "text": "~25%", "color": "#F97316", "at": [1, "Riboflavin"]},
                 {"label": "Calcium", "value": 20, "text": "~20%", "color": "#0EA5E9", "at": [1, "Calcium"]},
                 {"label": "Phosphorus", "value": 20, "text": "~20%", "color": "#14B8A6", "at": [1, "phosphorus"]},
@@ -251,7 +251,7 @@ CHAPTERS = [
             {"type": "bars", "x": 230, "y": 340, "w": 1080, "row_h": 140, "max": 62, "suffix": "", "rows": [
                 {"label": "Yogurt", "value": 5, "text": "2–5", "color": "#94A3B8", "at": [0, "yogurt"]},
                 {"label": "Store kefir", "value": 9, "text": "7–9", "color": "#0EA5E9", "at": [1, "Store"]},
-                {"label": "Homemade", "value": 60, "text": "30–60+", "color": "#8B5CF6", "at": [1, "homemade"], "star": True},
+                {"label": "Homemade", "value": 60, "text": "30–60+", "color": "#8B5CF6", "at": [1, "homemade"]},
             ]},
             T("homemade = kefir from real grains", 760, 800, 38, at=[1, "grains"], color="muted"),
         ]},
