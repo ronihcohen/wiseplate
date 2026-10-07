@@ -7,9 +7,9 @@ featured_image: ""
 description: "Papaya's benefits and full nutrition facts (43 calories per 100 g), what the enzyme papain really does, whether you can eat papaya seeds, and the downsides."
 ---
 
-{{< youtube id="az5cK4P9Gp4" title="Papaya: More Vitamin C Than an Orange? (video)" loading="lazy" >}}
-
 ## Papaya (*Carica papaya*)
+
+{{< youtube id="az5cK4P9Gp4" title="Papaya: More Vitamin C Than an Orange? (video)" loading="lazy" >}}
 
 Papaya is a tropical fruit that originated in Central America and is now grown around the world. Nutritionally it stands out for three things: an **unusually large amount of vitamin C** (about 61 mg per 100 g, almost double an orange), a high concentration of carotenoids, and a unique enzyme called papain that breaks down protein.
 
