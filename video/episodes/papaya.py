@@ -161,7 +161,7 @@ CHAPTERS = [
             {"type": "check", "x": 160, "y": 220, "w": 1300, "ok": True, "text": "Tenderizes meat: proven", "at": [0, "tenderizes"]},
             {"type": "check", "x": 160, "y": 350, "w": 1300, "ok": True, "text": "Digestion supplements: mixed results", "at": [1, "mixed"]},
             {"type": "card", "x": 720, "y": 600, "w": 1000, "h": 180, "emoji": "🍈", "title": "Ripe fruit ≠ supplement",
-             "body": "much less papain · stomach acid breaks some down", "at": [2, "ripe"]},
+             "body": "less papain · stomach acid breaks it", "at": [2, "ripe"]},
         ]},
         {"pip": PIP_R, "lines": [
             ("H", "What it doesn't do: papaya doesn't burn fat, doesn't cleanse your liver, and doesn't replace pancreatic enzymes "
@@ -296,7 +296,8 @@ CHAPTERS = [
                   "A completely green fruit won't ripen well after picking.", {}),
             ("H", "Squeeze lemon over it. It neutralizes that typical smell, and adds even more vitamin C.", {}),
         ], "els": [
-            {"type": "card", "x": 450, "y": 330, "w": 560, "h": 200, "emoji": "🟡", "title": "Ripe", "body": "yellow-orange · gives a little", "at": [0, "yellow"], "fill": "#DCFCE7"},
+            T("Picking a ripe one", 750, 150, 56, at=0, font="fredoka", weight=600, color="green"),
+            {"type": "card", "x": 450, "y": 330, "w": 560, "h": 200, "emoji": "🟡", "title": "Ripe", "body": "yellow-orange, soft", "at": [0, "yellow"], "fill": "#DCFCE7"},
             {"type": "card", "x": 1060, "y": 330, "w": 560, "h": 200, "emoji": "🟢", "title": "All green", "body": "won't ripen well", "at": [0, "green"], "fill": "#FEE2E2"},
             {"type": "card", "x": 750, "y": 640, "w": 1000, "h": 170, "emoji": "🍋", "title": "Add lemon", "body": "less smell, more vitamin C", "at": [1, "lemon"]},
         ]},

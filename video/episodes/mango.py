@@ -23,7 +23,7 @@ PIP_C = {"x": 960, "y": 560, "size": 420}      # Pip centre stage
 PIP_S = {"x": 1720, "y": 700, "size": 220}     # Pip small, bottom right
 
 THUMB = {"top": "MANGO", "top_size": 210, "bottom": "TOO SWEET?", "bottom_size": 190,
-         "badge": "27 g", "badge_label": "sugar per\nmedium mango", "badge_color": "#F97316",
+         "badge": "27 g", "badge_label": "sugar in\none mango", "badge_color": "#F97316",
          "scatter": "🥭", "hero": "🥭", "mood": "surprised"}
 
 MUSIC = {
@@ -116,7 +116,7 @@ CHAPTERS = [
         ], "els": [
             T("100 g fresh ≈ half a mango", 720, 170, 66, at=0, font="fredoka", weight=700, color="green"),
             {"type": "stat", "x": 340, "y": 450, "w": 380, "h": 290, "value": 60, "unit": "", "label": "calories", "emoji": "🔥", "at": [1, "sixty"]},
-            {"type": "stat", "x": 750, "y": 450, "w": 380, "h": 290, "value": 13.7, "decimals": 1, "unit": " g", "label": "sugars (of 15 g carbs)", "emoji": "🍬", "at": [1, "thirteen"]},
+            {"type": "stat", "x": 750, "y": 450, "w": 380, "h": 290, "value": 13.7, "decimals": 1, "unit": " g", "label": "sugars", "emoji": "🍬", "at": [1, "thirteen"]},
             {"type": "stat", "x": 1160, "y": 450, "w": 380, "h": 290, "value": 1.6, "decimals": 1, "unit": " g", "label": "fiber", "emoji": "🌾", "at": [1, "fiber"]},
             T("protein 0.8 g · fat 0.4 g", 750, 690, 44, at=[1, "protein"], color="muted"),
         ]},
@@ -153,6 +153,7 @@ CHAPTERS = [
                   "And eaten in the same meal, it significantly boosts how much plant iron you absorb.", {}),
             ("P", "Mango beats orange? Somebody call the orange's lawyer.", {"mood": "surprised", "jump": True}),
         ], "els": [
+            T("Benefit 1: vitamin C", 720, 110, 56, at=0, font="fredoka", weight=600, color="green"),
             {"type": "ring", "x": 420, "y": 350, "r": 170, "value": 40, "color": "#F97316", "label": "vitamin C", "at": [0, "forty"]},
             T("> an orange, same weight", 1050, 300, 50, at=[0, "orange"], font="fredoka", weight=700, color="orange"),
             {"type": "card", "x": 450, "y": 690, "w": 520, "h": 150, "emoji": "🧴", "title": "Collagen", "at": [1, "collagen"]},
@@ -167,6 +168,7 @@ CHAPTERS = [
              {"say": "Mango also has lutein and zee-uh-zanthin, two carotenoids that build up in the retina of the eye, "
                      "and are linked with protection against macular degeneration."}),
         ], "els": [
+            T("Benefit 2: carotenoids", 720, 120, 56, at=0, font="fredoka", weight=600, color="green"),
             {"type": "card", "x": 360, "y": 300, "w": 520, "h": 170, "emoji": "🧡", "title": "Beta-carotene", "at": [0, "beta"]},
             {"type": "arrow", "x1": 640, "y1": 300, "x2": 790, "y2": 300, "at": [0, "turns"]},
             {"type": "card", "x": 1050, "y": 300, "w": 480, "h": 170, "emoji": "👀", "title": "Vitamin A", "at": [0, "vitamin"]},
@@ -184,9 +186,9 @@ CHAPTERS = [
             ("P", "So mangiferin is a lab superstar. Not famous with humans yet.", {"mood": "smug"}),
         ], "els": [
             T("Mangiferin", 720, 200, 110, at=[0, "mangiferin"], font="fredoka", weight=700, color="#7C3AED"),
-            {"type": "pill", "x": 340, "y": 400, "text": "antioxidant", "color": "green", "at": [1, "antioxidant"]},
+            {"type": "pill", "x": 290, "y": 400, "text": "antioxidant", "color": "green", "at": [1, "antioxidant"]},
             {"type": "pill", "x": 720, "y": 400, "text": "anti-inflammatory", "color": "#0EA5E9", "at": [1, "anti"]},
-            {"type": "pill", "x": 1100, "y": 400, "text": "sugar and fat?", "color": "#F59E0B", "at": [1, "sugar"]},
+            {"type": "pill", "x": 1170, "y": 400, "text": "sugar and fat?", "color": "#F59E0B", "at": [1, "sugar"]},
             {"type": "card", "x": 720, "y": 620, "w": 1000, "h": 170, "emoji": "🐭", "title": "Mostly lab and animal studies",
              "at": [2, "lab"], "fill": "#FEF3C7"},
         ]},
@@ -213,7 +215,7 @@ CHAPTERS = [
                   "A mango is not a sugary drink. Still, the amount isn't trivial.", {}),
         ], "els": [
             {"type": "stat", "x": 450, "y": 330, "w": 460, "h": 300, "value": 27, "unit": " g", "label": "sugar, medium mango", "emoji": "🍬", "at": [0, "Twenty"], "color": "orange"},
-            {"type": "card", "x": 1080, "y": 330, "w": 560, "h": 220, "emoji": "🩺", "title": "Matters for",
+            {"type": "card", "x": 1100, "y": 330, "w": 640, "h": 220, "emoji": "🩺", "title": "Matters for",
              "body": "diabetes · prediabetes · low-carb", "at": [0, "diabetes"]},
             {"type": "pill", "x": 760, "y": 640, "text": "comes with fiber, water, vitamins", "color": "ok", "at": [1, "fiber"]},
             {"type": "pill", "x": 760, "y": 740, "text": "not a sugary drink, but not trivial", "color": "orange", "at": [1, "trivial"]},
@@ -236,6 +238,7 @@ CHAPTERS = [
                   "thanks to the fiber and water. Dried mango or mango juice? A whole different story.", {}),
             ("P", "Fresh mango, fine. Mango juice, suspicious. Noted.", {"mood": "smug"}),
         ], "els": [
+            T("In practice", 720, 140, 56, at=0, font="fredoka", weight=600, color="green"),
             {"type": "check", "x": 160, "y": 260, "w": 1280, "ok": True, "text": "Fresh, sensible amount: no sharp spike", "at": [0, "spike"]},
             {"type": "check", "x": 160, "y": 400, "w": 1280, "ok": False, "text": "Dried mango, mango juice", "at": [0, "Dried"]},
         ]},
@@ -262,7 +265,7 @@ CHAPTERS = [
                   "The fix: peel with gloves, or wash well, and eat only the flesh.", {}),
             ("P", "Poison ivy? In a mango? This is the plot twist of the year.", {"mood": "surprised", "jump": True}),
         ], "els": [
-            T("Urushiol", 720, 190, 110, at=[0, "urushiol"], font="fredoka", weight=700, color="red"),
+            T("Urushiol", 720, 190, 110, at=0, font="fredoka", weight=700, color="red"),
             T("in the peel and sap, like poison ivy", 720, 300, 46, at=[0, "poison"], color="muted"),
             {"type": "card", "x": 450, "y": 520, "w": 560, "h": 170, "emoji": "😣", "title": "Itchy rash", "body": "mouth and hands", "at": [1, "rash"]},
             {"type": "card", "x": 1050, "y": 520, "w": 560, "h": 170, "emoji": "🧤", "title": "Gloves, wash", "body": "eat only the flesh", "at": [1, "gloves"], "fill": "#DCFCE7"},

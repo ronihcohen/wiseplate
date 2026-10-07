@@ -71,7 +71,7 @@ CHAPTERS = [
             E("🦐", 420, 330, 200, at=[0, "shrimp"], wobble=True),
             T("Shrimp", 640, 300, 140, at=[0, "shrimp"], font="fredoka", weight=700, color="green", anchor="l"),
             {"type": "card", "x": 760, "y": 520, "w": 640, "h": 110, "emoji": "💪", "title": "The protein", "at": [0, "protein"]},
-            {"type": "card", "x": 760, "y": 650, "w": 640, "h": 110, "emoji": "🔎", "title": "The cholesterol question", "at": [0, "cholesterol"]},
+            {"type": "card", "x": 760, "y": 650, "w": 640, "h": 110, "emoji": "🔎", "title": "Cholesterol", "at": [0, "cholesterol"]},
             {"type": "card", "x": 760, "y": 780, "w": 640, "h": 110, "emoji": "⚠️", "title": "The real downsides", "at": [0, "downsides"]},
         ]},
     ]},
@@ -97,7 +97,7 @@ CHAPTERS = [
         ], "els": [
             T("Per 100 g cooked", 760, 150, 56, at=0, font="fredoka", weight=600, color="green"),
             {"type": "stat", "x": 330, "y": 370, "w": 400, "h": 260, "value": 0.3, "decimals": 1, "unit": " g", "label": "fat", "emoji": "🫒", "at": [0, "fat"]},
-            {"type": "stat", "x": 760, "y": 370, "w": 400, "h": 260, "value": 0.1, "decimals": 1, "unit": " g", "label": "saturated fat", "emoji": "🧈", "at": [0, "saturated"]},
+            {"type": "stat", "x": 760, "y": 370, "w": 400, "h": 260, "value": 0.1, "decimals": 1, "unit": " g", "label": "sat. fat", "emoji": "🧈", "at": [0, "saturated"]},
             {"type": "stat", "x": 1190, "y": 370, "w": 400, "h": 260, "value": 0.2, "decimals": 1, "unit": " g", "label": "carbs", "emoji": "🍞", "at": [0, "carbs"]},
             {"type": "stat", "x": 330, "y": 680, "w": 400, "h": 260, "value": 237, "unit": " mg", "label": "phosphorus", "emoji": "🦴", "at": [1, "phosphorus"]},
             {"type": "stat", "x": 760, "y": 680, "w": 400, "h": 260, "value": 111, "unit": " mg", "label": "sodium", "emoji": "🧂", "at": [1, "sodium"]},
@@ -129,10 +129,10 @@ CHAPTERS = [
                      "but also a rise in H D L. So the ratio between them, a more informative risk marker, barely changed."}),
         ], "els": [
             {"type": "card", "x": 720, "y": 230, "w": 1000, "h": 180, "emoji": "📜", "title": "2015: the 300 mg limit dropped",
-             "body": "US Dietary Guidelines", "at": [0, "dropped"]},
+             "body": "US Dietary Guidelines", "at": 0},
             T("Shrimp trials", 720, 490, 56, at=[1, "trials"], font="fredoka", weight=700, color="green"),
-            {"type": "pill", "x": 420, "y": 600, "text": "LDL: a bit up", "color": "orange", "at": [1, "modest"]},
-            {"type": "pill", "x": 760, "y": 600, "text": "HDL: up too", "color": "ok", "at": [1, "also"]},
+            {"type": "pill", "x": 330, "y": 600, "text": "LDL: a bit up", "color": "orange", "at": [1, "modest"]},
+            {"type": "pill", "x": 660, "y": 600, "text": "HDL: up too", "color": "ok", "at": [1, "also"]},
             {"type": "pill", "x": 1110, "y": 600, "text": "ratio: barely changed", "color": "green", "at": [1, "ratio"]},
         ]},
         {"pip": PIP_R, "lines": [

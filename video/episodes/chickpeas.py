@@ -24,7 +24,7 @@ PIP_C = {"x": 960, "y": 560, "size": 420}      # Pip centre stage
 PIP_S = {"x": 1720, "y": 700, "size": 220}     # Pip small, bottom right
 
 THUMB = {"top": "CHICKPEAS", "top_size": 170, "bottom": "CARB OR PROTEIN?", "bottom_size": 120,
-         "badge": "27 / 9", "badge_size": 100, "badge_label": "g carbs / protein\nper 100 g", "badge_color": "#0EA5E9",
+         "badge": "27 / 9", "badge_size": 100, "badge_label": "carbs, protein\ng per 100 g", "badge_color": "#0EA5E9",
          "scatter": "🫘", "hero": "🧆", "mood": "surprised"}
 
 MUSIC = {
@@ -101,7 +101,7 @@ CHAPTERS = [
             ("P", "Beans and dip are different foods? My mind is blown.", {"mood": "surprised", "jump": True}),
         ], "els": [
             {"type": "card", "x": 440, "y": 270, "w": 580, "h": 190, "emoji": "🫘", "title": "Chickpeas",
-             "body": "Cicer arietinum · garbanzo beans", "at": [0, "chickpeas,"]},
+             "body": "Cicer arietinum · garbanzo beans", "at": 0},
             {"type": "card", "x": 1060, "y": 270, "w": 580, "h": 190, "emoji": "🥣", "title": "Hummus",
              "body": "the spread", "at": [1, "Hummus"]},
             T("+ tahini, olive oil, lemon, garlic", 1060, 440, 38, at=[1, "tahini"], color="muted"),
@@ -149,7 +149,7 @@ CHAPTERS = [
                   "And they don't even have to be in the same meal. Over the day is enough.", {}),
         ], "els": [
             {"type": "card", "x": 440, "y": 270, "w": 580, "h": 190, "emoji": "🫘", "title": "Chickpeas",
-             "body": "low methionine · high lysine", "at": [0, "methionine"]},
+             "body": "low methionine · high lysine", "at": 0},
             {"type": "card", "x": 1060, "y": 270, "w": 580, "h": 190, "emoji": "🫓", "title": "Grains",
              "body": "the exact opposite", "at": [0, "Grains"]},
             {"type": "banner", "x": 750, "y": 530, "text": "Together: complete protein", "color": "#16A34A", "at": [1, "complete"]},
@@ -194,6 +194,7 @@ CHAPTERS = [
                   "That's why they're recommended for diabetes and prediabetes.", {}),
             ("H", "Benefit three: folate. Forty-three percent of the daily value in one serving, which matters especially in pregnancy, and when planning one.", {}),
         ], "els": [
+            T("Benefit 2: blood sugar", 720, 130, 56, at=0, font="fredoka", weight=600, color="green"),
             {"type": "stat", "x": 440, "y": 360, "w": 520, "h": 330, "value": 28, "unit": "", "label": "glycemic index", "emoji": "📉", "at": [0, "twenty"], "color": "ok"},
             T("one of the lowest for carb-rich foods", 440, 600, 36, at=[0, "lowest"], color="muted"),
             {"type": "stat", "x": 1060, "y": 360, "w": 520, "h": 330, "value": 43, "unit": "%", "label": "folate, daily value", "emoji": "🤰", "at": [1, "folate"]},
@@ -215,7 +216,7 @@ CHAPTERS = [
             {"type": "arrow", "x1": 560, "y1": 270, "x2": 680, "y2": 270, "at": [0, "colon"]},
             {"type": "card", "x": 900, "y": 270, "w": 400, "h": 160, "emoji": "🦠", "title": "Gut bacteria", "at": [0, "bacteria"]},
             {"type": "arrow", "x1": 1110, "y1": 270, "x2": 1180, "y2": 270, "at": [0, "butyrate."]},
-            {"type": "card", "x": 900, "y": 470, "w": 560, "h": 160, "emoji": "✨", "title": "Butyrate", "body": "feeds gut lining · calms inflammation", "at": [1, "Butyrate"]},
+            {"type": "card", "x": 900, "y": 480, "w": 820, "h": 160, "emoji": "✨", "title": "Butyrate", "body": "feeds gut lining · calms inflammation", "at": [1, "Butyrate"]},
             {"type": "check", "x": 160, "y": 720, "w": 1300, "ok": True, "text": "LDL: small but consistent drop", "at": [2, "L"]},
         ]},
     ]},
@@ -288,6 +289,7 @@ CHAPTERS = [
             ("H", "Three: a teaspoon of baking soda in the soaking water softens the beans and shortens cooking. "
                   "Four: cook them long and fully, until completely soft. A bean that stays hard digests poorly.", {}),
         ], "els": [
+            T("Beating the gas", 720, 110, 56, at=0, font="fredoka", weight=600, color="green"),
             {"type": "check", "x": 160, "y": 210, "w": 1300, "ok": True, "text": "1. Soak 8 to 12 hours, change the water", "at": [1, "soak"]},
             {"type": "check", "x": 160, "y": 340, "w": 1300, "ok": True, "text": "2. Pour it out, cook in fresh water", "at": [2, "pour"]},
             {"type": "check", "x": 160, "y": 470, "w": 1300, "ok": True, "text": "3. A teaspoon of baking soda", "at": [3, "baking"]},

@@ -24,7 +24,7 @@ PIP_C = {"x": 960, "y": 560, "size": 420}      # Pip centre stage
 PIP_S = {"x": 1720, "y": 700, "size": 220}     # Pip small, bottom right
 
 THUMB = {"top": "EGCG", "top_size": 220, "bottom": "FAT BURNER?", "bottom_size": 180,
-         "badge": "800 mg", "badge_size": 100, "badge_label": "the liver\ncaution line", "badge_color": "#DC2626",
+         "badge": "800 mg", "badge_size": 80, "badge_label": "the liver\ncaution line", "badge_color": "#DC2626",
          "scatter": "🍵", "hero": "🍵", "mood": "surprised"}
 
 MUSIC = {
@@ -126,7 +126,7 @@ CHAPTERS = [
         ], "els": [
             T("EGCG per cup", 760, 160, 56, at=0, font="fredoka", weight=600, color="green"),
             {"type": "bars", "x": 200, "y": 290, "w": 1200, "row_h": 108, "max": 130, "unit": " mg", "rows": [
-                {"label": "Matcha", "value": 130, "text": "70 to 130 mg", "color": "#16A34A", "at": [1, "Matcha"], "star": True},
+                {"label": "Matcha", "value": 130, "text": "70 to 130 mg", "color": "#16A34A", "at": [1, "Matcha"]},
                 {"label": "Gyokuro", "value": 90, "text": "60 to 90 mg", "color": "#65A30D", "at": [1, "gyokuro"]},
                 {"label": "Green tea", "value": 50, "text": "20 to 50 mg", "color": "#84CC16", "at": [1, "Regular"]},
                 {"label": "White tea", "value": 30, "text": "10 to 30 mg", "color": "#CBD5E1", "at": [1, "White"]},
@@ -153,7 +153,8 @@ CHAPTERS = [
             ("H", "The amount used in most clinical studies is two hundred to four hundred milligrams a day. "
                   "That's three to five cups of green tea, or a standardized supplement.", {}),
         ], "els": [
-            {"type": "stat", "x": 720, "y": 360, "w": 640, "h": 320, "value": 400, "unit": " mg", "label": "studied range: 200 to 400 mg a day", "emoji": "🎯", "at": [0, "two"]},
+            T("The studied dose", 720, 140, 56, at=0, font="fredoka", weight=600, color="green"),
+            {"type": "stat", "x": 720, "y": 360, "w": 640, "h": 320, "value": 400, "unit": " mg", "label": "studied: 200 to 400 mg a day", "emoji": "🎯", "at": [0, "two"]},
             {"type": "pill", "x": 720, "y": 650, "text": "= 3 to 5 cups of green tea", "color": "green", "at": [0, "cups"]},
         ]},
     ]},
@@ -184,7 +185,7 @@ CHAPTERS = [
             ("P", "So it's a fat-burner... if you do the burning. Sneaky.", {"mood": "smug"}),
         ], "els": [
             T("EGCG + caffeine", 450, 200, 64, at=0, font="fredoka", weight=700, color="green"),
-            {"type": "stat", "x": 450, "y": 430, "w": 460, "h": 280, "value": 4, "unit": "%", "label": "higher resting metabolism", "emoji": "⚡", "at": [0, "four"]},
+            {"type": "stat", "x": 450, "y": 430, "w": 460, "h": 280, "value": 4, "unit": "%", "label": "metabolism boost", "emoji": "⚡", "at": [0, "four"]},
             {"type": "card", "x": 1050, "y": 330, "w": 560, "h": 200, "emoji": "🛋️", "title": "No exercise?",
              "body": "fat gets stored again", "at": [1, "exercise"], "fill": "#FEE2E2"},
             {"type": "banner", "x": 760, "y": 760, "text": "It opens the door. You walk through.", "color": "#16A34A", "at": [2, "door"]},
@@ -229,7 +230,7 @@ CHAPTERS = [
             {"type": "card", "x": 760, "y": 400, "w": 1100, "h": 160, "emoji": "🩸", "title": "400 mg/day: slight HbA1c drop",
              "body": "type 2 diabetes · 12 weeks", "at": [1, "four"]},
             {"type": "card", "x": 760, "y": 600, "w": 1100, "h": 160, "emoji": "🧯", "title": "Calms inflammation switches",
-             "body": "NF-κB and COX-2 · milder than ibuprofen", "at": [2, "inflammation"]},
+             "body": "NF-kB and COX-2 · milder than ibuprofen", "at": [2, "inflammation"]},
         ]},
     ]},
     # ------------------------------------------------------------------ 5
@@ -246,8 +247,8 @@ CHAPTERS = [
             ("H", "But most of this evidence is still preclinical. In people, there's only an epidemiological link, not proven cause.", {}),
         ], "els": [
             T("Brain", 720, 160, 80, at=0, font="fredoka", weight=700, color="green"),
-            {"type": "card", "x": 720, "y": 320, "w": 1000, "h": 150, "emoji": "🐭", "title": "Alzheimer's mice: up to 50% fewer plaques", "at": [1, "mice"]},
-            {"type": "card", "x": 720, "y": 500, "w": 1000, "h": 150, "emoji": "🧠", "title": "Parkinson's models: neurons protected", "at": [2, "Parkinson's"]},
+            {"type": "card", "x": 720, "y": 320, "w": 1000, "h": 150, "emoji": "🐭", "title": "Up to 50% fewer plaques", "body": "Alzheimer's mice", "at": [1, "mice"]},
+            {"type": "card", "x": 720, "y": 500, "w": 1000, "h": 150, "emoji": "🧠", "title": "Neurons protected", "body": "Parkinson's models", "at": [2, "Parkinson's"]},
             {"type": "card", "x": 720, "y": 680, "w": 1000, "h": 150, "emoji": "🌱", "title": "More BDNF", "body": "brain cell fertilizer", "at": [2, "B"]},
             {"type": "banner", "x": 720, "y": 850, "text": "Mostly preclinical", "color": "#F97316", "at": [3, "preclinical"]},
         ]},
@@ -317,9 +318,9 @@ CHAPTERS = [
             T("#1 Liver: the big one", 760, 150, 72, at=0, font="fredoka", weight=700, color="red"),
             {"type": "card", "x": 760, "y": 330, "w": 1100, "h": 170, "emoji": "💊", "title": "Concentrated extracts",
              "body": "rare, documented liver damage", "at": [1, "liver"]},
-            {"type": "pill", "x": 400, "y": 580, "text": "800+ mg a day", "color": "red", "at": [2, "eight"]},
+            {"type": "pill", "x": 330, "y": 580, "text": "800+ mg a day", "color": "red", "at": [2, "eight"]},
             {"type": "pill", "x": 760, "y": 580, "text": "empty stomach", "color": "red", "at": [2, "empty"]},
-            {"type": "pill", "x": 1100, "y": 580, "text": "alcohol", "color": "red", "at": [2, "alcohol"]},
+            {"type": "pill", "x": 1150, "y": 580, "text": "alcohol", "color": "red", "at": [2, "alcohol"]},
             {"type": "banner", "x": 760, "y": 740, "text": "Normal tea drinking: no documented harm", "color": "#16A34A", "at": [2, "drinking"]},
         ]},
         {"pip": PIP_S, "lines": [

@@ -174,7 +174,7 @@ CHAPTERS = [
             {"type": "card", "x": 720, "y": 260, "w": 1000, "h": 190, "emoji": "💚", "title": "Lutein + zeaxanthin",
              "body": "richest nut · the source of the green color", "at": [0, "lutein"]},
             {"type": "card", "x": 720, "y": 520, "w": 1000, "h": 190, "emoji": "👁️", "title": "Build up in the retina",
-             "body": "linked with protection against macular degeneration", "at": [1, "retina"]},
+             "body": "linked to macular protection", "at": [1, "retina"]},
         ]},
     ]},
     # ------------------------------------------------------------------ 4
@@ -186,6 +186,7 @@ CHAPTERS = [
                      "and better function of the blood vessel lining, called the endo-theelium."}),
             ("H", "Pistachios also have phytosterols, which compete with cholesterol for absorption in the gut.", {}),
         ], "els": [
+            T("Heart health", 720, 120, 60, at=0, font="fredoka", weight=600, color="green"),
             {"type": "check", "x": 180, "y": 220, "w": 1260, "ok": True, "text": "Lower LDL", "at": [0, "L"]},
             {"type": "check", "x": 180, "y": 350, "w": 1260, "ok": True, "text": "Better blood vessel lining", "at": [0, "lining"]},
             {"type": "card", "x": 720, "y": 600, "w": 1000, "h": 180, "emoji": "🌿", "title": "Phytosterols",
@@ -197,6 +198,7 @@ CHAPTERS = [
             ("H", "They also have ten point six grams of fiber per hundred grams, and some of it feeds helpful gut bacteria.", {}),
             ("P", "Pistachios, calming down your bread. Respect.", {"mood": "happy"}),
         ], "els": [
+            T("Blood sugar", 720, 160, 60, at=0, font="fredoka", weight=600, color="green"),
             E("🍞", 400, 330, 160, at=[0, "carb"]),
             T("+", 600, 330, 110, at=[0, "adding"], font="fredoka", weight=700, color="orange"),
             E("🥜", 800, 330, 160, at=[0, "adding"]),
@@ -299,9 +301,9 @@ CHAPTERS = [
             ("H", "The pile of empty shells on your plate shows how much you've eaten, and cracking them slows you down.", {}),
             ("P", "Shells as a scoreboard. Genius.", {"mood": "happy", "jump": True}),
         ], "els": [
-            T("The pistachio principle", 720, 180, 80, at=[0, "principle"], font="fredoka", weight=700, color="green"),
+            T("The pistachio principle", 720, 180, 80, at=0, font="fredoka", weight=700, color="green"),
             {"type": "ring", "x": 420, "y": 500, "r": 170, "value": 41, "color": "#16A34A", "label": "fewer calories", "at": [0, "forty"]},
-            {"type": "card", "x": 1030, "y": 420, "w": 580, "h": 150, "emoji": "🐚", "title": "Shell pile", "body": "shows how much you ate", "at": [1, "pile"]},
+            {"type": "card", "x": 1030, "y": 420, "w": 580, "h": 150, "emoji": "🐚", "title": "Shell pile", "body": "shows what you ate", "at": [1, "pile"]},
             {"type": "card", "x": 1030, "y": 620, "w": 580, "h": 150, "emoji": "🐢", "title": "Cracking", "body": "slows you down", "at": [1, "cracking"]},
         ]},
         {"pip": PIP_R, "lines": [
@@ -312,6 +314,7 @@ CHAPTERS = [
              {"say": "They're also in Middle Eastern desserts like baklava, ka-nafeh and malabi, though there they come with lots of sugar. "
                      "And for pistachio butter, check for added sugar and palm oil."}),
         ], "els": [
+            T("In the kitchen", 720, 150, 60, at=0, font="fredoka", weight=600, color="green"),
             E("🐟", 300, 300, 140, at=[0, "crust"]),
             T("crust", 300, 410, 42, at=[0, "crust"], font="fredoka", weight=600),
             E("🥗", 620, 300, 140, at=[0, "salads"]),
