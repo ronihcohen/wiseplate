@@ -2,7 +2,7 @@
      ("קפיר: יתרונות וחסרונות") without changing the H1 shown on the page. */}}
 {{- $seoTitle := "" -}}
 {{- if .IsHome -}}
-  {{- $seoTitle = printf "%s — תזונה, ציוד וביצועים בספורט" .Site.Title -}}
+  {{- $seoTitle = printf "%s — %s" .Site.Title .Title -}}
 {{- else -}}
   {{- $seoTitle = printf "%s | %s" (.Params.seo_title | default .Title) .Site.Title -}}
 {{- end -}}
@@ -87,7 +87,7 @@
         "@context"   "https://schema.org"
         "@type"      "WebSite"
         "name"       .Site.Title
-        "url"        .Site.BaseURL
+        "url"        site.Home.Permalink
         "inLanguage" site.Params.inLanguage
         "description" $desc -}}
 <script type="application/ld+json">{{ $ld | jsonify | safeJS }}</script>
@@ -204,7 +204,7 @@
      which are never rendered, so they are left out of the trail. */}}
 {{- range .Ancestors.Reverse }}{{ if and (not .IsHome) .File }}{{ $chain = $chain | append . }}{{ end }}{{ end -}}
 {{- if $chain -}}
-  {{- $items := slice (dict "@type" "ListItem" "position" 1 "name" (T "home") "item" .Site.BaseURL) -}}
+  {{- $items := slice (dict "@type" "ListItem" "position" 1 "name" (T "home") "item" site.Home.Permalink) -}}
   {{- $pos := 1 -}}
   {{- range $chain -}}
     {{- $pos = add $pos 1 -}}
