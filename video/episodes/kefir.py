@@ -289,7 +289,7 @@ CHAPTERS = [
                   "And that calcium is absorbed better than from regular milk.",
              {"say": "Bones: kefir pairs calcium with vitamin K 2, made during fermentation, which helps send calcium into bone. "
                      "And that calcium is absorbed better than from regular milk."}),
-            ("H", "Cholesterol: several clinical studies linked regular kefir to lower L D L, the bad cholesterol.",
+            ("H", "Cholesterol: several clinical studies linked regular kefir to lower LDL, the bad cholesterol.",
              {"say": "Cholesterol: several clinical studies linked regular kefir to lower L D L, the bad cholesterol."}),
             ("P", "Ooh, actual human studies. Fancy.", {"mood": "happy"}),
         ], "els": [

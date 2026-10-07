@@ -187,7 +187,7 @@ CHAPTERS = [
     {"key": "heart", "title": "Heart Numbers", "emoji": "❤️", "scenes": [
         {"pip": PIP_S, "lines": [
             ("H", "So what about the heart? Meta-analyses of controlled trials found that eating sesame or sesame oil "
-                  "lowers total cholesterol, L D L, and triglycerides.",
+                  "lowers total cholesterol, LDL, and triglycerides.",
              {"say": "So what about the heart? Meta-analyses of controlled trials found that eating sesame or sesame oil "
                      "lowers total cholesterol, L D L, and triglycerides."}),
             ("H", "The effect is modest, but consistent. And most of the fat in sesame is polyunsaturated and monounsaturated.", {}),

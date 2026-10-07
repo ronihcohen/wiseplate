@@ -180,7 +180,7 @@ CHAPTERS = [
     # ------------------------------------------------------------------ 4
     {"key": "heart", "title": "Heart and Blood Sugar", "emoji": "❤️", "scenes": [
         {"pip": PIP_R, "lines": [
-            ("H", "Heart health: controlled studies found that swapping other snacks for pistachios was linked to lower L D L, "
+            ("H", "Heart health: controlled studies found that swapping other snacks for pistachios was linked to lower LDL, "
                   "and better function of the blood vessel lining, called the endothelium.",
              {"say": "Heart health: controlled studies found that swapping other snacks for pistachios was linked to lower L D L, "
                      "and better function of the blood vessel lining, called the endo-theelium."}),

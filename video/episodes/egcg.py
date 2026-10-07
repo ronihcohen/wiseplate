@@ -197,7 +197,7 @@ CHAPTERS = [
             ("H", "Heart health. Meta-analyses of observational studies show that regularly drinking three to five cups of green tea a day "
                   "is linked to about a ten to twenty percent lower risk of stroke and coronary heart disease.", {}),
             ("H", "That's a statistical link, not proven cause and effect.", {}),
-            ("H", "The proposed mechanisms: EGCG protects L D L from oxidation, an early step in hardening of the arteries. "
+            ("H", "The proposed mechanisms: EGCG protects LDL from oxidation, an early step in hardening of the arteries. "
                   "It boosts nitric oxide in blood vessels, lowering systolic blood pressure by two to three points on average. "
                   "And it reduces platelet clumping, in the same direction as low-dose aspirin, but much weaker.",
              {"say": "The proposed mechanisms: E G C G protects L D L from oxidation, an early step in hardening of the arteries. "

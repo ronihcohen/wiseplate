@@ -123,8 +123,8 @@ CHAPTERS = [
                   "which had been three hundred milligrams a day. They found not enough evidence to support it.",
              {"say": "In twenty fifteen, the U S Dietary Guidelines dropped the numeric limit on dietary cholesterol, "
                      "which had been three hundred milligrams a day. They found not enough evidence to support it."}),
-            ("H", "And for shrimp specifically: controlled trials that fed people large amounts of shrimp found a modest rise in L D L, "
-                  "but also a rise in H D L. So the ratio between them, a more informative risk marker, barely changed.",
+            ("H", "And for shrimp specifically: controlled trials that fed people large amounts of shrimp found a modest rise in LDL, "
+                  "but also a rise in HDL. So the ratio between them, a more informative risk marker, barely changed.",
              {"say": "And for shrimp specifically: controlled trials that fed people large amounts of shrimp found a modest rise in L D L, "
                      "but also a rise in H D L. So the ratio between them, a more informative risk marker, barely changed."}),
         ], "els": [
@@ -136,10 +136,10 @@ CHAPTERS = [
             {"type": "pill", "x": 1110, "y": 600, "text": "ratio: barely changed", "color": "green", "at": [1, "ratio"]},
         ]},
         {"pip": PIP_R, "lines": [
-            ("H", "Plus, shrimp is very low in saturated fat. And saturated fat is the dietary factor with a much stronger effect on L D L.",
+            ("H", "Plus, shrimp is very low in saturated fat. And saturated fat is the dietary factor with a much stronger effect on LDL.",
              {"say": "Plus, shrimp is very low in saturated fat. And saturated fat is the dietary factor with a much stronger effect on L D L."}),
             ("H", "The caveat: some people are hyper-responders, and dietary cholesterol does affect them noticeably. "
-                  "People with familial hypercholesterolemia, or very high L D L, should talk to their doctor, not generalize from this video.",
+                  "People with familial hypercholesterolemia, or very high LDL, should talk to their doctor, not generalize from this video.",
              {"say": "The caveat: some people are hyper responders, and dietary cholesterol does affect them noticeably. "
                      "People with familial hyper-cholesterol-emia, or very high L D L, should talk to their doctor, not generalize from this video."}),
             ("P", "So for most people, shrimp gets a pass. For some, ask a doctor first.", {"mood": "happy"}),

@@ -185,7 +185,7 @@ CHAPTERS = [
             ("H", "Now the benefits. About sixty percent of the fat in pecans is monounsaturated, mostly oleic acid. "
                   "That's the same fatty acid that dominates olive oil.", {}),
             ("H", "In controlled trials where pecans replaced some of the fat in people's diets, "
-                  "L D L and total cholesterol went down, without weight gain.",
+                  "LDL and total cholesterol went down, without weight gain.",
              {"say": "In controlled trials where pecans replaced some of the fat in people's diets, "
                      "L D L and total cholesterol went down, without weight gain."}),
             ("P", "Same fat as olive oil? Fancy.", {"mood": "happy"}),

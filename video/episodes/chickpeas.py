@@ -207,7 +207,7 @@ CHAPTERS = [
                      "It reaches the colon, where it feeds bacteria that make byoo-tuh-rate."}),
             ("H", "Butyrate is a short-chain fatty acid that feeds the cells lining your gut, and it has anti-inflammatory activity.",
              {"say": "Byoo-tuh-rate is a short chain fatty acid that feeds the cells lining your gut, and it has anti-inflammatory activity."}),
-            ("H", "And benefit five: cholesterol. Systematic reviews of legume studies found a small but consistent drop in L D L with regular eating, "
+            ("H", "And benefit five: cholesterol. Systematic reviews of legume studies found a small but consistent drop in LDL with regular eating, "
                   "credited to the soluble fiber.",
              {"say": "And benefit five: cholesterol. Systematic reviews of legume studies found a small but consistent drop in L D L with regular eating, "
                      "credited to the soluble fiber."}),
