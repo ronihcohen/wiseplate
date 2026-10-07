@@ -7,6 +7,8 @@ featured_image: ""
 description: "Cooked shrimp provide about 24 g of protein and 99 calories per 100 g, without sauce or frying. Nutrition facts, cholesterol, allergy and what to look for when buying."
 ---
 
+{{< youtube id="5OP0v-eJKm0" title="Shrimp: Is the Cholesterol a Problem? (video)" loading="lazy" >}}
+
 ## Shrimp
 
 **Shrimp are called prawns in Britain, and in Hebrew they are known as "shrimps" in everyday speech or *hasilonim*, the standard Hebrew name.** All of these names refer to the same animal.
