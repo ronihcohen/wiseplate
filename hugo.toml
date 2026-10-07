@@ -1,6 +1,11 @@
-languageCode = 'he'
 baseURL = 'https://wiseplate.blog/'
-title = 'מדע בתנועה'
+# Hebrew is the site; English holds translations of individual articles only.
+# Hebrew stays at the root so no existing URL moves, and English lives under
+# /en/. A page is translated by adding a sibling file with an .en.md suffix
+# (content/food/kefir.md -> content/food/kefir.en.md); see CLAUDE.md.
+defaultContentLanguage = 'he'
+defaultContentLanguageInSubdir = false
+
 trailingSlash = true
 canonifyURLs = true
 
@@ -24,3 +29,43 @@ canonifyURLs = true
 # also produced an indexable, permanently empty /categories/ page.
 [taxonomies]
   tag = "tags"
+
+[languages]
+  [languages.he]
+    weight = 1
+    languageCode = 'he'
+    languageName = 'עברית'
+    languageDirection = 'rtl'
+    title = 'מדע בתנועה'
+    [languages.he.params]
+      locale = 'he_IL'
+      inLanguage = 'he-IL'
+      dateFormat = '02.01.2006'
+  [languages.en]
+    weight = 2
+    languageCode = 'en'
+    languageName = 'English'
+    languageDirection = 'ltr'
+    title = 'Wise Plate'
+    [languages.en.params]
+      locale = 'en_US'
+      inLanguage = 'en'
+      dateFormat = 'January 2, 2006'
+
+# English has no home, section or tag pages: with only a handful of translated
+# articles they would be near-empty hubs, and translated articles carry no
+# tags. (disableKinds is site-wide, so it cannot do this per language.)
+[[cascade]]
+  [cascade.build]
+    render = 'never'
+  [cascade.target]
+    lang = 'en'
+    kind = '{home,section,taxonomy,term}'
+
+# Hugo turns on its built-in link and image render hooks for multilingual
+# sites, which rewrites every in-page "#anchor" link into an absolute URL.
+# Keep the links exactly as written.
+[markup.goldmark.renderHooks.image]
+  enableDefault = false
+[markup.goldmark.renderHooks.link]
+  enableDefault = false

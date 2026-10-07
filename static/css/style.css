@@ -88,6 +88,8 @@ html {
   font-size: 16px;
   scroll-behavior: smooth;
 }
+/* English translations (/en/) are left-to-right. */
+html[dir="ltr"] { direction: ltr; }
 
 body {
   font-family: var(--font-body);
@@ -126,7 +128,7 @@ h1, h2, h3, h4, h5, h6 {
 .skip-link {
   position: absolute;
   top: -100%;
-  right: var(--s4);
+  inset-inline-start: var(--s4);
   padding: var(--s2) var(--s4);
   background: var(--color-primary);
   color: white;
@@ -726,7 +728,7 @@ a.tag:hover {
   color: var(--color-heading);
   font-weight: 700;
   padding: var(--s3) var(--s4);
-  text-align: right;
+  text-align: start;
   border-bottom: 2px solid var(--color-border);
 }
 .article-content td {
@@ -1112,6 +1114,23 @@ a.tag:hover {
   white-space: nowrap;
 }
 
+/* Language switcher: shown only on articles that have a translation. */
+.lang-switch { display: flex; gap: var(--s2); flex-shrink: 0; }
+.lang-switch a {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--s2);
+  padding: var(--s2) var(--s3);
+  font-size: var(--text-sm);
+  font-weight: 600;
+  color: var(--color-primary-dark);
+  border: 1px solid var(--color-border);
+  border-radius: var(--r);
+  transition: background var(--t-fast);
+}
+.lang-switch a:hover { background: var(--color-bg-alt); }
+.lang-switch-icon { width: 16px; height: 16px; flex-shrink: 0; }
+
 .site-search { position: relative; flex: 0 1 280px; min-width: 180px; }
 .site-search[hidden], .search-panel[hidden] { display: none; }
 .site-search input {
@@ -1148,5 +1167,8 @@ a.tag:hover {
 @media (max-width: 1000px) {
   .nav-inner { flex-wrap: wrap; height: auto; gap: var(--s3); padding-block: var(--s3); }
   .site-search { flex: 1 0 100%; }
+  /* Keep the language switcher on the brand row, above the full-width search. */
+  .site-search { order: 1; }
+  .lang-switch { margin-inline-start: auto; }
   .search-panel { width: 100%; }
 }
