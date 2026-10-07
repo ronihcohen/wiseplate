@@ -1,0 +1,13 @@
+{{/* One description per page, shared by <meta name=description> in head.html
+     and the visible intro in list.html.
+
+     Tag pages have no front matter, so they used to fall back to the site
+     description — 78 indexable tag pages shared one identical snippet. They
+     now describe what they actually list: how many articles and which ones. */}}
+{{- $d := .Description -}}
+{{- if and (not $d) (eq .Kind "term") -}}
+  {{- $titles := slice -}}
+  {{- range first 3 .RegularPages.ByTitle -}}{{- $titles = $titles | append .Title -}}{{- end -}}
+  {{- $d = printf "%d מאמרים על %s: %s ועוד. מידע מאוזן ומבוסס מחקר." (len .RegularPages) .Title (delimit $titles ", ") -}}
+{{- end -}}
+{{- return ($d | default site.Params.description) -}}
