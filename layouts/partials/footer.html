@@ -9,10 +9,11 @@
           </svg>
           {{ .Site.Title }}
         </div>
-        <p class="footer-tagline">ידע מדעי ומאוזן על תזונה, תוספים ובריאות.<br>מידע מבוסס מחקר לכל אחד.</p>
+        <p class="footer-tagline">{{ T "footerTagline" | safeHTML }}</p>
       </div>
-      <nav aria-label="ניווט footer">
-        <p class="footer-nav-title">קטגוריות</p>
+      {{- if eq .Lang site.Sites.Default.Language.Lang }}
+      <nav aria-label="{{ T "footerNav" }}">
+        <p class="footer-nav-title">{{ T "footerCategories" }}</p>
         <ul class="footer-nav-links">
           <li><a href="{{ "/food/" | relURL }}">מזון ותזונה</a></li>
           <li><a href="{{ "/food/supplements/" | relURL }}">תוספי תזונה</a></li>
@@ -20,6 +21,7 @@
           <li><a href="{{ "/run/" | relURL }}">ריצה וספורט</a></li>
         </ul>
       </nav>
+      {{- end }}
     </div>
     <aside class="footer-disclaimer" role="note" aria-labelledby="footer-disclaimer-title">
       <p class="footer-disclaimer-title" id="footer-disclaimer-title">
@@ -28,15 +30,12 @@
           <line x1="12" y1="9" x2="12" y2="13"/>
           <line x1="12" y1="17" x2="12.01" y2="17"/>
         </svg>
-        הבהרה רפואית
+        {{ T "disclaimerTitle" }}
       </p>
       <p>
-        התוכן באתר זה מוגש למטרות מידע וחינוך בלבד, ואינו מהווה ייעוץ רפואי, אבחון או המלצה לטיפול.
-        <strong>אין להסתמך על המידע המופיע כאן לצורך קבלת החלטות בריאותיות</strong> — לרבות שינוי בתזונה, נטילת תוספי תזונה או שינוי בטיפול תרופתי.
-        יש להתייעץ תמיד עם רופא או עם איש מקצוע מוסמך בתחום הבריאות בכל שאלה הנוגעת למצבכם הרפואי, ואין לדחות פנייה לייעוץ רפואי או להתעלם מהמלצת רופא בשל תוכן שנקרא באתר.
-        במקרה חירום רפואי יש לפנות מיד לעזרה רפואית.
+        {{ T "disclaimer" | safeHTML }}
       </p>
     </aside>
-    <p class="footer-bottom">© {{ now.Year }} {{ .Site.Title }} — כל הזכויות שמורות</p>
+    <p class="footer-bottom">© {{ now.Year }} {{ .Site.Title }} — {{ T "rightsReserved" }}</p>
   </div>
 </footer>

@@ -1,15 +1,23 @@
 {{- /* Mirrors Hugo's internal sitemap template, minus thin taxonomy terms.
        A term page below min_term_pages is a title plus one or two links, with
        the site-default description — nothing worth submitting for indexing.
+       Translated articles also list their language versions (hreflang), the
+       same pairs head.html emits.
        Trim markers matter here: the XML declaration must start byte 0. */ -}}
 {{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   {{- $min := site.Params.min_term_pages | default 5 -}}
   {{- range .Pages -}}
     {{- if and .Permalink (not (and (eq .Kind "term") (lt (len .RegularPages) $min))) }}
   <url>
     <loc>{{ .Permalink }}</loc>{{ if not .Lastmod.IsZero }}
     <lastmod>{{ safeHTML ( .Lastmod.Format "2006-01-02T15:04:05-07:00" ) }}</lastmod>{{ end }}
+    {{- $versions := slice -}}
+    {{- range .AllTranslations }}{{ if .File }}{{ $versions = $versions | append . }}{{ end }}{{ end -}}
+    {{- if gt (len $versions) 1 }}{{ range $versions }}
+    <xhtml:link rel="alternate" hreflang="{{ .Language.LanguageCode }}" href="{{ .Permalink }}"/>
+    {{- end }}{{ end }}
   </url>
     {{- end -}}
   {{- end }}

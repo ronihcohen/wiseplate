@@ -5,9 +5,9 @@
   <div class="container">
 
     <nav class="breadcrumb" aria-label="breadcrumb" style="justify-content:center;">
-      <a href="{{ "/" | relURL }}">בית</a>
+      <a href="{{ "/" | relURL }}">{{ T "home" }}</a>
       <span class="breadcrumb-sep" aria-hidden="true">›</span>
-      {{ if .Parent }}
+      {{ if and .Parent .Parent.File }}
         {{ if not .Parent.IsHome }}
           {{ if .Parent.Parent }}
             {{ if not .Parent.Parent.IsHome }}
@@ -29,10 +29,10 @@
     {{ end }}
 
     <p class="article-date">
-      פורסם: <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02.01.2006" }}</time>
+      {{ T "published" }}: <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format site.Params.dateFormat }}</time>
       {{ if gt .Lastmod .Date }}
         <span aria-hidden="true"> · </span>
-        עודכן: <time datetime="{{ .Lastmod.Format "2006-01-02" }}">{{ .Lastmod.Format "02.01.2006" }}</time>
+        {{ T "updated" }}: <time datetime="{{ .Lastmod.Format "2006-01-02" }}">{{ .Lastmod.Format site.Params.dateFormat }}</time>
       {{ end }}
     </p>
 
@@ -47,10 +47,12 @@
            unit. Markdown gives no hook for this, so the region is matched from
            its heading up to the next heading of the same or shallower level.
            Two passes because the FAQ heading sits at h3 in most articles but at
-           h2 in those whose questions are h3 — the boundary depends on it. */}}
+           h2 in those whose questions are h3 — the boundary depends on it.
+           English translations use "Frequently asked questions". */}}
+      {{- $faqId := `(?:שאלות-ותשובות|frequently-asked-questions)` -}}
       {{- $c := .Content -}}
-      {{- $c = replaceRE `(?s)(<h2[^>]*id=["']?שאלות-ותשובות[^>]*>.*?)(<h[12][\s>]|$)` `<section class="faq">${1}</section>${2}` $c -}}
-      {{- $c = replaceRE `(?s)(<h3[^>]*id=["']?שאלות-ותשובות[^>]*>.*?)(<h[123][\s>]|$)` `<section class="faq">${1}</section>${2}` $c -}}
+      {{- $c = replaceRE (printf `(?s)(<h2[^>]*id=["']?%s[^>]*>.*?)(<h[12][\s>]|$)` $faqId) `<section class="faq">${1}</section>${2}` $c -}}
+      {{- $c = replaceRE (printf `(?s)(<h3[^>]*id=["']?%s[^>]*>.*?)(<h[123][\s>]|$)` $faqId) `<section class="faq">${1}</section>${2}` $c -}}
       {{ $c | safeHTML }}
     </div>
 
@@ -61,8 +63,8 @@
     {{- $hubs := slice -}}
     {{- range .GetTerms "tags" }}{{ if ge (len .RegularPages) $min }}{{ $hubs = $hubs | append . }}{{ end }}{{ end -}}
     {{- with $hubs }}
-    <nav class="article-tags article-tags-footer" aria-label="נושאים">
-      <span class="article-tags-label">נושאים:</span>
+    <nav class="article-tags article-tags-footer" aria-label="{{ T "topics" }}">
+      <span class="article-tags-label">{{ T "topics" }}:</span>
       {{- range . }}
       <a class="tag" href="{{ .RelPermalink }}">{{ .Title }}</a>
       {{- end }}

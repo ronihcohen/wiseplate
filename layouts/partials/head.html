@@ -18,6 +18,20 @@
 <title>{{ $seoTitle }}</title>
 <meta name="description" content="{{ $desc }}">
 <link rel="canonical" href="{{ .Permalink }}">
+{{/* hreflang pairs for translated articles. Each version lists every version,
+     itself included, and x-default points at the original Hebrew article.
+     Only translations backed by a file count: auto-created English sections
+     and home are never rendered. */}}
+{{- $versions := slice -}}
+{{- range .AllTranslations }}{{ if .File }}{{ $versions = $versions | append . }}{{ end }}{{ end -}}
+{{- if gt (len $versions) 1 }}
+{{- range $versions }}
+<link rel="alternate" hreflang="{{ .Language.LanguageCode }}" href="{{ .Permalink }}">
+{{- end }}
+{{- range $versions }}{{ if eq .Lang site.Sites.Default.Language.Lang }}
+<link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+{{- end }}{{ end }}
+{{- end }}
 {{/* Thin tag pages are crawlable but not worth indexing: they duplicate the
      site description and list one or two articles that are indexed already.
      "follow" is kept so link equity still reaches those articles. */}}
@@ -45,7 +59,10 @@
 <meta property="og:url"         content="{{ .Permalink }}">
 <meta property="og:image"       content="{{ $socialImage }}">
 <meta property="og:image:alt"   content="{{ .Title }}">
-<meta property="og:locale"      content="he_IL">
+<meta property="og:locale"      content="{{ site.Params.locale }}">
+{{- if gt (len $versions) 1 }}{{ range $versions }}{{ if ne .Lang $.Lang }}
+<meta property="og:locale:alternate" content="{{ .Site.Params.locale }}">
+{{- end }}{{ end }}{{ end }}
 <meta property="og:site_name"   content="{{ .Site.Title }}">
 <meta name="twitter:card"        content="{{ if .Params.featured_image }}summary_large_image{{ else }}summary{{ end }}">
 <meta name="twitter:title"       content="{{ $seoTitle }}">
@@ -71,7 +88,7 @@
         "@type"      "WebSite"
         "name"       .Site.Title
         "url"        .Site.BaseURL
-        "inLanguage" "he-IL"
+        "inLanguage" site.Params.inLanguage
         "description" $desc -}}
 <script type="application/ld+json">{{ $ld | jsonify | safeJS }}</script>
 {{- else if and (eq .Kind "page") .Params.recipe_yield -}}
@@ -120,7 +137,7 @@
         "@type"             "Recipe"
         "name"              .Title
         "description"       $desc
-        "inLanguage"        "he-IL"
+        "inLanguage"        site.Params.inLanguage
         "url"               .Permalink
         "mainEntityOfPage"  (dict "@type" "WebPage" "@id" .Permalink)
         "datePublished"     (.Date.Format "2006-01-02T15:04:05Z07:00")
@@ -145,7 +162,7 @@
         "@type"            "Article"
         "headline"         .Title
         "description"      $desc
-        "inLanguage"       "he-IL"
+        "inLanguage"       site.Params.inLanguage
         "url"              .Permalink
         "mainEntityOfPage" (dict "@type" "WebPage" "@id" .Permalink)
         "datePublished"    (.Date.Format "2006-01-02T15:04:05Z07:00")
@@ -169,7 +186,7 @@
         "@type"            "CollectionPage"
         "name"             .Title
         "description"      $desc
-        "inLanguage"       "he-IL"
+        "inLanguage"       site.Params.inLanguage
         "url"              .Permalink
         "isPartOf"         (dict "@type" "WebSite" "name" .Site.Title "url" .Site.BaseURL)
         "publisher"        $org
@@ -183,9 +200,11 @@
      outside the kind-specific branches above. */}}
 {{- if or (eq .Kind "page") (eq .Kind "section") -}}
 {{- $chain := slice -}}
-{{- range .Ancestors.Reverse }}{{ if not .IsHome }}{{ $chain = $chain | append . }}{{ end }}{{ end -}}
+{{/* Ancestors without a file are auto-created sections of a translation,
+     which are never rendered, so they are left out of the trail. */}}
+{{- range .Ancestors.Reverse }}{{ if and (not .IsHome) .File }}{{ $chain = $chain | append . }}{{ end }}{{ end -}}
 {{- if $chain -}}
-  {{- $items := slice (dict "@type" "ListItem" "position" 1 "name" "בית" "item" .Site.BaseURL) -}}
+  {{- $items := slice (dict "@type" "ListItem" "position" 1 "name" (T "home") "item" .Site.BaseURL) -}}
   {{- $pos := 1 -}}
   {{- range $chain -}}
     {{- $pos = add $pos 1 -}}
@@ -208,9 +227,12 @@
      form `### שאלה: …`. Both put the answer on the next line after `תשובה:`,
      so one pattern with an alternating prefix covers them. */}}
 {{- $faq := slice -}}
-{{- range findRE `(?:\*\*|#{2,4}[ \t]*)שאלה:[^\n]+[ \t]*\r?\n[ \t]*תשובה:[^\n]+` .RawContent -}}
-  {{- $q := replaceRE `(?s)^(?:\*\*|#{2,4}[ \t]*)שאלה:[ \t]*(.*?)[ \t]*(?:\*\*)?[ \t]*\r?\n.*$` "$1" . -}}
-  {{- $a := replaceRE `(?s)^.*?\r?\n[ \t]*תשובה:[ \t]*(.*)$` "$1" . -}}
+{{/* English translations use the same shapes with `Question:` / `Answer:`. */}}
+{{- $qL := `(?:שאלה|Question):` -}}
+{{- $aL := `(?:תשובה|Answer):` -}}
+{{- range findRE (printf `(?:\*\*|#{2,4}[ \t]*)%s[^\n]+[ \t]*\r?\n[ \t]*%s[^\n]+` $qL $aL) .RawContent -}}
+  {{- $q := replaceRE (printf `(?s)^(?:\*\*|#{2,4}[ \t]*)%s[ \t]*(.*?)[ \t]*(?:\*\*)?[ \t]*\r?\n.*$` $qL) "$1" . -}}
+  {{- $a := replaceRE (printf `(?s)^.*?\r?\n[ \t]*%s[ \t]*(.*)$` $aL) "$1" . -}}
   {{- $plain := slice $q $a -}}
   {{- $out := slice -}}
   {{- range $plain -}}
@@ -225,6 +247,6 @@
         "acceptedAnswer" (dict "@type" "Answer" "text" (index $out 1))) -}}
 {{- end -}}
 {{- if ge (len $faq) 2 -}}
-  {{- $faqLd := dict "@context" "https://schema.org" "@type" "FAQPage" "inLanguage" "he-IL" "mainEntity" $faq -}}
+  {{- $faqLd := dict "@context" "https://schema.org" "@type" "FAQPage" "inLanguage" site.Params.inLanguage "mainEntity" $faq -}}
 <script type="application/ld+json">{{ $faqLd | jsonify | safeJS }}</script>
 {{- end -}}

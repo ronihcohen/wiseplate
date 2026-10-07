@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-**Wise Plate** is a Hugo-based static site — a Hebrew-language scientific knowledge base covering nutrition, supplements, and sports performance. All content is in Hebrew (`languageCode = 'he'`).
+**Wise Plate** is a Hugo-based static site — a Hebrew-language scientific knowledge base covering nutrition, supplements, and sports performance. Content is in Hebrew, with English translations of selected articles under `/en/` (see Translations below).
 
 ## Commands
 
@@ -85,6 +85,28 @@ for the same queries:
 
 - `/food/iron/` (ברזל) ↔ `/food/supplements/iron/` (תוסף ברזל)
 - `/food/turmeric/` (כורכום) ↔ `/food/supplements/turmeric/` (תוסף כורכומין)
+
+### Translations (English)
+
+Hebrew is the default language and stays at the root URLs; English
+translations live under `/en/` (`hugo.toml` → `[languages]`). To translate an
+article, add a sibling file with an `.en.md` suffix, e.g.
+`content/food/kefir.md` → `content/food/kefir.en.md` (served at
+`/en/food/kefir/`). That is all it takes: the pair gets hreflang links in
+`<head>` and the sitemap, and a language switcher appears in the nav of both
+versions. Pages without a translation show no switcher.
+
+- English has no home, section or tag pages (a `[[cascade]]` in `hugo.toml`
+  stops them rendering), so translated articles carry no `tags` and their
+  breadcrumb is just Home › title.
+- Write the English FAQ as `### Question: ...?` / `Answer: ...` — head.html
+  parses those labels into FAQPage the same way as `שאלה:` / `תשובה:`, and the
+  heading `## Frequently asked questions` gets the FAQ styling.
+- Don't link from English text to Hebrew-only articles.
+- Interface strings used by translated pages live in `i18n/he.yaml` and
+  `i18n/en.yaml`; Hebrew-only templates (lists, home, cards) keep inline text.
+- Hugo enables its built-in link render hook on multilingual sites; it is
+  turned off in `hugo.toml` because it rewrote in-page `#anchor` links.
 
 ### Layouts
 
