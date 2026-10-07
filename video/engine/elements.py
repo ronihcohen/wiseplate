@@ -127,13 +127,15 @@ def r_stat(ctx, el, t, tl):
     v = el["value"] * p
     dec = el.get("decimals", 0)
     txt = f"{v:,.{dec}f}{el.get('unit', '')}"
+    if el.get("text"):  # fixed text instead of a counting number (ranges like "7–10 g")
+        txt = el["text"]
     ctx.save()
     ctx.translate(el["x"], el["y"] + dy)
     ctx.scale(s, s)
     gfx.card(ctx, -w / 2, -h / 2, w, h, "white", 34, a)
     if el.get("emoji"):
         gfx.emoji(ctx, el["emoji"], 0, -h / 2 + 62, 74, 1, a)
-    gfx.text(ctx, txt, 0, 10, 104, "fredoka", 700, el.get("color", "green"), alpha=a)
+    gfx.text(ctx, txt, 0, 10, el.get("vsize", 104), "fredoka", 700, el.get("color", "green"), alpha=a)
     gfx.text(ctx, el["label"], 0, h / 2 - 52, 36, "rubik", 500, "muted", w - 40, alpha=a)
     ctx.restore()
 
@@ -158,7 +160,7 @@ def r_bars(ctx, el, t, tl):
             gfx.rrect(ctx, x0 + label_w, y - 28, max(56, bw), 56, 28)
             ctx.fill()
         dec = row.get("decimals", el.get("decimals", 0))
-        val = f'{row["value"] * ease_out_cubic(p):.{dec}f}{row.get("unit", el.get("unit", "%"))}'
+        val = f'{row["value"] * ease_out_cubic(p):.{dec}f}{row.get("unit", el.get("unit", el.get("suffix", "%")))}'
         if row.get("text") and p >= 1:
             val = row["text"]
         gfx.text(ctx, val, x0 + label_w + max(56, bw) + 20, y, 46, "fredoka", 700, row["color"], alpha=a, anchor="l")

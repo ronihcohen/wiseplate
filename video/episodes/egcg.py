@@ -12,7 +12,7 @@ Element "at" is a line index, or [line, "word"] to trigger on a word.
 
 TITLE = "EGCG: Green Tea's Fat Burner?"
 SLUG = "egcg"
-ARTICLE = "https://wiseplate.blog/food/egcg/"
+ARTICLE = "https://wiseplate.blog/en/food/egcg/"
 
 VOICES = {
     "H": {"voice": "af_heart", "speed": 1.0, "name": "Host"},
@@ -398,7 +398,7 @@ CHAPTERS = [
         ], "els": [
             {"type": "logo", "x": 330, "y": 230, "size": 150, "at": 0},
             T("wiseplate.blog", 450, 230, 76, at=0, font="fredoka", weight=700, color="green", anchor="l"),
-            T("Full article + sources: wiseplate.blog/food/egcg", 760, 350, 38, at=[0, "article"], color="muted"),
+            T("Full article: wiseplate.blog/en/food/egcg", 760, 350, 38, at=[0, "article"], color="muted"),
             T("Not medical advice", 760, 410, 34, at=0, color="muted"),
             {"type": "endslot", "x": 470, "y": 700, "w": 620, "h": 350, "at": [0, "Thanks"]},
             {"type": "endslot", "x": 1100, "y": 700, "w": 0, "h": 0, "at": [0, "Thanks"], "subscribe": True},
