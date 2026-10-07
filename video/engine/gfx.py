@@ -247,6 +247,8 @@ def seed_path(ctx, w, h):
 
 def seed(ctx, x, y, size, kind="green", rot=0.0, alpha=1.0):
     """A plain seed (no face). kind: green (pepita) or shell (white hulled)."""
+    if size <= 0.5 or alpha <= 0:
+        return
     if kind == "shell":
         body, rim, hi = "#F5EBD3", "#D8C49A", "#FFFDF6"
     else:
@@ -280,6 +282,8 @@ def seed(ctx, x, y, size, kind="green", rot=0.0, alpha=1.0):
 
 
 def check_badge(ctx, x, y, r, ok=True, alpha=1.0, scale=1.0):
+    if scale <= 0.001 or alpha <= 0:
+        return
     ctx.save()
     ctx.translate(x, y)
     ctx.scale(scale, scale)
@@ -334,7 +338,7 @@ def person(ctx, x, y, s, color, alpha=1.0):
 def pip(ctx, x, y, size, t, mouth=0.0, mood="happy", look=(0.0, 0.0), talking=False,
         alpha=1.0, rot=0.0, squash=0.0, wave=0.0):
     """Pip the pumpkin seed. size = body height in px. mouth in 0..1."""
-    if alpha <= 0.01:
+    if alpha <= 0.01 or size <= 1:
         return
     w, h = size * 0.68, size
     ctx.save()
