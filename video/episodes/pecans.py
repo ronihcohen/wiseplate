@@ -70,7 +70,7 @@ CHAPTERS = [
         ], "els": [
             E("🌰", 420, 330, 200, at=[0, "pecan"], wobble=True),
             T("Pecans", 640, 300, 130, at=[0, "pecan"], font="fredoka", weight=700, color="green", anchor="l"),
-            {"type": "card", "x": 760, "y": 520, "w": 640, "h": 110, "emoji": "🔥", "title": "Why it's extreme", "at": [0, "extreme."]},
+            {"type": "card", "x": 760, "y": 520, "w": 640, "h": 110, "emoji": "🔥", "title": "Why it's extreme", "at": [0, "extreme"]},
             {"type": "card", "x": 760, "y": 650, "w": 640, "h": 110, "emoji": "📚", "title": "What it does for you", "at": [0, "does"]},
             {"type": "card", "x": 760, "y": 780, "w": 640, "h": 110, "emoji": "❄️", "title": "The storage mistake", "at": [0, "storage"]},
         ]},
@@ -83,7 +83,7 @@ CHAPTERS = [
             ("H", "It stands out among nuts for two extreme numbers: the highest fat of the common nuts, and at the same time, the lowest carbs.", {}),
             ("P", "Highest fat, lowest carbs. That's not a nut, that's a personality.", {"mood": "smug"}),
         ], "els": [
-            {"type": "card", "x": 720, "y": 230, "w": 760, "h": 150, "emoji": "🌳", "title": "Carya illinoinensis",
+            {"type": "card", "x": 720, "y": 230, "w": 1000, "h": 150, "emoji": "🌳", "title": "Carya illinoinensis",
              "body": "from North America · a walnut relative", "at": [0, "Carya"], "italic_title": True},
             {"type": "banner", "x": 470, "y": 480, "text": "Most fat", "color": "#F97316", "at": [1, "highest"]},
             {"type": "banner", "x": 980, "y": 480, "text": "Fewest carbs", "color": "#16A34A", "at": [1, "lowest"]},
@@ -146,9 +146,9 @@ CHAPTERS = [
             ("P", "Pro-antho-what? Can we call them the P team?", {"mood": "surprised"}),
         ], "els": [
             {"type": "card", "x": 720, "y": 250, "w": 1000, "h": 160, "emoji": "🍇", "title": "Proanthocyanidins",
-             "body": "same family as in grapes and wine", "at": [0, "proanthocyanidins"]},
-            {"type": "card", "x": 470, "y": 470, "w": 500, "h": 140, "emoji": "🧪", "title": "Ellagic acid", "at": [0, "ellagic"]},
-            {"type": "card", "x": 1000, "y": 470, "w": 520, "h": 140, "emoji": "🌻", "title": "Gamma-tocopherol", "at": [0, "gamma"]},
+             "body": "same family as in grapes and wine", "at": 0},
+            {"type": "card", "x": 430, "y": 470, "w": 500, "h": 140, "emoji": "🧪", "title": "Ellagic acid", "at": [0, "ellagic"]},
+            {"type": "card", "x": 1050, "y": 470, "w": 620, "h": 140, "emoji": "🌻", "title": "Gamma-tocopherol", "at": [0, "gamma"]},
         ]},
         {"pip": PIP_R, "lines": [
             ("H", "Gamma-tocopherol deserves its own moment. Most people know vitamin E as alpha-tocopherol, the form used in supplements.",
@@ -157,9 +157,9 @@ CHAPTERS = [
                   "mainly by neutralizing nitrogen-based free radicals. One hundred grams gives about twenty-four milligrams.", {}),
         ], "els": [
             T("Vitamin E comes in forms", 720, 170, 64, at=0, font="fredoka", weight=700, color="green"),
-            {"type": "card", "x": 420, "y": 400, "w": 560, "h": 170, "emoji": "💊", "title": "Alpha", "body": "common in supplements", "at": [0, "alpha"]},
+            {"type": "card", "x": 420, "y": 400, "w": 560, "h": 170, "emoji": "💊", "title": "Alpha", "body": "in supplements", "at": [0, "alpha"]},
             {"type": "card", "x": 1040, "y": 400, "w": 600, "h": 170, "emoji": "🌰", "title": "Gamma", "body": "rich in pecans", "at": [1, "gamma"], "fill": "#DCFCE7"},
-            {"type": "stat", "x": 720, "y": 700, "w": 480, "h": 230, "value": 24, "unit": " mg", "label": "gamma-tocopherol / 100 g", "emoji": "", "at": [1, "twenty"]},
+            {"type": "stat", "x": 720, "y": 700, "w": 480, "h": 230, "value": 24, "unit": " mg", "label": "gamma, per 100 g", "emoji": "", "at": [1, "twenty"]},
         ]},
         {"pip": PIP_R, "lines": [
             ("H", "One important caveat. Pecans used to be marketed on their high ORAC score, a test-tube antioxidant measure.",
@@ -172,7 +172,7 @@ CHAPTERS = [
              {"say": "Pecans really are rich in polyphenols. But arguments based on or-ack don't hold up."}),
             ("P", "So no more bragging about test-tube scores. Got it.", {"mood": "smug"}),
         ], "els": [
-            T("ORAC score", 720, 190, 96, at=[0, "ORAC"], font="fredoka", weight=700, color="red", strike=[1, "removed"]),
+            T("ORAC score", 720, 190, 96, at=0, font="fredoka", weight=700, color="red", strike=[1, "removed"]),
             {"type": "card", "x": 720, "y": 420, "w": 1000, "h": 170, "emoji": "🏛️", "title": "USDA dropped it in 2012",
              "body": "no proven meaning in the body", "at": [1, "twenty"]},
             {"type": "check", "x": 220, "y": 620, "w": 1000, "ok": True, "text": "Rich in polyphenols", "at": [2, "polyphenols"]},
@@ -190,7 +190,7 @@ CHAPTERS = [
                      "L D L and total cholesterol went down, without weight gain."}),
             ("P", "Same fat as olive oil? Fancy.", {"mood": "happy"}),
         ], "els": [
-            {"type": "ring", "x": 420, "y": 360, "r": 170, "value": 60, "color": "#16A34A", "label": "monounsaturated", "at": [0, "sixty"]},
+            {"type": "ring", "x": 420, "y": 360, "r": 170, "value": 60, "color": "#16A34A", "label": "mono fat", "at": [0, "sixty"]},
             {"type": "card", "x": 1060, "y": 300, "w": 600, "h": 160, "emoji": "🫒", "title": "Oleic acid", "body": "like olive oil", "at": [0, "oleic"]},
             {"type": "check", "x": 180, "y": 660, "w": 1260, "ok": True, "text": "LDL and total cholesterol down", "at": [1, "L"]},
             {"type": "check", "x": 180, "y": 790, "w": 1260, "ok": True, "text": "No weight gain in those trials", "at": [1, "without"]},
@@ -293,7 +293,7 @@ CHAPTERS = [
                   "and eat it soon.", {}),
         ], "els": [
             {"type": "card", "x": 720, "y": 230, "w": 1000, "h": 170, "emoji": "❄️", "title": "Fridge or freezer, airtight",
-             "body": "bitter or sharp = toss it", "at": [0, "fridge"], "fill": "#DCFCE7"},
+             "body": "bitter or sharp = toss it", "at": 0, "fill": "#DCFCE7"},
             {"type": "card", "x": 720, "y": 440, "w": 1000, "h": 150, "emoji": "🐚", "title": "In-shell keeps best", "at": [1, "shell"]},
             {"type": "card", "x": 720, "y": 650, "w": 1000, "h": 170, "emoji": "🍳", "title": "Toast a small batch",
              "body": "3 to 4 min, dry pan · eat it soon", "at": [2, "batch"]},

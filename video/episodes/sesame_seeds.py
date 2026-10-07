@@ -110,7 +110,8 @@ CHAPTERS = [
             ("P", "Eight times milk?! I'm suddenly feeling very... un-calcified.", {"mood": "worried"}),
             ("H", "Don't worry, Pip. The number is correct, but it only applies to whole sesame, with the hull. And that creates two problems.", {}),
         ], "els": [
-            {"type": "stat", "x": 470, "y": 420, "w": 560, "h": 340, "value": 975, "unit": " mg", "label": "calcium per 100 g", "emoji": "🦴", "at": [0, "nine"]},
+            T("The famous calcium number", 760, 150, 60, at=0, font="fredoka", weight=700, color="green"),
+            {"type": "stat", "x": 470, "y": 440, "w": 560, "h": 340, "value": 975, "unit": " mg", "label": "calcium per 100 g", "emoji": "🦴", "at": [0, "nine"]},
             {"type": "banner", "x": 1080, "y": 330, "text": "≈ 8× milk", "color": "#0EA5E9", "at": [0, "eight"]},
             {"type": "pill", "x": 760, "y": 760, "text": "only for whole sesame, with the hull", "color": "orange", "at": [2, "hull"]},
         ]},
@@ -134,7 +135,7 @@ CHAPTERS = [
             ("P", "So the big number is real... it just doesn't all show up. Like my gym membership.", {"mood": "smug"}),
         ], "els": [
             {"type": "card", "x": 720, "y": 240, "w": 960, "h": 170, "emoji": "🔒", "title": "Oxalates + phytic acid",
-             "body": "bind calcium, block absorption", "at": [0, "oxalates"]},
+             "body": "bind calcium, block absorption", "at": 0},
             {"type": "card", "x": 470, "y": 520, "w": 460, "h": 150, "emoji": "🥛", "title": "Milk ~32%", "body": "absorbed", "at": [1, "milk,"]},
             {"type": "card", "x": 980, "y": 520, "w": 460, "h": 150, "emoji": "🥬", "title": "Kale ~50%", "body": "absorbed", "at": [1, "kale,"]},
             {"type": "pill", "x": 720, "y": 720, "text": "sesame: much lower", "color": "orange", "at": [1, "lower"]},
@@ -144,9 +145,9 @@ CHAPTERS = [
             ("H", "For plant calcium your body can really use, look to tofu set with calcium sulfate, or kale. "
                   "And whole sesame tahini beats regular tahini for this, by a lot.", {}),
         ], "els": [
-            {"type": "banner", "x": 720, "y": 190, "text": "A good add-on, not a main source", "color": "#475569", "at": [0, "add"]},
-            {"type": "card", "x": 470, "y": 430, "w": 460, "h": 160, "emoji": "🧊", "title": "Tofu", "body": "set with calcium sulfate", "at": [1, "tofu"]},
-            {"type": "card", "x": 980, "y": 430, "w": 460, "h": 160, "emoji": "🥬", "title": "Kale", "at": [1, "kale."]},
+            {"type": "banner", "x": 720, "y": 190, "text": "A good add-on, not a main source", "color": "#475569", "at": 0},
+            {"type": "card", "x": 430, "y": 430, "w": 560, "h": 160, "emoji": "🧊", "title": "Tofu", "body": "set with calcium sulfate", "at": [1, "tofu"]},
+            {"type": "card", "x": 1030, "y": 430, "w": 460, "h": 160, "emoji": "🥬", "title": "Kale", "at": [1, "kale."]},
             {"type": "card", "x": 720, "y": 660, "w": 960, "h": 160, "emoji": "🫙", "title": "Whole tahini > regular",
              "body": "for calcium", "at": [1, "beats"], "fill": "#DCFCE7"},
         ]},
@@ -161,9 +162,9 @@ CHAPTERS = [
             ("H", "They act as antioxidants, and studies link them to effects on blood fats and blood pressure.", {}),
             ("P", "Sesamin and sesamolin. Sounds like a magic act. Ta-da!", {"mood": "happy", "jump": True}),
         ], "els": [
-            T("Sesamin", 460, 250, 100, at=[0, "sesamin"], font="fredoka", weight=700, color="#7C3AED"),
-            T("+", 760, 250, 90, at=[0, "sesamolin"], font="fredoka", weight=700, color="orange"),
-            T("Sesamolin", 1080, 250, 100, at=[0, "sesamolin"], font="fredoka", weight=700, color="#7C3AED"),
+            T("Sesamin", 460, 250, 100, at=0, font="fredoka", weight=700, color="#7C3AED"),
+            T("+", 760, 250, 90, at=0, font="fredoka", weight=700, color="orange"),
+            T("Sesamolin", 1080, 250, 100, at=0, font="fredoka", weight=700, color="#7C3AED"),
             {"type": "pill", "x": 760, "y": 390, "text": "almost unique to sesame", "color": "green", "at": [0, "unique"]},
             {"type": "card", "x": 460, "y": 600, "w": 560, "h": 150, "emoji": "🛡️", "title": "Antioxidants", "at": [1, "antioxidants"]},
             {"type": "card", "x": 1080, "y": 600, "w": 600, "h": 150, "emoji": "❤️", "title": "Blood fats, BP", "body": "linked in studies", "at": [1, "fats"]},
@@ -191,6 +192,7 @@ CHAPTERS = [
                      "lowers total cholesterol, L D L, and triglycerides."}),
             ("H", "The effect is modest, but consistent. And most of the fat in sesame is polyunsaturated and monounsaturated.", {}),
         ], "els": [
+            T("Sesame and blood fats", 810, 100, 60, at=0, font="fredoka", weight=700, color="green"),
             {"type": "check", "x": 160, "y": 210, "w": 1300, "ok": True, "text": "Total cholesterol: lower", "at": [0, "total"]},
             {"type": "check", "x": 160, "y": 340, "w": 1300, "ok": True, "text": "LDL: lower", "at": [0, "L"]},
             {"type": "check", "x": 160, "y": 470, "w": 1300, "ok": True, "text": "Triglycerides: lower", "at": [0, "triglycerides"]},
@@ -204,7 +206,7 @@ CHAPTERS = [
             ("P", "Promising, but small. Like... a seed. I get it.", {"mood": "happy"}),
         ], "els": [
             {"type": "card", "x": 720, "y": 280, "w": 960, "h": 180, "emoji": "🩺", "title": "Lower blood pressure",
-             "body": "with sesame oil · mostly in hypertension", "at": [0, "lower"]},
+             "body": "with sesame oil · mostly in hypertension", "at": 0},
             {"type": "pill", "x": 720, "y": 500, "text": "small trials · limited evidence", "color": "orange", "at": [1, "few"]},
         ]},
     ]},
@@ -231,8 +233,8 @@ CHAPTERS = [
             ("H", "Put them together, and they complete each other. That's exactly the nutrition logic behind hummus with tahini.", {}),
             ("P", "Hummus and tahini, a love story. I'd sprinkle myself on that.", {"mood": "happy", "jump": True}),
         ], "els": [
-            {"type": "card", "x": 420, "y": 300, "w": 580, "h": 170, "emoji": "🌱", "title": "Sesame", "body": "low in lysine", "at": [0, "lysine."]},
-            {"type": "card", "x": 1040, "y": 300, "w": 580, "h": 170, "emoji": "🫘", "title": "Chickpeas", "body": "rich in lysine", "at": [0, "chickpeas"]},
+            {"type": "card", "x": 420, "y": 300, "w": 540, "h": 170, "emoji": "🌱", "title": "Sesame", "body": "low in lysine", "at": 0},
+            {"type": "card", "x": 1040, "y": 300, "w": 540, "h": 170, "emoji": "🫘", "title": "Chickpeas", "body": "rich in lysine", "at": [0, "chickpeas"]},
             T("+", 730, 300, 90, at=[0, "chickpeas"], font="fredoka", weight=700, color="orange"),
             {"type": "banner", "x": 730, "y": 560, "text": "Hummus + tahini = a complete team", "color": "#16A34A", "at": [1, "hummus"]},
         ]},
@@ -310,7 +312,7 @@ CHAPTERS = [
                   "But this one choice matters more than anything else.", {}),
         ], "els": [
             {"type": "card", "x": 720, "y": 260, "w": 1000, "h": 180, "emoji": "🫙", "title": "Choose whole tahini",
-             "body": "for calcium and fiber", "at": [0, "whole"], "fill": "#DCFCE7"},
+             "body": "for calcium and fiber", "at": 0, "fill": "#DCFCE7"},
             {"type": "pill", "x": 720, "y": 490, "text": "darker · more bitter · coarser", "color": "orange", "at": [1, "darker"]},
             {"type": "banner", "x": 720, "y": 650, "text": "The choice that matters most", "color": "#16A34A", "at": [1, "choice"]},
         ]},
@@ -322,7 +324,7 @@ CHAPTERS = [
             ("P", "Some seeds just refuse to be digested. I respect that.", {"mood": "smug"}),
         ], "els": [
             {"type": "card", "x": 720, "y": 250, "w": 1000, "h": 180, "emoji": "🍳", "title": "Toast: 2 to 3 min, dry pan",
-             "body": "medium heat · not too hard", "at": [0, "Two"]},
+             "body": "medium heat · not too hard", "at": 0},
             {"type": "card", "x": 720, "y": 510, "w": 1000, "h": 180, "emoji": "🫙", "title": "Tahini beats whole seeds",
              "body": "whole seeds can pass through undigested", "at": [1, "Tahini"]},
         ]},
