@@ -7,6 +7,8 @@ featured_image: ""
 description: "Tofu — benefits and downsides, how much protein is in 100 grams, what it's made of and how it's produced, and what is really known about soy and hormones."
 ---
 
+{{< youtube id="lppr8galgLQ" title="Tofu: Protein, Calcium and the Soy Hormone Myth (video)" loading="lazy" >}}
+
 ## Tofu
 
 **Tofu (in Hebrew "טופו") is made from just three ingredients: soybeans, water and a coagulant.** It is produced in a process reminiscent of [cheese](/en/food/cheese/) making: soybeans are soaked and ground into a drink, which is curdled with a coagulant, and the curds are pressed into molds. It originated in China about two thousand years ago, and it is a major source of protein in East Asian cuisines.
