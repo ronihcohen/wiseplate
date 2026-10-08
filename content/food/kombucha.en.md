@@ -2,6 +2,7 @@
 title: "Kombucha"
 seo_title: "Kombucha: What It Is, Benefits and Downsides"
 date: 2026-02-19T09:45:00+02:00
+lastmod: 2026-10-08T09:00:00+03:00
 featured_image: ""
 description: "What kombucha is and how it is made, and its benefits and downsides — including sugar, alcohol, acidity and who should avoid it."
 ---
@@ -12,7 +13,7 @@ Kombucha (in Hebrew, "קומבוצ'ה") is an ancient functional drink that most
 
 The SCOBY, which looks like a mushroom or a pale gelatinous disc (which is why kombucha is sometimes mistakenly called "mushroom tea"), floats on the surface of the liquid and feeds on the sugar added to the tea. The fermentation, which usually lasts between a week and a month (depending on temperature and the desired taste), completely changes the drink's composition. The yeasts break the sugar down into alcohol and a little carbon dioxide (which gives the drink its natural, refreshing fizz), while the bacteria (mainly acetic acid bacteria and lactic acid bacteria) convert the alcohol into a wide range of beneficial organic acids.
 
-The result is a fizzy, sweet-tart drink reminiscent of a light apple cider, loaded with live enzymes, active acids, [polyphenols](/en/food/polyphenols/) from the original tea, and of course a considerable amount of active probiotics for the gut.
+The result is a fizzy, sweet-tart drink reminiscent of a light apple cider, rich in enzymes, organic acids, [polyphenols](/en/food/polyphenols/) from the original tea, and live probiotic bacteria and yeasts.
 
 ## Profile of kombucha's active compounds
 
@@ -28,42 +29,42 @@ Kombucha's nutritional and functional value comes from the chemical composition 
 ## Benefits of kombucha
 
 ### Improving and rebuilding the gut microbiome (gut health)
-Like [kefir](/en/food/kefir/) and [natto](/en/food/natto/), kombucha is a representative of "living food". It provides a spectrum of microorganisms (bacteria and yeasts) that reach the intestinal tract alive. There, they compete for space with harmful pathogenic bacteria, stabilize the microbiome population, and significantly improve complex digestive processes. Regular drinking has been shown to reduce bloating, irritable bowel syndrome (IBS) symptoms and constipation, while maintaining a healthy gut wall to prevent "leaky gut" syndrome.
+Like [kefir](/en/food/kefir/) and [natto](/en/food/natto/), kombucha is a "living food". It provides a variety of microorganisms (bacteria and yeasts) that reach the gut alive. There they compete for space with harmful bacteria, help balance the microbiome population and may support digestion. There are reports of relief from bloating, constipation and irritable bowel syndrome (IBS) symptoms, and of support for a healthy gut wall ("leaky gut"), but human studies are still few, so it is too early to say these effects have been proven.
 
-### Powerful liver protection and detoxification
-One of the most sought-after components formed while kombucha is made is glucuronic acid. This acid, which occurs naturally in our bodies, is probably the central molecule responsible for the liver's cleansing process. It binds to toxins of many kinds — excess medications, heavy metals and environmental pollutants — in a process called glucuronidation, making them water-soluble so they can be easily excreted in the urine. In in vivo studies in models of diseased liver (apparently from chemical toxins), giving kombucha sharply reduced markers of liver cell breakdown (by up to about 70%).
+### Liver protection and glucuronic acid
+One of the most talked-about compounds formed when kombucha ferments is glucuronic acid. The body uses it in the liver in a process called glucuronidation: it binds to medications, heavy metals and environmental pollutants and makes them water-soluble, so they are excreted in the urine. In animal studies where liver damage was induced with toxic chemicals, giving kombucha reduced markers of liver cell damage by up to about 70%. Human studies on this are still lacking, and they say nothing about "detox" from everyday drinking.
 
-### Reducing oxidative stress, and antimicrobial activity
-Kombucha is a synergy. It combines the high-quality antioxidants of tea (such as flavonoids) with the power of the cultures and organic acids formed in it: because of the dominant presence of acetic acid (especially in long-fermented batches), kombucha adds an ability to kill aggressive bacteria. Studies indicate it halts chains of infection from harmful microbes such as Helicobacter pylori, which damages the stomach, or aggressive Candida yeast, which thrives in the body with high sugar intake and uncontrolled antibiotic use. By reducing oxidation during fermentation, it may also help suppress inflammatory uric acid.
+### Antioxidants and antibacterial activity
+Kombucha combines the antioxidants of tea (such as flavonoids) with the organic acids formed during fermentation. Acetic acid, whose concentration rises the longer fermentation runs, harms undesirable bacteria. Lab studies found that kombucha inhibits the growth of bacteria such as *Helicobacter pylori*, which damages the stomach, and of the fungus *Candida*, which sometimes thrives after high sugar intake or antibiotic treatment. These findings come from the test tube and have not been shown to treat infections in people.
 
-### Chronic disease, the heart and mild diabetes
-In extensive animal models and laboratory settings, kombucha intake has been found to be a successful modulator of heart disease. It acts by regulating cholesterol and significantly improves the oxidation time of LDL cholesterol — a factor that actively reduces the formation of atherosclerotic findings. Further studies are developing to identify its ability to balance blood sugar levels (mainly kombucha based on concentrated green tea, which reduces blood sugar fluctuations and supports preventive weight control in type 2 diabetes).
+### Heart, cholesterol and blood sugar
+Animal and lab studies found that kombucha improves the cholesterol profile and slows the oxidation of LDL cholesterol, a process linked to the development of atherosclerosis. Early studies are also looking at its effect on blood sugar levels, mainly kombucha made from green tea, and at its possible role in preventing type 2 diabetes. It is a promising line of research, but not yet an evidence-based recommendation for people.
 
 ## Downsides and side effects
 
-Compared with simply rounding out your daily diet, drinking a spontaneously fermented beverage calls for several especially important clarifications:
-- **Risk of contamination in poorly made homemade kombucha:** Kombucha that is properly made in a shaded glass vessel has a high acidity level that keeps pests away. The real problem occurs if the SCOBY has been contaminated with visible mold, or with faulty ceramic vessels (which release lead in its acidic environment). Make sure to use completely clean glass.
-- **Recognizing sterilized commercial products:** The commercial trend has produced kombuchas sold pasteurized. Heat treatment above 40 degrees completely destroys the population of beneficial bacteria, even if the label says "with added active kombucha cultures". Always buy kombucha that is kept only in refrigerators (raw/unpasteurized).
-- **Avoidance for people with severely suppressed immune systems (and pregnant women):** For these groups there is a concern about exposure to live components and microbial strains that could develop into life-threatening infections — premature infants, late pregnancy or oncology patients.
+Kombucha is a live fermented drink, so there are a few things worth knowing before you drink it:
+- **Risk of contamination when homemade:** kombucha made properly, in a clean glass vessel, is acidic enough to keep pests away. The trouble starts when the SCOBY is contaminated with visible mold, or when it is fermented in a ceramic vessel whose glaze can release lead into the acidic liquid. Use clean glass vessels only, and throw away a culture that has grown mold.
+- **Pasteurized kombucha:** some commercial kombuchas are pasteurized. The heat destroys the beneficial bacteria, even if the bottle says "contains active kombucha cultures". If you want the probiotic value, choose unpasteurized (raw) kombucha that is kept refrigerated.
+- **Who should avoid it:** people with severely weakened immune systems, such as cancer patients in treatment, as well as pregnant women and premature babies. For them, exposure to live bacteria and yeasts, or to accidental contamination of the culture, can cause a dangerous infection.
 
 ## Culinary use and adding it to your diet
 
-Kombucha is a perfect wake-up drink or a summery solution when you want something fizzy:
-- **An evening alcohol substitute and energy boost:** With kombuchas in newer flavors with added citrus fruits or pomegranates, you can generally get through a good part of a social gathering with an ideal substitute for light, sweet cocktails, without a harmful hangover. The natural fizz makes a chilled glass feel like a truly healthy champagne.
-- **A morning or post-workout boost:** It contains helpful caffeine (a fraction of a cup of [coffee](/en/food/coffee/), usually less than 20 mg) together with immediately available digestive acids that give a lift.
-- **A complex vinaigrette for summer salads:** Just like balsamic vinegar, kombucha (mainly plain, tart, with a lemony twist) adds balanced sweetness with a floral twist to any serving of summer fruit or refreshing vegetables.
+Kombucha works as a morning drink or as a refreshing fizzy drink for summer:
+- **An alternative to alcoholic drinks:** flavored kombucha, for example with citrus or pomegranate, can stand in for a sweet cocktail at a social evening, without the alcohol or the hangover. Its natural fizz is reminiscent of a light glass of champagne.
+- **In the morning or before a workout:** it contains a little caffeine (a fraction of a cup of [coffee](/en/food/coffee/), usually less than 20 mg), together with organic acids that give it a tart, refreshing taste.
+- **Salad dressing:** like balsamic vinegar, plain, tart kombucha, especially with a lemony note, adds gentle acidity and a floral hint to a dressing. It suits summer fruit salads and fresh vegetables especially well.
 
 ## Summary
 
-Kombucha holds its place as one of the best-loved fermented foods in daily health routines for the justified reasons above. It is not just a "tart gourmet drink" but an ongoing practice of maintaining and adding a battalion of balance-promoting bacteria and yeasts straight into the daily digestive arena. Its combination with tea makes it one of the most accessible synergies in nature between the deep preservation of antioxidants and the liver's well-known protective processes of glucuronidation. For those of us who care about microbiome balance and crave light, fizzy drinks while avoiding the traditional sugar industry (there is almost no sugar left in kombucha after full fermentation), controlled and pure consumption of it is well warranted.
+Kombucha has earned its place among the popular fermented foods. It is not just a "trendy tart drink": it delivers live bacteria and yeasts to the digestive system, together with the antioxidants of tea and the glucuronic acid formed during fermentation. Most of the health benefits attributed to it still rest on animal and lab studies, so treat it as part of a varied diet rather than as a medicine. If you want a light fizzy drink instead of sweetened soft drinks, natural kombucha that has fully fermented, with little sugar, is a good choice, in moderate amounts and as long as it was made in clean conditions.
 
 ## Frequently asked questions
 
-### Question: Why does everyone warn about the alcohol level in natural kombucha?
-Answer: During fermentation, the yeasts on the culture eat the dissolved sugar and convert it into carbon dioxide bubbles and — yes — a minor amount of alcohol. However, the acidic process turns most of that small amount of alcohol into clean vinegar, so it is properly kept in check. Commercial companies stop fermentation at a defined maximum of around 0.5% (which avoids declaring significant alcohol). Someone who brews kombucha at home for a long time and forgets about it can sometimes reach 2% and above, which is problematic for children.
+### Question: Why do people warn about the alcohol level in kombucha?
+Answer: During fermentation, the yeasts break sugar down into carbon dioxide and a small amount of alcohol. The bacteria convert most of that alcohol into acetic acid (vinegar), so its level stays low. Commercial producers control fermentation so the alcohol does not exceed 0.5%, the limit below which a drink is not considered alcoholic. Homemade kombucha that is forgotten in a long fermentation can reach 2% or more, which is a particular problem for children.
 
-### Question: Is there a specific taste of plain "kombucha"? Today dozens of commercial fruity and floral flavors are sold.
-Answer: At its base, authentic kombucha with no additions in the bottle smells like wheat beer and steeped tea, with a taste of sweet caramelized apple cider vinegar. Companies usually carry out a second fermentation, in which they put the half-fermented brew into the bottle together with juices such as natural pomegranate, hibiscus or passion fruit. This second fermentation (sealed carefully in airtight bottles) deeply transforms the blend into a fizzy drink with a spiced fruit flavor, without losing the natural inner character, which even complements it healthwise.
+### Question: What does plain kombucha taste like, without additions? After all, dozens of fruit and floral flavors are sold today.
+Answer: Plain kombucha, with nothing added, smells a little like wheat beer and tea, and tastes like a slightly sweet apple cider vinegar. Flavors are created in a second fermentation: the finished kombucha goes into sealed bottles together with natural juice, such as pomegranate, hibiscus or passion fruit. In the sealed bottle fermentation continues, so the drink gets fizzier and takes on the fruit's flavor without losing its natural tartness.
 
-### Question: Should people who avoid caffeine stay away from it?
-Answer: It depends, but the cultures receive only about a quarter of the caffeine in the original tea itself. Fermenting bacteria eat almost only plain sugar and do not digest caffeine molecules, but on the other hand they are not enough to destroy them — the amount of caffeine in a glass of traditional kombucha is low, around 20mg, which is about a third of a regular cup of black tea and a tenth of a concentrated espresso coffee. Someone who is highly sensitive to caffeine can make kombucha from herbal tea (but needs to check how well it meets the culture's needs).
+### Question: Is kombucha suitable for people who avoid caffeine?
+Answer: It depends on how sensitive they are. The bacteria in fermentation mainly consume sugar and do not break down caffeine, so the tea's caffeine stays in the drink, but in a small amount: a glass of traditional kombucha contains about 20 mg of caffeine, less than half the caffeine in a regular cup of black tea. People who are very sensitive to caffeine can make kombucha from an herbal infusion, but should first check that the infusion gives the culture what it needs to ferment.
