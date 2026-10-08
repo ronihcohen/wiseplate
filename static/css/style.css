@@ -436,6 +436,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .section-card:hover .arrow-icon { transform: scaleX(-1) translateX(-3px); }
 html[dir="ltr"] .arrow-icon { transform: none; }
+html[dir="ltr"] .section-card:hover .arrow-icon { transform: translateX(3px); }
 
 /* ============================================================
    ARTICLE CARDS GRID
