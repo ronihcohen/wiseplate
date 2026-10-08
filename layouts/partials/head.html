@@ -106,14 +106,14 @@
   {{- $steps := slice -}}
   {{- range split .RawContent "\n### " -}}
     {{- $block := . -}}
-    {{- if hasPrefix $block "מרכיבים" -}}
+    {{- if or (hasPrefix $block "מרכיבים") (hasPrefix $block "Ingredients") -}}
       {{- range findRE `(?m)^\* .+$` $block -}}
         {{- $t := replaceRE `^\* ` "" . -}}
         {{- $t = replaceRE $strip "$1" $t -}}
         {{- $t = replaceRE `\*+` "" $t -}}
         {{- $ing = $ing | append (trim $t " ") -}}
       {{- end -}}
-    {{- else if hasPrefix $block "אופן ההכנה" -}}
+    {{- else if or (hasPrefix $block "אופן ההכנה") (hasPrefix $block "Method") -}}
       {{- range findRE `(?m)^\d+\. .+$` $block -}}
         {{- $raw := replaceRE `^\d+\. ` "" . -}}
         {{/* Every recipe step starts with a short bold summary. Expose that
@@ -152,7 +152,7 @@
         "recipeYield"       .Params.recipe_yield
         "recipeIngredient"  $ing
         "recipeInstructions" $steps -}}
-  {{- with .Params.calories }}{{ $ld = merge $ld (dict "nutrition" (dict "@type" "NutritionInformation" "calories" (printf "%v קלוריות" .) "servingSize" (printf "1/%v מהמתכון" ($.Params.recipe_yield_count | default 1)))) }}{{ end -}}
+  {{- with .Params.calories }}{{ $ld = merge $ld (dict "nutrition" (dict "@type" "NutritionInformation" "calories" (T "recipeCalories" .) "servingSize" (T "recipeServing" ($.Params.recipe_yield_count | default 1)))) }}{{ end -}}
   {{- with .Params.featured_image }}{{ $ld = merge $ld (dict "image" (absURL .)) }}{{ end -}}
   {{- with .Params.tags }}{{ $ld = merge $ld (dict "keywords" (delimit . ", ")) }}{{ end -}}
 <script type="application/ld+json">{{ $ld | jsonify | safeJS }}</script>

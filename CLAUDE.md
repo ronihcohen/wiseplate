@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-**Wise Plate** is a Hugo-based static site — a Hebrew-language scientific knowledge base covering nutrition, supplements, and sports performance. Content is in Hebrew, with English translations of selected articles under `/en/` (see Translations below).
+**Wise Plate** is a Hugo-based static site — a Hebrew-language scientific knowledge base covering nutrition, supplements, and sports performance. Content is written in Hebrew, and every article and section has an English translation under `/en/` (see Translations below).
 
 ## Commands
 
@@ -26,6 +26,7 @@ No package.json, Makefile, or other build tooling — pure Hugo.
 | `content/food/supplements/` | Vitamins, minerals, and performance supplements (~30 files) |
 | `content/compare/` | Side-by-side comparisons of related foods/nutrients (~17 files) |
 | `content/run/` | Running gear and technique articles (~5 files) |
+| `content/recipes/` | Recipes in 12 cuisine sub-sections, with Recipe schema (~120 files) |
 
 ### Article Structure
 
@@ -96,18 +97,30 @@ article, add a sibling file with an `.en.md` suffix, e.g.
 `<head>` and the sitemap, and a language switcher appears in the nav of both
 versions. Pages without a translation show no switcher.
 
-- English has no section or tag pages (a `[[cascade]]` in `hugo.toml` stops
-  them rendering), so translated articles carry no `tags` and their
-  breadcrumb is just Home › title.
+**Every page has an English version, so a new Hebrew article needs its
+`.en.md` too** (and a new section its `_index.en.md`).
+
+- English sections render from their `_index.en.md`; English tag pages do
+  not (a `[[cascade]]` in `hugo.toml` stops them), so translated articles
+  carry no `tags`.
 - The English home, `/en/` (`content/_index.en.md` +
-  `layouts/index.en.html`), lists every English article automatically,
-  newest first. The Hebrew home links to it through the language switcher.
-- Write the English FAQ as `### Question: ...?` / `Answer: ...` — head.html
-  parses those labels into FAQPage the same way as `שאלה:` / `תשובה:`, and the
-  heading `## Frequently asked questions` gets the FAQ styling.
-- Don't link from English text to Hebrew-only articles.
-- Interface strings used by translated pages live in `i18n/he.yaml` and
-  `i18n/en.yaml`; Hebrew-only templates (lists, home, cards) keep inline text.
+  `layouts/index.en.html`), links to the English sections and lists every
+  English article automatically, newest first.
+- Links in English text point to the English page: `/food/iron/` becomes
+  `/en/food/iron/`. Never link from English text to a Hebrew page.
+- Turn the opening around: give the English name and mention the Hebrew
+  name(s) once in quotes. FAQ items that only make sense in Hebrew ("how do
+  you say X in English?") move into that intro line instead of the FAQ.
+- Write the English FAQ as `**Question: ...?**` or `### Question: ...?`
+  with `Answer: ...` on the next line — head.html parses those labels into
+  FAQPage the same way as `שאלה:` / `תשובה:`, and the heading
+  `Frequently asked questions` gets the FAQ styling.
+- English recipes keep the recipe front matter (cuisine, category and yield
+  translated) and use `### Ingredients ...` and `### Method` headings, which
+  head.html parses into Recipe schema like `מרכיבים` / `אופן ההכנה`.
+- Interface strings for shared templates (nav, footer, search, lists, single)
+  live in `i18n/he.yaml` and `i18n/en.yaml`; the Hebrew home keeps its text
+  inline.
 - Hugo enables its built-in link render hook on multilingual sites; it is
   turned off in `hugo.toml` because it rewrote in-page `#anchor` links.
 
