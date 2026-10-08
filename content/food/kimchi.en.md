@@ -6,6 +6,8 @@ featured_image: ""
 description: "What kimchi is and how it is made, its nutritional value, and its benefits and downsides — including its high sodium content and what to know before eating it."
 ---
 
+{{< youtube id="PvUNcasaA54" title="Kimchi: Healthy Probiotic or Too Much Salt? (video)" loading="lazy" >}}
+
 ## Kimchi
 
 **Kimchi is a traditional Korean dish of vegetables pickled in salt and fermented in a spicy seasoning mix.** In Korea it is eaten at almost every meal, including breakfast, and it is considered the national dish. The best-known version — *baechu kimchi* — is based on napa [cabbage](/en/food/cabbage/), but there are more than 180 documented variations, based on white radish (*kkakdugi*), [cucumber](/en/food/cucumber/) (*oi sobagi*), green [onion](/en/food/onion/) and more.
