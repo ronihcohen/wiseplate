@@ -11,6 +11,7 @@ import argparse
 import json
 import os
 import sys
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -84,6 +85,20 @@ def check(title, desc, tags):
     return errs, tag_len
 
 
+def put_chunk(loc, token, data, content_range):
+    """One PUT to the upload session; returns (status, headers, body) without raising."""
+    req = urllib.request.Request(loc, data=data, method="PUT", headers={
+        "Authorization": "Bearer " + token,
+        "Content-Length": str(len(data)),
+        "Content-Range": content_range})
+    try:
+        with urllib.request.urlopen(req, timeout=900) as r:
+            body = r.read()
+            return r.status, r.headers, json.loads(body) if body else {}
+    except urllib.error.HTTPError as e:
+        return e.code, e.headers, e.read().decode("utf-8", "replace")[:300]
+
+
 def upload_video(token, mp4, body):
     size = os.path.getsize(mp4)
     r, _ = http("POST", UPLOAD + "/videos?uploadType=resumable&part=snippet,status",
@@ -93,27 +108,30 @@ def upload_video(token, mp4, body):
                  "X-Upload-Content-Type": "video/mp4",
                  "X-Upload-Content-Length": str(size)})
     loc = r.headers["Location"]
-    sent = 0
+    sent, retries = 0, 0
     with open(mp4, "rb") as f:
-        while sent < size:
+        while True:
+            f.seek(sent)
             chunk = f.read(CHUNK)
-            end = sent + len(chunk) - 1
-            r, res = http("PUT", loc, chunk, {
-                "Authorization": "Bearer " + token,
-                "Content-Length": str(len(chunk)),
-                "Content-Range": f"bytes {sent}-{end}/{size}"})
-            sent = end + 1
+            code, h, res = put_chunk(loc, token, chunk, f"bytes {sent}-{sent + len(chunk) - 1}/{size}")
+            if code not in (200, 201, 308):
+                # A chunk (usually the last) can fail with 410/503 while the
+                # session is still alive. Abandoning it leaves a video stuck in
+                # "processing" forever, so ask the session what it holds and
+                # resume from there.
+                print(f"  chunk at {sent}: HTTP {code} {res}", flush=True)
+                retries += 1
+                if retries > 6:
+                    raise SystemExit(f"HTTP {code} PUT upload: {res}")
+                time.sleep(2 ** retries)
+                code, h, res = put_chunk(loc, token, b"", f"bytes */{size}")
+            if code in (200, 201):
+                return res
+            if code != 308:
+                raise SystemExit(f"upload session lost: HTTP {code} {res}")
+            rng = h.get("Range")
+            sent = int(rng.split("-")[1]) + 1 if rng else 0
             print(f"  {100 * sent // size}%", flush=True)
-    return res
-
-
-def find_by_title(token, title):
-    _, res = http("GET", API + "/search?part=snippet&forMine=true&type=video&maxResults=10",
-                  headers={"Authorization": "Bearer " + token})
-    for item in res.get("items", []):
-        if item["snippet"]["title"] == title:
-            return item["id"]["videoId"]
-    return None
 
 
 def set_thumbnail(token, vid, jpg):
@@ -159,15 +177,7 @@ def main():
                         "categoryId": "27", "defaultLanguage": "en",
                         "defaultAudioLanguage": "en"},
             "status": {"privacyStatus": a.privacy, "selfDeclaredMadeForKids": False}}
-    try:
-        vid = upload_video(token, files["mp4"], body)["id"]
-    except SystemExit as e:
-        # The last chunk sometimes answers 410 Gone even though YouTube kept
-        # the file, so look for the new video by title before giving up.
-        print(f"upload reported: {e}")
-        vid = find_by_title(token, title)
-        if not vid:
-            raise
+    vid = upload_video(token, files["mp4"], body)["id"]
     print(f"VIDEO {vid} https://studio.youtube.com/video/{vid}/edit")
     for name, fn, path in (("thumbnail", set_thumbnail, files["thumb"]),
                            ("captions", add_captions, files["srt"])):
