@@ -1,13 +1,39 @@
 {{ define "main" }}
-{{/* The English home is the index of every English article. It lists
-     site.RegularPages, which on the English site is exactly the translated
-     articles, so a new .en.md file appears here with no template change. */}}
+{{/* The English home links to the English sections, then lists every
+     English article. site.RegularPages on the English site is exactly the
+     translated articles, so a new .en.md file appears here with no template
+     change. */}}
 
 <section class="hero">
   <div class="container">
     <span class="hero-label">Nutrition science</span>
     <h1 class="hero-title">{{ .Title }}</h1>
     <p class="hero-description">{{ .Description }}</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="section-header">
+      <p class="section-label">Topics</p>
+      <h2 class="section-title">What you'll find here</h2>
+    </div>
+    <div class="section-cards">
+      {{- range slice "/food" "/food/supplements" "/compare" "/recipes" "/run" }}
+      {{- with site.GetPage . }}{{ if .File }}
+      <a href="{{ .RelPermalink }}" class="section-card">
+        <h3 class="section-card-title">{{ .Title }}</h3>
+        {{ with .Description }}<p class="section-card-desc">{{ . }}</p>{{ end }}
+        <span class="section-card-cta">
+          {{ T "learnMore" }}
+          <svg class="arrow-icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M3 8h10"/><path d="M9 4l4 4-4 4"/>
+          </svg>
+        </span>
+      </a>
+      {{- end }}{{ end }}
+      {{- end }}
+    </div>
   </div>
 </section>
 

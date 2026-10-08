@@ -16,16 +16,16 @@ description: "Pumpkin seeds: the main downsides are calorie density, salt in sal
 **The main downsides are calorie density, salt in the salted version and digestive discomfort when you eat a lot.** Pumpkin seeds also provide protein and minerals; the amount, the shell and the salting all change what to look for when choosing a product.
 
 * **Calories and serving size:** 100 grams of shelled, roasted, unsalted seeds provide about 574 calories; a weighed 28-gram serving provides about 161 calories. It is worth measuring into a small bowl rather than relying on the size of a handful. The figures do not include shells that are not eaten.
-* **Salt:** the sodium content of salted products varies between manufacturers. Compare labels and prefer an unsalted version if you want to cut down on sodium.
+* **Salt:** the [sodium](/en/food/supplements/sodium/) content of salted products varies between manufacturers. Compare labels and prefer an unsalted version if you want to cut down on sodium.
 * **Bloating and heaviness:** a large amount of seeds and fiber, especially when eating the shell too or when you are not used to fiber, can cause discomfort. You can start with a smaller amount and choose shelled seeds. [An explanation from the American Heart Association](https://www.heart.org/en/news/2018/10/25/pumpkin-seeds-pack-a-healthy-punch).
-* **Mineral absorption:** phytates in plant foods can reduce zinc absorption; the amount listed in the table is not the amount absorbed. This does not mean pumpkin seeds cause a deficiency, or that soaking at home guarantees better absorption. [NIH: zinc and its sources](https://ods.od.nih.gov/factsheets/Zinc-HealthProfessional/).
+* **Mineral absorption:** phytates in plant foods can reduce [zinc](/en/food/supplements/zinc/) absorption; the amount listed in the table is not the amount absorbed. This does not mean pumpkin seeds cause a deficiency, or that soaking at home guarantees better absorption. [NIH: zinc and its sources](https://ods.od.nih.gov/factsheets/Zinc-HealthProfessional/).
 * **Kidney stones:** adjusting your diet depends on the type of stone and your overall diet. If you have been told to cut down on oxalates or sodium, work out the type of seeds and the serving with a professional as well; don't infer a blanket recommendation to avoid a food from its name alone. [NIDDK guidance by stone type](https://www.niddk.nih.gov/health-information/urologic-diseases/kidney-stones/eating-diet-nutrition).
 
 ### How many pumpkin seeds should you eat?
 
-**28 grams is an example serving, not a medical dose or an amount you must eat every day.** It provides about 8.4 grams of protein and about 154 mg of magnesium. Adjust the amount to your diet and personal tolerance. You can sprinkle a measured serving over a salad or Greek yogurt.
+**28 grams is an example serving, not a medical dose or an amount you must eat every day.** It provides about 8.4 grams of protein and about 154 mg of [magnesium](/en/food/supplements/magnesium/). Adjust the amount to your diet and personal tolerance. You can sprinkle a measured serving over a salad or [Greek yogurt](/en/food/greek-yogurt/).
 
-**The shelled green kind is known as pepitas**, from the Spanish *pepita de calabaza*. The plant's scientific name is *Cucurbita pepo*. In Hebrew they are called "גרעיני דלעת" or "זרעי דלעת" — both names refer to exactly the same thing.
+**The shelled green kind is known as pepitas**, from the Spanish *pepita de calabaza*. The scientific name of the [pumpkin](/en/food/pumpkin/) plant is *Cucurbita pepo*. In Hebrew they are called "גרעיני דלעת" or "זרעי דלעת" — both names refer to exactly the same thing.
 
 Pumpkin seeds are among the plant foods richest in magnesium and zinc — and that is where nearly all of their virtue lies. They were a staple food in Mesoamerican cultures centuries before they reached Europe, and were also used there as a folk remedy, mainly for prostate health.
 
@@ -46,10 +46,10 @@ The values are for **shelled, roasted, unsalted seeds**, according to [USDA Food
 | **Magnesium** | **154 mg** | **550 mg** | **37%** |
 | **Zinc** | **2.1 mg** | **7.64 mg** | **19%** |
 | Iron | 2.3 mg | 8.07 mg | 13% |
-| Phosphorus | 329 mg | 1,174 mg | 26% |
-| Copper | 0.36 mg | 1.275 mg | 40% |
-| Manganese | 1.26 mg | 4.49 mg | 55% |
-| Potassium | 221 mg | 788 mg | 5% |
+| [Phosphorus](/en/food/supplements/phosphorus/) | 329 mg | 1,174 mg | 26% |
+| [Copper](/en/food/supplements/copper/) | 0.36 mg | 1.275 mg | 40% |
+| [Manganese](/en/food/supplements/manganese/) | 1.26 mg | 4.49 mg | 55% |
+| [Potassium](/en/food/supplements/potassium/) | 221 mg | 788 mg | 5% |
 | Tryptophan | ~159 mg | ~569 mg | — |
 
 ### The benefits — what is actually backed by evidence
@@ -60,11 +60,11 @@ The values are for **shelled, roasted, unsalted seeds**, according to [USDA Food
 
 * **Prostate health — what the research really says.** This is the best-known benefit, and it is worth being precise about it. Controlled studies found **an improvement in BPH symptoms** (benign prostatic hyperplasia) — urination frequency and flow quality — mainly with **concentrated pumpkin seed oil**, and not necessarily with eating the seeds. The proposed mechanism is phytosterols and zinc. **What has not been proven:** prevention of prostate cancer or an effect on the enlargement of the gland itself. It is supportive treatment for symptoms, not a treatment for the disease.
 
-* **Protein and tryptophan:** 8.4 grams of protein in a handful, and pumpkin seeds are among the richest sources of tryptophan — a precursor of serotonin and melatonin. An effect on sleep is mechanistically plausible, but the direct studies are small. For tryptophan to reach the brain, a carbohydrate is needed alongside it, so a handful with a date or a slice of bread makes more sense than seeds on their own.
+* **Protein and tryptophan:** 8.4 grams of protein in a handful, and pumpkin seeds are among the richest sources of tryptophan — a precursor of serotonin and melatonin. An effect on sleep is mechanistically plausible, but the direct studies are small. For tryptophan to reach the brain, a carbohydrate is needed alongside it, so a handful with a [date](/en/food/dates/) or a slice of [bread](/en/food/sourdough/) makes more sense than seeds on their own.
 
 * **Phytosterols:** about 265 mg per 100 grams — among the highest of any seed. They compete with cholesterol for absorption in the gut.
 
-* **Unsaturated fats and vitamin E**, mainly in the form of gamma-tocopherol.
+* **Unsaturated fats and [vitamin E](/en/food/supplements/vitamin-e/)**, mainly in the form of gamma-tocopherol.
 
 ### Practical use
 
@@ -73,7 +73,7 @@ The values are for **shelled, roasted, unsalted seeds**, according to [USDA Food
 * **Don't snack straight from the bag.** Measure into a small bowl — in practice the difference is threefold or more.
 * **On salad, yogurt or granola** — for crunch, protein and magnesium.
 * **Pumpkin seed oil** for dressings only — it is dark green with a strong nutty flavor, and it is **not suitable for heating**. This is also the form tested in the prostate studies.
-* **Pair with a source of vitamin C** to improve absorption of non-heme iron.
+* **Pair with a source of [vitamin C](/en/food/supplements/vitamin-c/)** to improve absorption of non-heme [iron](/en/food/iron/).
 * **Before bed** — with a small carbohydrate, if tryptophan is the goal.
 
 ### Summary

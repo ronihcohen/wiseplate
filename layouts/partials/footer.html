@@ -11,17 +11,15 @@
         </div>
         <p class="footer-tagline">{{ T "footerTagline" | safeHTML }}</p>
       </div>
-      {{- if eq .Lang site.Sites.Default.Language.Lang }}
       <nav aria-label="{{ T "footerNav" }}">
         <p class="footer-nav-title">{{ T "footerCategories" }}</p>
         <ul class="footer-nav-links">
-          <li><a href="{{ "/food/" | relURL }}">מזון ותזונה</a></li>
-          <li><a href="{{ "/food/supplements/" | relURL }}">תוספי תזונה</a></li>
-          <li><a href="{{ "/compare/" | relURL }}">השוואות תזונתיות</a></li>
-          <li><a href="{{ "/run/" | relURL }}">ריצה וספורט</a></li>
+          <li><a href="{{ "/food/" | relLangURL }}">{{ T "navFood" }}</a></li>
+          <li><a href="{{ "/food/supplements/" | relLangURL }}">{{ T "navSupplements" }}</a></li>
+          <li><a href="{{ "/compare/" | relLangURL }}">{{ T "navComparisons" }}</a></li>
+          <li><a href="{{ "/run/" | relLangURL }}">{{ T "navRun" }}</a></li>
         </ul>
       </nav>
-      {{- end }}
     </div>
     <aside class="footer-disclaimer" role="note" aria-labelledby="footer-disclaimer-title">
       <p class="footer-disclaimer-title" id="footer-disclaimer-title">
