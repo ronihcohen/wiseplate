@@ -7,6 +7,8 @@ featured_image: ""
 description: "Broccoli: full nutrition facts, why the most common cooking method destroys sulforaphane, how to preserve it, and the downsides — gas, goitrogens and vitamin K."
 ---
 
+{{< youtube id="xj65VhjTKIU" title="Broccoli: Are You Cooking It Wrong? (video)" loading="lazy" >}}
+
 ## Broccoli (*Brassica oleracea*)
 
 Broccoli (in Hebrew "ברוקולי") is one of the most nutrient-dense vegetables there is: 100 grams provide almost the full daily intake of [vitamin C](/en/food/supplements/vitamin-c/) and 85% of [vitamin K](/en/food/supplements/vitamin-k/) — in just 34 calories.

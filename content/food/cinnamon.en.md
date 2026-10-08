@@ -7,6 +7,8 @@ featured_image: ""
 description: "Cinnamon's nutrition facts, what research really shows about blood sugar, the critical difference between Ceylon cinnamon and cassia, and the amount to be careful about because of coumarin."
 ---
 
+{{< youtube id="3ZVf-jRDP2Q" title="Cinnamon: Is Your Everyday Cinnamon the Wrong Kind? (video)" loading="lazy" >}}
+
 ## Cinnamon
 
 Cinnamon (in Hebrew "קינמון") is made from the inner bark of trees of the *Cinnamomum* genus, and it is one of the oldest spices in the world — it is mentioned in the Hebrew Bible, was traded in ancient Egypt, and was among the most valuable goods of the ancient world. Today it is found in almost every kitchen, and in recent years it has drawn research attention mainly in connection with blood sugar control.

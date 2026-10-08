@@ -6,6 +6,8 @@ featured_image: ""
 description: "Goat cheese — benefits and downsides, nutrition facts, and whether it is really easier to digest than cow's-milk cheese."
 ---
 
+{{< youtube id="AttlS579Yeo" title="Goat Cheese: Easier to Digest Than Cow's Milk Cheese? (video)" loading="lazy" >}}
+
 ## Goat Cheese: A Unique Nutritional Profile and Advantages Over Cow's Milk
 
 **Goat cheese is also known by its French name, *chèvre*.** In Hebrew it is written two ways, "גבינת עזים" and "גבינת עיזים" — both spellings are correct and refer to the same product.

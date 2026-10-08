@@ -7,6 +7,8 @@ featured_image: ""
 description: "Green tea: how much caffeine is in a cup (20-45 mg), its benefits and downsides, the difference between green tea extract and the tea itself, which kind is best and at what temperature to brew it."
 ---
 
+{{< youtube id="zcHJL8mf2qM" title="Green Tea: How Much Caffeine, and Is the Extract Safe? (video)" loading="lazy" >}}
+
 ## Green Tea
 
 Green tea (*Camellia sinensis*) is one of the most studied drinks in the world, with thousands of clinical and epidemiological publications. It originated in Japan and China, where it has been consumed for thousands of years both as a drink and as a medicine.

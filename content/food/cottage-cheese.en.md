@@ -6,6 +6,8 @@ featured_image: ""
 description: "Is cottage cheese healthy, what is it made of and where does it come from, how much protein and sodium does it contain, and what are its benefits and downsides."
 ---
 
+{{< youtube id="MqPa1gimdrs" title="Cottage Cheese: Great Protein, but Low Calcium? (video)" loading="lazy" >}}
+
 ## Cottage Cheese
 
 Cottage cheese (in Hebrew "גבינת קוטג'", or simply "קוטג'") is a fresh, unaged cheese made by souring [milk](/en/food/milk/) and separating the curd into granules, which are rinsed and mixed with a little cream or milk. Unlike hard cheeses, it is not pressed or aged — hence its granular texture and its high water content.
