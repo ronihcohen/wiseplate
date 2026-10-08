@@ -1,4 +1,4 @@
 ---
-title: "Science-Based Nutrition Guides"
-description: "Balanced, research-based guides to foods, supplements and recipes: nutritional values, benefits, downsides and side effects. The English edition of Wise Plate."
+title: "Nutrition, Gear and Sports Performance"
+description: "Balanced, science-based knowledge about nutrition, supplements and sport: nutrition facts, benefits and downsides of foods, comparisons and traditional recipes, all based on research."
 ---

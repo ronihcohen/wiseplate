@@ -104,8 +104,9 @@ versions. Pages without a translation show no switcher.
   not (a `[[cascade]]` in `hugo.toml` stops them), so translated articles
   carry no `tags`.
 - The English home, `/en/` (`content/_index.en.md` +
-  `layouts/index.en.html`), links to the English sections and lists every
-  English article automatically, newest first.
+  `layouts/index.en.html`) mirrors the Hebrew home (`layouts/index.html`)
+  section for section, in English: hero, topic cards, the six latest
+  articles. A change to one home page belongs in the other too.
 - Links in English text point to the English page: `/food/iron/` becomes
   `/en/food/iron/`. Never link from English text to a Hebrew page.
 - Turn the opening around: give the English name and mention the Hebrew
