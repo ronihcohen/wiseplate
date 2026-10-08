@@ -7,9 +7,9 @@ featured_image: ""
 description: "How many pistachios can you eat a day, are roasted pistachios healthy, are they even a nut, and what are their full nutrition facts — including the benefits and downsides."
 ---
 
-## Pistachios
-
 {{< youtube id="zyW8lI5OkQ4" title="Pistachios: Not Really a Nut? (video)" loading="lazy" >}}
+
+## Pistachios
 
 The pistachio (*Pistacia vera*) has been grown in the Middle East and Central Asia for more than 3,000 years, and it is one of the few foods that has managed to be both a popular snack and a food widely studied in a cardiometabolic context. In Hebrew it is called "פיסטוק". It stands out among nuts in three ways: it has the **fewest calories per serving**, it provides the **largest number of pieces** per serving, and it is almost the only one considered a **complete protein source**.
 

@@ -7,9 +7,9 @@ featured_image: ""
 description: "Pecans: calories and nutrition facts, health benefits and downsides, what is special about pecan fat, and how many to eat a day."
 ---
 
-## Pecans
-
 {{< youtube id="2jYW0dcSR-I" title="Pecans: The Most Extreme Nut? (video)" loading="lazy" >}}
+
+## Pecans
 
 The pecan (*Carya illinoinensis*) is a nut from the walnut family, native to North America, and a relative of the walnut. In Hebrew it is called "אגוז פקאן". It stands out among nuts in two extremes: the **highest fat content** of the common nuts, and at the same time the **lowest carbohydrate content**.
 

@@ -6,9 +6,9 @@ featured_image: ""
 description: "What EGCG (epigallocatechin gallate) is: the active catechin in green tea — how much is in a cup, what the effective dose is, what research really shows about fat burning, and why a concentrated extract can harm the liver."
 ---
 
-## What is EGCG?
-
 {{< youtube id="UpgBF2I1cF8" title="EGCG: Green Tea's Fat Burner? (video)" loading="lazy" >}}
+
+## What is EGCG?
 
 **EGCG (epigallocatechin gallate) is an antioxidant from the catechin group — the most active and most studied compound in green tea.** About 30% of the dry weight of a green tea leaf is made up of catechins, and EGCG is the dominant one — about 50%–60% of all the catechins in the leaf. When a supplement label promises "green tea extract," the extract is in most cases standardized by its percentage of EGCG.
 

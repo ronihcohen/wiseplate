@@ -7,9 +7,9 @@ featured_image: ""
 description: "Kefir's downsides and side effects: bloating at first, histamine, alcohol in homemade kefir, milk protein allergy and who should avoid it — alongside its benefits and full nutritional profile."
 ---
 
-## Introduction: Kefir
-
 {{< youtube id="v8vFlBZUMmE" title="Kefir: Ancient, Immortal and a Bit Boozy? (video)" loading="lazy" >}}
+
+## Introduction: Kefir
 
 **Kefir is a fermented [milk](/en/food/milk/) drink, sometimes also spelled kephir or kefier.** In Hebrew it is written two ways, "קפיר" and "כפיר" — both refer to exactly the same drink.
 

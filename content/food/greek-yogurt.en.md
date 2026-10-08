@@ -7,9 +7,9 @@ featured_image: ""
 description: "What is Greek yogurt and how is it different from regular yogurt? How straining works, protein, calories, sugar and calcium per 100 grams compared, and what to check on the label."
 ---
 
-## What Is Greek Yogurt?
-
 {{< youtube id="KOnky4Hy2ik" title="Greek Yogurt: What Makes It Greek? (video)" loading="lazy" >}}
+
+## What Is Greek Yogurt?
 
 Greek yogurt is yogurt that has been **strained to remove the whey**. Straining gives it a thicker texture than regular yogurt. Some of the calcium leaves with the liquid, so not every component becomes more concentrated to the same degree. [An explanation of strained yogurt from the Harvard Nutrition Source](https://nutritionsource.hsph.harvard.edu/food-features/yogurt/).
 

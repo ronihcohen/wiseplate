@@ -7,9 +7,9 @@ featured_image: ""
 description: "Pumpkin seeds: the main downsides are calorie density, salt in salted products and discomfort in large amounts. Values for shelled seeds, serving size and an explanation of mineral absorption."
 ---
 
-## Pumpkin Seeds
-
 {{< youtube id="YzAVX9vfxFM" title="Pumpkin Seeds: Tiny Seed, Big Deal? (video)" loading="lazy" >}}
+
+## Pumpkin Seeds
 
 ### Pumpkin seeds: downsides worth knowing {#downsides}
 
