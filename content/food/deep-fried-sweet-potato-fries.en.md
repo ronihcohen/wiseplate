@@ -7,6 +7,8 @@ featured_image: ""
 description: "Deep-fried sweet potato fries: how many calories they contain, whether they are really healthier than regular fries, what happens to beta-carotene during frying, and how to make a better version."
 ---
 
+{{< youtube id="s3yQq8VjFsU" title="Sweet Potato Fries: Healthier Than Regular Fries? (video)" loading="lazy" >}}
+
 ## Deep-Fried Sweet Potato Fries
 
 Sweet potato fries — "צ'יפס בטטה" in Hebrew — are usually sold as the healthy alternative to regular [fries](/en/food/fries/). That assumption is only partly true: **the [sweet potato](/en/food/sweet-potato/) is indeed better than the potato, but deep frying flattens most of the difference.**
