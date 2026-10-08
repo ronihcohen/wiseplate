@@ -6,6 +6,8 @@ featured_image: ""
 description: "Rye bread — benefits and downsides, nutrition facts, whether it contains gluten, and how it beats wheat bread."
 ---
 
+{{< youtube id="jlAQpmb6joM" title="Rye Bread: Is It Really Better Than Wheat? (video)" loading="lazy" >}}
+
 ## Rye Bread: The Scandinavian Grain That Got Ahead of the Health Trends
 
 Rye bread (made from *Secale cereale*) is a national standard in Scandinavia, Germany and Eastern Europe, where it has been an integral part of the traditional diet for hundreds of years. While wheat became the dominant grain in most of the world, rye kept its status in these countries — and not by chance: nutritionally, it shows a better profile for chronic health than white wheat breads and even many whole wheat breads.
