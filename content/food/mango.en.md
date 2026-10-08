@@ -7,9 +7,9 @@ featured_image: ""
 description: "Mango's downsides and benefits: how much sugar it really has, its glycemic index, whether it makes you fat, how much mango you can eat a day, and which vitamins it provides."
 ---
 
-## Mango
-
 {{< youtube id="ONkOjTCFWSQ" title="Mango: Too Much Sugar? (video)" loading="lazy" >}}
+
+## Mango
 
 The mango (*Mangifera indica*) is the most consumed fruit in the world by volume — more than apples, bananas or grapes. In Hebrew it is called "מנגו". It comes from South Asia, where it has been grown for more than 4,000 years, and in India it is the national fruit. It belongs to the cashew family (Anacardiaceae), the same family as cashews and [pistachios](/en/food/pistachios/) — a fact that explains some of the downsides described below.
 

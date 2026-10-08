@@ -7,9 +7,9 @@ featured_image: ""
 description: "What are the downsides of sesame seeds, and do they contain gluten? Allergy, oxalates and calories, alongside the benefits, calcium content and nutrition facts."
 ---
 
-## Sesame Seeds
-
 {{< youtube id="-GroF5Bs8B0" title="Sesame Seeds: The Calcium Myth? (video)" loading="lazy" >}}
+
+## Sesame Seeds
 
 Sesame (*Sesamum indicum*) was one of the first plants grown for oil, more than 3,000 years ago. In Israeli cooking it is especially central thanks to tahini, and it makes a meaningful nutritional contribution — but two facts about it tend to be presented in a misleading way. In Hebrew it is called "שומשום".
 

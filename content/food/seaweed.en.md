@@ -7,6 +7,8 @@ featured_image: ""
 description: "The health benefits of seaweed — iodine, fucoidan and marine minerals — alongside the downsides worth knowing, and how much seaweed you can eat a day without overdoing iodine."
 ---
 
+{{< youtube id="ptAl_WzGacI" title="Seaweed: Superfood or Iodine Overload? (video)" loading="lazy" >}}
+
 ## Seaweed
 
 Seaweed — which includes types such as nori, wakame, kelp, dulse and chlorella — is a marine superfood that has been eaten in Asia for thousands of years. In Hebrew it is called "אצות ים". In the Western world it has drawn growing attention in recent years because of a unique mineral profile that does not exist in most land foods.

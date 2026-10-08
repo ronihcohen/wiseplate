@@ -7,9 +7,9 @@ featured_image: ""
 description: "Chickpeas contain both carbohydrate and protein: 100 grams cooked have 27.4 grams of carbohydrate and 8.9 grams of protein. What's the difference between chickpeas and hummus?"
 ---
 
-## Chickpeas: Protein or Carb?
-
 {{< youtube id="hzRltxjYJqU" title="Chickpeas: Carb or Protein? (video)" loading="lazy" >}}
+
+## Chickpeas: Protein or Carb?
 
 **Chickpeas are a legume that contains both carbohydrate and protein.** 100 grams of cooked chickpeas have about 27.4 grams of carbohydrate and about 8.9 grams of protein; of the carbohydrate, 7.6 grams is dietary fiber. [Source: USDA FoodData Central, chickpeas, cooked, without salt](https://fdc.nal.usda.gov/food-details/173757/nutrients).
 
