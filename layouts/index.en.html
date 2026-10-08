@@ -1,52 +1,141 @@
 {{ define "main" }}
-{{/* The English home links to the English sections, then lists every
-     English article. site.RegularPages on the English site is exactly the
-     translated articles, so a new .en.md file appears here with no template
-     change. */}}
+{{/* English twin of index.html: same sections and cards, in English.
+     relLangURL adds the /en/ prefix, so the links go to the English pages. */}}
 
+<!-- ===== HERO ===== -->
 <section class="hero">
   <div class="container">
     <span class="hero-label">Nutrition science</span>
     <h1 class="hero-title">{{ .Title }}</h1>
-    <p class="hero-description">{{ .Description }}</p>
+    <p class="hero-description">
+      {{ with .Description }}{{ . }}{{ else }}Balanced, science-based knowledge about nutrition, supplements and health: research-based information for making the right choices for your body and your performance.{{ end }}
+    </p>
+    <div class="hero-actions">
+      <a href="{{ "/food/" | relLangURL }}" class="btn btn-primary">
+        Explore foods
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M3 8h10"/><path d="M9 4l4 4-4 4"/>
+        </svg>
+      </a>
+      <a href="{{ "/compare/" | relLangURL }}" class="btn btn-outline">Nutrition comparisons</a>
+    </div>
   </div>
 </section>
 
+<!-- ===== FEATURE SECTIONS ===== -->
 <section class="section">
   <div class="container">
     <div class="section-header">
       <p class="section-label">Topics</p>
       <h2 class="section-title">What you'll find here</h2>
+      <p class="section-subtitle">A balanced, scientific review of nutrition, supplements and sport</p>
     </div>
     <div class="section-cards">
-      {{- range slice "/food" "/food/supplements" "/compare" "/recipes" "/run" }}
-      {{- with site.GetPage . }}{{ if .File }}
-      <a href="{{ .RelPermalink }}" class="section-card">
-        <h3 class="section-card-title">{{ .Title }}</h3>
-        {{ with .Description }}<p class="section-card-desc">{{ . }}</p>{{ end }}
+
+      <!-- Food -->
+      <a href="{{ "/food/" | relLangURL }}" class="section-card">
+        <div class="section-card-icon icon-green">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.48 19 2c1 2 2 4.18 2 8 0 5.5-4.78 10-10 10z"/>
+            <path d="M2 21c0-3 1.85-5.36 5.08-6C9.5 14.52 12 13 13 12"/>
+          </svg>
+        </div>
+        <h3 class="section-card-title">Food &amp; nutrition</h3>
+        <p class="section-card-desc">Benefits and downsides of hundreds of foods and nutrients, based on current scientific research</p>
         <span class="section-card-cta">
-          {{ T "learnMore" }}
+          Explore foods
           <svg class="arrow-icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
             <path d="M3 8h10"/><path d="M9 4l4 4-4 4"/>
           </svg>
         </span>
       </a>
-      {{- end }}{{ end }}
-      {{- end }}
+
+      <!-- Supplements -->
+      <a href="{{ "/food/supplements/" | relLangURL }}" class="section-card">
+        <div class="section-card-icon icon-orange">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M9 3H5a2 2 0 0 0-2 2v4m6-6h10a2 2 0 0 1 2 2v4M9 3v18m0 0h10a2 2 0 0 0 2-2V9M9 21H5a2 2 0 0 1-2-2V9m0 0h18"/>
+          </svg>
+        </div>
+        <h3 class="section-card-title">Dietary supplements</h3>
+        <p class="section-card-desc">Vitamins, minerals and common supplements: the science on effectiveness, dosage and safety</p>
+        <span class="section-card-cta">
+          Explore supplements
+          <svg class="arrow-icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M3 8h10"/><path d="M9 4l4 4-4 4"/>
+          </svg>
+        </span>
+      </a>
+
+      <!-- Compare -->
+      <a href="{{ "/compare/" | relLangURL }}" class="section-card">
+        <div class="section-card-icon icon-blue">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M18 20V10"/><path d="M12 20V4"/><path d="M6 20v-6"/>
+          </svg>
+        </div>
+        <h3 class="section-card-title">Nutrition comparisons</h3>
+        <p class="section-card-desc">In-depth comparisons of similar foods and supplements to help you choose the one that suits you best</p>
+        <span class="section-card-cta">
+          Explore comparisons
+          <svg class="arrow-icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M3 8h10"/><path d="M9 4l4 4-4 4"/>
+          </svg>
+        </span>
+      </a>
+
+      <!-- Recipes -->
+      <a href="{{ "/recipes/" | relLangURL }}" class="section-card">
+        <div class="section-card-icon icon-orange">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M12 2a7 7 0 0 0-7 7c0 2.5 1.3 4.5 3 5.7V17h8v-2.3c1.7-1.2 3-3.2 3-5.7a7 7 0 0 0-7-7z"/><path d="M8 21h8"/><path d="M9 17v4"/><path d="M15 17v4"/>
+          </svg>
+        </div>
+        <h3 class="section-card-title">Recipes</h3>
+        <p class="section-card-desc">Traditional recipes from the world's cuisines, with nutrition facts and estimated calories per serving</p>
+        <span class="section-card-cta">
+          Explore recipes
+          <svg class="arrow-icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M3 8h10"/><path d="M9 4l4 4-4 4"/>
+          </svg>
+        </span>
+      </a>
+
+      <!-- Run -->
+      <a href="{{ "/run/" | relLangURL }}" class="section-card">
+        <div class="section-card-icon icon-green" style="background:#F0FDF4;">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="12" cy="5" r="1"/><path d="m9 20 3-6 3 6"/><path d="m6 8 2 2 4-2 2 4"/><path d="M6 10H4"/><path d="M20 14h-2"/>
+          </svg>
+        </div>
+        <h3 class="section-card-title">Running &amp; sport</h3>
+        <p class="section-card-desc">Gear reviews, training zones and running technique to improve your performance</p>
+        <span class="section-card-cta">
+          Learn more
+          <svg class="arrow-icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M3 8h10"/><path d="M9 4l4 4-4 4"/>
+          </svg>
+        </span>
+      </a>
+
     </div>
   </div>
 </section>
 
+<!-- ===== RECENT ARTICLES ===== -->
 <section class="section section-alt">
   <div class="container">
     <div class="section-header">
-      <p class="section-label">{{ len site.RegularPages }} {{ cond (eq (len site.RegularPages) 1) "article" "articles" }}</p>
-      <h2 class="section-title">All articles in English</h2>
+      <p class="section-label">Recently published</p>
+      <h2 class="section-title">Latest articles</h2>
     </div>
     <div class="article-grid">
-      {{ range site.RegularPages.ByDate.Reverse }}
+      {{ range first 6 .Site.RegularPages }}
         {{ partial "article-card.html" . }}
       {{ end }}
+    </div>
+    <div class="view-all-wrap">
+      <a href="{{ "/food/" | relLangURL }}" class="btn btn-outline">All articles</a>
     </div>
   </div>
 </section>
