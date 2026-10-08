@@ -7,6 +7,8 @@ featured_image: ""
 description: "How much protein is in salmon (22-25 grams per 100 grams), how much omega-3, full nutrition facts, the difference between farmed and wild salmon, and what the downsides are."
 ---
 
+{{< youtube id="tmepDRRu_ZE" title="Salmon: Farmed or Wild? (video)" loading="lazy" >}}
+
 ## Salmon
 
 Salmon is one of the most studied and most eaten fish in the world, and one of the few food sources that simultaneously provide **complete protein, long-chain omega-3 and [vitamin D](/en/food/supplements/vitamin-d/)** in significant amounts. That combination is rare: most protein sources do not provide [omega-3](/en/food/supplements/omega-3/), and most plant sources of omega-3 provide ALA, which the body converts to EPA and DHA at an efficiency of only a few percent.
