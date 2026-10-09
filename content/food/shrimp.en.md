@@ -7,7 +7,7 @@ featured_image: ""
 description: "Cooked shrimp provide about 24 g of protein and 99 calories per 100 g, without sauce or frying. Nutrition facts, cholesterol, allergy and what to look for when buying."
 ---
 
-{{< youtube id="1jH8yFi34cU" title="Shrimp: Is the Cholesterol a Problem? (video)" loading="lazy" >}}
+{{< youtube id="N30BcWT8rSI" title="Shrimp: Is the Cholesterol a Problem? (video)" loading="lazy" >}}
 
 ## Shrimp
 

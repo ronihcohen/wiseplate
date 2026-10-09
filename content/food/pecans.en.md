@@ -7,7 +7,7 @@ featured_image: ""
 description: "Pecans: calories and nutrition facts, health benefits and downsides, what is special about pecan fat, and how many to eat a day."
 ---
 
-{{< youtube id="2jYW0dcSR-I" title="Pecans: The Most Extreme Nut? (video)" loading="lazy" >}}
+{{< youtube id="Fq7NQyKKJS8" title="Pecans: The Most Extreme Nut? (video)" loading="lazy" >}}
 
 ## Pecans
 

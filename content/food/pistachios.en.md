@@ -7,7 +7,7 @@ featured_image: ""
 description: "How many pistachios can you eat a day, are roasted pistachios healthy, are they even a nut, and what are their full nutrition facts — including the benefits and downsides."
 ---
 
-{{< youtube id="zyW8lI5OkQ4" title="Pistachios: Not Really a Nut? (video)" loading="lazy" >}}
+{{< youtube id="P68Bjxe_xlk" title="Pistachios: Not Really a Nut? (video)" loading="lazy" >}}
 
 ## Pistachios
 
