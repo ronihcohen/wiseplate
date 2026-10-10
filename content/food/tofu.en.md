@@ -64,8 +64,8 @@ Another advantage: the calcium in tofu is well absorbed — about 30%, a rate si
 |---|---|---|
 | Silken | 5-8 g | Sauces, desserts, smoothies, miso soups |
 | Soft | 8-10 g | Soups, delicate dishes |
-| Firm | 12-15 g | Stir-fries, baking |
-| Extra firm | 15-17 g | Roasting, frying, grilling |
+| Firm | 15-17 g | Stir-fries, baking |
+| Extra firm | 17 g or more | Roasting, frying, grilling |
 
 ### Practical preparation — what changes the result
 
@@ -104,7 +104,7 @@ Answer: Almost. Soy protein is a complete protein with a PDCAAS score of about 0
 Answer: Press it for 20-30 minutes before cooking, and season aggressively. Another trick: freeze and thaw it before use — this creates a spongy, chewy texture that absorbs marinade much better. A cornstarch coating gives crispness.
 
 **Question: What is the difference between silken tofu and firm tofu?**
-Answer: Water content. Silken tofu contains 5-8 grams of protein per 100 grams and suits sauces, desserts and soups. Firm tofu contains 12-17 grams and suits stir-fries, roasting and baking. They are not interchangeable.
+Answer: Water content. Silken tofu contains 5-8 grams of protein per 100 grams and suits sauces, desserts and soups. Firm tofu contains 15-17 grams and suits stir-fries, roasting and baking. They are not interchangeable.
 
 **Question: Can you eat tofu while taking thyroid medication?**
 Answer: Yes, but leave at least 4 hours between taking thyroxine and eating soy, since it may interfere with absorption of the medication. Coordinate with your doctor.
