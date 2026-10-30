@@ -17,7 +17,7 @@ calories: 295
 
 ## Spinach Pkhali
 
-Pkhali (in Hebrew "פחאלי") is the name for a family of dishes of chopped vegetables mixed with walnuts, garlic, herbs and vinegar. It can be made from beets, green beans or cabbage; the spinach version is green, fresh and especially common. It is served as flattened balls or as a spread, usually with pomegranate seeds.
+Pkhali (in Hebrew "פחאלי") is the name for a family of dishes of chopped vegetables mixed with [walnuts](/en/food/walnuts/), [garlic](/en/food/garlic/), herbs and vinegar. It can be made from [beets](/en/food/beets/), green beans or cabbage; the [spinach](/en/food/spinach/) version is green, fresh and especially common. It is served as flattened balls or as a spread, usually with [pomegranate](/en/food/pomegranate/) seeds.
 
 **Prep time:** 25 minutes · **Cooking:** 5 minutes · **Chilling:** 30 minutes · **Yield:** 8 appetizer servings · **Difficulty:** easy
 
@@ -46,7 +46,7 @@ Turkish spinach or baby spinach work, but tough stems need to be removed. For fr
 1. **Blanch.** Put the spinach in a wide pot with the water left from rinsing, cover and cook for 3–5 minutes just until it collapses. Cool immediately.
 2. **Squeeze and chop.** Squeeze handfuls hard until almost no water comes out and chop finely with a knife. There is no need to turn it into a puree.
 3. **Grind the walnuts.** Grind the walnuts, garlic, half of the cilantro, the spices and the vinegar into a coarse paste.
-4. **Mix.** Combine the spinach, walnut paste, onion and the rest of the cilantro. Taste for salt and vinegar. Chill for 30 minutes.
+4. **Mix.** Combine the spinach, walnut paste, [onion](/en/food/onion/) and the rest of the cilantro. Taste for salt and vinegar. Chill for 30 minutes.
 5. **Shape.** Form 16 small balls, flatten them slightly and make a dimple with your thumb. Garnish with pomegranate.
 
 ### Nutrition facts and calorie estimate

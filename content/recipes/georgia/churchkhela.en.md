@@ -17,7 +17,7 @@ calories: 250
 
 ## Churchkhela
 
-Churchkhela looks like a candle, but it is a sweet made of walnut halves threaded on a string, dipped in a thickened grape juice and flour mixture and hung to dry. In Georgia it is made after the grape harvest; in an Israeli home you can use 100% grape juice and set aside a ventilated spot for drying.
+Churchkhela looks like a candle, but it is a sweet made of [walnut](/en/food/walnuts/) halves threaded on a string, dipped in a thickened grape juice and flour mixture and hung to dry. In Georgia it is made after the grape harvest; in an Israeli home you can use 100% grape juice and set aside a ventilated spot for drying.
 
 **Prep time:** 45 minutes · **Cooking:** 25 minutes · **Drying:** 5–7 days · **Yield:** 20 small strands · **Difficulty:** challenging
 

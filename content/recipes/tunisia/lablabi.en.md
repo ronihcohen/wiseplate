@@ -17,7 +17,7 @@ calories: 480
 
 ## Tunisian Lablabi
 
-Lablabi is a Tunisian [chickpea](/en/food/chickpeas/) soup assembled right in the bowl: day-old bread torn by hand, topped with chickpeas and their broth, then harissa, garlic, cumin, lemon and olive oil. Egg and tuna turn it into a complete meal.
+Lablabi is a Tunisian [chickpea](/en/food/chickpeas/) soup assembled right in the bowl: day-old bread torn by hand, topped with chickpeas and their broth, then harissa, [garlic](/en/food/garlic/), cumin, [lemon](/en/food/lemon/) and [olive oil](/en/food/olive-oil/). [Egg](/en/food/eggs/) and [tuna](/en/food/tuna/) turn it into a complete meal.
 
 **Prep time:** 20 minutes · **Soaking:** 8 hours · **Cooking:** 90 minutes · **Yield:** 8 bowls · **Difficulty:** Easy
 

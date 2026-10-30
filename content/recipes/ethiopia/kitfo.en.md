@@ -17,7 +17,7 @@ calories: 465
 
 ## Cooked Kitfo (Kitfo Yebesele)
 
-Kitfo is a Gurage dish of finely minced beef, mitmita and spiced fat. It is traditionally served raw or `leb leb` — lightly warmed — but also `yebesele`, well done. Beta Israel traditionally avoided raw meat, so raw kitfo should not be presented as an Ethiopian Jewish dish. The recipe here is cooked to 71°C (160°F) and uses kosher meat and pareve oil.
+Kitfo is a Gurage dish of finely minced [beef](/en/food/red-meat/), mitmita and spiced fat. It is traditionally served raw or `leb leb` — lightly warmed — but also `yebesele`, well done. Beta Israel traditionally avoided raw meat, so raw kitfo should not be presented as an Ethiopian Jewish dish. The recipe here is cooked to 71°C (160°F) and uses kosher meat and pareve oil.
 
 **Prep time:** 15 minutes · **Cooking time:** 15 minutes · **Yield:** 6 servings · **Difficulty:** easy
 
@@ -28,7 +28,7 @@ Bacteria can spread through the whole mass during grinding. So home-ground or st
 ### Ingredients (for 6 servings)
 
 * 900 grams fresh kosher ground beef, 10%–15% fat
-* 100 ml light olive oil or canola oil
+* 100 ml light [olive oil](/en/food/olive-oil/) or canola oil
 * 3 garlic cloves and 15 grams ginger, crushed
 * 1–2 teaspoons mitmita, or 1 teaspoon [berbere](/en/recipes/ethiopia/awaze/) with a pinch of chili and cardamom
 * 1/2 teaspoon ground korarima
@@ -37,11 +37,11 @@ Bacteria can spread through the whole mass during grinding. So home-ground or st
 
 ### Choosing ingredients and substitutes
 
-Mitmita is hotter than berbere and is sold in Ethiopian shops; start with a teaspoon. Regular kitfo uses niter kibbeh and ayib, a fresh cheese, but that combination is not suitable for a kosher meat dish. Spiced oil and gomen give a complete plate without dairy.
+Mitmita is hotter than berbere and is sold in Ethiopian shops; start with a teaspoon. Regular kitfo uses niter kibbeh and ayib, a fresh [cheese](/en/food/cheese/), but that combination is not suitable for a kosher meat dish. Spiced oil and gomen give a complete plate without dairy.
 
 ### Method
 
-1. **Spice the oil.** Heat the oil over low heat with the garlic and ginger for 3 minutes, without browning. Remove from the heat and stir in the mitmita and korarima.
+1. **Spice the oil.** Heat the oil over low heat with the [garlic](/en/food/garlic/) and [ginger](/en/food/ginger/) for 3 minutes, without browning. Remove from the heat and stir in the mitmita and korarima.
 2. **Cook the beef.** Heat a wide pan, add the beef and crumble it. Cook for 7–10 minutes, stirring, until there are no pink areas.
 3. **Measure.** Check for 71°C (160°F) in several spots. Add the spiced oil and cook for just one more minute.
 4. **Serve immediately.** Adjust the salt and serve on injera with gomen. Don't leave cooked ground meat at room temperature for more than two hours.

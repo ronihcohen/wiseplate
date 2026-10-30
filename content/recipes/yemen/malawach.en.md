@@ -58,7 +58,7 @@ Supermarket ghee is a convenient substitute for samneh. Regular butter is possib
 | Fat | about 23 grams |
 | Fiber | about 2 grams |
 
-Toppings are not included. An egg and tomato add about 95 calories together.
+Toppings are not included. An [egg](/en/food/eggs/) and [tomato](/en/food/tomato/) add about 95 calories together.
 
 ### Variations and tips
 

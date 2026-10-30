@@ -17,7 +17,7 @@ calories: 525
 
 ## Kurdish Shifta
 
-Shifta are meat and bulgur patties, close relatives of the regional kofta family. In Israel, versions with herbs and chickpeas in a yellow broth are well known.
+Shifta are meat and bulgur patties, close relatives of the regional kofta family. In Israel, versions with herbs and [chickpeas](/en/food/chickpeas/) in a yellow broth are well known.
 
 **Prep:** 30 minutes · **Cooking:** 50 minutes · **Yield:** 24 patties · **Difficulty:** easy
 
@@ -36,14 +36,14 @@ Shifta has no shell around a filling: the meat and bulgur are kneaded together i
 
 Briefly grinding the meat and bulgur together gives a dense, traditional texture; don't process it into a paste. Canned chickpeas go in for the last 20 minutes.
 
-15% ground beef gives a juicy patty without a heavy layer of fat in the broth. You can replace some of it with lamb, but the flavor and fat will be stronger and the calculation should be updated according to the package. Zucchini and celery are an easy-to-find Israeli base for the broth; the mix of vegetables varies between families. Dried chickpeas need soaking and precooking until almost tender before combining them with the patties.
+15% ground [beef](/en/food/red-meat/) gives a juicy patty without a heavy layer of fat in the broth. You can replace some of it with lamb, but the flavor and fat will be stronger and the calculation should be updated according to the package. [Zucchini](/en/food/zucchini/) and [celery](/en/food/celery/) are an easy-to-find Israeli base for the broth; the mix of vegetables varies between families. Dried chickpeas need soaking and precooking until almost tender before combining them with the patties.
 
 ### Method
 
-1. Knead the meat, bulgur, grated onion, herbs and spices and form 24 patties.
+1. Knead the meat, bulgur, grated [onion](/en/food/onion/), herbs and spices and form 24 patties.
 2. Fry the chopped onion and celery in oil, add the zucchini, water and spices and bring to a boil.
 3. Add the patties and simmer for 35 minutes; add the chickpeas and cook for 15 minutes.
-4. Check for 71 degrees Celsius and balance the lemon and salt.
+4. Check for 71 degrees Celsius and balance the [lemon](/en/food/lemon/) and salt.
 
 ### Nutrition facts and calorie estimate
 

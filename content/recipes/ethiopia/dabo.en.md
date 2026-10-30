@@ -17,7 +17,7 @@ calories: 250
 
 ## Dabo — Beta Israel Shabbat and Holiday Bread
 
-Dabo means bread in Amharic, and in the Beta Israel community a round, spiced loaf is served on Shabbat, on holidays and at the end of the Sigd fast. There are many versions by family and region; this one draws on the Gondar and Addis Ababa tradition documented in Israel, with coriander, nigella and turmeric.
+Dabo means bread in Amharic, and in the Beta Israel community a round, spiced loaf is served on Shabbat, on holidays and at the end of the Sigd fast. There are many versions by family and region; this one draws on the Gondar and Addis Ababa tradition documented in Israel, with coriander, nigella and [turmeric](/en/food/turmeric/).
 
 **Prep time:** 25 minutes · **Rising:** about two hours · **Baking:** 45 minutes · **Yield:** one large loaf, 12 slices · **Difficulty:** medium
 
@@ -35,7 +35,7 @@ Dabo is rounder and thicker than a braided challah. Bake at 180°C (355°F) and 
 * 1 teaspoon turmeric
 * 1 tablespoon coriander seeds, toasted and ground
 * 1 teaspoon nigella seeds, toasted and coarsely ground
-* 90 ml olive oil, plus more for greasing
+* 90 ml [olive oil](/en/food/olive-oil/), plus more for greasing
 * 380–420 ml lukewarm water
 
 ### Choosing ingredients and substitutes

@@ -17,7 +17,7 @@ calories: 30
 
 ## Amba
 
-Amba (in Hebrew "עמבה") is a tangy, spiced [mango](/en/food/mango/) sauce, with turmeric and fenugreek that give it its familiar color and aroma. It goes into a pita with eggplant and egg, alongside fish and in sandwiches. The recipe here is a cooked homemade version: you make it in a pot, cool it and keep it in the refrigerator.
+Amba (in Hebrew "עמבה") is a tangy, spiced [mango](/en/food/mango/) sauce, with turmeric and fenugreek that give it its familiar color and aroma. It goes into a pita with [eggplant](/en/food/eggplant/) and [egg](/en/food/eggs/), alongside fish and in sandwiches. The recipe here is a cooked homemade version: you make it in a pot, cool it and keep it in the refrigerator.
 
 **Prep time:** 15 minutes · **Cooking time:** about 20 minutes · **Total with initial cooling:** about an hour · **Yield:** about 750 grams · **Difficulty:** easy
 

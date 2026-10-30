@@ -38,11 +38,11 @@ Potatoes into 2 cm cubes, carrots into thin slices and cabbage into wide strips.
 
 ### Choosing ingredients and substitutes
 
-Yellow or red potatoes hold their shape. You can replace a third of the cabbage with cauliflower, but add it with the cabbage. There is no need for [berbere](/en/recipes/ethiopia/awaze/): this is an alicha dish, and the turmeric is what gives it color.
+Yellow or red potatoes hold their shape. You can replace a third of the cabbage with cauliflower, but add it with the cabbage. There is no need for [berbere](/en/recipes/ethiopia/awaze/): this is an alicha dish, and the [turmeric](/en/food/turmeric/) is what gives it color.
 
 ### Method
 
-1. **Soften the onion.** Heat the oil and cook the onion for 8 minutes. Add the garlic, ginger, turmeric and cumin for a minute.
+1. **Soften the [onion](/en/food/onion/).** Heat the oil and cook the onion for 8 minutes. Add the garlic, [ginger](/en/food/ginger/), turmeric and cumin for a minute.
 2. **Start with the hard vegetables.** Add the potatoes and carrots, stir and add 250 ml water. Cover and cook for 15 minutes.
 3. **Add the cabbage.** Add the cabbage, salt and the remaining 100 ml of water, cover and cook for another 15–20 minutes. Stir gently once or twice.
 4. **Reduce.** Remove the lid and evaporate excess liquid for 5 minutes. The vegetables should be tender and whole, not soup.

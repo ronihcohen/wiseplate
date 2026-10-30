@@ -17,7 +17,7 @@ calories: 560
 
 ## Kubbeh Bamia
 
-Kubbeh bamia combines semolina and meat dumplings with a sauce of tomatoes and okra (bamia). Okra and tomatoes are common in Iraq and in Kurdistan; this version is documented in Israel as Kurdish home cooking, without claiming regional exclusivity.
+Kubbeh bamia combines semolina and meat dumplings with a sauce of [tomatoes](/en/food/tomato/) and [okra](/en/food/okra/) (bamia). Okra and tomatoes are common in Iraq and in Kurdistan; this version is documented in Israel as Kurdish home cooking, without claiming regional exclusivity.
 
 **Prep time:** 1 hour · **Cooking:** 1 hour · **Yield:** 24 kubbeh · **Difficulty:** challenging
 
@@ -40,9 +40,9 @@ Israeli frozen okra works perfectly and should not be thawed. With fresh okra, t
 
 ### Method
 
-1. Fry the two filling onions in 2 tablespoons of oil, add the beef and spices and cook until no pink liquid remains; cool. Knead the semolina, salt and 420 ml of water, adding water gradually until the dough is pliable, form 24 shells and fill them. Chill for 20 minutes.
-2. Fry the onion, add the garlic, tomato paste and paprika and fry for two minutes.
-3. Add the tomatoes, water, lemon juice, sugar and salt and cook for 15 minutes.
+1. Fry the two filling [onions](/en/food/onion/) in 2 tablespoons of oil, add the [beef](/en/food/red-meat/) and spices and cook until no pink liquid remains; cool. Knead the semolina, salt and 420 ml of water, adding water gradually until the dough is pliable, form 24 shells and fill them. Chill for 20 minutes.
+2. Fry the onion, add the [garlic](/en/food/garlic/), tomato paste and paprika and fry for two minutes.
+3. Add the tomatoes, water, [lemon](/en/food/lemon/) juice, sugar and salt and cook for 15 minutes.
 4. Add the okra and cook for 10 minutes without aggressive stirring.
 5. Slide the kubbeh into the pot and cook at a gentle simmer for 35–40 minutes. Shake the pot.
 6. Check that the meat reaches 71 degrees Celsius and let stand for 15 minutes to thicken.

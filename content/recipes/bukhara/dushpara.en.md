@@ -17,7 +17,7 @@ calories: 470
 
 ## Bukharian Dushpara Soup
 
-Dushpara are tiny meat dumplings cooked in soup. They are close to the dushbara of the Caucasus and to other Central Asian dumplings, and in Bukharian cooking they appear with meat broth, vegetables, chickpeas and sometimes dried sour cherries.
+Dushpara are tiny meat dumplings cooked in soup. They are close to the dushbara of the Caucasus and to other Central Asian dumplings, and in Bukharian cooking they appear with meat broth, vegetables, [chickpeas](/en/food/chickpeas/) and sometimes dried sour [cherries](/en/food/cherry/).
 
 **Prep time:** 80 minutes · **Cooking:** 50 minutes · **Yield:** 8 bowls · **Difficulty:** advanced
 
@@ -43,10 +43,10 @@ Homemade or store-bought low-sodium broth works. Sour cherries are optional; swe
 
 ### Method
 
-1. Knead the flour, egg, water and salt into a firm dough; rest for 30 minutes.
-2. Mix the beef, onion and spices and keep cold.
+1. Knead the flour, [egg](/en/food/eggs/), water and salt into a firm dough; rest for 30 minutes.
+2. Mix the [beef](/en/food/red-meat/), [onion](/en/food/onion/) and spices and keep cold.
 3. Roll thin, cut 4–5 cm squares, place half a teaspoon of filling, fold into a triangle and then bring the corners together.
-4. In a pot, fry the onion, carrot and celery in the oil for 8 minutes. Add the broth and chickpeas and cook for 20 minutes.
+4. In a pot, fry the onion, carrot and [celery](/en/food/celery/) in the oil for 8 minutes. Add the broth and chickpeas and cook for 20 minutes.
 5. Bring to a gentle boil, add the dumplings and cook for 10–12 minutes. Open one and check that the filling has reached 71°C (160°F).
 
 ### Nutrition facts and calorie estimate

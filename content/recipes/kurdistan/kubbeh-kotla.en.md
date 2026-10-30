@@ -17,7 +17,7 @@ calories: 790
 
 ## Kubbeh Kotla Hamin
 
-Kotla is a large, flat kubbeh made to withstand long cooking, not a delicate semolina kubbeh forgotten on the stove. The recipe here is a home adaptation of a Jewish-Kurdish hamin (the slow-cooked Shabbat stew): the shape of the kubbeh is based on documented kotla, while the bed of chickpeas and onion is a family variation stated separately.
+Kotla is a large, flat kubbeh made to withstand long cooking, not a delicate semolina kubbeh forgotten on the stove. The recipe here is a home adaptation of a Jewish-Kurdish hamin (the slow-cooked Shabbat stew): the shape of the kubbeh is based on documented kotla, while the bed of [chickpeas](/en/food/chickpeas/) and [onion](/en/food/onion/) is a family variation stated separately.
 
 **Prep:** 75 minutes · **Cooking:** 12.5–14.5 hours · **Yield:** 16 kubbeh, 8 servings · **Difficulty:** challenging
 
@@ -28,7 +28,7 @@ Kotla is large, flat and has a bulgur-semolina shell thicker than soup kubbeh. T
 ### Ingredients
 
 * 500 grams fine bulgur, 300 grams semolina, 450–550 ml water and 2 teaspoons salt
-* 800 grams ground beef, 3 onions, baharat and pepper
+* 800 grams ground [beef](/en/food/red-meat/), 3 onions, baharat and pepper
 * 300 grams dried chickpeas, soaked, 3 sliced onions
 * 4 tablespoons oil, 2.5 liters water, paprika, salt and dried mint
 

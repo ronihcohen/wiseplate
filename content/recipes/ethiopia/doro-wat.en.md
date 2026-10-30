@@ -17,7 +17,7 @@ calories: 625
 
 ## Doro Wat — Sanbat Wat for Shabbat
 
-Doro wat is a festive stew of chicken and eggs in an onion and [berbere](/en/recipes/ethiopia/awaze/) sauce. In Beta Israel homes it is associated with Shabbat and is also called sanbat wat. The kosher version uses a pareve spiced oil instead of dairy niter kibbeh, so as not to mix meat and dairy.
+Doro wat is a festive stew of chicken and [eggs](/en/food/eggs/) in an [onion](/en/food/onion/) and [berbere](/en/recipes/ethiopia/awaze/) sauce. In Beta Israel homes it is associated with Shabbat and is also called sanbat wat. The kosher version uses a pareve spiced oil instead of dairy niter kibbeh, so as not to mix meat and dairy.
 
 **Prep time:** 35 minutes · **Cooking time:** 100 minutes · **Yield:** 6 servings · **Difficulty:** medium
 
@@ -41,13 +41,13 @@ A kilogram of onion sounds like a lot, but it breaks down and thickens the wat w
 
 ### Choosing ingredients and substitutes
 
-Israeli berbere varies greatly in salt and heat; start with two tablespoons. You can remove the skin to reduce fat, but the meat will dry out faster. Don't rinse raw chicken in the sink: the lemon juice is a soak for flavor, not disinfection, and it is the cooking that kills bacteria.
+Israeli berbere varies greatly in salt and heat; start with two tablespoons. You can remove the skin to reduce fat, but the meat will dry out faster. Don't rinse raw chicken in the sink: the [lemon](/en/food/lemon/) juice is a soak for flavor, not disinfection, and it is the cooking that kills bacteria.
 
 ### Method
 
 1. **Soak for flavor.** Mix the chicken with the lemon and salt for 20 minutes in the fridge. Pat dry with paper; discard the liquid and wash your hands and the work surface.
 2. **Dry the onion.** Put the onion in a heavy pot without oil and cook for 25–35 minutes over medium-low heat, stirring, until soft and almost dry.
-3. **Bloom the spices.** Add the oil, garlic and ginger for 3 minutes. Add the berbere, tomato paste, fenugreek and turmeric and cook for 5 minutes, with a little water if it sticks.
+3. **Bloom the spices.** Add the oil, [garlic](/en/food/garlic/) and [ginger](/en/food/ginger/) for 3 minutes. Add the berbere, [tomato](/en/food/tomato/) paste, fenugreek and turmeric and cook for 5 minutes, with a little water if it sticks.
 4. **Cook the chicken.** Add the chicken and coat it in the sauce. Add the water, partially cover and cook at a gentle simmer for 45–60 minutes, until 74°C (165°F) in the thickest part.
 5. **Add the eggs.** Add the scored eggs and korarima and cook for another 10 minutes. Adjust the salt. In the Beta Israel tradition it is made before Shabbat and served according to the family's custom; don't infer a uniform halakhic practice for all families in Israel from this.
 

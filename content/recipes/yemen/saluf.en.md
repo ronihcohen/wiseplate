@@ -33,7 +33,7 @@ Preheat a stone or an upside-down baking sheet for at least 35 minutes at 250 de
 * 12 grams sugar
 * 16 grams salt
 * 520–560 ml lukewarm water
-* 30 grams olive oil
+* 30 grams [olive oil](/en/food/olive-oil/)
 * 2 teaspoons nigella seeds, optional
 
 ### Choosing ingredients and substitutes

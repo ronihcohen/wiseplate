@@ -17,7 +17,7 @@ calories: 330
 
 ## Injera Firfir
 
-Firfir is an Ethiopian way of turning yesterday's injera into a meal: you tear it into pieces and mix it into an onion, tomato and [berbere](/en/recipes/ethiopia/awaze/) sauce until it absorbs flavor but does not dissolve. There are many versions, including `quanta firfir` with dried meat; here is the vegan, accessible version.
+Firfir is an Ethiopian way of turning yesterday's injera into a meal: you tear it into pieces and mix it into an [onion](/en/food/onion/), [tomato](/en/food/tomato/) and [berbere](/en/recipes/ethiopia/awaze/) sauce until it absorbs flavor but does not dissolve. There are many versions, including `quanta firfir` with dried meat; here is the vegan, accessible version.
 
 **Prep time:** 15 minutes · **Cooking time:** 25 minutes · **Yield:** 6 servings · **Difficulty:** easy
 
@@ -44,7 +44,7 @@ Fresh injera is too soft; leave it partly covered overnight in the fridge. Injer
 ### Method
 
 1. **Soften the onion.** Cook the onion in a wide pot without oil for 12–15 minutes, until soft and almost dry.
-2. **Build the sauce.** Add the oil, garlic, ginger and berbere for 2 minutes. Add the tomatoes and paste and cook for 8–10 minutes until thick.
+2. **Build the sauce.** Add the oil, [garlic](/en/food/garlic/), [ginger](/en/food/ginger/) and berbere for 2 minutes. Add the tomatoes and paste and cook for 8–10 minutes until thick.
 3. **Adjust the texture.** Add 150 ml water, the korarima and salt. The sauce should coat a spoon; add more water only if it is very thick.
 4. **Fold in the injera.** Add the pieces and fold gently for 2–3 minutes, just until they are hot and coated. Serve immediately.
 
@@ -62,7 +62,7 @@ The calculation assumes 600 grams of injera at about 165 calories per 100 grams.
 
 ### Variations and tips
 
-* For extra vegan protein, mix 300 grams of cooked chickpeas into the sauce before the injera.
+* For extra vegan protein, mix 300 grams of cooked [chickpeas](/en/food/chickpeas/) into the sauce before the injera.
 * Serve with a cold tomato salad to balance the heat.
 * Firfir doesn't keep well for long; leftovers keep for one day and will soften.
 

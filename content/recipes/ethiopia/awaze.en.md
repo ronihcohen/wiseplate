@@ -23,7 +23,7 @@ The proper name of the sauce is **awaze**: a thick, hot Ethiopian dip made from 
 
 ### What is the difference between berbere and awaze {#berbere-vs-awaze}
 
-Berbere is a red blend of chili pepper and spices whose composition changes from family to family and from producer to producer. Awaze is the paste you get when you mix berbere with water and with tej — Ethiopian honey wine — or with red wine. So don't swap one for the other in the same amount: a tablespoon of dry berbere is more concentrated than a tablespoon of ready-made sauce.
+Berbere is a red blend of chili pepper and spices whose composition changes from family to family and from producer to producer. Awaze is the paste you get when you mix berbere with water and with tej — Ethiopian [honey](/en/food/honey/) wine — or with red wine. So don't swap one for the other in the same amount: a tablespoon of dry berbere is more concentrated than a tablespoon of ready-made sauce.
 
 ### Ingredients (for about 8 tablespoons)
 

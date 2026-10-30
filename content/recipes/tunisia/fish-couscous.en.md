@@ -44,9 +44,9 @@ Frozen fish thawed overnight in the fridge works; pat it dry before seasoning. A
 
 ### Method
 
-1. **Season the fish.** Mix 1 teaspoon harissa, 1 tablespoon oil, salt and lemon and rub it over the pieces. Refrigerate for only 20 minutes.
-2. **Build the sauce.** Fry the onion in the remaining oil for 7 minutes. Add the garlic, tomato paste and spices and fry 2 minutes.
-3. **Cook the vegetables.** Add the water, chickpeas and carrots and cook 15 minutes. Add the pumpkin and zucchini for another 15 minutes.
+1. **Season the fish.** Mix 1 teaspoon harissa, 1 tablespoon oil, salt and [lemon](/en/food/lemon/) and rub it over the pieces. Refrigerate for only 20 minutes.
+2. **Build the sauce.** Fry the [onion](/en/food/onion/) in the remaining oil for 7 minutes. Add the [garlic](/en/food/garlic/), tomato paste and spices and fry 2 minutes.
+3. **Cook the vegetables.** Add the water, chickpeas and carrots and cook 15 minutes. Add the pumpkin and [zucchini](/en/food/zucchini/) for another 15 minutes.
 4. **Cook the fish.** Lay the pieces in a single layer in the sauce, cover and cook at a gentle simmer 8–12 minutes, to 63°C (145°F) in the center. Don't stir with a spoon; shake the pot.
 5. **Make the couscous.** Prepare according to the package directions and fluff with a fork. Serve the grains, vegetables, fish and sauce, and finish with cilantro and lemon.
 

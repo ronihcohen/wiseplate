@@ -17,13 +17,13 @@ calories: 170
 
 ## Gomen — Ethiopian Greens
 
-Gomen is the name for cooked leafy greens, and sometimes for the stew itself. In Ethiopia local varieties of collard greens are used; in Israel, kale, Swiss chard or mustard greens give an accessible result. It is a mild side that balances a spicy wat.
+Gomen is the name for cooked leafy greens, and sometimes for the stew itself. In Ethiopia local varieties of collard greens are used; in Israel, [kale](/en/food/kale/), Swiss chard or mustard greens give an accessible result. It is a mild side that balances a spicy wat.
 
 **Prep time:** 20 minutes · **Cooking time:** 30 minutes · **Yield:** 6 servings · **Difficulty:** easy
 
 ### Stems and leaves at different times
 
-Kale and chard stems are tougher than the leaves. Chop them finely and cook them with the onion; add the leaves later. That way you don't end up with tough stems and gray leaves.
+Kale and chard stems are tougher than the leaves. Chop them finely and cook them with the [onion](/en/food/onion/); add the leaves later. That way you don't end up with tough stems and gray leaves.
 
 ### Ingredients (for 6 servings)
 
@@ -43,7 +43,7 @@ Kale gives a texture close to collard greens; chard is softer and cooks faster. 
 ### Method
 
 1. **Separate.** Remove the thick stems, chop them finely and cut the leaves into wide strips.
-2. **Fry the base.** Heat the oil, add the onion and stems and cook for 8 minutes. Add the garlic, ginger, chili and turmeric for a minute.
+2. **Fry the base.** Heat the oil, add the onion and stems and cook for 8 minutes. Add the [garlic](/en/food/garlic/), [ginger](/en/food/ginger/), chili and turmeric for a minute.
 3. **Wilt the leaves.** Add the leaves in several batches and stir until they collapse. Add the water, cover and cook for 12–20 minutes depending on the type of leaf.
 4. **Finish.** Remove the lid and evaporate excess liquid. Salt and add the lemon. The leaves should be tender but not mush.
 
@@ -57,7 +57,7 @@ Kale gives a texture close to collard greens; chard is softer and cooks faster. 
 | Fat | about 10 grams |
 | Fiber | about 6 grams |
 
-Most of the calories come from the olive oil. Cutting it to 3 tablespoons lowers it by about 40 calories per serving.
+Most of the calories come from the [olive oil](/en/food/olive-oil/). Cutting it to 3 tablespoons lowers it by about 40 calories per serving.
 
 ### Variations and tips
 

@@ -30,7 +30,7 @@ Salt and kneading build gluten, and resting relaxes it. Coat strips with oil and
 * 600 grams flour, 2 eggs, 260–300 ml water, 12 grams salt
 * 700 grams beef shoulder, in strips
 * 60 ml oil — 40 ml for the sauce and 20 ml for oiling the noodles
-* 2 onions, 3 carrots, 2 bell peppers, 3 tomatoes, cut up
+* 2 onions, 3 carrots, 2 [bell peppers](/en/food/red-pepper/), 3 tomatoes, cut up
 * 300 grams radish or kohlrabi, cubed
 * 4 garlic cloves
 * 2 teaspoons cumin, a teaspoon of paprika, salt and pepper
@@ -39,13 +39,13 @@ Salt and kneading build gluten, and resting relaxes it. Coat strips with oil and
 
 ### Choosing ingredients and substitutes
 
-Israeli kohlrabi stands in for the large Central Asian radish and adds crunch. Store-bought wide egg noodles are a reasonable shortcut, but they are not pulled lagman. Use beef and don't mix in dairy products.
+Israeli kohlrabi stands in for the large Central Asian radish and adds crunch. Store-bought wide egg noodles are a reasonable shortcut, but they are not pulled lagman. Use [beef](/en/food/red-meat/) and don't mix in dairy products.
 
 ### Method
 
 1. Knead the flour, eggs, water and salt for 10 minutes. Divide into 8 equal pieces, roll each into a thick rope about 25 cm long, arrange on a tray and coat well with the reserved 20 ml of oil. Cover and rest for 30 minutes.
-2. Brown the beef in the 40 ml of oil meant for the sauce, in several batches. Add the onion, carrot, pepper, kohlrabi and garlic and fry for 8 minutes.
-3. Add the tomatoes, spices and broth. Cook covered for 35–40 minutes until the meat is tender.
+2. Brown the beef in the 40 ml of oil meant for the sauce, in several batches. Add the [onion](/en/food/onion/), [carrot](/en/food/carrot/), pepper, kohlrabi and [garlic](/en/food/garlic/) and fry for 8 minutes.
+3. Add the [tomatoes](/en/food/tomato/), spices and broth. Cook covered for 35–40 minutes until the meat is tender.
 4. Stretch each oiled rope gradually: roll it between your palms, pull gently and double its length each round, until you get a noodle 4–5 mm thick. If the dough shrinks back, cover and rest for another 10 minutes. Alternatively, roll out and cut into strips. Cook in salted water for 3–5 minutes and drain.
 5. Divide the noodles among bowls and pour the meat, vegetables and sauce over them. The beef should reach at least 71°C (160°F).
 

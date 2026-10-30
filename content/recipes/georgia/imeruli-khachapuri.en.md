@@ -17,7 +17,7 @@ calories: 840
 
 ## Imeruli Khachapuri
 
-The Imeretian version is a round, closed khachapuri: a ball of dough filled with cheese, pinched shut, flattened and baked until the crust is speckled. Unlike [adjaruli](/en/recipes/georgia/adjaruli-khachapuri/), it has no visible egg and is cut into triangles like a pizza.
+The Imeretian version is a round, closed khachapuri: a ball of dough filled with [cheese](/en/food/cheese/), pinched shut, flattened and baked until the crust is speckled. Unlike [adjaruli](/en/recipes/georgia/adjaruli-khachapuri/), it has no visible [egg](/en/food/eggs/) and is cut into triangles like a pizza.
 
 **Prep time:** 35 minutes · **Rising and resting:** 70 minutes · **Baking:** 16–18 minutes · **Yield:** 2 pies, 6 servings · **Difficulty:** medium
 
@@ -40,7 +40,7 @@ After sealing the cheese inside the dough, don't roll it out forcefully. Press w
 
 ### Choosing ingredients and substitutes
 
-Sulguni or Imeretian cheese from a Georgian deli is the original choice. With the local blend, don't add salt before tasting the feta. Yogurt gives softness and tang; plain eshel (an Israeli cultured milk) can replace it at the same weight.
+Sulguni or Imeretian cheese from a Georgian deli is the original choice. With the local blend, don't add salt before tasting the feta. [Yogurt](/en/food/greek-yogurt/) gives softness and tang; plain eshel (an Israeli cultured [milk](/en/food/milk/)) can replace it at the same weight.
 
 ### Method
 

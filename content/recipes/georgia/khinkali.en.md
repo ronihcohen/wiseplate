@@ -39,12 +39,12 @@ Without liquid you get a meatball inside dough. Add cold water gradually until t
 
 ### Choosing ingredients and substitutes
 
-The city version with herbs is known as kalakuri; mountain versions are simpler. Instead of lamb you can use only 15%–20% beef, but not very lean meat. Elsewhere there are pork fillings; the version here is a meat dish and kosher in its ingredients, with no milk and no butter.
+The city version with herbs is known as kalakuri; mountain versions are simpler. Instead of [lamb](/en/food/lamb/) you can use only 15%–20% [beef](/en/food/red-meat/), but not very lean meat. Elsewhere there are pork fillings; the version here is a meat dish and kosher in its ingredients, with no milk and no butter.
 
 ### Method
 
 1. **Knead a stiff dough.** Mix the flour, 7 grams of salt and 330 ml of water. Knead for 10 minutes; add a little water only if dry flour remains. Wrap and rest for 30 minutes.
-2. **Mix the filling.** Combine the meat, onion, herbs and spices. Add cold water in several rounds and knead until each addition is absorbed. Chill.
+2. **Mix the filling.** Combine the meat, [onion](/en/food/onion/), herbs and spices. Add cold water in several rounds and knead until each addition is absorbed. Chill.
 3. **Roll out.** Divide into 32 balls of about 32 grams. Roll each into a circle 14–15 cm in diameter, thin at the edges and slightly thicker in the center.
 4. **Pleat.** Place about 45 grams of filling in the center. Lift the edge and form pleats all the way around; pinch and twist the knot. There is no need to chase a particular number of pleats — sealing matters more.
 5. **Cook in batches.** Bring a wide pot of salted water to a boil. Stir the water gently, add 6–8 pieces and loosen them from the bottom. Cook for 7–9 minutes from the moment they float.

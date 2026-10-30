@@ -17,7 +17,7 @@ calories: 440
 
 ## Tunisian Fricassé
 
-Fricassé is a Tunisian sandwich in which the roll itself is part of the flavor: an oval yeast dough fried until golden, split open and filled with tuna, [potato](/en/food/baked-potato/), [egg](/en/food/eggs/), olives, harissa and preserved lemon. It is associated with street stalls and with the tables of Tunisian Jews in Israel.
+Fricassé is a Tunisian sandwich in which the roll itself is part of the flavor: an oval yeast dough fried until golden, split open and filled with [tuna](/en/food/tuna/), [potato](/en/food/baked-potato/), [egg](/en/food/eggs/), olives, harissa and preserved [lemon](/en/food/lemon/). It is associated with street stalls and with the tables of Tunisian Jews in Israel.
 
 **Prep time:** 45 minutes · **Rising:** 75 minutes · **Frying and assembly:** 30 minutes · **Yield:** 10 pieces · **Difficulty:** Medium
 

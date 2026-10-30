@@ -17,7 +17,7 @@ calories: 340
 
 ## Tunisian Slata Mechouia
 
-"Mechouia" means grilled: peppers, tomatoes, onion and garlic are charred, peeled and chopped by hand to a coarse texture. Tuna, [egg](/en/food/eggs/) and olives aren't just garnish; they turn the salad into a generous starter.
+"Mechouia" means grilled: peppers, [tomatoes](/en/food/tomato/), [onion](/en/food/onion/) and [garlic](/en/food/garlic/) are charred, peeled and chopped by hand to a coarse texture. [Tuna](/en/food/tuna/), [egg](/en/food/eggs/) and olives aren't just garnish; they turn the salad into a generous starter.
 
 **Prep time:** 25 minutes · **Roasting time:** 35 minutes · **Yield:** 6 servings · **Difficulty:** Easy
 
@@ -40,7 +40,7 @@ A food processor turns the vegetables into a watery spread. A knife or a vegetab
 
 ### Choosing ingredients and substitutes
 
-A light green, elongated pepper gives a characteristic Tunisian flavor, but Israeli bell peppers are easy to find and sweeter. To roast without a grill, use a very hot oven. Tuna in oil raises the calories depending on how much oil remains.
+A light green, elongated pepper gives a characteristic Tunisian flavor, but Israeli [bell peppers](/en/food/red-pepper/) are easy to find and sweeter. To roast without a grill, use a very hot oven. Tuna in oil raises the calories depending on how much oil remains.
 
 ### Method
 

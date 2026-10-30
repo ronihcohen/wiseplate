@@ -17,7 +17,7 @@ calories: 595
 
 ## Kharcho Soup
 
-Kharcho is a thick, tangy Georgian beef soup with rice, walnuts and spices. The traditional sourness comes from tklapi — a dried sheet of plum puree — or from tkemali. The recipe adapts this part to a product you can buy in Israel without replacing it with tomato paste alone.
+Kharcho is a thick, tangy Georgian [beef](/en/food/red-meat/) soup with [rice](/en/food/rice/), [walnuts](/en/food/walnuts/) and spices. The traditional sourness comes from tklapi — a dried sheet of plum puree — or from tkemali. The recipe adapts this part to a product you can buy in Israel without replacing it with [tomato](/en/food/tomato/) paste alone.
 
 **Prep time:** 25 minutes · **Cooking time:** about two hours · **Yield:** 8 large bowls · **Difficulty:** medium
 
@@ -48,8 +48,8 @@ Tkemali is sold in delis run by immigrants from Georgia and in chain stores. Che
 
 ### Method
 
-1. **Brown the meat.** Heat the oil in a heavy pot and brown the cubes in batches. Remove them and fry the onion for 8 minutes.
-2. **Bloom the base.** Add the tomato paste, garlic and spices and fry for 2 minutes. Return the meat and pour in the water and tkemali.
+1. **Brown the meat.** Heat the oil in a heavy pot and brown the cubes in batches. Remove them and fry the [onion](/en/food/onion/) for 8 minutes.
+2. **Bloom the base.** Add the tomato paste, [garlic](/en/food/garlic/) and spices and fry for 2 minutes. Return the meat and pour in the water and tkemali.
 3. **Tenderize.** Bring to a boil, skim the foam, partially cover and cook at a low simmer for 75–100 minutes, until the meat is almost tender.
 4. **Add the rice.** Add the rice and cook for 15 minutes, stirring occasionally.
 5. **Add the walnuts.** Mix the walnuts with a ladle of liquid, pour into the pot and cook for another 8–10 minutes, until the rice is tender.

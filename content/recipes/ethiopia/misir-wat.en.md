@@ -42,8 +42,8 @@ The orange lentils sold in Israel are hulled red lentils and are exactly right. 
 
 ### Method
 
-1. **Soften the onion.** Cook the onion in a heavy pot without oil for 15–20 minutes, stirring, until soft and almost dry.
-2. **Add the fat and spices.** Add the oil, garlic and ginger for 2 minutes; add the berbere, tomato paste, fenugreek and turmeric and fry for 3 minutes.
+1. **Soften the [onion](/en/food/onion/).** Cook the onion in a heavy pot without oil for 15–20 minutes, stirring, until soft and almost dry.
+2. **Add the fat and spices.** Add the oil, [garlic](/en/food/garlic/) and [ginger](/en/food/ginger/) for 2 minutes; add the berbere, tomato paste, fenugreek and [turmeric](/en/food/turmeric/) and fry for 3 minutes.
 3. **Cook the lentils.** Add the lentils and 1.2 liters of water. Bring to a boil, lower the heat and cook uncovered for 25–35 minutes. Stir from the bottom and add water as needed.
 4. **Finish.** When the lentils are soft and the sauce thick, salt and cook for another 5 minutes. The wat should hold on a spoon, not be a runny soup.
 

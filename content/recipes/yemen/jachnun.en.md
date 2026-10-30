@@ -58,7 +58,7 @@ Bread flour makes stretching easier, but regular Israeli white flour works with 
 | Fat | about 19 grams |
 | Fiber | about 3 grams |
 
-The calculation does not include an [egg](/en/food/eggs/), tomato or zhug. A large egg adds about 75 calories.
+The calculation does not include an [egg](/en/food/eggs/), [tomato](/en/food/tomato/) or zhug. A large egg adds about 75 calories.
 
 ### Variations and tips
 

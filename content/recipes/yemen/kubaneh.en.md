@@ -23,7 +23,7 @@ Kubaneh (in Hebrew "קובנה") is a rich yeast bread baked in a covered pot. I
 
 ### Butter without excess water
 
-Yemenite samneh is not exactly the same as commercial ghee, but clarified butter is the most accessible Israeli substitute. Regular butter works for a short bake, but in an overnight bake the milk solids may brown too fast.
+Yemenite samneh is not exactly the same as commercial ghee, but clarified butter is the most accessible Israeli substitute. Regular butter works for a short bake, but in an overnight bake the [milk](/en/food/milk/) solids may brown too fast.
 
 ### Ingredients (for 12 rolls)
 
@@ -57,7 +57,7 @@ Regular white flour gives a tender crumb; bread flour gives more chew. For a par
 | Fat | about 11 grams |
 | Fiber | about 2 grams |
 
-The value includes all the butter that was spread. Grated tomato barely changes it; an egg adds about 75 calories.
+The value includes all the butter that was spread. Grated [tomato](/en/food/tomato/) barely changes it; an [egg](/en/food/eggs/) adds about 75 calories.
 
 ### Variations and tips
 

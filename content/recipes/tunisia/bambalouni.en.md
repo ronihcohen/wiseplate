@@ -62,7 +62,7 @@ The estimate assumes 100 g of absorbed oil and 100 g of sugar sticking across al
 
 ### Variations and tips
 
-* You can season the sugar with a little cinnamon, though the plain version is the classic.
+* You can season the sugar with a little [cinnamon](/en/food/cinnamon/), though the plain version is the classic.
 * A thermometer beats testing with a scrap of dough: keep the oil at 170–180°C.
 * Eat them the day they are made. To reheat, 4 minutes in a 180°C oven; not in the microwave.
 

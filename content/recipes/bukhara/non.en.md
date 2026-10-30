@@ -56,7 +56,7 @@ Bread flour gives a chewy rim, but regular white flour works. You don't need a t
 | Fat | about 6 grams |
 | Fiber | about 4 grams |
 
-The calculation does not include the optional 25 grams of sesame or nigella seeds; if you use the full amount, they add about 15–20 calories per loaf.
+The calculation does not include the optional 25 grams of [sesame](/en/food/sesame-seeds/) or nigella seeds; if you use the full amount, they add about 15–20 calories per loaf.
 
 ### Variations and tips
 

@@ -17,7 +17,7 @@ calories: 250
 
 ## Bukharian Pumpkin Bichak
 
-Bichak is a thin filled pastry, and in Israel it is especially associated with sweetish pumpkin and onion. It belongs to the family of Central Asian pastries; the Bukharian version is served as a snack or starter, and sometimes the filling includes spinach or meat.
+Bichak is a thin filled pastry, and in Israel it is especially associated with sweetish [pumpkin](/en/food/pumpkin/) and [onion](/en/food/onion/). It belongs to the family of Central Asian pastries; the Bukharian version is served as a snack or starter, and sometimes the filling includes [spinach](/en/food/spinach/) or meat.
 
 **Prep time:** 50 minutes · **Rest:** 30 minutes · **Baking:** 30 minutes · **Yield:** 16 · **Difficulty:** medium
 
@@ -44,7 +44,7 @@ Butternut squash is less watery, and Tripolitanian pumpkin is more delicate; bot
 1. Knead the flour, water, salt and 60 ml oil for 8 minutes. Cover and rest for 30 minutes.
 2. Salt the pumpkin, wait 15 minutes and squeeze. Mix with the onion, sugar and spices.
 3. Divide the dough into 16 and roll out into thin rounds 16 cm across.
-4. Place filling on each, fold into a half-moon and press to seal. Arrange on baking paper, brush with oil and egg and sprinkle with sesame.
+4. Place filling on each, fold into a half-moon and press to seal. Arrange on baking paper, brush with oil and [egg](/en/food/eggs/) and sprinkle with [sesame](/en/food/sesame-seeds/).
 5. Bake at 200°C (390°F) for 25–30 minutes until golden with a crisp bottom.
 
 ### Nutrition facts and calorie estimate

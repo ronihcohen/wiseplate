@@ -17,7 +17,7 @@ calories: 610
 
 ## Chakapuli
 
-Chakapuli is a spring stew of lamb, white wine, plenty of tarragon and sour plum. In Georgia, green tkemali plums and their juice are used; in Israel the season is short, so the recipe gives one route with unripe green plums and another with store-bought tkemali sauce.
+Chakapuli is a spring stew of [lamb](/en/food/lamb/), white wine, plenty of tarragon and sour plum. In Georgia, green tkemali plums and their juice are used; in Israel the season is short, so the recipe gives one route with unripe green plums and another with store-bought tkemali sauce.
 
 **Prep time:** 25 minutes · **Cooking time:** 100 minutes · **Yield:** 6 servings · **Difficulty:** medium
 
@@ -39,11 +39,11 @@ The green, anise-like flavor of tarragon is the identity of the dish. A small bu
 
 ### Choosing ingredients and substitutes
 
-In spring, unripe green plums are available in some markets. If they are ripe and sweet, add 2 tablespoons of lemon juice. With store-bought tkemali sauce, check the salt, sugar and kashrut label. The wine should be dry, and kosher if your kitchen requires it. Alcohol does not necessarily disappear completely during cooking.
+In spring, unripe green plums are available in some markets. If they are ripe and sweet, add 2 tablespoons of [lemon](/en/food/lemon/) juice. With store-bought tkemali sauce, check the salt, sugar and kashrut label. The wine should be dry, and kosher if your kitchen requires it. Alcohol does not necessarily disappear completely during cooking.
 
 ### Method
 
-1. **Layer.** In a heavy pot, place the lamb, green onions, half the tarragon, cilantro and parsley, the garlic and the chili.
+1. **Layer.** In a heavy pot, place the lamb, green onions, half the tarragon, cilantro and parsley, the [garlic](/en/food/garlic/) and the chili.
 2. **Add the sour element and liquid.** Scatter the plums and pour in the wine. On the tkemali route, pour in the sauce and water. No oil is needed.
 3. **Cook gently.** Bring to a boil, cover and cook at a low simmer for 75–95 minutes, until the lamb is tender. Stir little so as not to break everything up.
 4. **Balance.** Taste. If it is too sour, add a pinch of sugar; if too mild, add lemon or tkemali. Adjust the salt.
