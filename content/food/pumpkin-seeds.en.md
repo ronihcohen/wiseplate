@@ -4,7 +4,7 @@ seo_title: "Pumpkin Seeds: Downsides, Nutrition Facts and How Much to Eat"
 date: 2026-04-10T09:00:00+02:00
 lastmod: 2026-10-07T09:00:00+03:00
 featured_image: ""
-description: "Pumpkin seeds: the main downsides are calorie density, salt in salted products and discomfort in large amounts. Values for shelled seeds, serving size and an explanation of mineral absorption."
+description: "Pumpkin seeds: the main downsides (calories, salt, discomfort in large amounts), nutrition facts for shelled seeds, serving size and mineral absorption."
 ---
 
 {{< youtube id="CRwYWZRm94s" title="Pumpkin Seeds: Tiny Seed, Big Deal? (video)" loading="lazy" >}}

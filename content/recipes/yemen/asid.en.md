@@ -1,6 +1,6 @@
 ---
 title: "Yemenite Asid"
-seo_title: "Yemenite Asid: A Traditional Flour and Semolina Recipe with Calories"
+seo_title: "Yemenite Asid Recipe: Flour and Semolina Porridge"
 date: 2026-09-19T13:30:00+03:00
 lastmod: 2026-09-19T13:30:00+03:00
 featured_image: "/images/recipes/yemen/asid.webp"

@@ -1,6 +1,6 @@
 ---
 title: "Sholeh Zard"
-seo_title: "Sholeh Zard: A Persian Saffron Rice Pudding Recipe — Calories per Serving"
+seo_title: "Sholeh Zard Recipe: Persian Saffron Rice Pudding"
 date: 2026-08-24T01:40:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/iran/shole-zard.webp"
@@ -80,7 +80,7 @@ The difference from sütlaç reveals something else too: because there is no mil
 
 ### Summary
 
-Sholeh zard is a dairy-free rice dessert, vegan from the start, whose whole character rests on saffron, rose water and cardamom. About 290 calories per serving — but 31 grams of sugar, which are its real drawback and worth reducing. This Persian dessert parallels Turkish [sütlaç](/en/recipes/turkey/sutlac/) in its role, but is completely different in composition. More recipes in [Persian cuisine](/en/recipes/iran/).
+Sholeh zard is a dairy-free rice dessert, vegan from the start, whose whole character rests on saffron, rose water and cardamom. About 290 calories per serving — but 31 grams of sugar, which are its real drawback and worth reducing. This Persian dessert parallels Turkish sütlaç in its role, but is completely different in composition. More recipes in [Persian cuisine](/en/recipes/iran/).
 
 ### Frequently asked questions
 
@@ -88,7 +88,7 @@ Sholeh zard is a dairy-free rice dessert, vegan from the start, whose whole char
 Answer: A 150-gram serving is about 290 calories, including about 31 grams of added sugar. Reducing the sugar in the recipe from 250 to 180 grams brings the serving down to about 255 calories and about 22 grams of sugar.
 
 **Question: What is the difference between sholeh zard and rice pudding made with milk?**
-Answer: Sholeh zard contains no milk at all — it is cooked in water, and its thickness comes from the rice starch alone. So it is vegan from the start, but it also lacks the protein and calcium found in Turkish [sütlaç](/en/recipes/turkey/sutlac/) or European milk rice pudding.
+Answer: Sholeh zard contains no milk at all — it is cooked in water, and its thickness comes from the rice starch alone. So it is vegan from the start, but it also lacks the protein and calcium found in Turkish sütlaç or European milk rice pudding.
 
 **Question: Why is the sugar added only at the end?**
 Answer: Sugar firms up the rice grain and slows its breakdown. If it is added at the start of cooking, the rice will need much longer to reach the required pasty texture, and sometimes won't reach it at all.

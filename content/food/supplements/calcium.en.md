@@ -1,10 +1,10 @@
 ---
 title: "Calcium"
-seo_title: "Calcium: Why a Supplement Is Not Like Calcium From Food — and the Link to Kidney Stones"
+seo_title: "Calcium: Supplements vs. Food, Dosage and Kidney Stones"
 date: 2026-02-13T05:56:32+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
-description: "Calcium: how much you really need, why absorption from food varies so much, why dietary calcium lowers kidney stone risk while a supplement may raise it, and the debate over calcium supplements and the heart."
+description: "Calcium: how much you need, why absorption from food varies, why food calcium lowers kidney stone risk while supplements may raise it, and the heart debate."
 ---
 
 Calcium is the most abundant mineral in the body — about 1.2 kg in an adult, and **99% of it is in the skeleton**. The remaining percent, found in the blood and in cells, is responsible for muscle contraction, nerve conduction, blood clotting and hormone secretion.
@@ -74,7 +74,7 @@ The most common side effect of calcium supplements, especially carbonate.
 
 ## Summary
 
-Calcium is essential for bone, muscle and nerves — **and most people can reach their target from food**: [yogurt](/en/food/greek-yogurt/), [sardines](/en/food/sardines/) with bones, [tahini](/en/food/tahini/), calcium-set [tofu](/en/food/tofu/) and [kale](/en/food/kale/). Three practical points get lost in most discussions: **[spinach](/en/food/spinach/) is not a calcium source** — oxalates block 95% of it, whereas [kale](/en/food/kale/) is 50% absorbed; **calcium from food lowers kidney stone risk**, while a supplement taken without food may raise it; and **it is supplements, not food, that have been linked to doubts about the heart.** If you do take one — **doses of up to 500 mg, with food, and separated from iron and medications.**
+Calcium is essential for bone, muscle and nerves — **and most people can reach their target from food**: [yogurt](/en/food/greek-yogurt/), [sardines](/en/food/sardines/) with bones, [tahini](/en/food/tahini/), calcium-set [tofu](/en/food/tofu/) and kale. Three practical points get lost in most discussions: **spinach is not a calcium source** — oxalates block 95% of it, whereas kale is 50% absorbed; **calcium from food lowers kidney stone risk**, while a supplement taken without food may raise it; and **it is supplements, not food, that have been linked to doubts about the heart.** If you do take one — **doses of up to 500 mg, with food, and separated from iron and medications.**
 
 ### Frequently asked questions
 

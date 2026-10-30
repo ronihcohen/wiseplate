@@ -1,10 +1,11 @@
 ---
 title: "Cacao and Cacao Nibs"
-seo_title: "Cacao: Benefits and Downsides — Powder, Beans and Cacao Nibs"
+seo_title: "Cacao: Benefits and Downsides of Powder, Raw Cacao and Nibs"
 date: 2025-12-22T11:00:00+02:00
-lastmod: 2026-09-04T09:00:00+03:00
+lastmod: 2026-10-30T09:00:00+02:00
+aliases: ["/en/food/raw-cacao-powder/"]
 featured_image: ""
-description: "What are the benefits and downsides of cacao? The difference between cocoa powder, cacao beans and cacao nibs, including flavanols, magnesium, caffeine, nutrition facts and a recommended amount."
+description: "Benefits and downsides of cacao: cocoa powder vs. raw cacao vs. nibs, flavanols, magnesium, caffeine, nutrition facts and a sensible daily amount."
 ---
 
 ## Cacao and Cacao Nibs (Theobroma cacao)
@@ -53,7 +54,7 @@ Cacao beans are one of the richest natural sources of flavonoids, mainly epicate
 Cacao is an excellent source of essential minerals:
 * **[Magnesium](/en/food/supplements/magnesium/)** – essential for muscle relaxation, energy production and nervous system function.
 * **[Iron](/en/food/iron/)** – from a plant source, contributing to anemia prevention (best eaten with [vitamin C](/en/food/supplements/vitamin-c/) to improve absorption).
-* **[Zinc](/en/food/supplements/zinc/) and [copper](/en/food/supplements/copper/)** – important for immune and enzyme function.
+* **[Zinc](/en/food/supplements/zinc/) and copper** – important for immune and enzyme function.
 
 ### Effects on mood and the brain
 
@@ -66,6 +67,19 @@ Cacao nibs contain a good amount of fat (cocoa butter), made up of saturated fat
 ### Cardiovascular health
 
 Regular consumption of quality cacao has been linked in studies to lower blood pressure and improved endothelial health (the blood vessel lining), thanks to the vasodilating activity of flavonoids.
+
+### Raw cacao — how is it different?
+
+"Raw cacao powder" is sold as cacao that has not been roasted and was cold-pressed below about 42°C (108°F). In practice the difference is smaller than the label suggests: cacao beans are fermented for several days before drying, and the heap usually reaches 45–50°C during fermentation, so even "raw" cacao is not raw in the literal sense. The term has no regulated definition and mainly means the beans were not roasted.
+
+Two processing steps do change what ends up in the powder:
+
+* **Roasting and heating** reduce flavanols, so unroasted powder usually keeps more of them.
+* **Alkalizing ("Dutch-process" cocoa)** cuts flavanols the most. Natural (non-alkalized) cocoa powder from the supermarket is much closer to raw cacao than Dutch-process cocoa is, at a lower price.
+
+The minerals — [magnesium](/en/food/supplements/magnesium/), iron and copper — are not destroyed by heat, so they are similar across powders. Claims about the "bliss molecule" anandamide are overstated too: cacao contains it in tiny amounts, and there is no evidence that a normal serving affects mood through it. The noticeable lift comes mostly from theobromine and caffeine.
+
+**In the kitchen:** raw cacao powder replaces regular cocoa 1:1 in baking, although it tastes more bitter and fruity and is lighter in color. To keep the flavanols, use it in recipes that are not baked too — a smoothie, [date](/en/food/dates/) and cacao balls, or a warm drink with [almond milk](/en/food/almond-milk/) that is not boiled.
 
 ### Downsides and side effects
 
@@ -109,3 +123,6 @@ Answer: Because they are the pure bean with no sugar at all, and the bitterness 
 
 **Question: Are cacao nibs dangerous for dogs?**
 Answer: Yes, very. Theobromine is toxic to dogs and cats, and cacao nibs are much more concentrated in it than regular chocolate. Ingestion requires immediate contact with a vet, and they should be stored out of their reach.
+
+**Question: Is raw cacao healthier than regular cocoa?**
+Answer: It keeps more flavanols than roasted cocoa and especially than Dutch-process cocoa, but the minerals are similar. Natural (non-alkalized) cocoa powder gives most of the benefit at a lower price. Baking reduces flavanols either way.

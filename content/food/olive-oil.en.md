@@ -56,7 +56,7 @@ Almost all the research on the benefits of olive oil was done on **extra virgin*
 | Monounsaturated (oleic) | 9.9 g |
 | Polyunsaturated | 1.4 g |
 | Saturated | 1.9 g |
-| [Vitamin E](/en/food/supplements/vitamin-e/) | 1.9 mg (13% of daily value) |
+| Vitamin E | 1.9 mg (13% of daily value) |
 | [Vitamin K](/en/food/supplements/vitamin-k/) | 8.1 mcg |
 
 ### Choosing and practical use
@@ -68,6 +68,8 @@ Almost all the research on the benefits of olive oil was done on **extra virgin*
 **Smart division of use:** keep two oils — a high-quality (and more expensive) extra virgin for cold use: salads, drizzling on a finished dish, bread, [hummus](/en/food/chickpeas/); and a simpler olive oil for cooking and frying. That way you don't waste polyphenols on heat and don't give them up on the plate.
 
 **A combination that improves absorption:** olive oil significantly improves the absorption of carotenoids from vegetables — lycopene from [tomatoes](/en/food/tomato/), beta-carotene from [carrots](/en/food/carrot/) and lutein from leafy greens. A vegetable salad without fat is a salad whose absorption of some of its components is impaired.
+
+**Compare:** [A Scientific Comparison: Olive, Coconut and Avocado Oil](/en/compare/olive-coconut-avocado-oil/)
 
 ### Summary
 

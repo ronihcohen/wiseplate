@@ -26,5 +26,7 @@ To preserve profitability, the food industry uses sophisticated techniques to di
 2.  **The bliss point:** food engineers precisely calculate the maximum amount of sugar consumers will love before the product becomes too sweet, to create a "perfect" taste experience that guarantees repeat consumption.
 3.  **"Healthy" products:** adding sugar to products perceived as healthy, such as low-fat yogurts, [energy bars](/en/food/processed-energy-bars/) and salad dressings, to make up for the loss of flavor from removing the fat.
 
+**See also:** [Waffles](/en/food/waffles/), [Sufganiyah (Jelly Doughnut)](/en/food/sufganiyah/), [A Scientific Comparison: White, Brown and Coconut Sugar](/en/compare/white-brown-coconut-sugar/)
+
 ### Summary
 The fight against sugar is not just a matter of personal willpower, but of confronting a powerful industry that has shaped our food environment. Understanding that sugar is an inflammatory and addictive substance, and not just a source of calories, is the first step toward regaining control over our health.

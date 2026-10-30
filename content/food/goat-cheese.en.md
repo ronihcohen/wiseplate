@@ -24,7 +24,7 @@ Goat cheese (*chèvre*, from the French word for goat) is one of the oldest [dai
 
 * **A high concentration of MCTs (medium-chain fats):** goat's milk is richer than cow's milk in medium-chain triglycerides (MCTs) such as caproic, caprylic and capric acid. These fats are absorbed directly into the liver and used for quick energy, similar to the way the fats in [coconut](/en/food/coconut/) oil are absorbed. Studies show that MCT intake is associated with faster use for energy and a reduced tendency to store fat.
 
-* **Highly bioavailable [calcium](/en/food/supplements/calcium/):** goat cheese provides highly bioavailable [calcium](/en/food/supplements/calcium/), essential for bone density, muscle function and nerve conduction. In addition, the organic acids produced during fermentation (such as lactic acid in aged cheeses) help calcium absorption.
+* **Highly bioavailable [calcium](/en/food/supplements/calcium/):** goat cheese provides highly bioavailable calcium, essential for bone density, muscle function and nerve conduction. In addition, the organic acids produced during fermentation (such as lactic acid in aged cheeses) help calcium absorption.
 
 * **Fermentation bacteria in aged cheeses:** aged goat cheeses (such as goat gouda, goat kashkaval or the French Crottin de Chavignol) contain live bacterial cultures that survived the aging process. They may serve as a modest probiotic source that supports a balanced gut microbiome — although not every aged [cheese](/en/food/cheese/) contains live bacteria in significant amounts.
 
@@ -67,7 +67,7 @@ Goat cheese is a dairy product with a unique profile that offers advantages over
 Answer: Often yes, especially aged goat cheeses. The aging process breaks down most of the lactose, and even in fresh soft cheese the lactose concentration is relatively low. However, everyone is different, and it is advisable to start with small amounts and watch how you react.
 
 **Question: What is the difference between goat cheese and feta?**
-Answer: Traditional feta is made from sheep's milk (sometimes mixed with goat's milk), while goat cheese is made from goat's milk only. Feta's texture is different, and its sodium content is higher because it is made in brine. Both are rich in protein and [calcium](/en/food/supplements/calcium/).
+Answer: Traditional feta is made from sheep's milk (sometimes mixed with goat's milk), while goat cheese is made from goat's milk only. Feta's texture is different, and its sodium content is higher because it is made in brine. Both are rich in protein and calcium.
 
 **Question: How much goat cheese is healthy to eat a day?**
 Answer: In the context of a balanced diet, a serving of 30–50 grams of soft cheese or 20–30 grams of aged cheese (about 1–2 slices) is a reasonable amount. It should be counted as part of your total dairy and total daily saturated fat.

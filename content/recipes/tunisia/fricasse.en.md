@@ -1,6 +1,6 @@
 ---
 title: "Tunisian Fricassé"
-seo_title: "Tunisian Fricassé: A Precise Recipe for the Fried Sandwich Roll — Calories"
+seo_title: "Tunisian Fricassé Recipe: The Fried Sandwich Roll"
 date: 2026-09-19T12:10:00+03:00
 lastmod: 2026-09-19T12:10:00+03:00
 featured_image: "/images/recipes/tunisia/fricasse.webp"

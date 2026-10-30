@@ -1,6 +1,6 @@
 ---
 title: "Vitamin K"
-seo_title: "Vitamin K: K1 vs. K2, Sources, Dosage and the Interaction With Blood Thinners"
+seo_title: "Vitamin K: K1 vs. K2, Sources, Dosage and Blood Thinners"
 date: 2026-02-13T05:56:32+02:00
 lastmod: 2026-08-18T09:00:00+03:00
 featured_image: ""

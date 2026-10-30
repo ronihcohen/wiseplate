@@ -1,10 +1,10 @@
 ---
 title: "Vitamin E (Tocopherol)"
-seo_title: "Vitamin E: Why Supplement Trials Actually Showed Harm, and What Does Work"
+seo_title: "Vitamin E: Sources, Supplement Trials and Safety"
 date: 2026-02-13T05:56:32+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
-description: "Vitamin E: its role as the antioxidant of cell membranes, why the SELECT trial and meta-analyses pointed to harm at high doses, and the difference between the natural and synthetic forms."
+description: "Vitamin E: its role in cell membranes, why the SELECT trial and meta-analyses found harm at high doses, and natural vs. synthetic forms."
 ---
 
 Vitamin E is **the most important case study in the world of supplements**: an especially promising theory that was shattered by large trials.
@@ -69,7 +69,7 @@ Not from diet, but from **fat malabsorption syndromes**: cystic fibrosis, Crohn'
 
 ## Summary
 
-Vitamin E is essential for protecting cell membranes, and it is very easy to get from food — **a handful of [almonds](/en/food/almonds/), [sunflower seeds](/en/food/sunflower-seeds/) or [olive oil](/en/food/olive-oil/) does the job.** But it is also the sharpest lesson in the world of supplements: **the theory was excellent, and the trials showed harm.** 400 IU per day and above have been linked to higher mortality and more prostate cancer, and high doses raise the risk of bleeding. **The practical recommendation: food yes, high-dose supplements no** — except in specific clinical contexts, such as fatty liver, and only under medical supervision.
+Vitamin E is essential for protecting cell membranes, and it is very easy to get from food — **a handful of almonds, [sunflower seeds](/en/food/sunflower-seeds/) or [olive oil](/en/food/olive-oil/) does the job.** But it is also the sharpest lesson in the world of supplements: **the theory was excellent, and the trials showed harm.** 400 IU per day and above have been linked to higher mortality and more prostate cancer, and high doses raise the risk of bleeding. **The practical recommendation: food yes, high-dose supplements no** — except in specific clinical contexts, such as fatty liver, and only under medical supervision.
 
 ### Frequently asked questions
 

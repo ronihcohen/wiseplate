@@ -29,6 +29,8 @@ Avocado provides fat-soluble vitamins such as [vitamin E](/en/food/supplements/v
 
 What makes avocado unique is that its fat improves the absorption of fat-soluble vitamins (A, D, E, K) from other foods eaten with it. So adding avocado to salads or vegetable meals increases the overall nutritional value of the meal.
 
+**Compare:** [A Scientific Comparison: Olive, Coconut and Avocado Oil](/en/compare/olive-coconut-avocado-oil/)
+
 ### Summary
 
 Avocado is a highly nutritious fruit that combines healthy fats, fiber, vitamins and antioxidants. Eating it in moderation as part of a varied, balanced diet may contribute to the health of the heart, the digestive system and metabolism, and can be a significant component of a healthy diet over the long term.

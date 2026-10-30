@@ -1,6 +1,6 @@
 ---
 title: "Vitamin B1 (Thiamine)"
-seo_title: "Vitamin B1: The Vitamin Whose Stores Run Out in Weeks — and When It's an Emergency"
+seo_title: "Vitamin B1 (Thiamine): Deficiency, Sources and Risks"
 date: 2026-02-13T05:56:32+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""

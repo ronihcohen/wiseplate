@@ -1,10 +1,10 @@
 ---
 title: "Iraqi Dolma"
-seo_title: "Iraqi Dolma: A Recipe for Stuffed Vegetables in a Sweet-and-Sour Sauce — Calories"
+seo_title: "Iraqi Dolma Recipe: Stuffed Vegetables, Sweet-and-Sour"
 date: 2026-08-24T02:15:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/iraq/dolma.webp"
-description: "A recipe for Iraqi dolma — six kinds of vegetables stuffed with rice and meat in a lemon and date-syrup sauce standing in for tamarind, one pot flipped onto a platter, about 420 calories per serving."
+description: "Iraqi dolma: six vegetables stuffed with rice and meat in a lemon and date-syrup sauce, flipped onto a platter. About 420 calories per serving."
 recipe_cuisine: "Iraqi"
 recipe_category: "Main course"
 prep_time: "PT1H"
@@ -40,7 +40,7 @@ This order has a physical logic. The bottom vegetables absorb most of the sauce 
 * 3 tablespoons [olive oil](/en/food/olive-oil/)
 
 **For the vegetables:**
-* 2 small [eggplants](/en/food/eggplant/), 2 [zucchini](/en/food/zucchini/), 2 [peppers](/en/food/red-pepper/), 3 [tomatoes](/en/food/tomato/), 1 large onion, 15-20 grape or chard leaves
+* 2 small [eggplants](/en/food/eggplant/), 2 [zucchini](/en/food/zucchini/), 2 [peppers](/en/food/red-pepper/), 3 tomatoes, 1 large onion, 15-20 grape or chard leaves
 
 **For the sauce:**
 * 3 tablespoons [lemon](/en/food/lemon/) juice + 1 teaspoon silan (date syrup), as an easy-to-find substitute for tamarind

@@ -1,6 +1,6 @@
 ---
 title: "White Rice"
-seo_title: "White Rice: Nutrition Facts, Arsenic, and Why You Should Cook It and Chill It"
+seo_title: "White Rice: Nutrition Facts, Arsenic and Cooking and Chilling"
 date: 2025-12-22T12:05:00+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
@@ -90,9 +90,11 @@ What this means:
 * **Measure.** A reasonable carbohydrate portion is 150-200 grams cooked (about 200-260 calories).
 * **Brown rice — store it in the fridge.** The oils in the germ oxidize, and refrigeration extends the shelf life.
 
+**Compare:** [A Scientific Comparison: White, Brown and Wild Rice](/en/compare/white-brown-wild-rice/)
+
 ### Summary
 
-White rice is exactly what it is: a clean, cheap, easily digested source of carbohydrate that is low in everything else. It has a clear place — after training, in sensitive digestive conditions, as the base of a meal with legumes and vegetables. Three practical points are worth more than any "white versus brown" debate: **cook in lots of water and drain** (arsenic), **chill and eat the next day** (resistant starch), and **chill within an hour** ([Bacillus cereus](/en/food/reheated_rice_dangers/)). And if you want one effortless upgrade — **basmati instead of jasmine**.
+White rice is exactly what it is: a clean, cheap, easily digested source of carbohydrate that is low in everything else. It has a clear place — after training, in sensitive digestive conditions, as the base of a meal with legumes and vegetables. Three practical points are worth more than any "white versus brown" debate: **cook in lots of water and drain** (arsenic), **chill and eat the next day** (resistant starch), and **chill within an hour** (Bacillus cereus). And if you want one effortless upgrade — **basmati instead of jasmine**.
 
 ### Frequently asked questions
 

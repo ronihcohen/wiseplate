@@ -1,10 +1,10 @@
 ---
 title: "Selenium"
-seo_title: "Selenium: The Narrow Range Between Helpful and Toxic — and Why Brazil Nuts Are Dangerous in Quantity"
+seo_title: "Selenium: Dosage, Toxicity and Brazil Nuts"
 date: 2026-02-13T05:56:32+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
-description: "Selenium: its role in the thyroid and in glutathione peroxidase, why its safe range is especially narrow, what the SELECT trial found, and how many Brazil nuts is already too many."
+description: "Selenium: its role in the thyroid, why the safe range is narrow, what the SELECT trial found, and how many Brazil nuts is already too many."
 ---
 
 Selenium is one of the few minerals where **the margin between a helpful dose and a toxic dose is truly narrow**. The recommended daily intake is 55 mcg, and the tolerable upper intake level is 400 mcg — a ratio of less than eightfold. For comparison, with [vitamin C](/en/food/supplements/vitamin-c/) the ratio is 20-fold or more.
@@ -61,7 +61,7 @@ High doses may affect the activity of other minerals, and an effect on [insulin]
 
 ## Summary
 
-Selenium is essential for the thyroid, the antioxidant defense system and immune function — **and it is very easy to get from food**: a daily serving of [tuna](/en/food/tuna/), [sardines](/en/food/sardines/) or [eggs](/en/food/eggs/) covers the requirement. The most important practical rule is **not to think of it as "just another antioxidant"**: the SELECT trial showed that supplementation in a population that isn't deficient doesn't help, and may even harm. And as for [Brazil nuts](/en/food/brazil-nuts/) — **one to two nuts a day, not a handful.**
+Selenium is essential for the thyroid, the antioxidant defense system and immune function — **and it is very easy to get from food**: a daily serving of [tuna](/en/food/tuna/), [sardines](/en/food/sardines/) or [eggs](/en/food/eggs/) covers the requirement. The most important practical rule is **not to think of it as "just another antioxidant"**: the SELECT trial showed that supplementation in a population that isn't deficient doesn't help, and may even harm. And as for Brazil nuts — **one to two nuts a day, not a handful.**
 
 ### Frequently asked questions
 

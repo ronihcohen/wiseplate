@@ -1,6 +1,6 @@
 ---
 title: "Fesenjan"
-seo_title: "Fesenjan: A Persian Recipe for Walnut and Pomegranate Stew — Calories per Serving"
+seo_title: "Fesenjan Recipe: Persian Walnut and Pomegranate Stew"
 date: 2026-08-24T00:30:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/iran/fesenjan.webp"
@@ -31,7 +31,7 @@ This has two opposing consequences. On one hand, the dish provides an unusual am
 
 ### Ingredients (for 6 servings)
 
-* 400 grams [walnuts](/en/food/walnuts/), ground very finely
+* 400 grams walnuts, ground very finely
 * 1 kg boneless chicken thighs or drumsticks (or duck in the northern version)
 * 1 large [onion](/en/food/onion/), finely chopped
 * 150–250 ml good-quality [pomegranate](/en/food/pomegranate/) molasses, with no added sugar
@@ -52,7 +52,7 @@ Pomegranate molasses is found on the sauce shelf and in spice shops. Choose a mo
 3. **Cook the walnuts in water.** Add the hot water and cook over a very low flame for 1.5-2 hours, stirring occasionally. The sauce gradually darkens and the walnut oil separates and rises to the surface — that is the sign the stew is at the right stage.
 4. **Fry the chicken and onion separately.** Meanwhile, fry the onion until golden, add the turmeric and the chicken pieces and sear on all sides.
 5. **Combine and balance.** Add the chicken to the walnut pot, first pour in 150 ml of pomegranate molasses and the saffron water, if using, and cook together for 45-60 minutes. Taste and balance: a very sour molasses needs sugar; for a sweet molasses you can gradually add 1–2 tablespoons of lemon juice. Good fesenjan sits exactly in the middle.
-6. **Serve** with steamed white [rice](/en/food/rice/), and scatter fresh [pomegranate](/en/food/pomegranate/) seeds on top.
+6. **Serve** with steamed white [rice](/en/food/rice/), and scatter fresh pomegranate seeds on top.
 
 ### Nutrition facts and calorie estimate
 
@@ -80,7 +80,7 @@ It is important to distinguish between calorie density and nutritional quality, 
 
 ### Summary
 
-Fesenjan is a stew built entirely around walnuts, and that is both its advantage and its price: an excellent fat profile, plant omega-3 and polyphenols on one side, and about 900 calories per serving on the other. A dish for holidays, not weekdays. A more everyday Persian stew is [ghormeh sabzi](/en/recipes/iran/ghormeh-sabzi/), and for the nutritional values of the main ingredient see [walnuts](/en/food/walnuts/). More recipes in [Persian cuisine](/en/recipes/iran/).
+Fesenjan is a stew built entirely around walnuts, and that is both its advantage and its price: an excellent fat profile, plant omega-3 and polyphenols on one side, and about 900 calories per serving on the other. A dish for holidays, not weekdays. A more everyday Persian stew is [ghormeh sabzi](/en/recipes/iran/ghormeh-sabzi/), and for the nutritional values of the main ingredient see walnuts. More recipes in [Persian cuisine](/en/recipes/iran/).
 
 ### Frequently asked questions
 

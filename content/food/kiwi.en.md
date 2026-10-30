@@ -41,8 +41,8 @@ The common green kiwi differs from the yellow kiwi (SunGold): the yellow one is 
 
 | Feature | Green kiwi | Yellow kiwi (SunGold) |
 |---|---|---|
-| [Vitamin C](/en/food/supplements/vitamin-c/) (per 100 grams) | ~93 mg | ~161 mg |
-| [Vitamin K](/en/food/supplements/vitamin-k/) | Higher | Lower |
+| Vitamin C (per 100 grams) | ~93 mg | ~161 mg |
+| Vitamin K | Higher | Lower |
 | Sweetness | Tart-sweet | Very sweet |
 | Edible skin | Yes (with rubbing) | Yes |
 | Price | Lower | Higher |

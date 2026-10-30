@@ -26,6 +26,19 @@ canonifyURLs = true
   # sitemap; see layouts/sitemap.xml and layouts/partials/head.html.
   min_term_pages = 5
 
+  # One brand entity for both languages. The site title differs per language
+  # (מדע בתנועה / Wise Plate), which left search engines and AI systems with two
+  # unconnected organisations on one domain; the Organization schema in
+  # head.html uses these instead so both languages describe the same entity.
+  brand = "Wise Plate"
+  brand_alt = "מדע בתנועה"
+  same_as = ["https://www.youtube.com/@wiseplateblog"]
+  youtube = "https://www.youtube.com/@wiseplateblog"
+
+  # Social preview for pages without a featured_image (1200x630, which Google
+  # Discover and large social cards need; the 512px logo was too small).
+  default_image = "images/og-default.jpg"
+
 # Only `tags` is used in front matter. Left at Hugo's defaults, `categories`
 # also produced an indexable, permanently empty /categories/ page.
 [taxonomies]

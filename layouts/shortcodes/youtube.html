@@ -1,0 +1,30 @@
+{{/* Click-to-load replacement for Hugo's built-in youtube shortcode, same
+     parameters (id or the first positional argument, title). The real player
+     iframe pulls ~1 MB of YouTube script as soon as it nears the viewport;
+     this shows the thumbnail and loads the player only when clicked. Without
+     JavaScript the thumbnail is an ordinary link to the video on YouTube. */}}
+{{- $id := .Get "id" | default (.Get 0) -}}
+{{- $title := .Get "title" | default "YouTube video" -}}
+<div class="yt-facade">
+  <a class="yt-facade-link" href="https://www.youtube.com/watch?v={{ $id }}" data-yt="{{ $id }}" data-title="{{ $title }}" aria-label="{{ T "playVideo" $title }}">
+    <img src="https://i.ytimg.com/vi/{{ $id }}/hqdefault.jpg" alt="" width="480" height="360" loading="lazy" decoding="async">
+    <span class="yt-facade-play" aria-hidden="true"></span>
+  </a>
+</div>
+{{- if not (.Page.Store.Get "ytFacadeScript") }}
+{{- .Page.Store.Set "ytFacadeScript" true }}
+<script>
+document.addEventListener('click', function (e) {
+  var a = e.target.closest && e.target.closest('a[data-yt]');
+  if (!a || e.ctrlKey || e.metaKey || e.shiftKey) return;
+  e.preventDefault();
+  var f = document.createElement('iframe');
+  f.src = 'https://www.youtube-nocookie.com/embed/' + a.dataset.yt + '?autoplay=1&rel=0';
+  f.title = a.dataset.title;
+  f.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+  f.allowFullscreen = true;
+  a.parentNode.replaceChild(f, a);
+  f.focus();
+});
+</script>
+{{- end }}

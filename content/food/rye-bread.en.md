@@ -53,6 +53,8 @@ Rye bread (made from *Secale cereale*) is a national standard in Scandinavia, Ge
 
 Rye bread goes especially well with raw tahini, smoked salmon, [goat cheese](/en/food/goat-cheese/), avocado and herbs. These pairings complement the complex carbohydrates with healthy fats and protein. Pairing with sources of vitamin C (tomato, pepper) increases the absorption of [iron](/en/food/iron/) from the rye.
 
+**Compare:** [A Scientific Comparison: Wheat, Spelt and Rye Flour](/en/compare/wheat-spelt-rye-flour/)
+
 ### Summary
 
 Rye bread, especially the dark, whole versions, has a nutritional profile considered one of the best among grain breads. Its high fiber content, prebiotic effect, polyphenols and moderate insulin response make it an excellent choice for anyone who wants to upgrade their everyday bread and support long-term metabolic health.

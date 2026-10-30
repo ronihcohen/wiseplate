@@ -3,7 +3,7 @@ title: "EGCG"
 seo_title: "What Is EGCG? Benefits, Dosage and Side Effects"
 date: 2026-08-09T12:00:00+03:00
 featured_image: ""
-description: "What EGCG (epigallocatechin gallate) is: the active catechin in green tea — how much is in a cup, what the effective dose is, what research really shows about fat burning, and why a concentrated extract can harm the liver."
+description: "EGCG, the main catechin in green tea: how much is in a cup, effective doses, what research shows on fat burning, and why concentrated extract can harm the liver."
 ---
 
 {{< youtube id="UpgBF2I1cF8" title="EGCG: Green Tea's Fat Burner? (video)" loading="lazy" >}}

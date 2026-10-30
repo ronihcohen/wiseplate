@@ -1,6 +1,6 @@
 ---
 title: "Dietary Supplements"
-seo_title: "Dietary Supplements: A Guide to Vitamins, Minerals and Sports Supplements"
+seo_title: "Supplements: Vitamins, Minerals and Sports Supplements"
 date: 2026-01-23T09:34:33+02:00
 lastmod: 2026-09-08T09:00:00+03:00
 description: "A guide to dietary supplements and sports supplements: possible benefit, quality of evidence, studied doses, risks and fit for your personal needs."

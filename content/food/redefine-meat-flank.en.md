@@ -28,6 +28,6 @@ Redefine Meat's **New Meat** technology represents a breakthrough in food engine
 
 ### Summary and recommendations
 
-Redefine Meat's flank steak is an impressive technological alternative that provides quality protein without the cholesterol effects of meat. However, since it is a processed product with a certain [sodium](/en/food/supplements/sodium/) content, it is best included as part of a balanced diet that is also based on whole, unprocessed foods.
+Redefine Meat's flank steak is an impressive technological alternative that provides quality protein without the cholesterol effects of meat. However, since it is a processed product with a certain sodium content, it is best included as part of a balanced diet that is also based on whole, unprocessed foods.
 
 The product seems ideal for "reducetarians" and vegans looking for the sensory experience of meat without the ethical or environmental consequences of the animal industry.

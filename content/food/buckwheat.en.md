@@ -1,6 +1,6 @@
 ---
 title: "Buckwheat"
-seo_title: "Buckwheat: Nutrition Facts, Rutin, and Why It's No Relative of Wheat"
+seo_title: "Buckwheat: Nutrition Facts, Rutin and Why It Isn't Wheat"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""

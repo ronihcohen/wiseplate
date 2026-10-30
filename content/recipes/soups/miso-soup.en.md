@@ -1,6 +1,6 @@
 ---
 title: "Miso Soup"
-seo_title: "Miso Soup: An Authentic Japanese Recipe with Dashi — Calories and Sodium per Bowl"
+seo_title: "Miso Soup Recipe With Dashi: Calories and Sodium"
 date: 2026-09-01T10:30:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/soups/miso-soup.webp"
@@ -75,7 +75,7 @@ This is the lowest-calorie soup in the category, and at the same time one of the
 
 That is the trade-off worth knowing before calling miso soup a "diet soup." Anyone watching their sodium intake can use 3 tablespoons of miso instead of 4 and increase the amount of dashi — the flavor stays, and the sodium drops to about 550 mg per bowl.
 
-On the other hand, miso is a fermented food that provides lactic acid bacteria — as long as it is unpasteurized and has not been boiled. More on the [miso](/en/food/miso/) page and the [kefir](/en/food/kefir/) page. The [tofu](/en/food/tofu/) supplies most of the protein, and the [seaweed](/en/food/seaweed/) provides [iodine](/en/food/supplements/iodine/) — plenty of it, and sometimes too much: kombu is one of the most concentrated sources of iodine in nature, so daily consumption of strong homemade dashi is not recommended for people with thyroid problems.
+On the other hand, miso is a fermented food that provides lactic acid bacteria — as long as it is unpasteurized and has not been boiled. More on the miso page and the [kefir](/en/food/kefir/) page. The tofu supplies most of the protein, and the seaweed provides [iodine](/en/food/supplements/iodine/) — plenty of it, and sometimes too much: kombu is one of the most concentrated sources of iodine in nature, so daily consumption of strong homemade dashi is not recommended for people with thyroid problems.
 
 ### Variations and tips
 
@@ -87,7 +87,7 @@ On the other hand, miso is a fermented food that provides lactic acid bacteria �
 
 ### Summary
 
-Miso soup is two ingredients and two temperature decisions: don't boil the kombu, and don't boil the miso. About 80 calories per small bowl with 6 grams of protein make it the lightest soup here — as long as you remember that it also carries about 700-900 mg of sodium in that same bowl. For more soups see [Soups](/en/recipes/soups/), and for information on the soybean paste itself — [miso](/en/food/miso/).
+Miso soup is two ingredients and two temperature decisions: don't boil the kombu, and don't boil the miso. About 80 calories per small bowl with 6 grams of protein make it the lightest soup here — as long as you remember that it also carries about 700-900 mg of sodium in that same bowl. For more soups see [Soups](/en/recipes/soups/), and for information on the soybean paste itself — miso.
 
 ### Frequently asked questions
 
@@ -107,4 +107,4 @@ Answer: It is low in calories, provides protein from the tofu and the soy, and u
 Answer: Fermentation time. *shiro* (white) is fermented for weeks to months, and is sweet, light and mild. *aka* (red) is fermented for months to years, and is dark, strong and saltier. In a recipe with red miso, use about 25% less.
 
 **Question: How much wakame seaweed do you add to the soup?**
-Answer: Very little — 5 grams dry is enough for four small bowls. Wakame swells 8-10 times in liquid within a minute, and a heaped spoonful of dry seaweed will fill the pot. There is also a nutritional reason for restraint: [seaweed](/en/food/seaweed/) is very rich in [iodine](/en/food/supplements/iodine/), and too much of it burdens the thyroid gland.
+Answer: Very little — 5 grams dry is enough for four small bowls. Wakame swells 8-10 times in liquid within a minute, and a heaped spoonful of dry seaweed will fill the pot. There is also a nutritional reason for restraint: seaweed is very rich in [iodine](/en/food/supplements/iodine/), and too much of it burdens the thyroid gland.

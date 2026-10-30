@@ -31,7 +31,7 @@ The controversial oil that has made a huge comeback.
     * **Antibacterial:** It contains lauric acid, known for its antibacterial and antifungal properties.
 * **Downsides:**
     * **Saturated fat:** High intake may raise total cholesterol levels (both the "good" and the "bad"). It is recommended in moderation.
-    * **Dominant flavor:** Not suitable for every dish because of the [coconut](/en/food/coconut/) flavor (unless you use a refined, lower-quality oil).
+    * **Dominant flavor:** Not suitable for every dish because of the coconut flavor (unless you use a refined, lower-quality oil).
 
 ### 3. [Avocado](/en/food/avocado/) Oil
 
@@ -40,17 +40,17 @@ The relatively new player on the field, which combines many advantages.
 * **Composition:** A fat profile very similar to [olive oil](/en/food/olive-oil/) (mainly monounsaturated).
 * **Benefits:**
     * **High smoke point:** Especially high (about 270 degrees Celsius), which makes it the safest for frying, roasting and high-heat cooking.
-    * **Neutral flavor:** Unlike [olive oil](/en/food/olive-oil/) and [coconut](/en/food/coconut/) oil, its taste is mild and barely noticeable, suitable for homemade mayonnaise and baking.
+    * **Neutral flavor:** Unlike olive oil and coconut oil, its taste is mild and barely noticeable, suitable for homemade mayonnaise and baking.
     * **Lutein absorption:** It helps absorb antioxidants from other vegetables in the meal.
 * **Downsides:**
-    * **Price:** Usually significantly more expensive than [olive oil](/en/food/olive-oil/) and [coconut](/en/food/coconut/) oil.
+    * **Price:** Usually significantly more expensive than olive oil and coconut oil.
     * **Availability:** Less common in small grocery stores.
 
 ---
 
 ### Nutritional comparison table (per tablespoon – 15 ml)
 
-| Component | [Olive oil](/en/food/olive-oil/) (extra virgin) | [Coconut](/en/food/coconut/) oil (virgin) | [Avocado](/en/food/avocado/) oil |
+| Component | Olive oil (extra virgin) | Coconut oil (virgin) | Avocado oil |
 | --- | --- | --- | --- |
 | **Calories** | ~120 | ~120 | ~120 |
 | **Main type of fat** | Monounsaturated (omega-9) | Saturated fat (MCT) | Monounsaturated (omega-9) |
@@ -58,8 +58,8 @@ The relatively new player on the field, which combines many advantages.
 | **Ideal use** | Salads, seasoning, short cooking | Vegan baking, stir-fries | Frying, roasting, mayonnaise |
 | **Health effect** | The No. 1 heart protector | Energy and metabolism | Versatile and heat-safe |
 
-*\* Note: Refined [coconut](/en/food/coconut/) oil has a higher smoke point, but it loses some of its nutritional value.*
+*\* Note: Refined coconut oil has a higher smoke point, but it loses some of its nutritional value.*
 
 ### Summary and conclusions
 
-For everyday cold use or gentle cooking, **olive oil** is the undisputed king of health. For very high-heat cooking, roasting, or when you want a neutral flavor, **[avocado](/en/food/avocado/) oil** is the safest and best choice. **[Coconut](/en/food/coconut/) oil** is excellent for specific uses (such as baking without [dairy](/en/food/milk/) products) and for those looking for readily available energy, but it should be consumed in moderation.
+For everyday cold use or gentle cooking, **olive oil** is the undisputed king of health. For very high-heat cooking, roasting, or when you want a neutral flavor, **avocado oil** is the safest and best choice. **Coconut oil** is excellent for specific uses (such as baking without [dairy](/en/food/milk/) products) and for those looking for readily available energy, but it should be consumed in moderation.

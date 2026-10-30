@@ -1,6 +1,6 @@
 ---
 title: "Samoon"
-seo_title: "Iraqi Samoon: A Recipe for Baghdad's Diamond-Shaped Bread — Calories per Loaf"
+seo_title: "Iraqi Samoon Recipe: Baghdad's Diamond-Shaped Bread"
 date: 2026-08-24T02:40:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/iraq/samoon.webp"
@@ -83,7 +83,7 @@ Samoon is a white bread, so its profile is predictable: readily available carboh
 
 ### Summary
 
-Samoon is a bread whose entire character lies in its shape and in the steam: a pointed diamond baked at high heat with steam, a crisp crust and an airy crumb. About 275 calories per loaf — a number worth remembering, because it is almost always added to another dish. It is the base for [tashreeb](/en/recipes/iraq/tashreeb/) and for the Iraqi [amba](/en/recipes/iraq/amba/) sandwich. More recipes in [Iraqi cuisine](/en/recipes/iraq/).
+Samoon is a bread whose entire character lies in its shape and in the steam: a pointed diamond baked at high heat with steam, a crisp crust and an airy crumb. About 275 calories per loaf — a number worth remembering, because it is almost always added to another dish. It is the base for tashreeb and for the Iraqi [amba](/en/recipes/iraq/amba/) sandwich. More recipes in [Iraqi cuisine](/en/recipes/iraq/).
 
 ### Frequently asked questions
 
@@ -100,4 +100,4 @@ Answer: It increases the surface area relative to the volume, so the crust dries
 Answer: You can replace up to about 30% of the flour with whole-wheat flour and get a good result — the fiber rises from 2 to about 5 grams per loaf. Beyond that, the dough gets heavy, the bran cuts the gluten, and the bread loses the airy crumb that characterizes it.
 
 **Question: How do you store samoon?**
-Answer: On the first day, in a paper bag at room temperature — a plastic bag softens the crust. For the long term, freeze after cooling completely and heat for 5 minutes at 180 degrees straight from frozen. Yesterday's samoon is exactly what you need for [tashreeb](/en/recipes/iraq/tashreeb/).
+Answer: On the first day, in a paper bag at room temperature — a plastic bag softens the crust. For the long term, freeze after cooling completely and heat for 5 minutes at 180 degrees straight from frozen. Yesterday's samoon is exactly what you need for tashreeb.

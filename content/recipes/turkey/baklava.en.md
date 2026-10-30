@@ -1,6 +1,6 @@
 ---
 title: "Baklava"
-seo_title: "Baklava: An Authentic Turkish Recipe — How Many Calories Are in a Square of Baklava"
+seo_title: "Baklava Recipe: Authentic Turkish, Calories per Piece"
 date: 2026-08-23T10:30:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/baklava.webp"
@@ -70,7 +70,7 @@ The recommended serving is one square, about 45 g.
 
 This is one of the cases where the number misleads in two opposite ways. On the one hand, 205 calories per square doesn't sound dramatic — until you remember that almost nobody stops at one square. Three squares are about 615 calories and about 42 g of sugar — more than one and a half times the recommended daily limit for added sugar for a woman (about 25 g), and beyond the limit for a man (about 36 g). On the other hand, the traditional Turkish serving really is one or two small squares alongside bitter Turkish [coffee](/en/food/coffee/), not a plateful.
 
-The only ingredient with real nutritional value is the nuts: [pistachios](/en/food/pistachios/) provide monounsaturated fat, [magnesium](/en/food/supplements/magnesium/) and [polyphenols](/en/food/polyphenols/). They are also the expensive ingredient, which is exactly why industrial versions skimp on them — a good sign of good baklava is a thick layer of nuts, not a thick layer of syrup.
+The only ingredient with real nutritional value is the nuts: pistachios provide monounsaturated fat, [magnesium](/en/food/supplements/magnesium/) and [polyphenols](/en/food/polyphenols/). They are also the expensive ingredient, which is exactly why industrial versions skimp on them — a good sign of good baklava is a thick layer of nuts, not a thick layer of syrup.
 
 For perspective on the role of added sugar in the diet, see [the sugar industry's tactics](/en/food/sugar-industry-tactics/).
 

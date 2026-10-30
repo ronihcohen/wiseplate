@@ -1,10 +1,10 @@
 ---
 title: "Lahmacun"
-seo_title: "Lahmacun: An Authentic Recipe for the Turkish Flatbread — How Many Calories Are in Lahmacun"
+seo_title: "Lahmacun Recipe: Turkish Flatbread, Calories per Piece"
 date: 2026-08-23T09:50:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/lahmacun.webp"
-description: "A recipe for Turkish lahmacun — paper-thin dough with ground meat, tomatoes and peppers, about 280 calories per piece, including the secret to baking it at home without a stone oven."
+description: "Turkish lahmacun: paper-thin dough topped with ground meat, tomatoes and peppers, about 280 calories a piece, and how to bake it without a stone oven."
 recipe_cuisine: "Turkish"
 recipe_category: "Main course"
 prep_time: "PT1H30M"

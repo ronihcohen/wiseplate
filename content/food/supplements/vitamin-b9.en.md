@@ -1,6 +1,6 @@
 ---
 title: "Folic Acid (Vitamin B9 / Folate)"
-seo_title: "Folic Acid: Why You Must Start Before Pregnancy, and What About MTHFR"
+seo_title: "Folic Acid: Pregnancy, Dosage and MTHFR"
 date: 2026-02-13T05:56:32+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
@@ -79,7 +79,7 @@ With alcohol addiction, celiac disease and inflammatory bowel diseases, pregnanc
 
 ## Summary
 
-Folic acid is one of the few supplements whose recommendation is **universal rather than conditional on deficiency**: every woman of childbearing age who does not rule out pregnancy needs **400 mcg per day, on an ongoing basis**. The reason is timing — **the neural tube closes in the third to fourth week, usually before the pregnancy is known.** Two practical caveats: **don't take a high dose without checking [B12](/en/food/supplements/vitamin-b12/)**, because folic acid masks the anemia and leaves the nerve damage; and **the noise around MTHFR far exceeds its significance** — the recommendation is the same for carriers and non-carriers.
+Folic acid is one of the few supplements whose recommendation is **universal rather than conditional on deficiency**: every woman of childbearing age who does not rule out pregnancy needs **400 mcg per day, on an ongoing basis**. The reason is timing — **the neural tube closes in the third to fourth week, usually before the pregnancy is known.** Two practical caveats: **don't take a high dose without checking B12**, because folic acid masks the anemia and leaves the nerve damage; and **the noise around MTHFR far exceeds its significance** — the recommendation is the same for carriers and non-carriers.
 
 ### Frequently asked questions
 

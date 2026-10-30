@@ -60,7 +60,7 @@ The "superfood" label attached to blueberries deserves some balance. Three cavea
 | Protein | 0.7 g |
 | Fat | 0.3 g |
 | [Vitamin C](/en/food/supplements/vitamin-c/) | 9.7 mg |
-| [Vitamin K](/en/food/supplements/vitamin-k/) | 19.3 mcg |
+| Vitamin K | 19.3 mcg |
 | [Manganese](/en/food/supplements/manganese/) | 0.34 mg |
 | Anthocyanins | 120-160 mg |
 | Glycemic index | ~53 |
@@ -69,11 +69,13 @@ The "superfood" label attached to blueberries deserves some balance. Three cavea
 
 This is probably the most useful advice about blueberries. **Frozen blueberries are not inferior to fresh ones, and are sometimes even better.**
 
-They are frozen using IQF (individually quick frozen) within hours of picking, at peak ripeness — whereas "fresh" blueberries sometimes go through weeks of transport and storage during which [vitamin C](/en/food/supplements/vitamin-c/) and polyphenols degrade. Studies comparing the two found similar and even higher anthocyanin content in the frozen ones.
+They are frozen using IQF (individually quick frozen) within hours of picking, at peak ripeness — whereas "fresh" blueberries sometimes go through weeks of transport and storage during which vitamin C and polyphenols degrade. Studies comparing the two found similar and even higher anthocyanin content in the frozen ones.
 
 What's more, ice crystals rupture the cell walls — which releases anthocyanins and may even **increase** their availability. Add the fact that frozen blueberries are significantly cheaper and available year-round (and are often wild blueberries rich in anthocyanins), and this is the better practical choice for most people.
 
 To use: add frozen blueberries directly to a smoothie, yogurt or [oatmeal](/en/food/oatmeal/). Slow thawing in the fridge preserves texture better than quick thawing.
+
+**Compare:** [A Scientific Comparison: Blueberries, Raspberries and Strawberries](/en/compare/blueberry-raspberry-strawberry/)
 
 ### Summary
 

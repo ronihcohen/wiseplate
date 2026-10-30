@@ -1,10 +1,10 @@
 ---
 title: "Milk Chocolate"
-seo_title: "Milk Chocolate: How Much Cocoa Is Really in It, and Why Sugar Is the First Ingredient"
+seo_title: "Milk Chocolate: How Much Cocoa, and Why Sugar Comes First"
 date: 2025-12-22T18:26:40+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
-description: "Milk chocolate: full nutrition facts and a comparison with dark chocolate, why sugar is the first ingredient, what a 'chocolate-flavored snack' is, and how many flavanols remain."
+description: "Milk chocolate: nutrition facts vs. dark chocolate, why sugar is the first ingredient, what a \"chocolate-flavored snack\" is, and how many flavanols remain."
 ---
 
 ## Milk Chocolate
@@ -57,8 +57,8 @@ The flavanols in cocoa — mainly epicatechin — are the component that all the
 
 ### Benefits
 
-* **[Calcium](/en/food/supplements/calcium/):** 189 mg per 100 grams — two and a half times as much as dark chocolate, thanks to the milk powder.
-* **[Magnesium](/en/food/supplements/magnesium/) and [iron](/en/food/iron/)** in reasonable amounts — 15% and 13% of the daily intake respectively.
+* **Calcium:** 189 mg per 100 grams — two and a half times as much as dark chocolate, thanks to the milk powder.
+* **Magnesium and iron** in reasonable amounts — 15% and 13% of the daily intake respectively.
 * **Flavanols** in a reduced amount, but not zero.
 * **Theobromine:** 205 mg per 100 grams — an alkaloid that is a gentler stimulant than [caffeine](/en/food/supplements/caffeine/), with a bronchodilating effect and a long half-life.
 * **Effect on mood.** The pleasure is real and measurable — a combination of texture, melting at body temperature, and dopamine release. **Claims about tryptophan and phenylethylamine in chocolate are exaggerated** — the amounts are tiny and they do not cross the blood-brain barrier in significant amounts. The effect is real; the popular explanation is not.

@@ -1,6 +1,6 @@
 ---
 title: "Sweetened Breakfast Cereals"
-seo_title: "Sweetened Breakfast Cereals: How Much Sugar Is in a Bowl, and What Their Fortification Does Get Right"
+seo_title: "Sweetened Breakfast Cereals: Sugar per Bowl and Fortification"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
@@ -45,7 +45,7 @@ The label almost always shows values for a **30-gram serving**. The bowl a child
 
 This is the point usually missing from the discussion. In many countries breakfast cereals are fortified with:
 
-* **[Iron](/en/food/iron/)** — 40-65% of the daily intake per serving. Iron deficiency is the most common nutritional deficiency in children, and this is a significant source for them.
+* **Iron** — 40-65% of the daily intake per serving. Iron deficiency is the most common nutritional deficiency in children, and this is a significant source for them.
 * **[Folic acid](/en/food/supplements/vitamin-b9/)** — especially relevant for women of childbearing age.
 * **B vitamins** — [B1](/en/food/supplements/vitamin-b1/), [B6](/en/food/supplements/vitamin-b6/), [B12](/en/food/supplements/vitamin-b12/), niacin.
 * **[Vitamin D](/en/food/supplements/vitamin-d/)** in some products.
@@ -86,7 +86,7 @@ The caveat: **the iron used for fortification is usually elemental iron or ferro
 
 ### Summary
 
-Sweetened breakfast cereals are not poison, and they are not breakfast either. They are **a fortified dessert product**: 25-37 grams of sugar per 100 grams and almost no fiber, alongside real fortification with [iron](/en/food/iron/) and B vitamins that has value, especially for children. The only practical tool that really works is **three numbers on the box**: less than 10 grams of sugar per 100 grams, more than 6 grams of fiber, and a whole grain as the first ingredient. And in the bowl itself — **adding protein and fruit** turns it from a glycemic load into a real meal.
+Sweetened breakfast cereals are not poison, and they are not breakfast either. They are **a fortified dessert product**: 25-37 grams of sugar per 100 grams and almost no fiber, alongside real fortification with iron and B vitamins that has value, especially for children. The only practical tool that really works is **three numbers on the box**: less than 10 grams of sugar per 100 grams, more than 6 grams of fiber, and a whole grain as the first ingredient. And in the bowl itself — **adding protein and fruit** turns it from a glycemic load into a real meal.
 
 ### Frequently asked questions
 

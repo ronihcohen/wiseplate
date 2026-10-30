@@ -1,10 +1,10 @@
 ---
 title: "Copper"
-seo_title: "Copper: The Mineral a Zinc Supplement Can Deplete — and Why That's Dangerous"
+seo_title: "Copper: Sources, Deficiency and Zinc Supplement Risks"
 date: 2026-02-13T05:56:32+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
-description: "Copper: its role in mobilizing iron and in connective tissue, why deficiency is usually caused by a zinc supplement, and why anemia that doesn't respond to iron calls for a copper test."
+description: "Copper: its role in iron metabolism and connective tissue, why zinc supplements cause most deficiency, and when anemia calls for a copper test."
 ---
 
 Copper is a trace mineral most people never think about — and rightly so, because primary dietary deficiency is rare. **But it does come into medicine through the back door**, in a way worth knowing about: **the most common cause of copper deficiency in the Western world is taking high-dose [zinc](/en/food/supplements/zinc/).**
@@ -62,7 +62,7 @@ A healthy person with a reasonable diet has no need for a copper supplement. **T
 
 ## Summary
 
-Copper is needed to mobilize [iron](/en/food/iron/), for the strength of connective tissue, for energy production and for myelin — and it is found in [oysters](/en/food/oysters/), [cashews](/en/food/cashews/), [tahini](/en/food/tahini/) and [dark chocolate](/en/food/dark-chocolate/) in amounts that easily cover intake. **Primary dietary deficiency is rare, but secondary deficiency is more common than it seems** — and its usual cause is a high-dose [zinc](/en/food/supplements/zinc/) supplement taken for months. Two practical rules: **anyone taking zinc long term needs copper alongside it**, and **anemia that doesn't respond to iron calls for a copper test**.
+Copper is needed to mobilize [iron](/en/food/iron/), for the strength of connective tissue, for energy production and for myelin — and it is found in [oysters](/en/food/oysters/), [cashews](/en/food/cashews/), [tahini](/en/food/tahini/) and [dark chocolate](/en/food/dark-chocolate/) in amounts that easily cover intake. **Primary dietary deficiency is rare, but secondary deficiency is more common than it seems** — and its usual cause is a high-dose zinc supplement taken for months. Two practical rules: **anyone taking zinc long term needs copper alongside it**, and **anemia that doesn't respond to iron calls for a copper test**.
 
 ### Frequently asked questions
 

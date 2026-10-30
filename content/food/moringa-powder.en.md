@@ -2,7 +2,7 @@
 title: "Moringa Powder"
 date: 2026-03-05T11:05:00+02:00
 featured_image: ""
-description: "A 'multivitamin' straight from nature: moringa leaf powder, loaded with iron, calcium and powerful antioxidants. A review of the miracle plant that turns any dish a vivid green."
+description: "Moringa leaf powder: its iron, calcium and antioxidant content, what research actually shows, and what to keep in mind before adding it to food."
 ---
 
 ## Introduction: the moringa tree (Moringa oleifera)

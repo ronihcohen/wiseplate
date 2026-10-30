@@ -50,6 +50,8 @@ Real sourdough bread contains only three ingredients: flour, water and salt (plu
 | White yeast bread | 265 | 8 g | ~70–80 | 1.0 mg |
 | Whole rye bread | 220 | 8 g | ~58 | 2.0 mg |
 
+**Compare:** [A Scientific Comparison: Wheat, Spelt and Rye Flour](/en/compare/wheat-spelt-rye-flour/)
+
 ### Summary
 
 Real sourdough bread is a clear example of how a traditional processing method can improve the nutritional profile of a staple food. Prolonged fermentation reduces phytic acid, lowers the glycemic index and enhances vitamin content — without changing the ingredients themselves. Choosing real sourdough bread over industrial bread is a significant nutritional upgrade, as long as it comes from a real starter and not from a product that imitates one.

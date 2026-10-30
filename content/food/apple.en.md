@@ -59,7 +59,7 @@ Red and dark varieties (such as Red Delicious and Pink Lady) usually contain mor
 
 Browning after cutting is caused by an enzyme (polyphenol oxidase) acting on the polyphenols in the presence of oxygen. A drizzle of [lemon juice](/en/food/lemon/) slows it thanks to its acidity and [vitamin C](/en/food/supplements/vitamin-c/). Browning itself indicates some loss of polyphenol content, but it does not make the fruit harmful.
 
-Cooking or baking softens the pectin, changes the texture and reduces some of the heat-sensitive [vitamin C](/en/food/supplements/vitamin-c/) — but the more stable fiber and polyphenols are largely preserved.
+Cooking or baking softens the pectin, changes the texture and reduces some of the heat-sensitive vitamin C — but the more stable fiber and polyphenols are largely preserved.
 
 ### Summary
 

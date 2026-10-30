@@ -86,7 +86,7 @@ Barley is one of the most underrated grains. It has two prominent, measurable ad
 ### Frequently asked questions
 
 **Question: Does barley contain gluten?**
-Answer: Yes. Barley contains hordein, a protein in the [gluten](/en/food/gluten/) family, and it is completely off-limits for people with celiac disease and gluten sensitivity. For gluten-free alternatives see [buckwheat](/en/food/buckwheat/) or [quinoa](/en/food/quinoa/).
+Answer: Yes. Barley contains hordein, a protein in the [gluten](/en/food/gluten/) family, and it is completely off-limits for people with celiac disease and gluten sensitivity. For gluten-free alternatives see [buckwheat](/en/food/buckwheat/) or quinoa.
 
 **Question: What is the difference between pearl barley and whole barley?**
 Answer: Pearl barley has been polished and had its bran removed. Unlike other grains, barley is special in that its beta-glucan is spread throughout the whole kernel and not just the outer layer — so pearl barley remains rich in fiber. Whole barley is better for minerals and B vitamins, but requires much longer cooking.

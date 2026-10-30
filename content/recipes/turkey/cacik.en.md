@@ -1,6 +1,6 @@
 ---
 title: "Cacık"
-seo_title: "Cacık: A Turkish Recipe for Yogurt with Cucumber and Garlic — Calories per Serving"
+seo_title: "Cacık Recipe: Turkish Yogurt With Cucumber and Garlic"
 date: 2026-08-23T09:30:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/cacik.webp"
@@ -63,7 +63,7 @@ The recommended serving is a small bowl of about 150 g, a quarter of the recipe.
 | Carbohydrates | About 9 g |
 | Calcium | About 150 mg (about 15% of the daily value) |
 
-Without the olive oil on top, a serving is only about 90 calories; with 0% yogurt it drops to about 60, and with full-fat [Greek yogurt](/en/food/greek-yogurt/) it rises to about 145. The tablespoon of olive oil drizzled on top is about 120 calories for the whole recipe, or about 30 per bowl — roughly a quarter of the number.
+Without the olive oil on top, a serving is only about 90 calories; with 0% yogurt it drops to about 60, and with full-fat Greek yogurt it rises to about 145. The tablespoon of olive oil drizzled on top is about 120 calories for the whole recipe, or about 30 per bowl — roughly a quarter of the number.
 
 This is one of the few cases where a traditional dish is both nutrient-dense and low in calories: about 5 g of protein and about 15% of daily calcium in about 120 calories. The yogurt also provides probiotic bacteria, similar to [kefir](/en/food/kefir/) but in a narrower variety.
 
@@ -76,7 +76,7 @@ This is one of the few cases where a traditional dish is both nutrient-dense and
 
 ### Summary
 
-Cacık is proof that a four-ingredient dish can be a complete dish: it cools, adds protein and calcium, and balances fatty meat dishes at a cost of 120 calories. It's meant to be served alongside [Adana kebab](/en/recipes/turkey/adana-kebab/) or [pide](/en/recipes/turkey/pide/), not on its own. More recipes in [Turkish cuisine](/en/recipes/turkey/).
+Cacık is proof that a four-ingredient dish can be a complete dish: it cools, adds protein and calcium, and balances fatty meat dishes at a cost of 120 calories. It's meant to be served alongside Adana kebab or [pide](/en/recipes/turkey/pide/), not on its own. More recipes in [Turkish cuisine](/en/recipes/turkey/).
 
 ### Frequently asked questions
 

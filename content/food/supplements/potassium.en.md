@@ -1,10 +1,10 @@
 ---
 title: "Potassium"
-seo_title: "Potassium: Why You Shouldn't Take a Supplement, and Why Bananas Aren't the Best Source"
+seo_title: "Potassium: Best Food Sources and Why Not to Supplement"
 date: 2026-02-13T05:56:32+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
-description: "Potassium: the ratio to sodium that determines blood pressure, why potassium supplements are restricted by law, who must be careful with salt substitutes, and what the good sources really are."
+description: "Potassium: its balance with sodium and blood pressure, why supplements are restricted, who must be careful with salt substitutes, and the best food sources."
 ---
 
 Potassium is the main positive ion **inside** cells, just as [sodium](/en/food/supplements/sodium/) is the main one outside them. The difference between the two on either side of the cell membrane is the **resting potential** — the basis of every heartbeat, every muscle contraction and every nerve signal.
@@ -68,7 +68,7 @@ Potassium deficiency is usually caused not by diet but by **vomiting, prolonged 
 
 ## Summary
 
-Potassium is one of the minerals almost the whole population consumes less of than recommended — and the solution is not a supplement but **more vegetables, legumes and fruit on the plate**. Two practical points: **the ratio to sodium matters more than the absolute number**, so cutting processed food is worth exactly as much as adding vegetables; and **the [banana](/en/food/banana/) is not the best source** — baked [potato](/en/food/baked-potato/), [beans](/en/food/black-beans/), [avocado](/en/food/avocado/) and [tomato](/en/food/tomato/) paste provide more. **And an unequivocal warning: potassium supplements and salt substitutes are dangerous for anyone with kidney disease or taking ACE inhibitors.**
+Potassium is one of the minerals almost the whole population consumes less of than recommended — and the solution is not a supplement but **more vegetables, legumes and fruit on the plate**. Two practical points: **the ratio to sodium matters more than the absolute number**, so cutting processed food is worth exactly as much as adding vegetables; and **the banana is not the best source** — baked potato, beans, avocado and tomato paste provide more. **And an unequivocal warning: potassium supplements and salt substitutes are dangerous for anyone with kidney disease or taking ACE inhibitors.**
 
 ### Frequently asked questions
 

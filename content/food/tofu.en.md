@@ -1,6 +1,6 @@
 ---
 title: "Tofu"
-seo_title: "Tofu: Benefits and Downsides, How Much Protein It Has and What It's Made Of"
+seo_title: "What Is Tofu Made Of? Benefits, Downsides and Protein"
 date: 2026-08-10T07:40:00+03:00
 lastmod: 2026-10-07T09:00:00+03:00
 featured_image: ""
@@ -30,7 +30,7 @@ Another advantage: the calcium in tofu is well absorbed — about 30%, a rate si
 
 ### Health benefits
 
-* **High-quality complete protein:** soy protein is one of the few plant proteins that supplies all nine essential amino acids in sufficient amounts. Its PDCAAS score reaches about 0.9-1.0 — on par with [egg](/en/food/eggs/) and [milk](/en/food/milk/) protein, and significantly higher than most plant protein sources. For vegetarians and vegans it is one of the most important sources.
+* **High-quality complete protein:** soy protein is one of the few plant proteins that supplies all nine essential amino acids in sufficient amounts. Its PDCAAS score reaches about 0.9-1.0 — on par with [egg](/en/food/eggs/) and milk protein, and significantly higher than most plant protein sources. For vegetarians and vegans it is one of the most important sources.
 
 * **Protein for building muscle:** trials comparing soy protein with [whey protein](/en/food/supplements/whey-protein/) found that both support muscle building, although milk protein has a slight edge because of its higher leucine content. The gap closes almost completely when total protein intake is sufficient.
 
@@ -78,6 +78,8 @@ Another advantage: the calcium in tofu is well absorbed — about 30%, a rate si
 **Marinade:** because it is so neutral, tofu needs aggressive seasoning. [Coconut aminos](/en/food/coconut-aminos/) or soy sauce, garlic, ginger and sesame oil are a classic base. Give it at least 30 minutes.
 
 **Silken tofu is not interchangeable with firm** — it is meant for smooth textures, not for roasting.
+
+**See also:** [Indian Black Salt (Kala Namak)](/en/food/kala-namak/), [Redefine Meat Flank Steak](/en/food/redefine-meat-flank/)
 
 ### Summary
 

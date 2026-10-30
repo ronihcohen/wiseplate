@@ -1,10 +1,10 @@
 ---
 title: "Salami"
-seo_title: "Salami: Nutrition Facts, How Much Sodium and Fat, and How Much You Can Eat"
+seo_title: "Salami: Nutrition Facts, Sodium, Fat and How Much to Eat"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-09-01T17:35:00+03:00
 featured_image: ""
-description: "Salami: full nutrition facts per 100 grams, how much sodium and saturated fat it contains, the risk of processed meat, why it is off-limits in pregnancy, and how much you can eat without overdoing it."
+description: "Salami: nutrition facts per 100 g, sodium and saturated fat, processed-meat risk, why it's off-limits in pregnancy, and how much is reasonable."
 ---
 
 ## Salami

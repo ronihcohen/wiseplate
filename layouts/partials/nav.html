@@ -16,7 +16,7 @@
         {{- $url := printf "/%s/" (index . 0) | relLangURL }}
         <li>
           <a href="{{ $url }}"
-             {{ if hasPrefix $here $url }}class="active"{{ end }}>
+             {{ if hasPrefix $here $url }}class="active" aria-current="{{ if eq $here $url }}page{{ else }}true{{ end }}"{{ end }}>
             {{ T (index . 1) }}
           </a>
         </li>

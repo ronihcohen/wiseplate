@@ -1,6 +1,6 @@
 ---
 title: "Tomato Soup"
-seo_title: "Tomato Soup: A Roasted Tomato Recipe with Basil — Calories per Bowl"
+seo_title: "Tomato Soup Recipe: Roasted Tomatoes and Basil"
 date: 2026-09-01T10:20:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/soups/tomato-soup.webp"
@@ -32,7 +32,7 @@ Lycopene is fat-soluble, so its absorption rises even further in the presence of
 ### Ingredients (for 6 servings)
 
 **For roasting:**
-* 1.5 kg ripe [tomatoes](/en/food/tomato/) — preferably cherry or plum (date) tomatoes, which are the sweetest — halved
+* 1.5 kg ripe tomatoes — preferably cherry or plum (date) tomatoes, which are the sweetest — halved
 * 1 large [onion](/en/food/onion/), thickly sliced
 * 4-5 whole [garlic](/en/food/garlic/) cloves in their skins
 * 3 tablespoons [olive oil](/en/food/olive-oil/)
@@ -97,7 +97,7 @@ The weakness of this soup, as with most pureed soups, is protein — 3 grams per
 
 ### Summary
 
-A good tomato soup starts in the oven, not in the pot: roasting concentrates sugars and lowers acidity better than any teaspoon of sugar. About 185 calories per bowl with cream, about 125 without it, and a spoonful of olive oil that is effectively a condition for absorbing the lycopene. For more soups see [Soups](/en/recipes/soups/), and for the nutritional values of the vegetable itself — [tomato](/en/food/tomato/).
+A good tomato soup starts in the oven, not in the pot: roasting concentrates sugars and lowers acidity better than any teaspoon of sugar. About 185 calories per bowl with cream, about 125 without it, and a spoonful of olive oil that is effectively a condition for absorbing the lycopene. For more soups see [Soups](/en/recipes/soups/), and for the nutritional values of the vegetable itself — tomato.
 
 ### Frequently asked questions
 

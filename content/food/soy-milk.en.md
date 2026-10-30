@@ -49,7 +49,7 @@ Soy contains **isoflavones** (genistein, daidzein) — phytoestrogens that bind 
 
 * **Added sugar:** versions marketed as "regular" or "vanilla flavored" usually contain 3-6 grams of sugar per 100 ml. Look explicitly for **"no sugar"** or "unsweetened".
 
-* **Dependence on fortification:** unlike cow's [milk](/en/food/milk/), where the calcium is natural, in soy milk it is added — and tends to settle at the bottom of the carton. **Shake well before every pour**, otherwise you get considerably less of the calcium on the label.
+* **Dependence on fortification:** unlike cow's milk, where the calcium is natural, in soy milk it is added — and tends to settle at the bottom of the carton. **Shake well before every pour**, otherwise you get considerably less of the calcium on the label.
 
 * **Phytate:** somewhat reduces the absorption of [iron](/en/food/iron/) and [zinc](/en/food/supplements/zinc/).
 
@@ -63,7 +63,7 @@ Soy contains **isoflavones** (genistein, daidzein) — phytoestrogens that bind 
 
 | Drink | Calories | Protein | Fat | [Calcium](/en/food/supplements/calcium/) (fortified) |
 |---|---|---|---|---|
-| Cow's [milk](/en/food/milk/) 3% | 61 | 3.3 g | 3.3 g | 120 mg |
+| Cow's milk 3% | 61 | 3.3 g | 3.3 g | 120 mg |
 | Soy milk | 33-45 | 3.3 g | 1.8 g | 120 mg |
 | Oat milk | 45-50 | 1 g | 1.5 g | 120 mg |
 | [Almond milk](/en/food/almond-milk/) | 13-20 | 0.5 g | 1.1 g | 120 mg |
@@ -71,7 +71,7 @@ Soy contains **isoflavones** (genistein, daidzein) — phytoestrogens that bind 
 
 ### Practical use
 
-**What to look for on the label:** "no sugar" or "unsweetened"; fortification with [calcium](/en/food/supplements/calcium/), [vitamin B12](/en/food/supplements/vitamin-b12/) and [vitamin D](/en/food/supplements/vitamin-d/); and a high soy percentage (a short ingredient list).
+**What to look for on the label:** "no sugar" or "unsweetened"; fortification with calcium, [vitamin B12](/en/food/supplements/vitamin-b12/) and [vitamin D](/en/food/supplements/vitamin-d/); and a high soy percentage (a short ingredient list).
 
 **Shake well:** the added calcium settles. This is the simplest action that changes how much calcium you actually get.
 
@@ -79,9 +79,11 @@ Soy contains **isoflavones** (genistein, daidzein) — phytoestrogens that bind 
 
 **In cooking and baking:** substitutes almost 1:1 for cow's milk. The beany taste is more noticeable in delicate dishes.
 
+**Compare:** [A Scientific Comparison: Soy, Almond and Oat Milk](/en/compare/soy-almond-oat-milk/)
+
 ### Summary
 
-Soy milk is the only milk alternative that comes within a small gap of cow's [milk](/en/food/milk/) in protein quantity and quality, and therefore the only one considered a genuinely reasonable nutritional substitute. The fear of isoflavones is not supported by the evidence — meta-analyses find no effect on hormones in men, and the evidence on breast cancer leans toward protective or neutral. The two choices that matter in practice: pick a product that is **fortified and sugar-free**, and shake the carton before pouring.
+Soy milk is the only milk alternative that comes within a small gap of cow's milk in protein quantity and quality, and therefore the only one considered a genuinely reasonable nutritional substitute. The fear of isoflavones is not supported by the evidence — meta-analyses find no effect on hormones in men, and the evidence on breast cancer leans toward protective or neutral. The two choices that matter in practice: pick a product that is **fortified and sugar-free**, and shake the carton before pouring.
 
 ### Frequently asked questions
 
@@ -101,4 +103,4 @@ Answer: Fortified, sugar-free soy milk is considered an acceptable substitute fo
 Answer: Soy protein curdles with heat and acidity. Add the milk to the coffee rather than the other way around, wait for the drink to cool slightly, or choose a "barista" version containing stabilizers.
 
 **Question: Do you have to choose fortified?**
-Answer: Yes, if it is replacing cow's milk. Unfortified soy milk lacks [calcium](/en/food/supplements/calcium/), [B12](/en/food/supplements/vitamin-b12/) and [vitamin D](/en/food/supplements/vitamin-d/) — exactly the critical nutrients in a vegan diet. And shaking matters, because the added calcium settles.
+Answer: Yes, if it is replacing cow's milk. Unfortified soy milk lacks calcium, B12 and vitamin D — exactly the critical nutrients in a vegan diet. And shaking matters, because the added calcium settles.

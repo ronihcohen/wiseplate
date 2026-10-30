@@ -1,6 +1,6 @@
 ---
 title: "Peanut Butter"
-seo_title: "Peanut Butter: How Much Protein in a Tablespoon, Benefits and Downsides"
+seo_title: "Peanut Butter: Protein per Tablespoon, Benefits, Downsides"
 date: 2026-08-10T08:40:00+03:00
 featured_image: ""
 description: "How much protein is in peanut butter and in a single tablespoon, whether it counts as dairy, what the benefits and downsides are, and how to choose a good peanut butter."

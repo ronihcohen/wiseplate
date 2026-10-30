@@ -2,7 +2,7 @@
 title: "Banana"
 date: 2025-12-22T18:05:00+02:00
 featured_image: ""
-description: "Banana: how many calories are in a banana, the difference between green and yellow bananas, potassium and heart health, whether bananas are fattening and whether they help with heartburn."
+description: "Banana: calories, green vs. yellow bananas, potassium and heart health, whether bananas are fattening and whether they help with heartburn."
 ---
 
 ## The nutritional and health benefits of bananas
@@ -15,7 +15,7 @@ Bananas are rich in carbohydrates, mainly in the form of starch (in green banana
 
 ### [Potassium](/en/food/supplements/potassium/) and heart function
 
-One of the banana's most prominent features is its high [potassium](/en/food/supplements/potassium/) content. [Potassium](/en/food/supplements/potassium/) is an essential mineral for maintaining fluid balance, nerve conduction and normal heart muscle function. Studies point to a link between adequate [potassium](/en/food/supplements/potassium/) intake and blood pressure regulation and a lower risk of cardiovascular disease.
+One of the banana's most prominent features is its high [potassium](/en/food/supplements/potassium/) content. Potassium is an essential mineral for maintaining fluid balance, nerve conduction and normal heart muscle function. Studies point to a link between adequate potassium intake and blood pressure regulation and a lower risk of cardiovascular disease.
 
 ### Contribution to digestive health
 

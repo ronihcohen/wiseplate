@@ -1,6 +1,6 @@
 ---
 title: "French Fries"
-seo_title: "French Fries: Acrylamide, and Why You Shouldn't Store Potatoes in the Fridge"
+seo_title: "French Fries: Acrylamide and How to Store Potatoes"
 date: 2025-12-22T11:50:00+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
@@ -63,7 +63,7 @@ This page also has a fact almost nobody knows, and it is very easy to apply: **s
 * **Air fryer or oven.** 200-220°C (390-430°F), one or two teaspoons of [olive oil](/en/food/olive-oil/) per 100 g. **A saving of 150-180 calories per serving**, with a very similar result.
 * **Don't store them in the fridge** — as detailed above. This is the simplest action on the page.
 * **Soak for 20-30 minutes and dry** before frying or baking. Both less acrylamide and crispier fries.
-* **With the skin on.** Fiber, [vitamin C](/en/food/supplements/vitamin-c/) and polyphenols, and also less asparagine relative to the flesh.
+* **With the skin on.** Fiber, vitamin C and polyphenols, and also less asparagine relative to the flesh.
 * **Golden, not brown.**
 * **Salt after, not before.** Salting early draws out moisture and interferes with browning — and this way you get the same taste with less salt.
 * **Share a serving.** A restaurant serving is in practice meant for two.

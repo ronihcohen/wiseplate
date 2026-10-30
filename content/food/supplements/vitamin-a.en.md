@@ -1,10 +1,10 @@
 ---
 title: "Vitamin A (Retinol)"
-seo_title: "Vitamin A: Retinol Is Toxic, Beta-Carotene Isn't — and the Difference Is Critical in Pregnancy"
+seo_title: "Vitamin A: Retinol vs. Beta-Carotene, Toxicity and Pregnancy"
 date: 2026-02-13T05:56:32+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
-description: "Vitamin A: the decisive difference between retinol and beta-carotene, why liver is off-limits in pregnancy, what happened to smokers in the CARET and ATBC trials, and how much you really need."
+description: "Vitamin A: retinol vs. beta-carotene, why liver is off-limits in pregnancy, what the CARET and ATBC trials found in smokers, and how much you need."
 ---
 
 "Vitamin A" is one name for two completely different families, and the difference between them is **the difference between toxic and non-toxic**:

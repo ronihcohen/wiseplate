@@ -1,6 +1,6 @@
 ---
 title: "A Scientific Comparison: White, Brown and Wild Rice"
-seo_title: "Which Rice Is Healthiest? A Comparison of White, Brown and Wild Rice"
+seo_title: "White vs. Brown vs. Wild Rice: Which Is Healthiest?"
 date: 2025-12-27T08:00:00+02:00
 lastmod: 2026-08-18T09:00:00+03:00
 featured_image: ""
@@ -42,7 +42,7 @@ Rice that hasn't been polished and has kept its bran layer and germ.
 
 It isn't rice at all, but the seed of an aquatic grass (*Zizania*) that grows in North American lakes.
 
-* **Benefits:** **Almost twice the protein** of white or brown rice, and relatively complete protein in terms of its amino acid profile; the lowest in calories and carbohydrates; 2-3 times the [zinc](/en/food/supplements/zinc/); much higher amounts of anthocyanins and [polyphenols](/en/food/polyphenols/) thanks to its dark color; **the lowest arsenic** of the three, because it isn't in the rice family and doesn't absorb arsenic the same way.
+* **Benefits:** **Almost twice the protein** of white or brown rice, and relatively complete protein in terms of its amino acid profile; the lowest in calories and carbohydrates; 2-3 times the zinc; much higher amounts of anthocyanins and [polyphenols](/en/food/polyphenols/) thanks to its dark color; **the lowest arsenic** of the three, because it isn't in the rice family and doesn't absorb arsenic the same way.
 * **Downsides:** Significantly more expensive; a strong earthy flavor and chewy texture that aren't to everyone's taste; long cooking time.
 * **A practical solution:** A blend of wild rice with brown or basmati rice — common commercially, it softens the flavor and lowers the price.
 

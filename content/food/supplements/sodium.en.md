@@ -1,10 +1,10 @@
 ---
 title: "Sodium"
-seo_title: "Sodium: 75% of It Doesn't Come From the Salt Shaker — and What Sea Salt Doesn't Fix"
+seo_title: "Sodium: Where It Really Comes From and Sea Salt Myths"
 date: 2026-02-13T05:56:32+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
-description: "Sodium: how much is really OK, why most sodium comes from processed food rather than the salt shaker, why sea salt and Himalayan salt are no solution, and when too little sodium is actually dangerous."
+description: "Sodium: how much is OK, why most comes from processed food, why sea and Himalayan salt don't solve it, and when too little sodium is dangerous."
 ---
 
 Sodium is the main positive ion **outside** the cells, just as [potassium](/en/food/supplements/potassium/) is the main one inside them. It determines the volume of extracellular fluid, enables nerve conduction and muscle contraction, and drives transporters that bring glucose and amino acids into cells.
@@ -83,9 +83,11 @@ The main causes:
 ### 6. Salt substitutes — not for everyone
 Salt substitutes based on [potassium](/en/food/supplements/potassium/) chloride reduced stroke and mortality in a large trial. **But they are dangerous for kidney patients and for people taking ACE inhibitors, angiotensin blockers or potassium-sparing diuretics.**
 
+**See also:** [Running Heart Rate Zones: The Secret to Endurance and Better Performance](/en/run/running-zones/), [Indian Black Salt (Kala Namak)](/en/food/kala-namak/)
+
 ## Summary
 
-Sodium is essential, and most people consume twice the recommended amount. **The most effective tool for cutting back is not the salt shaker** — 70-75% of sodium is already in [bread](/en/food/sourdough/), cheese, [processed meat](/en/food/salami/), sauces and restaurant food. **Cutting processed food does more than any change in cooking.** Two myths worth letting go of: **sea salt and Himalayan salt are not "healthier"** — they are 97-99% sodium chloride, just like table salt; and **less sodium is not always better** — hyponatremia from exertion and excessive water drinking is a real danger. And finally: **increasing [potassium](/en/food/supplements/potassium/) works alongside cutting sodium**, and sometimes even better.
+Sodium is essential, and most people consume twice the recommended amount. **The most effective tool for cutting back is not the salt shaker** — 70-75% of sodium is already in [bread](/en/food/sourdough/), cheese, [processed meat](/en/food/salami/), sauces and restaurant food. **Cutting processed food does more than any change in cooking.** Two myths worth letting go of: **sea salt and Himalayan salt are not "healthier"** — they are 97-99% sodium chloride, just like table salt; and **less sodium is not always better** — hyponatremia from exertion and excessive water drinking is a real danger. And finally: **increasing potassium works alongside cutting sodium**, and sometimes even better.
 
 ### Frequently asked questions
 

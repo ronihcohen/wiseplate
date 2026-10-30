@@ -1,6 +1,6 @@
 ---
 title: "Kubba Hamusta"
-seo_title: "Kubba Hamusta: A Recipe for the Sour Soup with Semolina Dumplings — Calories per Serving"
+seo_title: "Kubba Hamusta Recipe: Sour Soup With Semolina Dumplings"
 date: 2026-08-24T02:20:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/iraq/kubba-hamusta.webp"

@@ -1,10 +1,10 @@
 ---
 title: "Pastilla"
-seo_title: "Moroccan Chicken Pastilla (Bastilla): The Full Recipe — Calories per Serving"
+seo_title: "Moroccan Chicken Pastilla (Bastilla): Full Recipe"
 date: 2026-08-24T04:20:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/morocco/pastilla.webp"
-description: "A recipe for Moroccan chicken pastilla (bastilla) — a layered pastry filled with saffron chicken, eggs and almonds, dusted with sugar and cinnamon, about 600 calories per serving."
+description: "Moroccan chicken pastilla (bastilla): layered pastry with saffron chicken, eggs and almonds, dusted with sugar and cinnamon. About 600 calories per serving."
 recipe_cuisine: "Moroccan"
 recipe_category: "Main course"
 prep_time: "PT1H"
@@ -66,7 +66,7 @@ Frozen supermarket phyllo sheets work in place of warqa: thaw them in the fridge
 5. **Assemble.** Brush a round pan (26-28 cm) with butter, and lay in 5-6 phyllo sheets with their edges hanging over the pan, each brushed with butter. Spread the egg and chicken mixture, and the almonds over it.
 6. **Close.** Fold the overhanging edges inward, cover with 4-5 more brushed sheets, and tuck the edges firmly underneath. Brush the whole surface with butter.
 7. **Bake** at 180 degrees Celsius (356°F) for 30-35 minutes until deep and evenly golden.
-8. **Dust and serve.** Immediately dust with a generous layer of powdered sugar and mark lines of [cinnamon](/en/food/cinnamon/) on it in a traditional pattern. Serve hot.
+8. **Dust and serve.** Immediately dust with a generous layer of powdered sugar and mark lines of cinnamon on it in a traditional pattern. Serve hot.
 
 ### Nutrition facts and calorie estimate
 
@@ -80,11 +80,11 @@ The recommended serving is one-eighth of the pastry — one wedge.
 | Carbohydrates | about 32 grams |
 | Of which sugar | about 7 grams |
 
-Pastilla is a festive dish, and the number reflects that. The calorie sources break down roughly like this: the chicken about 175 calories per serving, the [almonds](/en/food/almonds/) and the oil they absorbed about 130, the phyllo sheets about 94, the butter between the sheets about 72, the cooking oil and onion about 60, the eggs about 36, and the sugar — the most visually striking component — only about 27.
+Pastilla is a festive dish, and the number reflects that. The calorie sources break down roughly like this: the chicken about 175 calories per serving, the almonds and the oil they absorbed about 130, the phyllo sheets about 94, the butter between the sheets about 72, the cooking oil and onion about 60, the eggs about 36, and the sugar — the most visually striking component — only about 27.
 
 Two points emerge from this breakdown. The first is that the sugar is misleading: the layer of powdered sugar leads many people to assume this is a high-sugar dish, but in practice 7 grams of sugar per serving is about half the amount in a [square of baklava](/en/recipes/turkey/baklava/) — in a serving three times its size. The second is that the three real sources of calorie density are the almonds, the butter between the sheets and the chicken fat, and each can be reduced separately: skimming the fat off the sauce before reducing cuts about 40 calories per serving, 60 grams of butter instead of 80 cuts about 18 more, and toasting the almonds instead of frying them another 20 or so.
 
-On the other hand, 27 grams of protein per serving, along with [vitamin E](/en/food/supplements/vitamin-e/) and [magnesium](/en/food/supplements/magnesium/) from the [almonds](/en/food/almonds/), make it a complete main course rather than a pastry eaten alongside something else.
+On the other hand, 27 grams of protein per serving, along with [vitamin E](/en/food/supplements/vitamin-e/) and [magnesium](/en/food/supplements/magnesium/) from the almonds, make it a complete main course rather than a pastry eaten alongside something else.
 
 ### Variations and tips
 

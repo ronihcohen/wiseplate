@@ -60,9 +60,11 @@ The choice depends on the goal, not on abstract "healthiness." For **protein at 
 
 A practical tip: a strongly flavored cheese (Parmesan, blue cheese, aged cheddar) delivers a significant flavor effect in a small amount. Using a tablespoon of grated Parmesan instead of slices of yellow cheese cuts calories and sodium without giving up flavor.
 
+**See also:** [Bourekas](/en/food/bourekas/)
+
 ### Summary
 
-Cheese is an excellent source of protein, [calcium](/en/food/supplements/calcium/) and [vitamin K2](/en/food/supplements/vitamin-k/), and current research paints a more complex and more lenient picture of its saturated fat than was once believed. The most significant practical downside is actually the [sodium](/en/food/supplements/sodium/), followed by the calorie density. Choosing between different types matters more than the question of whether to eat cheese at all.
+Cheese is an excellent source of protein, calcium and [vitamin K2](/en/food/supplements/vitamin-k/), and current research paints a more complex and more lenient picture of its saturated fat than was once believed. The most significant practical downside is actually the sodium, followed by the calorie density. Choosing between different types matters more than the question of whether to eat cheese at all.
 
 ### Frequently asked questions
 

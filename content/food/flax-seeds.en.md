@@ -78,6 +78,8 @@ It is important to be precise, as with [walnuts](/en/food/walnuts/) and [chia se
 
 **Flaxseed oil:** provides concentrated ALA but **without** the lignans and fiber, which stay in the pressed seed cake. For cold use only.
 
+**Compare:** [A Scientific Comparison: Chia, Flax and Hemp Seeds](/en/compare/chia-flax-hemp-seeds/)
+
 ### Summary
 
 Flax seeds are a food with two truly unique advantages: the highest density of lignans in the world, and a measurable, consistent effect on blood pressure. They are not a substitute for fish as a source of EPA/DHA, and it is worth knowing about the conversion limit. But the practical point that decides everything is simple: **a whole seed passes through the body without being absorbed**. Grind them, store them refrigerated, and eat a tablespoon or two a day.

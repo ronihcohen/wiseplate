@@ -43,6 +43,8 @@ The combination of dietary fiber, [magnesium](/en/food/supplements/magnesium/) a
 
 Quinoa contains no [gluten](/en/food/gluten/), so it is suitable for people with celiac disease and gluten sensitivity. The seed coating contains saponins; rinsing before cooking reduces their content and improves bioavailability and taste.
 
+**Compare:** [A Scientific Comparison: White, Red and Black Quinoa](/en/compare/white-red-black-quinoa/)
+
 ### Summary
 
 Quinoa is a functional food of especially high nutritional value, with a proven contribution to metabolic, cardiovascular and digestive health. Including it in a varied diet supports a balanced intake of protein, fiber and essential micronutrients.

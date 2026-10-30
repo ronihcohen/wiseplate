@@ -13,10 +13,10 @@ They come from the Amazon rainforests and are known for their impressive size an
 
 * **Composition:** Very rich in saturated fat (compared with other nuts) and in the mineral [selenium](/en/food/supplements/selenium/).
 * **Benefits:**
-    * **The king of [selenium](/en/food/supplements/selenium/):** Just one nut provides more than 100% of the recommended daily intake of [selenium](/en/food/supplements/selenium/), which is essential for thyroid function and the immune system.
+    * **The king of selenium:** Just one nut provides more than 100% of the recommended daily intake of selenium, which is essential for thyroid function and the immune system.
     * **Men's health:** They may help raise testosterone levels and fertility.
 * **Downsides:**
-    * **[Selenium](/en/food/supplements/selenium/) toxicity:** Excessive intake (more than 2-3 nuts a day over a long period) can be toxic and dangerous.
+    * **Selenium toxicity:** Excessive intake (more than 2-3 nuts a day over a long period) can be toxic and dangerous.
     * **Calories:** Especially high calorie density.
 
 ### 2. [Walnuts](/en/food/walnuts/)
@@ -37,7 +37,7 @@ The most popular and versatile nut, rich in [vitamin E](/en/food/supplements/vit
 
 * **Composition:** Rich in dietary fiber, protein, [calcium](/en/food/supplements/calcium/) and [vitamin E](/en/food/supplements/vitamin-e/).
 * **Benefits:**
-    * **[Vitamin E](/en/food/supplements/vitamin-e/):** One of the best sources of this vitamin, which protects the skin and the body's cells from oxidative damage.
+    * **Vitamin E:** One of the best sources of this vitamin, which protects the skin and the body's cells from oxidative damage.
     * **Blood sugar balance:** They help balance blood sugar levels after a meal and make an excellent snack for people with diabetes.
     * **Bone health:** A relatively high content of [calcium](/en/food/supplements/calcium/) and [magnesium](/en/food/supplements/magnesium/) compared with other nuts.
 * **Downsides:**
@@ -47,14 +47,14 @@ The most popular and versatile nut, rich in [vitamin E](/en/food/supplements/vit
 
 ### Nutritional comparison table (per 30 grams – a small handful)
 
-| Nutrient | [Brazil nuts](/en/food/brazil-nuts/) | [Walnuts](/en/food/walnuts/) | [Almonds](/en/food/almonds/) |
+| Nutrient | [Brazil nuts](/en/food/brazil-nuts/) | Walnuts | [Almonds](/en/food/almonds/) |
 | --- | --- | --- | --- |
 | **Calories** | ~195 | ~195 | ~170 |
-| **Unique nutrient** | [Selenium](/en/food/supplements/selenium/) (a huge amount) | Omega-3 (ALA) | [Vitamin E](/en/food/supplements/vitamin-e/) and [calcium](/en/food/supplements/calcium/) |
+| **Unique nutrient** | Selenium (a huge amount) | Omega-3 (ALA) | Vitamin E and calcium |
 | **Protein** | 4 grams | 4 grams | 6 grams |
 | **Dominant fat** | Saturated and monounsaturated | Polyunsaturated ([omega-3](/en/food/supplements/omega-3/)) | Monounsaturated |
 | **Daily recommendation** | Only 1-2 nuts | 7-8 halves | A handful (about 23 nuts) |
 
 ### Summary and conclusions
 
-To support **thyroid function**, one **Brazil nut** a day is a powerful natural dietary supplement. To improve **memory and heart health**, **[walnuts](/en/food/walnuts/)** are the preferred choice because of their omega-3. For weight maintenance and **skin and bone health**, **[almonds](/en/food/almonds/)** provide the most balanced package of protein, fiber and vitamins.
+To support **thyroid function**, one **Brazil nut** a day is a powerful natural dietary supplement. To improve **memory and heart health**, **walnuts** are the preferred choice because of their omega-3. For weight maintenance and **skin and bone health**, **almonds** provide the most balanced package of protein, fiber and vitamins.

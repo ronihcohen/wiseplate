@@ -84,6 +84,8 @@ The common recommendation of health bodies: limit fresh red meat to about 350-50
 
 **Best pairing:** with vegetables rich in fiber and antioxidants. Fiber binds some of the byproducts and shortens transit time through the colon.
 
+**See also:** [Blood Sausage](/en/food/blood-sausage/), [Beef Jerky](/en/food/beef-jerky/)
+
 ### Summary
 
 Fresh red meat provides heme iron, B12, zinc, creatine and complete protein with a bioavailability that is hard to get from other sources — so it has real value, especially for women of reproductive age and athletes. The risks are real too, but they divide clearly: **processed meat is classified as carcinogenic (Group 1)** and should be cut down as much as possible, while fresh meat is classified only as probably carcinogenic (2A) and is best limited to about 350-500 grams per week. Two levers in the consumer's control make a big difference: choosing a lean cut, and cooking at moderate heat instead of on a charring grill.
@@ -100,7 +102,7 @@ Answer: A distinction is needed. **Processed meat** (sausages, salami, bacon) is
 Answer: Leading health bodies recommend up to 350-500 grams cooked per week of fresh red meat — about 2-3 servings — and cutting down on processed meat as much as possible.
 
 **Question: What is the big advantage of red meat?**
-Answer: Heme [iron](/en/food/iron/), which is absorbed at 15%-35% compared with 2%-20% for plant iron, and is barely affected by absorption inhibitors. Plus B12, highly available zinc, creatine and carnosine — nutrients that are hard to get from plant sources.
+Answer: Heme iron, which is absorbed at 15%-35% compared with 2%-20% for plant iron, and is barely affected by absorption inhibitors. Plus B12, highly available zinc, creatine and carnosine — nutrients that are hard to get from plant sources.
 
 **Question: How can you reduce the risk when cooking?**
 Answer: Avoid charring and prolonged direct grilling over coals, which create HCAs and PAHs. An acidic marinade with herbs, cooking at moderate heat, frequent flipping and removing burnt parts significantly reduce their formation.

@@ -1,6 +1,6 @@
 ---
 title: "Pineapple"
-seo_title: "Pineapple: Bromelain, Vitamin C and Why It Doesn't Ripen After Picking"
+seo_title: "Pineapple: Bromelain, Vitamin C and Ripening"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
@@ -48,7 +48,7 @@ What is not well founded:
 
 ### Benefits
 
-* **[Vitamin C](/en/food/supplements/vitamin-c/) for 50 calories:** 53% of the daily value per 100 grams — supporting collagen production, immune function and absorption of plant [iron](/en/food/iron/).
+* **Vitamin C for 50 calories:** 53% of the daily value per 100 grams — supporting collagen production, immune function and absorption of plant [iron](/en/food/iron/).
 * **[Manganese](/en/food/supplements/manganese/):** 40% of the daily value — one of the best sources of it in the fruit world.
 * **High water content and low calorie load:** 86% water, a fruit that is filling relative to its calories.
 * **Polyphenols and phenolic acids** that contribute to its antioxidant capacity.

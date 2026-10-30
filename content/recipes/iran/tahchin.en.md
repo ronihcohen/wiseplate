@@ -1,6 +1,6 @@
 ---
 title: "Tahchin"
-seo_title: "Tahchin: A Persian Recipe for Saffron Rice Cake with Chicken — Calories per Serving"
+seo_title: "Tahchin Recipe: Persian Saffron Rice Cake With Chicken"
 date: 2026-08-24T00:40:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/iran/tahchin.webp"

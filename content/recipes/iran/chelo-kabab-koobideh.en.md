@@ -1,6 +1,6 @@
 ---
 title: "Chelo Kabab Koobideh"
-seo_title: "Kabab Koobideh: An Authentic Persian Recipe for Kebab over Rice — Calories per Serving"
+seo_title: "Kabab Koobideh Recipe: Persian Kebab Over Rice"
 date: 2026-08-24T00:10:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/iran/chelo-kabab-koobideh.webp"
@@ -97,7 +97,7 @@ Answer: A serving of one skewer (about 120 grams) with 180 grams of rice is abou
 Answer: Almost always because of the onion juice. Grate the onion and squeeze it dry before mixing, knead the meat for a full 10 minutes to stretch the proteins, and chill the mixture for an hour in the refrigerator. A flat, wide skewer rather than a round one is another requirement.
 
 **Question: What is the difference between koobideh and Turkish Adana kebab?**
-Answer: Koobideh is pounded and kneaded to a sticky, uniform texture and seasoned with very few spices — onion, salt, pepper and turmeric. [Adana kebab](/en/recipes/turkey/adana-kebab/) is chopped with a knife to a coarse texture, contains lamb tail fat and hot isot pepper, and contains no onion at all.
+Answer: Koobideh is pounded and kneaded to a sticky, uniform texture and seasoned with very few spices — onion, salt, pepper and turmeric. Adana kebab is chopped with a knife to a coarse texture, contains lamb tail fat and hot isot pepper, and contains no onion at all.
 
 **Question: What is tahdig and how do you get it?**
 Answer: *Tahdig* is the golden rice crust that forms at the bottom of the pot during steaming, and it is considered the most sought-after part of the dish. You get it by long steaming over a low flame in a pot with a layer of oil at the bottom, and sometimes with the help of a layer of potatoes, lavash bread or yogurt beneath the rice.

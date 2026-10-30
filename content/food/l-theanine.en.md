@@ -15,8 +15,8 @@ L-theanine is a small molecule that can cross the blood-brain barrier (BBB) and 
 ### The winning combination (the stack): [caffeine](/en/food/supplements/caffeine/) + theanine
 This is probably the most famous and safest supplement combination for cognitive enhancement (a nootropic stack).
 The ideal ratio is usually 1:2 in favor of theanine (for example: 100 mg of [caffeine](/en/food/supplements/caffeine/) + 200 mg of theanine).
-*   **[Caffeine](/en/food/supplements/caffeine/):** Stimulating, sharpening, energizing. The downside: it causes jitters, anxiety, a rise in blood pressure and a "crash".
-*   **Theanine:** Calms overstimulated glutamate receptors, lowers blood pressure, and smooths out the "edge" of [caffeine](/en/food/supplements/caffeine/).
+*   **Caffeine:** Stimulating, sharpening, energizing. The downside: it causes jitters, anxiety, a rise in blood pressure and a "crash".
+*   **Theanine:** Calms overstimulated glutamate receptors, lowers blood pressure, and smooths out the "edge" of caffeine.
 **The result:** Clean, sharp and calm focus for hours, without the jittery feeling.
 
 ---
@@ -32,7 +32,7 @@ Answer: Theanine is considered one of the safest supplements there are (GRAS sta
 **Question: How long does the effect last?**
 Answer: The effect is usually felt within 30-45 minutes and lasts about 4 to 6 hours.
 
-**Question: Is it addictive like [caffeine](/en/food/supplements/caffeine/)?**
+**Question: Is it addictive like caffeine?**
 Answer: **No.** There is no known tolerance to theanine and no risk of physical addiction. There is no need to increase the dose over time to get the same effect.
 
 **Question: Can you get enough from drinking tea alone?**

@@ -1,6 +1,6 @@
 ---
 title: "Phosphorus"
-seo_title: "Phosphorus: Nobody Is Short of It — the Problem Is Phosphate Additives in Processed Food"
+seo_title: "Phosphorus: Sources, Needs and Phosphate Additives"
 date: 2026-02-13T05:56:32+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""

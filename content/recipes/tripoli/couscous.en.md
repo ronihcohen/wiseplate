@@ -1,6 +1,6 @@
 ---
 title: "Tripolitan Couscous"
-seo_title: "Tripolitan Couscous: A Recipe with Lamb, Chickpeas and Vegetables — Calories"
+seo_title: "Tripolitan Couscous Recipe With Lamb and Chickpeas"
 date: 2026-09-19T10:30:00+03:00
 lastmod: 2026-09-19T10:30:00+03:00
 featured_image: "/images/recipes/tripoli/couscous.webp"

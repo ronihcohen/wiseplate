@@ -1,6 +1,6 @@
 ---
 title: "A Scientific Comparison: Potato, Sweet Potato and Purple Potato"
-seo_title: "Sweet Potato or Potato — Which Is Healthier? A Full Comparison Including Purple Potatoes"
+seo_title: "Sweet Potato vs. Potato vs. Purple Potato: Which Is Healthier?"
 date: 2025-12-27T08:30:00+02:00
 featured_image: ""
 description: "Which is healthier — sweet potato or potato? A comparison of calories, nutritional value, glycemic index and potassium, and what's special about purple potatoes."
@@ -60,7 +60,7 @@ An ancient variety that originates in the Andes mountains, where hundreds of col
 | **Protein** | 2.5 grams | 2.0 grams | ~2 grams |
 | **Sugar** | <1 gram | 4–6 grams | <1 gram |
 | **[Vitamin A](/en/food/supplements/vitamin-a/)** | Negligible | **~380% of daily value** | Negligible |
-| **[Vitamin C](/en/food/supplements/vitamin-c/)** | 10 mg | **20 mg** | ~15 mg |
+| **Vitamin C** | 10 mg | **20 mg** | ~15 mg |
 | **[Potassium](/en/food/supplements/potassium/)** | **535 mg** | 475 mg | ~450 mg |
 | **Antioxidants** | Low | Medium (beta-carotene) | **High (anthocyanins)** |
 

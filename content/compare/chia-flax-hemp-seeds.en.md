@@ -14,7 +14,7 @@ Tiny seeds from South America that were a staple food of Aztec warriors.
 * **Composition:** Rich in soluble fiber, [calcium](/en/food/supplements/calcium/) and omega-3.
 * **Benefits:**
     * **Liquid absorption:** They absorb up to 10-12 times their weight in water and form a gel. This property contributes to a long-lasting feeling of fullness and to keeping the body hydrated.
-    * **[Calcium](/en/food/supplements/calcium/):** They contain more [calcium](/en/food/supplements/calcium/) than [milk](/en/food/milk/) (per 100 grams).
+    * **[Calcium](/en/food/supplements/calcium/):** They contain more calcium than [milk](/en/food/milk/) (per 100 grams).
     * **Easy to use:** There's no need to grind them – the body can break down their coat and absorb all the goodness inside.
 * **Downsides:**
     * **Price:** They can be relatively expensive.
@@ -59,4 +59,4 @@ One of the oldest crops in the world, and the richest plant source of omega-3.
 
 ### Summary and conclusions
 
-For building muscle and an easy protein boost for a salad, **hemp seeds** are the tastiest and most effective choice. For heart health and hormonal balance, **[flax seeds](/en/food/flax-seeds/)** (ground!) are the cheap, natural wonder remedy. For fullness, regularity and a tasty pudding, **[chia seeds](/en/food/chia-seeds/)** are the undisputed winners.
+For building muscle and an easy protein boost for a salad, **hemp seeds** are the tastiest and most effective choice. For heart health and hormonal balance, **flax seeds** (ground!) are the cheap, natural wonder remedy. For fullness, regularity and a tasty pudding, **chia seeds** are the undisputed winners.

@@ -1,6 +1,6 @@
 ---
 title: "Beef Jerky"
-seo_title: "Beef Jerky: 33 Grams of Protein — and a Whole Day's Sodium in 100 Grams"
+seo_title: "Beef Jerky: 33 g Protein and a Day's Sodium per 100 g"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
@@ -58,7 +58,7 @@ It follows that **"low-sodium jerky" is a technological compromise**, not just a
 
 ### Downsides and considerations
 
-* **[Sodium](/en/food/supplements/sodium/)** — as detailed above, the main downside.
+* **Sodium** — as detailed above, the main downside.
 * **Hidden sugar.** Sweet marinades add 10-25 grams per 100 grams. **Check the "of which sugars" line, not the headline on the package.**
 * **Processed meat** — as detailed above.
 * **Nitrite (E250) and nitrate.** Used for preservation, color and preventing botulism. When heated and in the presence of protein they can form **nitrosamines**. Products marketed as "nitrate-free" usually use **fermented [celery](/en/food/celery/) powder** — which is **exactly the same nitrite** from a different source.
@@ -69,7 +69,7 @@ It follows that **"low-sodium jerky" is a technological compromise**, not just a
 
 ### Practical use
 
-* **Read two numbers per 100 grams: [sodium](/en/food/supplements/sodium/) and sugar.** The gaps within the category are very large — some products have 900 mg and others 2,100.
+* **Read two numbers per 100 grams: sodium and sugar.** The gaps within the category are very large — some products have 900 mg and others 2,100.
 * **Prefer biltong** when available — usually less sodium, less sugar and more protein.
 * **Look for a short ingredient list:** meat, salt, spices. Syrup, dextrose or "smoke flavor" are signs of a more processed product.
 * **Drink water with it.** A concentrated sodium load requires fluids, especially on a hike or in the heat.
@@ -80,7 +80,7 @@ It follows that **"low-sodium jerky" is a technological compromise**, not just a
 
 ### Summary
 
-Dried meat does one thing very well: **33 grams of protein per 100 grams, with no refrigeration and no preparation** — along with [zinc](/en/food/supplements/zinc/), heme [iron](/en/food/iron/) and [B12](/en/food/supplements/vitamin-b12/). It is an excellent product for a hike, a trek or a trip. **The problem is that the salt is not seasoning but the technology itself**: it is what makes the product shelf-stable, so 100 grams provide about 2,000 mg of sodium — a whole day's allowance. On top of that come 10-25 grams of sugar in sweet marinades. **Two numbers on the package solve most of the problem: sodium and sugar per 100 grams** — and the gaps between products are huge.
+Dried meat does one thing very well: **33 grams of protein per 100 grams, with no refrigeration and no preparation** — along with zinc, heme iron and B12. It is an excellent product for a hike, a trek or a trip. **The problem is that the salt is not seasoning but the technology itself**: it is what makes the product shelf-stable, so 100 grams provide about 2,000 mg of sodium — a whole day's allowance. On top of that come 10-25 grams of sugar in sweet marinades. **Two numbers on the package solve most of the problem: sodium and sugar per 100 grams** — and the gaps between products are huge.
 
 ### Frequently asked questions
 

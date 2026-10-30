@@ -19,7 +19,7 @@ The grown-up, healthy version, containing a high percentage of cocoa solids.
     * **Brain:** It improves blood flow to the brain and improves mood.
 * **Downsides:**
     * **Taste:** A bitterness that not everyone likes.
-    * **[Caffeine](/en/food/supplements/caffeine/):** It contains a certain amount of [caffeine](/en/food/supplements/caffeine/) (the higher the cocoa percentage, the more [caffeine](/en/food/supplements/caffeine/)).
+    * **[Caffeine](/en/food/supplements/caffeine/):** It contains a certain amount of [caffeine](/en/food/supplements/caffeine/) (the higher the cocoa percentage, the more caffeine).
 
 ### 2. [Milk Chocolate](/en/food/milk-chocolate/)
 
@@ -28,18 +28,18 @@ The world's favorite treat.
 * **Composition:** It contains a small amount of cocoa solids (usually 20-30%), lots of sugar, and [milk](/en/food/milk/) powder.
 * **Benefits:**
     * **Taste:** Sweet, creamy and melt-in-your-mouth – the taste most of us grew up on.
-    * **[Calcium](/en/food/supplements/calcium/):** It contains [calcium](/en/food/supplements/calcium/) thanks to the added [milk](/en/food/milk/) (but not in an amount that can replace [dairy](/en/food/milk/) products).
+    * **[Calcium](/en/food/supplements/calcium/):** It contains [calcium](/en/food/supplements/calcium/) thanks to the added [milk](/en/food/milk/) (but not in an amount that can replace dairy products).
 * **Downsides:**
     * **Sugar:** It contains huge amounts of sugar (sometimes more than 50% of the product).
-    * **Diluted benefits:** [Milk](/en/food/milk/) proteins may interfere with the absorption of the antioxidants from the cocoa.
+    * **Diluted benefits:** Milk proteins may interfere with the absorption of the antioxidants from the cocoa.
 
 ### 3. White Chocolate
 
 The "black sheep" of the chocolate world – technically, it contains no cocoa solids at all.
 
-* **Composition:** Made from cocoa butter (the bean's fat), sugar and [milk](/en/food/milk/) solids. Its color is ivory, not bright white.
+* **Composition:** Made from cocoa butter (the bean's fat), sugar and milk solids. Its color is ivory, not bright white.
 * **Benefits:**
-    * **No [caffeine](/en/food/supplements/caffeine/):** It contains no cocoa solids and is therefore completely [caffeine](/en/food/supplements/caffeine/)-free (suitable for hyperactive children or before bed).
+    * **No caffeine:** It contains no cocoa solids and is therefore completely caffeine-free (suitable for hyperactive children or before bed).
     * **Texture:** The creamiest, richest texture.
 * **Downsides:**
     * **No antioxidants:** It doesn't have the health benefits of cocoa (the flavonoids are in the dark solids, not in the fat).
@@ -55,8 +55,8 @@ The "black sheep" of the chocolate world – technically, it contains no cocoa s
 | **Sugar** | ~24 grams (low) | ~52 grams (high!) | ~59 grams (very high!) |
 | **[Iron](/en/food/iron/)** | **High (about 60% of the recommended intake)** | Low | Negligible |
 | **Antioxidants** | Plenty | A little | None |
-| **[Caffeine](/en/food/supplements/caffeine/)** | Present (~80 mg) | A little (~20 mg) | **None (0 mg)** |
+| **Caffeine** | Present (~80 mg) | A little (~20 mg) | **None (0 mg)** |
 
 ### Summary and conclusions
 
-If you're looking for a **tasty remedy for the heart and brain**, **[dark chocolate](/en/food/dark-chocolate/) (minimum 70%)** is the winning choice. **[Milk chocolate](/en/food/milk-chocolate/)** is a tasty treat without significant health benefits. **White chocolate** is a rich, fatty dessert, suited mainly to people who want to avoid [caffeine](/en/food/supplements/caffeine/) and theobromine. The healthy recommendation? A square or two of quality [dark chocolate](/en/food/dark-chocolate/) alongside your [coffee](/en/food/coffee/).
+If you're looking for a **tasty remedy for the heart and brain**, **dark chocolate (minimum 70%)** is the winning choice. **Milk chocolate** is a tasty treat without significant health benefits. **White chocolate** is a rich, fatty dessert, suited mainly to people who want to avoid caffeine and theobromine. The healthy recommendation? A square or two of quality dark chocolate alongside your [coffee](/en/food/coffee/).

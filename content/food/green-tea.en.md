@@ -1,10 +1,10 @@
 ---
 title: "Green Tea"
-seo_title: "Green Tea: Benefits and Downsides, How Much Caffeine It Has, Extract and Which Kind Is Best"
+seo_title: "Green Tea: Benefits, Downsides, Extract and Which Kind Is Best"
 date: 2026-04-10T08:00:00+02:00
 lastmod: 2026-08-18T09:00:00+03:00
 featured_image: ""
-description: "Green tea: how much caffeine is in a cup (20-45 mg), its benefits and downsides, the difference between green tea extract and the tea itself, which kind is best and at what temperature to brew it."
+description: "Green tea: benefits and downsides, caffeine per cup (20-45 mg), green tea extract vs. the tea itself, which kind is best and how hot to brew it."
 ---
 
 {{< youtube id="zcHJL8mf2qM" title="Green Tea: How Much Caffeine, and Is the Extract Safe? (video)" loading="lazy" >}}
@@ -62,7 +62,7 @@ Green tea extract (GTE) is the catechins from the leaf concentrated into a powde
 
 ### Research-based health benefits
 
-* **[EGCG](/en/food/egcg/) (epigallocatechin gallate):** the main catechin in green tea and one of the most powerful known antioxidants. It inhibits oxidative enzymes, reduces inflammation, and is linked to activity against tumor growth in lab studies. It makes up about 50%-60% of the leaf's total catechins.
+* **EGCG (epigallocatechin gallate):** the main catechin in green tea and one of the most powerful known antioxidants. It inhibits oxidative enzymes, reduces inflammation, and is linked to activity against tumor growth in lab studies. It makes up about 50%-60% of the leaf's total catechins.
 
 * **The caffeine + [L-theanine](/en/food/l-theanine/) combination:** caffeine increases alertness, focus and metabolic rate. L-theanine — an amino acid almost unique to tea — increases alpha brain waves and balances the effect of caffeine. The combination creates a state of "calm alertness" considered a natural nootropic formula.
 

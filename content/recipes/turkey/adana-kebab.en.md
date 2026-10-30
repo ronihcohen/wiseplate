@@ -1,6 +1,6 @@
 ---
 title: "Adana Kebab"
-seo_title: "Adana Kebab: An Authentic Recipe for the Spicy Turkish Kebab — Calories per Skewer"
+seo_title: "Adana Kebab Recipe: Spicy Turkish Kebab"
 date: 2026-08-23T10:20:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/adana-kebab.webp"

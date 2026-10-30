@@ -2,7 +2,7 @@
 title: "Brown Lentils"
 date: 2025-12-22T11:10:00+02:00
 featured_image: ""
-description: "Brown lentils: how much protein and fiber they contain, nutritional value, iron and minerals, effects on blood sugar and heart health, and why it is worth soaking them before cooking."
+description: "Brown lentils: protein, fiber, iron and other nutrition facts, effects on blood sugar and the heart, and why soaking before cooking is worth it."
 ---
 
 ## Nutritional and health benefits of brown lentils
@@ -43,6 +43,8 @@ The combination of soluble fiber, [potassium](/en/food/supplements/potassium/) a
 ### Bioavailability and preparation
 
 Brown lentils contain phytates, which can reduce the absorption of minerals such as [iron](/en/food/iron/) and [zinc](/en/food/supplements/zinc/). Soaking and cooking reduce the phytate content and improve the bioavailability of nutrients.
+
+**Compare:** [A Scientific Comparison: Red, Green and Black Lentils](/en/compare/red-green-black-lentils/)
 
 ### Summary
 

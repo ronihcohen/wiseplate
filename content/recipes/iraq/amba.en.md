@@ -1,6 +1,6 @@
 ---
 title: "Amba"
-seo_title: "Homemade Amba: A Quick Recipe with Mango and Spices, No Fermentation"
+seo_title: "Homemade Amba Recipe: Quick Mango Pickle, No Fermentation"
 date: 2026-08-24T02:05:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/iraq/amba.webp"

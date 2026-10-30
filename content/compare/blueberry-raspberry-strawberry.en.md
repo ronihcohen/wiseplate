@@ -1,6 +1,6 @@
 ---
 title: "A Scientific Comparison: Blueberries, Raspberries and Strawberries"
-seo_title: "Blueberries, Raspberries and Strawberries: A Nutritional Comparison — Which Is Healthiest?"
+seo_title: "Blueberries vs. Raspberries vs. Strawberries: Which Is Healthiest?"
 date: 2025-12-27T08:40:00+02:00
 lastmod: 2026-08-18T09:00:00+03:00
 featured_image: ""
@@ -39,7 +39,7 @@ The beloved, popular fruit in Israel, a symbol of winter.
 
 * **Composition:** A powerhouse of [vitamin C](/en/food/supplements/vitamin-c/) and well-loved sweetness.
 * **Benefits:**
-    * **[Vitamin C](/en/food/supplements/vitamin-c/):** A serving of strawberries contains more [vitamin C](/en/food/supplements/vitamin-c/) than an [orange](/en/food/orange/)! Essential for producing [collagen](/en/food/collagen/) and for the immune system.
+    * **[Vitamin C](/en/food/supplements/vitamin-c/):** A serving of strawberries contains more vitamin C than an [orange](/en/food/orange/)! Essential for producing [collagen](/en/food/collagen/) and for the immune system.
     * **Teeth whitening:** They contain malic acid, which helps remove stains from teeth naturally.
     * **Taste:** The most popular among children and adults alike.
 * **Downsides:**
@@ -49,17 +49,17 @@ The beloved, popular fruit in Israel, a symbol of winter.
 
 ### Nutritional comparison table (per cup – about 150 grams)
 
-| Nutrient | [Blueberries](/en/food/blueberries/) | [Raspberries](/en/food/raspberry/) | Strawberries |
+| Nutrient | Blueberries | [Raspberries](/en/food/raspberry/) | Strawberries |
 | --- | --- | --- | --- |
 | **Calories** | ~84 | ~64 | **~49 (the lowest)** |
 | **Sugar** | 15 grams | 5 grams (low) | 7 grams |
 | **Dietary fiber** | 3.6 grams | **8 grams (incredible!)** | 3 grams |
-| **[Vitamin C](/en/food/supplements/vitamin-c/)** | Moderate | High | **Very high (the winner)** |
+| **Vitamin C** | Moderate | High | **Very high (the winner)** |
 | **Unique advantage** | Brain health | Satiety and digestion | Immunity and skin |
 
 ### Summary and conclusions
 
-To boost **memory and cognitive abilities**, **[blueberries](/en/food/blueberries/)** are a superfood for the brain. For anyone looking to **lose weight** and feel full, **[raspberries](/en/food/raspberry/)** are the perfect choice thanks to their fiber. To strengthen the immune system and keep a **glowing complexion**, **strawberries** are king. Our recommendation? A berry salad that contains all three.
+To boost **memory and cognitive abilities**, **blueberries** are a superfood for the brain. For anyone looking to **lose weight** and feel full, **raspberries** are the perfect choice thanks to their fiber. To strengthen the immune system and keep a **glowing complexion**, **strawberries** are king. Our recommendation? A berry salad that contains all three.
 
 ### Frequently asked questions
 

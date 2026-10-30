@@ -2,7 +2,7 @@
 title: "Indian Black Salt (Kala Namak)"
 date: 2026-03-05T11:05:00+02:00
 featured_image: ""
-description: "The pinkish magic salt with a dominant sulfurous smell — how kala namak (Indian black salt) became a must-have worldwide in vegan cooking, precisely mimicking the taste of real eggs."
+description: "Kala namak (Indian black salt): why it smells of sulfur, how vegan cooks use it to mimic eggs, and how its sodium compares to table salt."
 ---
 
 ## Introduction: Indian Black Salt (Kala Namak)
@@ -31,6 +31,8 @@ How do you use kala namak effectively and get vegan magic out of it?
 - **The most important rule: heat destroys the aroma!** The sulfur compounds are highly volatile at high heat. To preserve the egg flavor properly, don't sprinkle it into the pan during the frying itself. Sprinkle a pinch only at the end (or right as you transfer to the plate) over a tofu scramble or a [chickpea](/en/food/chickpeas/)/[lentil](/en/food/lentil/) flour omelet batter right **after** cooking — and you get the smell of a real omelet.
 - **Egg salad without eggs:** Crumble a block of soft or firm tofu into coarse pieces in a bowl. Add 2 tablespoons of vegan mayonnaise, a teaspoon of mustard, black pepper, and sprinkle a gentle half teaspoon of Indian black salt. One quick stir, and you have a phenomenal egg salad.
 - **Upgrading store-bought vegan mayonnaise:** If the vegan mayonnaise you bought is far in taste from classic mayonnaise (which is based on aromatic eggs), sprinkle a pinch of the salt over the dip bowl and it will taste "alive" and authentic again.
+
+**Compare:** [A Scientific Comparison: Table, Himalayan and Sea Salt](/en/compare/table-himalayan-sea-salt/)
 
 ## Summary
 

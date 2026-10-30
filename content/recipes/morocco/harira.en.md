@@ -1,6 +1,6 @@
 ---
 title: "Harira"
-seo_title: "Harira Soup: A Traditional Moroccan Recipe for Breaking the Fast — Calories per Bowl"
+seo_title: "Harira Recipe: Traditional Moroccan Soup"
 date: 2026-08-24T03:00:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/morocco/harira.webp"
@@ -81,7 +81,7 @@ The recommended serving is a bowl of about 300 ml, about one-tenth of the pot.
 
 Harira is one of the most balanced soups there is, and that comes from the structure of the recipe rather than a nutritional choice: 250 grams of meat divided among ten servings means about 25 grams of meat per serving, and most of the protein actually comes from the legumes. The result is 13 grams of protein and 5 grams of fiber in under 300 calories — a ratio most meat dishes in this cuisine don't come close to.
 
-What can change the picture isn't in the soup but around it: an extra tablespoon of oil adds only about 12 calories per serving, but two [chebakia](/en/recipes/morocco/chebakia/) add about 330 — more than the soup itself — and a thick slice of bread another 100-150. The bowl is cheap in calories; the plate around it isn't necessarily.
+What can change the picture isn't in the soup but around it: an extra tablespoon of oil adds only about 12 calories per serving, but two chebakia add about 330 — more than the soup itself — and a thick slice of bread another 100-150. The bowl is cheap in calories; the plate around it isn't necessarily.
 
 ### Variations and tips
 
@@ -92,7 +92,7 @@ What can change the picture isn't in the soup but around it: an extra tablespoon
 
 ### Summary
 
-Harira is one dish that demonstrates the whole logic of Moroccan cuisine: a little meat, lots of legumes, an aromatic rather than hot layer of spices, and an amount of fresh herbs that looks excessive until you taste it. About 260 calories per bowl with 12 grams of protein make it a soup you can eat as a whole meal rather than a starter. More recipes in [Moroccan cuisine](/en/recipes/morocco/), more soups in [Soups](/en/recipes/soups/), and for the nutritional values of the legume itself see [lentils](/en/food/lentil/) and [the comparison of lentil types](/en/compare/red-green-black-lentils/).
+Harira is one dish that demonstrates the whole logic of Moroccan cuisine: a little meat, lots of legumes, an aromatic rather than hot layer of spices, and an amount of fresh herbs that looks excessive until you taste it. About 260 calories per bowl with 12 grams of protein make it a soup you can eat as a whole meal rather than a starter. More recipes in [Moroccan cuisine](/en/recipes/morocco/), more soups in [Soups](/en/recipes/soups/), and for the nutritional values of the legume itself see lentils and [the comparison of lentil types](/en/compare/red-green-black-lentils/).
 
 ### Frequently asked questions
 

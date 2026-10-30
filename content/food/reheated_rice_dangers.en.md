@@ -1,5 +1,6 @@
 ---
 title: "The Dangers of Eating Reheated Rice: The Science Behind 'Fried Rice Syndrome'"
+seo_title: "Is Reheated Rice Dangerous? \"Fried Rice Syndrome\" Explained"
 date: 2026-01-22T07:30:40+02:00
 featured_image: ""
 description: "A scientific review of the health risks of eating rice that was not handled properly, how the bacterium Bacillus cereus works, and guidelines for preventing food poisoning."

@@ -47,7 +47,7 @@ A natural sweetener produced from the sap of the [coconut](/en/food/coconut/) pa
 
 ### Nutritional comparison table (per teaspoon – 4 grams)
 
-| Component | White sugar | Brown sugar | [Coconut](/en/food/coconut/) sugar |
+| Component | White sugar | Brown sugar | Coconut sugar |
 | --- | --- | --- | --- |
 | **Calories** | 16 | 16 | 16 |
 | **Glycemic index** | High (65-70) | High (65) | **Low-medium (35-54)** |
@@ -57,4 +57,4 @@ A natural sweetener produced from the sap of the [coconut](/en/food/coconut/) pa
 
 ### Summary and conclusions
 
-If you're looking for a **healthier substitute** that will spike your blood sugar less, **[coconut](/en/food/coconut/) sugar** is a small step in the right direction. If you're torn between **white and brown sugar** for health reasons – don't bother. The difference is only in taste and texture. Bottom line: your body sees them all as sugar, so enjoy the flavor you prefer, but in moderation.
+If you're looking for a **healthier substitute** that will spike your blood sugar less, **coconut sugar** is a small step in the right direction. If you're torn between **white and brown sugar** for health reasons – don't bother. The difference is only in taste and texture. Bottom line: your body sees them all as sugar, so enjoy the flavor you prefer, but in moderation.

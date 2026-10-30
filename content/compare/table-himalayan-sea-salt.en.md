@@ -31,19 +31,19 @@ Mined in Pakistan (near the Himalayas), it gets its color from [iron](/en/food/i
     * **Minerals:** It contains a wide range of minerals (though in very tiny amounts).
 * **Downsides:**
     * **The health myth:** To get a meaningful amount of its minerals, we'd need to eat dangerous amounts of salt.
-    * **Lack of [iodine](/en/food/supplements/iodine/):** It is usually not fortified with [iodine](/en/food/supplements/iodine/), which may be a problem for people who don't eat fish/seaweed.
+    * **Lack of iodine:** It is usually not fortified with iodine, which may be a problem for people who don't eat fish/seaweed.
 
 ### 3. Sea Salt
 
 Produced by evaporating seawater (for example, Atlantic sea salt).
 
-* **Composition:** Mainly [sodium](/en/food/supplements/sodium/) chloride, with traces of minerals depending on the water source.
+* **Composition:** Mainly sodium chloride, with traces of minerals depending on the water source.
 * **Benefits:**
     * **Texture:** It usually comes in coarse, crunchy grains (fleur de sel) that add interest as a final seasoning (a "finish").
     * **Minimal processing:** It undergoes less processing than table salt and usually contains no anti-caking agents.
 * **Downsides:**
     * **Microplastics:** Recent studies have found traces of microplastics in many sea salts around the world due to ocean pollution.
-    * **[Iodine](/en/food/supplements/iodine/):** Like pink salt, it is usually low in [iodine](/en/food/supplements/iodine/).
+    * **Iodine:** Like pink salt, it is usually low in iodine.
 
 ---
 
@@ -51,11 +51,11 @@ Produced by evaporating seawater (for example, Atlantic sea salt).
 
 | Component | Table salt | Himalayan salt | Sea salt |
 | --- | --- | --- | --- |
-| **[Sodium](/en/food/supplements/sodium/)** | ~2300 mg | ~2200 mg (slightly lower density) | ~2000-2300 mg |
-| **[Iodine](/en/food/supplements/iodine/)** | **Present (fortified)** | Absent/low | A natural pinch |
+| **Sodium** | ~2300 mg | ~2200 mg (slightly lower density) | ~2000-2300 mg |
+| **Iodine** | **Present (fortified)** | Absent/low | A natural pinch |
 | **Microplastics** | Rare (mined from the ground) | Rare (mined from the ground) | Possible (sea pollution) |
 | **Processing** | High + chemicals | Natural | Minimal |
 
 ### Summary and conclusions
 
-In purely health terms, **the differences are negligible**. The tiny amount of minerals in Himalayan salt or sea salt won't directly affect your health. The big advantage of **table salt** is its essential [iodine](/en/food/supplements/iodine/). The advantage of **Himalayan salt** is the absence of additives. The advantage of **sea salt** is its texture and taste. Beyond these three, there is also one functional salt that clearly does change the flavor — [Indian black salt (kala namak)](/en/food/kala-namak/), whose sulfur aroma gives an egg-like taste. The best recommendation? Cut down on your overall intake of all of them.
+In purely health terms, **the differences are negligible**. The tiny amount of minerals in Himalayan salt or sea salt won't directly affect your health. The big advantage of **table salt** is its essential iodine. The advantage of **Himalayan salt** is the absence of additives. The advantage of **sea salt** is its texture and taste. Beyond these three, there is also one functional salt that clearly does change the flavor — [Indian black salt (kala namak)](/en/food/kala-namak/), whose sulfur aroma gives an egg-like taste. The best recommendation? Cut down on your overall intake of all of them.

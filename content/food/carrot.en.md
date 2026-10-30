@@ -40,7 +40,7 @@ Botanically, the edible part is the root, which stores sugars and carotenoid pig
 | Component | Amount | % daily intake |
 |---|---|---|
 | Calories | 41 kcal | — |
-| Beta-carotene | 8,285 mcg | >90% as [vitamin A](/en/food/supplements/vitamin-a/) |
+| Beta-carotene | 8,285 mcg | >90% as vitamin A |
 | [Vitamin K](/en/food/supplements/vitamin-k/) | 13 mcg | ~11% |
 | Fiber | 2.8 g | ~10% |
 | [Potassium](/en/food/supplements/potassium/) | 320 mg | ~7% |

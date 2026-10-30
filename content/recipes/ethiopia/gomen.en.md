@@ -1,6 +1,6 @@
 ---
 title: "Ethiopian Gomen"
-seo_title: "Ethiopian Gomen: Kale or Swiss Chard with Garlic and Ginger — Calories"
+seo_title: "Ethiopian Gomen Recipe: Greens With Garlic and Ginger"
 date: 2026-09-19T16:10:00+03:00
 lastmod: 2026-09-19T16:10:00+03:00
 featured_image: "/images/recipes/ethiopia/gomen.webp"

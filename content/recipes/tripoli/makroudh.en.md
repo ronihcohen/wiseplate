@@ -1,6 +1,6 @@
 ---
 title: "Makroudh"
-seo_title: "Tripolitan Makroudh: Semolina and Date Cookies — Calories per Piece"
+seo_title: "Makroudh Recipe: Semolina and Date Cookies"
 date: 2026-09-19T11:40:00+03:00
 lastmod: 2026-09-19T11:40:00+03:00
 featured_image: "/images/recipes/tripoli/makroudh.webp"

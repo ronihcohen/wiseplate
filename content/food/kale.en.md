@@ -55,8 +55,8 @@ This also explains why the common warnings about oxalates and kidney stones appl
 | Carbohydrates | 8.8 g |
 | Dietary fiber | 3.6 g |
 | Protein | 4.3 g |
-| [Vitamin K](/en/food/supplements/vitamin-k/) | 390-700 mcg |
-| [Vitamin C](/en/food/supplements/vitamin-c/) | 93-120 mg |
+| Vitamin K | 390-700 mcg |
+| Vitamin C | 93-120 mg |
 | [Vitamin A](/en/food/supplements/vitamin-a/) (retinol equivalents) | 500 mcg |
 | [Calcium](/en/food/supplements/calcium/) | 150 mg (~50% absorption) |
 | Lutein + zeaxanthin | 8,200 mcg |
@@ -67,11 +67,13 @@ This also explains why the common warnings about oxalates and kidney stones appl
 
 **Remove the central stem:** It is tough and bitter. Fold the leaf lengthwise and cut along the stem.
 
-**Cook briefly, not long:** Steaming for 3-4 minutes preserves the myrosinase enzyme (needed to form sulforaphane) and most of the [vitamin C](/en/food/supplements/vitamin-c/). Prolonged boiling leaches water-soluble vitamins into the water and deactivates the enzyme.
+**Cook briefly, not long:** Steaming for 3-4 minutes preserves the myrosinase enzyme (needed to form sulforaphane) and most of the vitamin C. Prolonged boiling leaches water-soluble vitamins into the water and deactivates the enzyme.
 
 **Combine with fat:** Vitamins A and K, as well as lutein, are fat-soluble. A kale salad without oil, [tahini](/en/food/tahini/) or [avocado](/en/food/avocado/) wastes a good part of its value.
 
 **Kale chips:** Bake briefly at 150°C (300°F) with a little oil. High temperatures burn the thin leaves and damage the nutrients.
+
+**Compare:** [A Scientific Comparison: Spinach, Kale and Chard](/en/compare/spinach-kale-chard/)
 
 ### Summary
 

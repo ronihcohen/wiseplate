@@ -69,6 +69,8 @@ For a 2,000-calorie diet: under 50 grams a day, and preferably under 25 grams (a
 
 **Alternatives:** water, unsweetened flavored water, unsweetened [tea](/en/food/green-tea/). Replacing HFCS with [honey](/en/food/honey/) or date syrup changes very little metabolically — they are all free sugars.
 
+**See also:** [A Scientific Comparison: White, Brown and Coconut Sugar](/en/compare/white-brown-coconut-sugar/)
+
 ### Summary
 
 High-fructose corn syrup is not a unique poison, and it is almost identical to table sugar in composition and effect for the same number of calories. But that is no consolation: the fructose in both undergoes unregulated liver metabolism, promotes fat production in the liver and provides weak satiety. The syrup's unique contribution is economic — its low price made it possible to put sugar into a huge range of products and raise total intake. The practical step is not to replace it with a "natural" sweetener but to cut the total amount, first and foremost by giving up sweetened drinks.
@@ -88,7 +90,7 @@ Answer: No. The fructose in fruit comes in a much smaller amount, packaged with 
 Answer: The World Health Organization recommends less than 10% of calories from free sugars, and preferably under 5% — that is, under 25 grams a day on a 2,000-calorie diet. A single can of a sweetened drink (35-40 grams) already exceeds the threshold.
 
 **Question: Are honey or date syrup better?**
-Answer: Metabolically — only very slightly. They are all classified as free sugars and count toward the same limit. [Honey](/en/food/honey/) has its own side benefits, but swapping corn syrup for it is not a solution to high sugar intake.
+Answer: Metabolically — only very slightly. They are all classified as free sugars and count toward the same limit. Honey has its own side benefits, but swapping corn syrup for it is not a solution to high sugar intake.
 
 **Question: How do you spot it on a label?**
 Answer: Look for "corn syrup", "high-fructose corn syrup", "glucose-fructose syrup" or "isoglucose". Also watch for deliberate splitting of different kinds of sugar in the list — it is worth adding them up together.

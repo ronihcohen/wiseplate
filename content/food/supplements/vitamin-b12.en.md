@@ -1,6 +1,6 @@
 ---
 title: "Vitamin B12 (Cobalamin)"
-seo_title: "Vitamin B12: Who Is Really Deficient, and Why Metformin and Omeprazole Deplete It"
+seo_title: "Vitamin B12: Who Is Deficient, Metformin and Omeprazole"
 date: 2026-02-13T05:56:32+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""

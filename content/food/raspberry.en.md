@@ -80,6 +80,8 @@ Eating raspberries is beneficial — but not because of the ketones, and not as 
 
 **Black raspberries:** richer in anthocyanins than red ones, with a similar nutritional profile on the other measures.
 
+**Compare:** [A Scientific Comparison: Blueberries, Raspberries and Strawberries](/en/compare/blueberry-raspberry-strawberry/)
+
 ### Summary
 
 The raspberry is probably the fruit with the best fiber-to-sugar ratio — 6.5 grams of fiber against only 4.4 grams of sugar — and that is its real, clear advantage, especially for people managing blood sugar. It also provides ellagitannins, vitamin C and manganese in good amounts. On the other hand, "raspberry ketones" as a slimming supplement are a myth with no basis in humans. The only significant practical downside is the short shelf life — which is why the frozen version is usually the smart choice.
@@ -102,4 +104,4 @@ Answer: Frozen is usually the practical choice. They are frozen within hours of 
 Answer: 6.5 grams per 100 grams — more than double most fruits. A cup of raspberries provides about 8 grams, about a third of the recommended daily intake.
 
 **Question: Raspberries or blueberries?**
-Answer: Raspberries have a much better fiber-to-sugar ratio (6.5 versus 2.4 grams of fiber, 4.4 versus 10 grams of sugar), so they are better for managing blood sugar. [Blueberries](/en/food/blueberries/) have a unique research base in the area of cognition. Both are excellent.
+Answer: Raspberries have a much better fiber-to-sugar ratio (6.5 versus 2.4 grams of fiber, 4.4 versus 10 grams of sugar), so they are better for managing blood sugar. Blueberries have a unique research base in the area of cognition. Both are excellent.

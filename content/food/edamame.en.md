@@ -1,10 +1,10 @@
 ---
 title: "Edamame"
-seo_title: "Edamame: What It Is, Nutrition Facts, How Much Protein It Has and Can You Eat It Raw"
+seo_title: "Edamame: What It Is, Protein, Nutrition and Eating It Raw"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-08-20T09:00:00+03:00
 featured_image: ""
-description: "Edamame: what exactly it is, full nutrition facts, how much protein and fiber are in 100 grams, why it is an exceptional source of folate, and why you should never eat it uncooked."
+description: "Edamame: what it is, protein, fiber and nutrition per 100 g, why it's an excellent source of folate, and why you should never eat it raw."
 ---
 
 ## Edamame
@@ -39,7 +39,7 @@ Edamame has a unique place on the plate: **it is almost the only case of a "vege
 
 ### Folate — the standout figure
 
-**311 mcg per 100 g, that is, 78% of the daily intake.** This is one of the densest plant sources of [folate](/en/food/supplements/vitamin-b9/) found in a whole food, and it exceeds most leafy greens.
+**311 mcg per 100 g, that is, 78% of the daily intake.** This is one of the densest plant sources of folate found in a whole food, and it exceeds most leafy greens.
 
 Why it matters: folate is needed for DNA synthesis and cell division, so the requirement rises in any state of rapid growth. Deficiency in the early stages of pregnancy is linked to neural tube defects — which is why the official recommendation is supplementation for women of childbearing age.
 
@@ -99,7 +99,7 @@ This is also the answer to the common question "can you eat edamame straight fro
 
 * **Trypsin inhibitors and lectins in the raw bean:** as detailed above — they require cooking.
 
-* **Phytate:** reduces absorption of [iron](/en/food/iron/) and [zinc](/en/food/supplements/zinc/). Cooking reduces some of it, and pairing with [vitamin C](/en/food/supplements/vitamin-c/) compensates.
+* **Phytate:** reduces absorption of iron and [zinc](/en/food/supplements/zinc/). Cooking reduces some of it, and pairing with vitamin C compensates.
 
 * **Thyroid and medication:** separate taking thyroxine from eating soy products by at least 4 hours. With normal thyroid function and sufficient [iodine](/en/food/supplements/iodine/) intake there is no effect.
 
@@ -113,12 +113,12 @@ This is also the answer to the common question "can you eat edamame straight fro
 |---|---|---|---|---|---|
 | **Edamame** | **121** | **11.9 g** | **5.2 g** | 63 mg | **Folate (78%)** |
 | [Tempeh](/en/food/tempeh/) | 192 | 20.3 g | ~6 g | 111 mg | Protein, fermentation |
-| Firm [tofu](/en/food/tofu/) | 144 | 15-17 g | 0.3-1 g | 200-350 mg* | Calcium, versatility |
-| [Soy milk](/en/food/soy-milk/) | 43 | 3.3 g | 0.4 g | 25-120 mg* | Convenience, low in calories |
+| Firm tofu | 144 | 15-17 g | 0.3-1 g | 200-350 mg* | Calcium, versatility |
+| Soy milk | 43 | 3.3 g | 0.4 g | 25-120 mg* | Convenience, low in calories |
 
 *\*Depends on the coagulant or fortification.*
 
-**Edamame wins by a wide margin in folate and low calories; [tempeh](/en/food/tempeh/) in protein; [tofu](/en/food/tofu/) in calcium and culinary flexibility.**
+**Edamame wins by a wide margin in folate and low calories; [tempeh](/en/food/tempeh/) in protein; tofu in calcium and culinary flexibility.**
 
 ### Practical use
 
@@ -128,7 +128,7 @@ This is also the answer to the common question "can you eat edamame straight fro
 * **A typical serving:** 100-150 g of beans — 12-18 g of protein and 5-8 g of fiber.
 * **Squeeze out the bean rather than sucking the pod** — if you want the taste without most of the salt.
 * **Shelled beans for cooking:** excellent in salads, rice, pasta, miso soup or stir-fries. You can also mash them into a hummus-like spread.
-* **With [vitamin C](/en/food/supplements/vitamin-c/)** — [lemon](/en/food/lemon/), [tomato](/en/food/tomato/) or [red pepper](/en/food/red-pepper/) — to improve iron absorption.
+* **With vitamin C** — [lemon](/en/food/lemon/), [tomato](/en/food/tomato/) or [red pepper](/en/food/red-pepper/) — to improve iron absorption.
 * **Don't eat it uncooked**, not even thawed from the bag.
 * **As a protein snack:** one of the best options — dense in protein, low in calories and filling, and unlike most snacks it also slows down your eating pace.
 
@@ -136,7 +136,7 @@ This is also the answer to the common question "can you eat edamame straight fro
 
 Edamame is **young soybeans**, and a rare case of a food seen as a vegetable that functions as a complete legume: 11.9 g of **complete protein** — with all nine essential amino acids, at a PDCAAS score comparable to egg — in just 121 calories, alongside 5.2 g of fiber that is retained because the bean is eaten whole.
 
-The truly standout figure is **[folate](/en/food/supplements/vitamin-b9/): 78% of the daily intake per 100 g** — one of the densest sources in a whole food, though not a substitute for a supplement in pregnancy.
+The truly standout figure is **folate: 78% of the daily intake per 100 g** — one of the densest sources in a whole food, though not a substitute for a supplement in pregnancy.
 
 Two practical points: **the sodium is not in the bean but in the salt on the pod** — a restaurant serving reaches 500-900 mg, and squeezing out the bean instead of sucking the pod cuts that dramatically. And **always cook it** — raw soybeans contain trypsin inhibitors and lectins that heat neutralizes, and five minutes of steaming is enough.
 

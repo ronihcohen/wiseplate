@@ -24,5 +24,7 @@ While countries such as Chile and Britain have taken drastic steps (banning cart
 1.  **Poor labeling:** Despite the red-label reform, many products aimed at children are still marketed as "healthy" (added vitamins, "no food coloring") even though they are all processed sugar — a direct continuation of the patterns described on the [sugar industry](/en/food/sugar-industry-tactics/) page.
 2.  **Social networks:** Regulation barely exists in the digital space, where online influencers promote snacks and [sugary drinks](/en/food/sugary-soft-drinks/) directly to their young followers, without filters.
 
+**See also:** [Argaliot (Filled Cookies)](/en/food/argaliot/), [Plant-Based Whipped Cream](/en/food/plant-whipped-cream/)
+
 ### Summary
 We must not put all the blame on parents. When the entire environment — from the screen to the shelf — is cleverly designed to make children want [ultra-processed food](/en/food/ultra-processed-foods/), "educating for smart nutrition" becomes an almost impossible task. Systemic intervention is needed to protect young minds from marketing manipulations whose cost is measured in their health.

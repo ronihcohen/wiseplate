@@ -1,10 +1,10 @@
 ---
 title: "Choline"
-seo_title: "Choline: The Nutrient Most People Fall Short On — and One Egg Gives a Quarter"
+seo_title: "Choline: Sources, Daily Needs and Why Most People Fall Short"
 date: 2026-02-13T05:56:32+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
-description: "Choline: why most of the population consumes less than recommended, its role in fetal brain development and fatty liver, the story behind TMAO, and why eggs are the main source."
+description: "Choline: why most people fall short, its role in fetal brain development and fatty liver, the TMAO question, and why eggs are the main source."
 ---
 
 Choline is an essential nutrient that was only recognized as such **in 1998** — very late compared with the vitamins. It is neither a vitamin nor a mineral, and because the body makes a small amount of it in the liver, for years it was considered "not needed from food."
@@ -57,7 +57,7 @@ Certain gut bacteria convert choline (and carnitine) into **TMA**, which the liv
 
 **What to know before drawing conclusions:**
 * **Causation has not been proven.** It is not known whether TMAO causes harm or is a marker of something else.
-* **[Fish](/en/food/salmon/) raise TMAO more than [eggs](/en/food/eggs/) or meat** — and fish are consistently linked to **lower** cardiovascular risk. This is a contradiction the theory struggles to explain.
+* **[Fish](/en/food/salmon/) raise TMAO more than eggs or meat** — and fish are consistently linked to **lower** cardiovascular risk. This is a contradiction the theory struggles to explain.
 * **The makeup of the microbiome determines** the amount of conversion more than the amount of choline does.
 
 **The currently accepted conclusion:** there is no justification for avoiding choline-rich foods because of TMAO.
@@ -75,11 +75,11 @@ Nausea, diarrhea, excessive sweating and a drop in blood pressure.
 * **Carriers of polymorphisms in the PEMT gene** — lower efficiency of the body's own production.
 
 ### 5. Supplements — when they make sense
-For most people, **one to two [eggs](/en/food/eggs/) a day solve the problem without a supplement.** Supplementation is relevant for vegans and for pregnant women who don't eat eggs — preferably with professional advice.
+For most people, **one to two eggs a day solve the problem without a supplement.** Supplementation is relevant for vegans and for pregnant women who don't eat eggs — preferably with professional advice.
 
 ## Summary
 
-Choline is the nutrient most people don't know about and most don't get enough of: **only a few percent of the population reach adequate intake.** It is needed for acetylcholine, for cell membranes, for clearing fat from the liver — and above all **for fetal brain development**, where it is considered the forgotten nutrient of pregnancy nutrition. **The solution is very simple: [eggs](/en/food/eggs/).** One egg provides 147 mg — about a quarter of daily intake — mostly in the yolk. As for the worry about TMAO: it is **not well founded enough** to justify avoiding choline-rich foods.
+Choline is the nutrient most people don't know about and most don't get enough of: **only a few percent of the population reach adequate intake.** It is needed for acetylcholine, for cell membranes, for clearing fat from the liver — and above all **for fetal brain development**, where it is considered the forgotten nutrient of pregnancy nutrition. **The solution is very simple: eggs.** One egg provides 147 mg — about a quarter of daily intake — mostly in the yolk. As for the worry about TMAO: it is **not well founded enough** to justify avoiding choline-rich foods.
 
 ### Frequently asked questions
 

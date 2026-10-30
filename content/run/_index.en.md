@@ -1,6 +1,6 @@
 ---
 title: "Running"
-seo_title: "Running: Heart Rate Zones, Shoes, Apparel and Navigation — Research-Based Guides"
+seo_title: "Running: Heart Rate Zones, Shoes, Apparel and Navigation"
 lastmod: 2026-09-01T09:00:00+03:00
 description: "Research-based running guides: training by heart rate zones, what running shoes really do, choosing a base layer, and trail navigation with the Apple Watch."
 ---

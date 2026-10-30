@@ -62,6 +62,8 @@ For adding to tea: it is worth waiting for the drink to cool a little (below abo
 
 When choosing: dark, strongly flavored honeys (buckwheat, heather) are richer in antioxidants than light, delicate ones.
 
+**Compare:** [A Scientific Comparison: Honey, Silan and Maple Syrup](/en/compare/honey-silan-maple/)
+
 ### Summary
 
 Honey has two real, established benefits: antibacterial activity that justifies topical medical use, and proven effectiveness at reducing nighttime cough in children over one year old. Beyond that, metabolically it is sugar in every respect, and its mineral and vitamin content is negligible. Eat it as an enjoyable sweetener within your daily sugar limit — and never give it to a baby under one year old.

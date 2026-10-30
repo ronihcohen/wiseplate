@@ -1,10 +1,10 @@
 ---
 title: "Celery"
-seo_title: "Celery: Nutrition Facts, Celery Juice — What's Proven, and Why It's a Declared Allergen"
+seo_title: "Celery: Nutrition Facts, Celery Juice Claims and Allergy"
 date: 2025-12-22T11:00:00+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
-description: "Celery: full nutrition facts, what's really known about phthalides and blood pressure, why 'celery juice' is not supported by research, and why it's an allergen that must be labeled."
+description: "Celery: nutrition facts, what's known about phthalides and blood pressure, why celery juice claims lack evidence, and why it's a labeled allergen."
 ---
 
 ## Celery (*Apium graveolens*)
@@ -66,9 +66,9 @@ Celery is rich in natural nitrate. The industry takes advantage of this: **ferme
 ### Benefits
 
 * **One of the lowest energy densities there is.** 14 calories per 100 grams — volume, crunch and chewing with almost no energy.
-* **[Vitamin K](/en/food/supplements/vitamin-k/):** 24% of daily intake per 100 grams.
+* **Vitamin K:** 24% of daily intake per 100 grams.
 * **Apigenin and luteolin:** Flavonoids studied in anti-inflammatory and neurological contexts. The evidence is mainly from the lab.
-* **Hydration.** 95% water alongside [potassium](/en/food/supplements/potassium/) and a little [sodium](/en/food/supplements/sodium/) — a convenient profile for fluid balance.
+* **Hydration.** 95% water alongside [potassium](/en/food/supplements/potassium/) and a little sodium — a convenient profile for fluid balance.
 * **Practically zero glycemic index and load** — suitable for any diabetic diet.
 * **Low-FODMAP in a small serving** — up to about 10 cm of stalk.
 * **A key flavor base.** Together with [onion](/en/food/onion/) and [carrot](/en/food/carrot/) it is the aromatic base of almost every soup and stew — and makes it possible to cut down on salt.
@@ -79,7 +79,7 @@ Celery is rich in natural nitrate. The industry takes advantage of this: **ferme
 * **Furanocoumarins and sun sensitivity.** Celery contains psoralens, and their concentration rises sharply in stalks infected with pink rot fungus. Prolonged contact with celery juice followed by sun exposure may cause **phytophotodermatitis** — a local burn. A phenomenon known mainly among kitchen and farm workers.
 * **Low nutrient density.** Apart from vitamin K, celery is not a significant source of any nutrient. It fills you up, it doesn't nourish.
 * **Oxalates.** In moderate amounts — a consideration for people prone to kidney stones, especially in concentrated juices.
-* **[Vitamin K](/en/food/supplements/vitamin-k/) and anticoagulants.** Consistent intake, not avoidance. Especially relevant for anyone drinking celery juice in quantity.
+* **Vitamin K and anticoagulants.** Consistent intake, not avoidance. Especially relevant for anyone drinking celery juice in quantity.
 * **Pesticide residues.** Celery regularly appears on lists of vegetables with relatively high pesticide residues — the structure of the stalks makes washing difficult.
 * **The "negative calorie" myth.** The idea that digesting celery uses more energy than it provides **is not true**. The thermic effect of food is about 5-10% of the calories in carbohydrate — meaning celery with 14 calories still leaves about 13. It is low in calories, not negative.
 
@@ -97,7 +97,7 @@ Celery is rich in natural nitrate. The industry takes advantage of this: **ferme
 
 ### Summary
 
-Celery is an excellent low-calorie vegetable for filling the plate, a reasonable source of [vitamin K](/en/food/supplements/vitamin-k/), and a flavor base that makes it possible to cut down on salt. **Its phthalides are interesting but are not a blood pressure medication**, and **the celery juice trend is not supported by research** — it also removes the fiber, which is the beneficial thing about the vegetable. Two things worth knowing that nobody talks about: **celery is an allergen that must be labeled** and may cause severe reactions, and **celery powder is the source of nitrite in meats marketed as "no nitrates"** — a claim that is correct by regulation and misleading nutritionally.
+Celery is an excellent low-calorie vegetable for filling the plate, a reasonable source of vitamin K, and a flavor base that makes it possible to cut down on salt. **Its phthalides are interesting but are not a blood pressure medication**, and **the celery juice trend is not supported by research** — it also removes the fiber, which is the beneficial thing about the vegetable. Two things worth knowing that nobody talks about: **celery is an allergen that must be labeled** and may cause severe reactions, and **celery powder is the source of nitrite in meats marketed as "no nitrates"** — a claim that is correct by regulation and misleading nutritionally.
 
 ### Frequently asked questions
 

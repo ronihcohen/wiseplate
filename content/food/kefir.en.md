@@ -4,7 +4,7 @@ seo_title: "Kefir: Side Effects, Downsides and Benefits — The Complete Guide"
 date: 2026-02-19T09:45:00+02:00
 lastmod: 2026-10-07T09:00:00+03:00
 featured_image: ""
-description: "Kefir's downsides and side effects: bloating at first, histamine, alcohol in homemade kefir, milk protein allergy and who should avoid it — alongside its benefits and full nutritional profile."
+description: "Kefir's downsides and side effects: bloating, histamine, alcohol in homemade kefir, milk allergy and who should avoid it, plus its benefits and nutrition."
 ---
 
 {{< youtube id="pUOLdbINC9s" title="Kefir: Ancient, Immortal and a Bit Boozy? (video)" loading="lazy" >}}

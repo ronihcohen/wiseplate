@@ -23,6 +23,8 @@ The almond (*Prunus dulcis*) is considered one of the most nutritionally dense f
 * **Allergens:** Allergy to tree nuts, including almonds, is one of the most common and dangerous allergies (anaphylaxis). It requires complete avoidance by sensitive people.
 * **Oxalates:** Almonds contain a relatively high amount of oxalates, substances that can contribute to kidney stone formation in people with a genetic predisposition or a medical history of [calcium](/en/food/supplements/calcium/) oxalate stones.
 
+**Compare:** [A Scientific Comparison: Brazil Nuts, Walnuts and Almonds](/en/compare/brazil-walnut-almond/)
+
 ### Summary
 
 The almond is a high-quality food that is an excellent source of healthy fats and micronutrients. Including a handful of natural almonds (unroasted and unsalted) in your daily diet offers significant benefits for the circulatory system and metabolism, as long as appropriate calorie control is maintained.

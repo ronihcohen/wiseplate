@@ -60,7 +60,7 @@ Chia seeds are coated in a layer of **mucilage** — a soluble fiber that absorb
 | Protein | 16.5 g |
 | Carbohydrates | 42 g |
 | Dietary fiber | 34.4 g |
-| [Calcium](/en/food/supplements/calcium/) | 631 mg |
+| Calcium | 631 mg |
 | [Magnesium](/en/food/supplements/magnesium/) | 335 mg |
 | Phosphorus | 860 mg |
 
@@ -78,6 +78,8 @@ Chia seeds are coated in a layer of **mucilage** — a soluble fiber that absorb
 
 **Storage:** in an airtight container at room temperature, in a cool, dark place. They keep well for 1-2 years thanks to their natural antioxidants.
 
+**Compare:** [A Scientific Comparison: Chia, Flax and Hemp Seeds](/en/compare/chia-flax-hemp-seeds/)
+
 ### Summary
 
 Chia seeds deserve much of their reputation — mainly thanks to exceptional fiber density (34 grams per 100 grams), high calcium content and ALA. An important practical advantage over flax: they don't need grinding and they keep well. They are not a substitute for fish as a source of EPA/DHA. The one safety rule to stick to — **don't swallow them dry and then drink** — is simple but not theoretical, and it appears in the medical literature.
@@ -88,7 +90,7 @@ Chia seeds deserve much of their reputation — mainly thanks to exceptional fib
 Answer: Strongly recommended, for safety reasons. There is a medical report of esophageal obstruction after someone swallowed dry seeds and drank immediately afterwards — the seeds absorbed liquid and expanded. Soaking for 10-15 minutes, or mixing into moist food, solves this completely.
 
 **Question: Do chia seeds need to be ground like flax?**
-Answer: No. Unlike [flax seeds](/en/food/flax-seeds/), whose hard hull almost entirely prevents absorption, chia seeds are smaller and softer and are reasonably absorbed even whole, especially after soaking.
+Answer: No. Unlike flax seeds, whose hard hull almost entirely prevents absorption, chia seeds are smaller and softer and are reasonably absorbed even whole, especially after soaking.
 
 **Question: How much chia per day?**
 Answer: 1-2 tablespoons (12-24 grams). This amount provides a meaningful nutritional benefit without loading up on calories (486 per 100 grams) or causing digestive discomfort.
@@ -97,7 +99,7 @@ Answer: 1-2 tablespoons (12-24 grams). This amount provides a meaningful nutriti
 Answer: It provides plenty of ALA, but its conversion to EPA and DHA in the body is very low (0.5-8%). For vegetarians and vegans it is an excellent source of ALA, but anyone looking for EPA/DHA needs oily fish or an algae supplement.
 
 **Question: Chia or flax?**
-Answer: [Flax](/en/food/flax-seeds/) is richer in ALA and lignans and has stronger evidence for blood pressure, but it requires grinding and refrigerated storage. Chia is richer in fiber and calcium, more stable and more convenient to use. Both are excellent.
+Answer: Flax is richer in ALA and lignans and has stronger evidence for blood pressure, but it requires grinding and refrigerated storage. Chia is richer in fiber and calcium, more stable and more convenient to use. Both are excellent.
 
 **Question: Does chia help with weight loss?**
 Answer: It increases satiety thanks to the fiber and the gel, which may help reduce overall intake. However, trials that tested weight loss from chia alone, without any other dietary change, did not show significant results.

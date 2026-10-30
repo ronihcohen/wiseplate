@@ -46,7 +46,7 @@ Commercial frozen peas are **blanched and frozen within hours of harvest**, in t
 
 * **The highest protein among freezer vegetables:** 5.4 grams per 100 grams, and about 8.5 grams in a cooked cup (about 160 grams) — a significant contribution to a vegetarian diet.
 * **High fiber:** 5.1 grams per 100 grams, a combination of soluble and insoluble fiber that supports satiety, bowel movement and blood sugar regulation.
-* **[Vitamin C](/en/food/supplements/vitamin-c/):** 44% of the daily value — a surprising figure for many, who associate peas with starch rather than vitamins. It also helps absorb the iron in the peas themselves.
+* **Vitamin C:** 44% of the daily value — a surprising figure for many, who associate peas with starch rather than vitamins. It also helps absorb the iron in the peas themselves.
 * **[Vitamin B1](/en/food/supplements/vitamin-b1/) (thiamine):** 22% of the daily value, among the good plant sources.
 * **Low glycemic index (around 22-35):** although classified as a starchy vegetable, its combination of fiber and protein keeps the glycemic response moderate.
 * **Isolated pea protein** is a common base for plant-based [protein powders](/en/food/protein-powder/), thanks to a good amino acid profile and relatively low allergenicity.
@@ -65,7 +65,7 @@ Commercial frozen peas are **blanched and frozen within hours of harvest**, in t
 
 * **Buy frozen, not canned.** The difference in taste and nutritional value is significant, and the price is similar.
 * **Don't thaw before cooking.** Add them directly to the pot or pan in the last few minutes. Frozen peas have already been blanched and need only 2-3 minutes of heating; long cooking turns them gray and mealy.
-* **Eat them with a source of [vitamin C](/en/food/supplements/vitamin-c/)** — which the peas provide themselves — to improve absorption of their non-heme iron.
+* **Eat them with a source of vitamin C** — which the peas provide themselves — to improve absorption of their non-heme iron.
 * **Complement with a grain:** peas with [rice](/en/food/rice/), [quinoa](/en/food/quinoa/) or whole-wheat pasta — that builds a complete amino acid profile.
 * **Mash into a spread:** cooked peas with [olive oil](/en/food/olive-oil/), [lemon](/en/food/lemon/) and garlic — a spread with 5 grams of protein per 100 grams, an excellent alternative to industrial spreads.
 * **[Pea soup](/en/recipes/soups/split-pea-soup/) made from dried peas** is a different food: more concentrated, about 118 calories and 8 grams of protein per 100 grams cooked, and even richer in fiber.

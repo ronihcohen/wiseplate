@@ -1,7 +1,8 @@
 ---
 title: "Iron Supplement"
-seo_title: "Iron Supplement: Dosage, Bisglycinate vs. Sulfate and Side Effects"
+seo_title: "Iron Supplement: Dosage, Bisglycinate vs. Sulfate, Side Effects"
 date: 2026-02-13T05:56:32+02:00
+lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
 description: "Iron supplements: which form is absorbed best (bisglycinate vs. sulfate), the right dose, why every-other-day dosing beats daily, and how to reduce constipation and nausea."
 ---
@@ -10,7 +11,7 @@ description: "Iron supplements: which form is absorbed best (bisglycinate vs. su
 
 > This page is about **iron supplements** — forms, doses, side effects and when to supplement at all. For iron as a dietary mineral, deficiency symptoms and food sources, see [Iron](/en/food/iron/).
 
-An iron supplement is one of the most effective supplements there is — and also one of the most commonly taken the wrong way. Unlike most vitamins, the human body **has no mechanism for excreting excess iron**; it regulates only the rate of absorption. That means accumulated iron stays in the body, so supplementing "just to be safe" is not a neutral act.
+An iron supplement is one of the most effective supplements there is — and also one of the most commonly taken the wrong way. Unlike most vitamins, the human body **has no mechanism for excreting excess iron**; it regulates only the rate of absorption. That means accumulated iron stays in the body, so supplementing "just to be safe" is not a neutral act. [NIH fact sheet on iron](https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/).
 
 ### When you actually need to supplement
 
@@ -22,8 +23,8 @@ Populations in which supplementation is common and justified: women with heavy m
 
 ### Benefits
 
-- **Correcting iron-deficiency anemia:** this is the most effective and cheapest treatment for a condition that affects about a third of the world's population. A rise in hemoglobin is usually seen within two to four weeks.
-- **Less fatigue even before the anemia is corrected:** studies in women with low ferritin and normal hemoglobin showed reduced fatigue after supplementation — meaning the benefit doesn't depend on full anemia.
+- **Correcting iron-deficiency anemia:** this is the most effective and cheapest treatment for the leading cause of anemia, which affected about a quarter of the world's population in 2021. [Global Burden of Disease, 2023](https://pubmed.ncbi.nlm.nih.gov/37536353/). A rise in hemoglobin is usually seen within two to four weeks.
+- **Less fatigue even before the anemia is corrected:** in a controlled trial in women with ferritin below 50 and normal hemoglobin, iron reduced fatigue more than placebo — meaning the benefit doesn't depend on full anemia. [Vaucher et al., 2012](https://pubmed.ncbi.nlm.nih.gov/22777991/).
 - **Better aerobic performance:** in athletes with depleted stores, replenishing iron improves endurance capacity. In athletes with normal stores — no benefit.
 - **Cognitive development in childhood:** iron deficiency in early childhood is linked to impaired development, and some of the damage may be irreversible. This is the reason for monitoring in toddlers.
 
@@ -36,17 +37,19 @@ This is the most important consideration when choosing a supplement, and it main
 | **Ferrous sulfate** | about 20% | The cheapest and most studied, and so the default in prescriptions. Its rate of gastrointestinal side effects is the highest of the forms |
 | **Ferrous gluconate** | about 12% | Gentler than sulfate, but needs a larger dose for the same amount of iron |
 | **Ferrous fumarate** | about 33% | High iron content per capsule, moderate tolerability |
-| **Iron bisglycinate** | about 20% | Chelated iron bound to two glycine molecules. Absorbed via a somewhat different pathway, and its digestive tolerability is significantly better. More expensive |
+| **Iron bisglycinate** | about 20% | Chelated iron bound to two glycine molecules. In a systematic review it caused fewer gastrointestinal side effects, mainly in studies of pregnant women. More expensive |
 | **Liposomal iron** | varies | Wrapped in a fat layer. Very good tolerability, but the evidence base for effectiveness is thinner |
 
 **The number that matters is "elemental iron," not the weight of the compound.** A 325 mg ferrous sulfate preparation provides about 65 mg of elemental iron. Comparing products by capsule weight is meaningless.
+
+The systematic review of bisglycinate also found a small advantage in raising hemoglobin in pregnancy, and concluded that more trials are needed in other groups. [Fischer et al., 2023](https://pubmed.ncbi.nlm.nih.gov/36728680/).
 
 **The practical recommendation:** anyone who suffers side effects from sulfate — and many do — should switch to bisglycinate before giving up on treatment altogether. Stopping treatment because of discomfort is the most common reason anemia correction fails.
 
 ### Dose and timing — the point that changes the most
 
-- **Every other day beats every day.** This is the most significant change in guidelines in recent years. A dose of iron raises the hormone **hepcidin**, which blocks iron absorption for about 24 hours. So a second dose the next day is poorly absorbed. Studies found that a single dose every other day increases **cumulative absorption** while reducing side effects.
-- **One dose a day, not split:** by the same hepcidin logic, splitting the dose into three a day harms absorption instead of helping.
+- **Every other day beats every day.** This is the most significant change in guidelines in recent years. A dose of iron raises the hormone **hepcidin**, which blocks iron absorption for about 24 hours. So a second dose the next day is poorly absorbed. In a trial in women with low stores, every-other-day dosing raised **cumulative absorption** (about 22% vs. about 16% with daily dosing), and the approach may also reduce side effects. [Stoffel et al., 2017](https://pubmed.ncbi.nlm.nih.gov/29032957/).
+- **One dose a day, not split:** in the same trial, splitting the dose into two a day raised hepcidin and did not improve absorption.
 - **On an empty stomach, if possible:** absorption is better. Anyone who gets nauseous can take it with a little food — reduced absorption is better than stopping treatment.
 - **With [vitamin C](/en/food/supplements/vitamin-c/):** a glass of citrus juice or 250 mg of vitamin C improves absorption.
 - **Keep two hours away** from [coffee](/en/food/coffee/), [tea](/en/food/green-tea/), [calcium](/en/food/supplements/calcium/) supplements, [milk](/en/food/milk/) and antacid medications.
@@ -61,6 +64,12 @@ This is the most important consideration when choosing a supplement, and it main
 - **Oxidative stress:** free iron catalyzes the formation of free radicals via the Fenton reaction. This is the theoretical basis for caution about excess.
 - **Acute poisoning in children:** iron supplements are among the leading causes of fatal poisoning in young children. Swallowing a large amount is a medical emergency. Store in child-resistant packaging, out of reach.
 - **Drug interactions:** iron reduces the absorption of tetracycline and fluoroquinolone antibiotics, levothyroxine (a drug for an underactive thyroid) and levodopa. Separate them by two to four hours.
+
+### Iron in pregnancy
+
+Iron needs rise sharply in pregnancy, especially in the second and third trimesters. The World Health Organization recommends that pregnant women take 30–60 mg of elemental iron a day together with 400 micrograms of [folic acid](/en/food/supplements/vitamin-b9/), at the higher end where anemia is common. [WHO — antenatal care recommendations](https://www.who.int/publications/i/item/9789241549912). In practice, the dose and timing are set during prenatal care based on blood counts and ferritin.
+
+Digestive side effects are more common in pregnancy, when constipation and nausea are already frequent — which is why pregnancy is where switching to bisglycinate has been studied most.
 
 ### When an oral supplement isn't enough
 
@@ -89,3 +98,6 @@ Answer: It's a common, harmless side effect — unabsorbed iron reaches the larg
 
 **Question: Can you take iron and calcium together?**
 Answer: Better not. Calcium is the only inhibitor that also blocks animal-source iron, and it reduces absorption of the supplement. Separate them by at least two hours — for example, iron in the morning on an empty stomach and calcium in the evening.
+
+**Question: How much iron should you take in pregnancy?**
+Answer: The World Health Organization recommends 30–60 mg of elemental iron a day together with folic acid. The exact dose is set during prenatal care based on blood tests.

@@ -42,7 +42,7 @@ The orange originated in Southeast Asia and comes in dozens of varieties — nav
 | | Whole orange (130 g) | Orange juice (240 ml) |
 |---|---|---|
 | Calories | 62 | 110 |
-| [Vitamin C](/en/food/supplements/vitamin-c/) | 70 mg | 83 mg |
+| Vitamin C | 70 mg | 83 mg |
 | Fiber | 3.1 g | 0.5 g |
 | Sugar | 12 g | 21 g |
 | GI | ~43 | ~65 |

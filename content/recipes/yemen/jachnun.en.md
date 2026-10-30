@@ -1,6 +1,6 @@
 ---
 title: "Yemenite Jachnun"
-seo_title: "Homemade Yemenite Jachnun: An Overnight Recipe and Calories per Roll"
+seo_title: "Homemade Yemenite Jachnun Recipe: Overnight Rolls"
 date: 2026-09-19T12:20:00+03:00
 lastmod: 2026-09-19T12:20:00+03:00
 featured_image: "/images/recipes/yemen/jachnun.webp"

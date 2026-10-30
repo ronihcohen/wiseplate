@@ -79,6 +79,11 @@ currently rely on this.
 
 Articles cross-reference each other using Hugo relative paths, e.g. `/food/supplements/selenium/`. Food articles often link into the supplements sub-section.
 
+Link a given page at most twice per article (once is usually enough). Some
+articles had the same link 8–12 times, which reads as spam; those were
+unlinked down to two. A food page whose topic has a comparison page links to
+it with a `**להשוואה:**` / `**Compare:**` line before the summary.
+
 Two topics deliberately live in both trees: the **food** page covers the
 dietary/culinary angle and the **supplement** page covers doses and clinical
 use. Keep their titles distinct and cross-link them both ways, or they compete
@@ -127,10 +132,25 @@ versions. Pages without a translation show no switcher.
 
 ### Layouts
 
-There is no theme; `layouts/` holds the site's own templates (9 files):
+There is no theme; `layouts/` holds the site's own templates:
 `_default/baseof.html`, `_default/single.html`, `_default/list.html`,
-`index.html`, `sitemap.xml`, and partials (`head.html`, `nav.html`,
-`footer.html`, `article-card.html`).
+`index.html`, `404.html`, `sitemap.xml`, `shortcodes/youtube.html` (a
+click-to-load replacement for Hugo's built-in embed), and partials
+(`head.html`, `nav.html`, `footer.html`, `article-card.html` and others).
+
+- `single.html` shows `featured_image` as a hero photo and, on recipes, a
+  facts box (times, yield, calories) with a jump link to the ingredients.
+- The Organization schema uses `params.brand` / `brand_alt` / `same_as` from
+  `hugo.toml`, so both languages describe one entity even though the site
+  titles differ (מדע בתנועה / Wise Plate). Pages without `featured_image` use
+  `params.default_image` (1200x630) for og:image and schema.
+- Root-level pages (`content/about.md`, `content/editorial-policy.md`) are
+  linked from the footer and kept out of the home page's latest-articles list.
+  `schema_type` in front matter overrides the Article type (AboutPage).
+- Fonts are self-hosted variable fonts in `static/fonts/`, declared at the top
+  of `style.css`; don't reintroduce the Google Fonts stylesheet.
+- After each deploy, a workflow job submits changed content URLs to IndexNow
+  (key file in `static/`).
 
 `head.html` is where the SEO surface lives — `<title>`/`seo_title`, meta
 description, canonical, robots, Open Graph, and JSON-LD for Article,

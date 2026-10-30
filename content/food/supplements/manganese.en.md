@@ -1,10 +1,10 @@
 ---
 title: "Manganese"
-seo_title: "Manganese: Why Almost Nobody Is Deficient, and When You Do Need to Be Careful"
+seo_title: "Manganese: Sources, Deficiency and When to Be Careful"
 date: 2026-02-13T05:56:32+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
-description: "Manganese: its role in the enzyme MnSOD and in building bone, why dietary deficiency is very rare, who is at risk of buildup, and why a manganese supplement is almost never needed."
+description: "Manganese: its role in MnSOD and bone, why dietary deficiency is very rare, who is at risk of buildup, and why supplements are almost never needed."
 ---
 
 Manganese is a trace mineral that appears in almost every multivitamin, usually **for no reason**. It is indeed essential — it is part of the mitochondria's main antioxidant enzyme, and takes part in building bone and in metabolism — but **dietary manganese deficiency in a healthy person is so rare as to be exceptional**, and it is abundant in everyday foods.
@@ -64,7 +64,7 @@ Patients receiving long-term intravenous feeding get manganese directly into the
 
 ## Summary
 
-Manganese is essential, abundantly available, and almost nobody is short of it. **It is found in [oats](/en/food/oatmeal/), nuts, whole grains, [pineapple](/en/food/pineapple/) and [tea](/en/food/green-tea/) in amounts that easily cover daily intake.** So the practical recommendation is simple: **there's no need for a manganese supplement**, and anyone taking a multivitamin should check whether they need the manganese in it at all. Two populations do need active caution: **people with liver disease** and those with occupational exposure to manganese.
+Manganese is essential, abundantly available, and almost nobody is short of it. **It is found in oats, nuts, whole grains, [pineapple](/en/food/pineapple/) and [tea](/en/food/green-tea/) in amounts that easily cover daily intake.** So the practical recommendation is simple: **there's no need for a manganese supplement**, and anyone taking a multivitamin should check whether they need the manganese in it at all. Two populations do need active caution: **people with liver disease** and those with occupational exposure to manganese.
 
 ### Frequently asked questions
 

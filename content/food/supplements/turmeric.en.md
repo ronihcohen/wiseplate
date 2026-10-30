@@ -1,10 +1,10 @@
 ---
 title: "Curcumin Supplement"
-seo_title: "Curcumin Supplement: Dosage, Effectiveness for Joint Pain and Absorption With Piperine"
+seo_title: "Curcumin Supplement: Dosage, Joint Pain and Piperine"
 date: 2026-01-23T09:49:00+02:00
 lastmod: 2026-08-20T09:00:00+03:00
 featured_image: ""
-description: "Curcumin supplements: the effective dose, what research shows about joint pain and inflammation, why absorption is low and what piperine does for it, and when a supplement beats the spice."
+description: "Curcumin supplements: effective dose, evidence for joint pain and inflammation, why absorption is low, what piperine does, and supplement vs. spice."
 ---
 
 > This page is about **curcumin as a supplement** — doses, concentrated forms and clinical effectiveness. For **turmeric as a spice** — how much curcumin is in a teaspoon, culinary use and safety — see [Turmeric](/en/food/turmeric/).
@@ -27,10 +27,10 @@ Beyond being an anti-inflammatory, curcumin is a strong antioxidant in its own r
 ## Downsides and Side Effects (Cons)
 
 ### 1. Very poor absorption
-Curcumin's biggest drawback is that it is barely absorbed into the bloodstream in its natural form; it is broken down quickly in the liver and gut. Eating ordinary [turmeric](/en/food/turmeric/) powder has almost no systemic effect. The solution is to combine it with "piperine" (black pepper extract), which increases absorption by 2000%, or to use supplements with liposome/phytosome technology.
+Curcumin's biggest drawback is that it is barely absorbed into the bloodstream in its natural form; it is broken down quickly in the liver and gut. Eating ordinary turmeric powder has almost no systemic effect. The solution is to combine it with "piperine" (black pepper extract), which increases absorption by 2000%, or to use supplements with liposome/phytosome technology.
 
 ### 2. Blood thinning
-Like [omega-3](/en/food/supplements/omega-3/), [turmeric](/en/food/turmeric/) has a mild blood-thinning effect. People taking anticoagulant drugs (such as aspirin or warfarin) should be careful combining it and consult a doctor, since the combination may increase the risk of bleeding/bruising.
+Like [omega-3](/en/food/supplements/omega-3/), turmeric has a mild blood-thinning effect. People taking anticoagulant drugs (such as aspirin or warfarin) should be careful combining it and consult a doctor, since the combination may increase the risk of bleeding/bruising.
 
 ### 3. Stomach discomfort at high doses
 Although it is sometimes used to treat digestive problems, excessively high doses of curcumin (or a poor-quality supplement) may have the opposite effect: stomach irritation, nausea and diarrhea. It is always recommended to take it with food (preferably fatty, for a further boost to absorption) and not on an empty stomach.

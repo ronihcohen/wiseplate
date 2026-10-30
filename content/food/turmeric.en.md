@@ -1,10 +1,10 @@
 ---
 title: "Turmeric"
-seo_title: "Turmeric: Benefits and Downsides, How Much Curcumin It Contains and How to Improve Absorption"
+seo_title: "Turmeric: Benefits, Downsides, Curcumin and Absorption"
 date: 2025-12-22T11:05:00+02:00
 lastmod: 2026-08-20T09:00:00+03:00
 featured_image: ""
-description: "Turmeric as a spice: how much curcumin a teaspoon really contains, why its absorption is low and what black pepper does, how it differs from a supplement, and the lead warning for imported turmeric."
+description: "Turmeric as a spice: curcumin per teaspoon, why absorption is low and what black pepper does, spice vs. supplement, and lead in imported turmeric."
 ---
 
 ## Turmeric
@@ -81,7 +81,7 @@ Three factors improve this, and all of them are easy to apply in the kitchen:
 
 * **Oxalates and kidney stones.** Turmeric is rich in oxalate — about 2 grams per 100 grams, among the highest of the spices. In a teaspoon that is a small amount, but **high intake or supplements** increase urinary oxalate excretion. People prone to calcium oxalate kidney stones ([calcium](/en/food/supplements/calcium/)) should be careful.
 
-* **Inhibiting [iron](/en/food/iron/) absorption.** Curcumin binds iron (it is an iron chelator), and cases have been described in which taking curcumin supplements worsened iron deficiency. Paradoxically — the spice that contains iron also interferes with its absorption. Mainly relevant at supplement doses and for people with existing [iron deficiency](/en/food/iron/).
+* **Inhibiting [iron](/en/food/iron/) absorption.** Curcumin binds iron (it is an iron chelator), and cases have been described in which taking curcumin supplements worsened iron deficiency. Paradoxically — the spice that contains iron also interferes with its absorption. Mainly relevant at supplement doses and for people with existing iron deficiency.
 
 * **Anticoagulant effect.** Curcumin has antiplatelet activity. At spice doses this is negligible, but **stop curcumin supplements about two weeks before surgery**, and consult a doctor if you take warfarin, clopidogrel or other anticoagulants.
 
@@ -135,7 +135,7 @@ Answer: About 60-150 mg. Turmeric contains only 2-5% curcuminoids, and a teaspoo
 Answer: The piperine in pepper inhibits the breakdown enzymes in the liver and gut that clear curcumin quickly. The classic study on the subject found that adding piperine increased bioavailability by about 2,000% — twentyfold. A pinch of black pepper is enough, and it is the cheapest and most significant step.
 
 **Question: Is turmeric as a spice enough, or do you need a supplement?**
-Answer: It depends on the goal. As a regular spice in the kitchen it is a reasonable, justified addition of polyphenols, and it replaces salt. But achieving the anti-inflammatory effect measured in clinical studies requires a dose of 500 mg of curcuminoids or more — an impossible amount from the spice. See [turmeric as a supplement](/en/food/supplements/turmeric/).
+Answer: It depends on the goal. As a regular spice in the kitchen it is a reasonable, justified addition of polyphenols, and it replaces salt. But achieving the anti-inflammatory effect measured in clinical studies requires a dose of 500 mg of curcuminoids or more — an impossible amount from the spice. See turmeric as a supplement.
 
 **Question: What are the downsides of turmeric?**
 Answer: As a spice it is very safe. The main considerations: possible lead chromate contamination in certain supply chains, high oxalate content (relevant for people prone to kidney stones), inhibition of iron absorption, gallbladder stimulation (a contraindication with gallstones), and an anticoagulant effect. Most of the risks only become significant at supplement doses.

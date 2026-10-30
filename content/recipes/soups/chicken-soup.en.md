@@ -1,6 +1,6 @@
 ---
 title: "Chicken Soup"
-seo_title: "Chicken Soup: A Homemade Recipe for Clear Broth — Calories per Bowl"
+seo_title: "Chicken Soup Recipe: Homemade Clear Broth"
 date: 2026-09-01T09:10:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/soups/chicken-soup.webp"

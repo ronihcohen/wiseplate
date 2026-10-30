@@ -1,0 +1,25 @@
+# Wise Plate (מדע בתנועה)
+
+> A bilingual (Hebrew and English) knowledge base on nutrition, dietary supplements, running and recipes. Each food article covers nutritional values, benefits, drawbacks and practical use; supplement articles cover forms, doses and evidence. Hebrew pages are at the root, English translations under /en/. Content is for information only and is not medical advice.
+
+## English sections
+
+- [Food & nutrition](https://wiseplate.blog/en/food/): articles on individual foods and ingredients
+- [Supplements](https://wiseplate.blog/en/food/supplements/): vitamins, minerals and sports supplements, with doses and evidence
+- [Comparisons](https://wiseplate.blog/en/compare/): side-by-side comparisons of related foods
+- [Recipes](https://wiseplate.blog/en/recipes/): recipes from 12 cuisines, with nutrition per serving
+- [Running & sport](https://wiseplate.blog/en/run/): running technique, training zones and gear
+- [About](https://wiseplate.blog/en/about/) and [editorial policy](https://wiseplate.blog/en/editorial-policy/)
+
+## Hebrew sections
+
+- [מזון ותזונה](https://wiseplate.blog/food/)
+- [תוספי תזונה](https://wiseplate.blog/food/supplements/)
+- [השוואות](https://wiseplate.blog/compare/)
+- [מתכונים](https://wiseplate.blog/recipes/)
+- [ריצה וספורט](https://wiseplate.blog/run/)
+- [אודות](https://wiseplate.blog/about/) ו[מדיניות מערכת](https://wiseplate.blog/editorial-policy/)
+
+## Optional
+
+- [Sitemap](https://wiseplate.blog/sitemap.xml)

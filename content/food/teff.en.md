@@ -1,6 +1,6 @@
 ---
 title: "Teff"
-seo_title: "Teff: Nutrition Facts, Iron, Injera and the Truth About Its Iron Content"
+seo_title: "Teff: Nutrition Facts, Injera and Its Real Iron Content"
 date: 2025-12-22T11:05:00+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
@@ -40,7 +40,7 @@ Teff is famous as an iron-rich grain, and studies have indeed found relatively l
 
 * **Some of the measured iron doesn't come from the plant.** In traditional processing, the tiny grains are threshed and dried on the ground, and iron-rich soil particles remain in the flour. Measurements of carefully cleaned teff show lower iron content than the "classic" values. Iron from soil is also absorbed particularly poorly.
 * **It is non-heme iron.** As with any plant source, the absorption rate is significantly lower than for iron from animal sources, and it is strongly affected by what you eat alongside it.
-* **Phytate inhibits it.** Teff, as a whole grain, contains phytic acid, which binds [iron](/en/food/iron/), [zinc](/en/food/supplements/zinc/) and [calcium](/en/food/supplements/calcium/) and reduces their absorption.
+* **Phytate inhibits it.** Teff, as a whole grain, contains phytic acid, which binds [iron](/en/food/iron/), [zinc](/en/food/supplements/zinc/) and calcium and reduces their absorption.
 
 **Hence the importance of fermentation.** Traditional injera is fermented for 2-3 days with a starter ("ersho"). Fermentation activates phytase enzymes that break down a good share of the phytic acid and release the minerals for absorption. This isn't just a culinary tradition — it is nutritional technology. **Teff baked directly without fermentation provides fewer available minerals than the same amount of teff in injera.**
 
@@ -51,7 +51,7 @@ Teff is famous as an iron-rich grain, and studies have indeed found relatively l
 * **Fiber:** 8 grams per 100 grams dry — almost a third of the daily intake, and more than most grains.
 * **Plenty of [magnesium](/en/food/supplements/magnesium/) and [manganese](/en/food/supplements/manganese/)** — 44% and 400% of the daily intake respectively per 100 grams dry.
 * **Protein with a good profile for a grain:** as with most grains, lysine is the limiting amino acid — but teff's content is relatively high compared with wheat and barley. Combining it with [legumes](/en/food/lentil/), as happens naturally in Ethiopian cuisine (injera with misir and shiro — lentil and chickpea-flour stews), completes the profile.
-* **Unusual [calcium](/en/food/supplements/calcium/) for a grain:** 180 mg per 100 grams.
+* **Unusual calcium for a grain:** 180 mg per 100 grams.
 * **Agricultural resilience:** it grows in drought conditions and at high altitudes, so it is being studied as a climate-resilient grain.
 
 ### Downsides and considerations

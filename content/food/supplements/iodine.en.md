@@ -1,6 +1,6 @@
 ---
 title: "Iodine"
-seo_title: "Iodine: Why Israel Actually Has a Deficiency — Desalinated Water and Non-Iodized Salt"
+seo_title: "Iodine: Deficiency in Israel, Sources and Iodized Salt"
 date: 2026-02-13T05:56:32+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""

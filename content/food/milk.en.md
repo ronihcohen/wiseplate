@@ -15,7 +15,7 @@ A glass of milk (200 ml) is a small "nutrition bomb" containing almost all the m
 *   **Carbohydrates:** The sugar in milk is called lactose.
 
 ### Vitamins and minerals
-*   **[Calcium](/en/food/supplements/calcium/):** The best-known source of [calcium](/en/food/supplements/calcium/) in the Western world. [Calcium](/en/food/supplements/calcium/) is essential not only for bones and teeth but also for normal muscle and nerve function. The bioavailability of the [calcium](/en/food/supplements/calcium/) in milk is higher than that of many plant sources.
+*   **[Calcium](/en/food/supplements/calcium/):** The best-known source of [calcium](/en/food/supplements/calcium/) in the Western world. Calcium is essential not only for bones and teeth but also for normal muscle and nerve function. The bioavailability of the calcium in milk is higher than that of many plant sources.
 *   **[Vitamin B12](/en/food/supplements/vitamin-b12/):** Milk is an excellent source of this vitamin, which is essential for the nervous system and for producing red blood cells.
 *   **[Potassium](/en/food/supplements/potassium/) and [magnesium](/en/food/supplements/magnesium/):** Minerals essential for balancing blood pressure.
 
@@ -52,8 +52,8 @@ Adding milk to tea is a classic British custom. Chemically, the protein **casein
 **Question: Does milk cause phlegm?**
 Answer: **Probably not.** Although many people feel that way, clinical studies have not found a direct link between milk intake and increased phlegm production. The sensation is often due to milk's thick texture lingering in the throat (fat coating), which mimics the feeling of phlegm, but it is not real inflammatory mucus.
 
-**Question: Does milk leach [calcium](/en/food/supplements/calcium/) from the body?**
-Answer: **A complicated myth.** The claim is that animal protein creates acidity in the blood, and the body breaks down bone (alkaline [calcium](/en/food/supplements/calcium/)) to balance it. Modern studies do not broadly support this theory (the acid-ash hypothesis). Protein is just as essential to bone health as [calcium](/en/food/supplements/calcium/), and dairy intake is generally associated with higher bone density, not lower.
+**Question: Does milk leach calcium from the body?**
+Answer: **A complicated myth.** The claim is that animal protein creates acidity in the blood, and the body breaks down bone (alkaline calcium) to balance it. Modern studies do not broadly support this theory (the acid-ash hypothesis). Protein is just as essential to bone health as calcium, and dairy intake is generally associated with higher bone density, not lower.
 
 **Question: Is goat's milk healthier than cow's milk?**
 Answer: **It has certain advantages.** The nutritional composition is similar, but in goat's milk the fat globules are smaller, which makes it easier to digest. It also contains less lactose and a different type of casein (A2), which may be less allergenic or inflammatory for some people who are sensitive to cow's milk.

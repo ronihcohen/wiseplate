@@ -4,7 +4,7 @@ seo_title: "Ethiopian Berbere Sauce (Awaze): A Precise Recipe and Calories"
 date: 2026-09-21T12:00:00+03:00
 lastmod: 2026-09-21T12:00:00+03:00
 featured_image: "/images/recipes/ethiopia/awaze.webp"
-description: "Ethiopian berbere sauce is called awaze: a hot dip made from berbere blend, water and wine or an alcohol-free substitute — ready in 5 minutes, about 15 calories per tablespoon."
+description: "Awaze, the Ethiopian berbere sauce: a hot dip of berbere, water and wine or an alcohol-free substitute. Ready in 5 minutes, about 15 calories a tablespoon."
 recipe_cuisine: "Ethiopian"
 recipe_category: "Sauce"
 prep_time: "PT5M"

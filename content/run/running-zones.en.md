@@ -1,7 +1,8 @@
 ---
 title: "Running Heart Rate Zones: The Secret to Endurance and Better Performance"
+seo_title: "Running Heart Rate Zones: Build Endurance and Performance"
 date: 2026-02-13T11:00:00+02:00
-featured_image: "/images/run_zones.png"
+featured_image: ""
 description: "A comprehensive guide to heart rate zones, why running in Zone 2 is the real magic, and how to train properly to keep improving over time."
 ---
 

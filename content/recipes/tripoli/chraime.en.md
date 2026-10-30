@@ -1,6 +1,6 @@
 ---
 title: "Tripolitan Chraime"
-seo_title: "Tripolitan Chraime: A Recipe for Fish in Spicy Red Sauce — Calories"
+seo_title: "Tripolitan Chraime Recipe: Fish in Spicy Red Sauce"
 date: 2026-09-19T10:20:00+03:00
 lastmod: 2026-09-19T10:20:00+03:00
 featured_image: "/images/recipes/tripoli/chraime.webp"

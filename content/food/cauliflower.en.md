@@ -1,6 +1,6 @@
 ---
 title: "Cauliflower"
-seo_title: "Cauliflower: Nutrition Facts, Rice Substitute and What's Really in \"Cauliflower Pizza\""
+seo_title: "Cauliflower: Nutrition Facts, Rice and Pizza Crust Swaps"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
@@ -54,7 +54,7 @@ The savings are real and significant. But two caveats:
 
 ### Benefits
 
-* **[Vitamin C](/en/food/supplements/vitamin-c/) in 25 calories:** 54% of daily intake per 100 grams — more than an [orange](/en/food/orange/), at a fifth of the calories.
+* **Vitamin C in 25 calories:** 54% of daily intake per 100 grams — more than an [orange](/en/food/orange/), at a fifth of the calories.
 * **[Folate](/en/food/supplements/vitamin-b9/):** 14% of daily intake, especially relevant in pregnancy.
 * **[Choline](/en/food/supplements/choline/):** 44 mg per 100 grams — one of the few vegetables that contribute to a nutrient most of the population consumes less of than recommended.
 * **Very low energy density:** 92% water and 2 grams of fiber — volume and fiber without calories, very useful for weight control.

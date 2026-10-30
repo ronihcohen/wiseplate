@@ -1,6 +1,6 @@
 ---
 title: "Teff Injera"
-seo_title: "Ethiopian Teff Injera: Fermentation, Absit and a Precise Recipe — Calories"
+seo_title: "Ethiopian Teff Injera Recipe: Fermentation and Absit"
 date: 2026-09-19T15:10:00+03:00
 lastmod: 2026-09-19T15:10:00+03:00
 featured_image: "/images/recipes/ethiopia/injera.webp"

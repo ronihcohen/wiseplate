@@ -2,7 +2,7 @@
 title: "Black Garlic"
 date: 2026-02-19T09:45:00+02:00
 featured_image: ""
-description: "A comprehensive scientific review of black garlic: an umami antioxidant powerhouse created by aging ordinary garlic, with high levels of SAC and remarkable protective abilities for the blood vessels, liver and brain."
+description: "Black garlic: how aging turns ordinary garlic sweet and dark, what S-allyl cysteine (SAC) is, and what research shows about its antioxidant effects."
 ---
 
 ## Introduction: Black Garlic - the magic of functional aging

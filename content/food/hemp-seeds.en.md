@@ -68,6 +68,8 @@ Answer: Yes — they are safe and rich in nutrients. Avoid CBD oil and cannabino
 **Question: Which is better — whole or shelled hemp seeds (hearts)?**
 Answer: The hearts (shelled) are softer and more convenient to use; whole seeds contain extra fiber from the shell. Both are excellent.
 
+**Compare:** [A Scientific Comparison: Chia, Flax and Hemp Seeds](/en/compare/chia-flax-hemp-seeds/)
+
 ### Summary
 
 Hemp seeds are an excellent nutritional addition with a complete protein profile and a rare omega balance. They are especially recommended for vegans and anyone looking for quality dietary variety — with attention to quantity because of their calorie density.

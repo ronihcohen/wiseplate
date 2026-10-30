@@ -1,6 +1,6 @@
 ---
 title: "Broccoli"
-seo_title: "Broccoli: Nutrition Facts, Sulforaphane and How to Cook It Without Ruining It"
+seo_title: "Broccoli: Nutrition Facts, Sulforaphane and How to Cook It"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-08-18T09:00:00+03:00
 featured_image: ""
@@ -45,7 +45,7 @@ Hence the problem: broccoli thrown into a boiling pot or stir-fried on high heat
 **Four practical ways to solve this:**
 
 * **Cut it and wait 40 minutes before cooking.** Cutting starts the reaction while it is still cold; by the time the heat arrives, the sulforaphane has already formed, and it is itself heat-stable. This is the most effective step, and it costs nothing.
-* **Steam for just 3-4 minutes**, don't boil. Brief steaming keeps the internal temperature low enough and preserves some of the enzyme, and it also prevents [vitamin C](/en/food/supplements/vitamin-c/) from leaching into the water.
+* **Steam for just 3-4 minutes**, don't boil. Brief steaming keeps the internal temperature low enough and preserves some of the enzyme, and it also prevents vitamin C from leaching into the water.
 * **Add an external source of myrosinase** — a pinch of mustard powder, [sesame](/en/food/sesame-seeds/), radish or arugula on the cooked broccoli. These contain the enzyme in active form and "bring back" the reaction. A documented method that is especially effective for frozen broccoli.
 * **Eat some of it raw** — in a salad or as a dip.
 
@@ -55,8 +55,8 @@ Hence the problem: broccoli thrown into a boiling pot or stir-fried on high heat
 
 ### Benefits
 
-* **Almost a full day's [vitamin C](/en/food/supplements/vitamin-c/) in 34 calories:** 89 mg per 100 grams — more than an [orange](/en/food/orange/) (53 mg). Anyone who thinks of vitamin C as belonging to citrus fruits is missing the better source.
-* **[Vitamin K](/en/food/supplements/vitamin-k/):** 85% of daily intake, important for clotting and for directing [calcium](/en/food/supplements/calcium/) to bone.
+* **Almost a full day's vitamin C in 34 calories:** 89 mg per 100 grams — more than an [orange](/en/food/orange/) (53 mg). Anyone who thinks of vitamin C as belonging to citrus fruits is missing the better source.
+* **Vitamin K:** 85% of daily intake, important for clotting and for directing [calcium](/en/food/supplements/calcium/) to bone.
 * **Fiber:** 2.6 grams per 100 grams, combined with water — contributes to satiety and bowel regularity.
 * **[Folate](/en/food/supplements/vitamin-b9/):** 16% of daily intake, significant in pregnancy.
 * **Exceptional nutrient density:** Its nutrient-to-calorie ratio is among the highest of any vegetable.
@@ -68,7 +68,7 @@ Hence the problem: broccoli thrown into a boiling pot or stir-fried on high heat
 * **Gas and bloating.** Broccoli contains raffinose and fructans — carbohydrates that are not digested in the small intestine and are fermented in the colon. This is the physiological reason for gas, and it is not a sign of a problem. **The stalks are richer in fructans than the florets**, so sensitive people can use only the florets. Longer cooking reduces the effect.
 * **FODMAP:** For this reason broccoli is limited on a low-FODMAP diet, but **florets in amounts of up to 75 grams are considered low-FODMAP** — the stalk is the problematic part.
 * **Goitrogens and the thyroid.** Glucosinolates may interfere with [iodine](/en/food/supplements/iodine/) uptake by the thyroid. It is very important to keep this in proportion: the effect is significant only with a combination of **existing iodine deficiency** and **very large amounts of raw cruciferous vegetables**. Cooking reduces it significantly, and for anyone with adequate iodine intake it is not a practical consideration.
-* **[Vitamin K](/en/food/supplements/vitamin-k/) and anticoagulants.** People taking Coumadin do not need to avoid broccoli — they need to keep their intake **steady and consistent**, so the drug dose can be calibrated to it. Sharp fluctuations are the problem, not the vegetable.
+* **Vitamin K and anticoagulants.** People taking Coumadin do not need to avoid broccoli — they need to keep their intake **steady and consistent**, so the drug dose can be calibrated to it. Sharp fluctuations are the problem, not the vegetable.
 * **Loss of vitamin C when boiled:** Prolonged boiling can remove over 50% of the vitamin, which spills into the cooking water. Steaming preserves most of it.
 * **Pesticide residues:** The dense florets make washing difficult. A short soak in water with a little baking soda followed by rinsing is more effective than rinsing alone.
 * **Bitter taste for some people:** A genetic sensitivity to sulfur compounds (the TAS2R38 gene). Roasting in the oven with [olive oil](/en/food/olive-oil/) sweetens them through caramelization and noticeably reduces the bitterness.

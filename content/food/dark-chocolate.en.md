@@ -64,8 +64,8 @@ Practical tip: if the ingredient list says "cocoa processed with alkali" or "alk
 | Fiber | 11 g |
 | Protein | 7.8 g |
 | [Magnesium](/en/food/supplements/magnesium/) | 228 mg |
-| [Iron](/en/food/iron/) | 11.9 mg |
-| [Caffeine](/en/food/supplements/caffeine/) | ~80 mg |
+| Iron | 11.9 mg |
+| Caffeine | ~80 mg |
 
 ### Practical use
 
@@ -75,7 +75,9 @@ Practical tip: if the ingredient list says "cocoa processed with alkali" or "alk
 
 **When:** because of the caffeine and theobromine, it is better during the day. Combined with coffee in the evening, it can add up to a significant stimulant dose.
 
-**Dark chocolate vs. cocoa:** if the goal is flavanols rather than enjoyment, [cocoa powder](/en/food/raw-cacao-powder/) that hasn't been alkalized provides them at a much higher density and without the sugar and fat.
+**Dark chocolate vs. cocoa:** if the goal is flavanols rather than enjoyment, [cocoa powder](/en/food/cacao-nibs/) that hasn't been alkalized provides them at a much higher density and without the sugar and fat.
+
+**Compare:** [A Scientific Comparison: Milk, Dark and White Chocolate](/en/compare/milk-dark-white-chocolate/)
 
 ### Summary
 

@@ -1,10 +1,10 @@
 ---
 title: "Iron"
-seo_title: "Iron Deficiency: Symptoms, Iron-Rich Foods and How to Raise Your Iron Levels"
+seo_title: "Iron Deficiency: Symptoms, Iron-Rich Foods and Raising Iron"
 date: 2026-08-10T08:00:00+03:00
 lastmod: 2026-08-20T09:00:00+03:00
 featured_image: ""
-description: "Iron deficiency: all the symptoms by stage, how to read a ferritin and hemoglobin test, iron-rich foods with amounts per serving, what doubles absorption and what blocks it, and how to raise your iron levels."
+description: "Iron deficiency: symptoms by stage, reading ferritin and hemoglobin tests, iron-rich foods per serving, what helps and blocks absorption, and raising iron."
 ---
 
 ## Iron
@@ -158,13 +158,13 @@ Iron tables are almost always given per 100 grams, and that is misleading: nobod
 **Two notes that change how you read the tables:**
 
 1. **The numbers don't reflect absorption.** 4.1 mg of heme iron from meat may contribute more to the body than 6.6 mg of non-heme iron from lentils. Mentally scale up the animal sources and scale down the plant ones.
-2. **[Spinach](/en/food/spinach/) is the classic misleading case.** It appears on every list as an "iron source," but its high oxalate content binds the iron and blocks most of it. Actual absorption from it is especially low — significantly lower than from legumes.
+2. **Spinach is the classic misleading case.** It appears on every list as an "iron source," but its high oxalate content binds the iron and blocks most of it. Actual absorption from it is especially low — significantly lower than from legumes.
 
 ### How to raise your iron levels — the practical plan
 
 This is the most practical part of the page. The basic premise: **in diagnosed deficiency, diet alone raises stores very slowly** — over many months. A supplement under medical supervision is the fast tool; diet is what maintains the result. The two complement each other rather than compete.
 
-**1. Include [vitamin C](/en/food/supplements/vitamin-c/) in every iron-rich plant meal.** The single most significant step — it can **double or even triple** absorption. [Lemon](/en/food/lemon/) squeezed over lentils, [red pepper](/en/food/red-pepper/) in the salad, [tomato](/en/food/tomato/) alongside tahini. It needs to be **in the same meal**, not separately.
+**1. Include vitamin C in every iron-rich plant meal.** The single most significant step — it can **double or even triple** absorption. [Lemon](/en/food/lemon/) squeezed over lentils, [red pepper](/en/food/red-pepper/) in the salad, [tomato](/en/food/tomato/) alongside tahini. It needs to be **in the same meal**, not separately.
 
 **2. Keep tea, coffee and calcium away from mealtime.** A cup of [tea](/en/food/green-tea/) with a meal can reduce absorption **by up to 60%**. Separate them by an hour or two. The same rule applies to [coffee](/en/food/coffee/), [milk](/en/food/milk/) and [calcium](/en/food/supplements/calcium/) supplements.
 
@@ -192,11 +192,11 @@ The official recommendation for vegetarians and vegans is **1.8 times the recomm
 
 What is important to know: **most vegans are not anemic.** Cohort studies find that iron intake on a vegan diet is usually **higher** than that of meat eaters — legumes, tahini and seeds are rich in it. What is found consistently is **lower ferritin stores**. In other words, the challenge is not the amount but **absorption and stores**.
 
-So all the tools in the practical section above are seven times as relevant here: vitamin C at every meal, separating tea and coffee, soaking and sprouting, and periodic ferritin testing. Including [vitamin C](/en/food/supplements/vitamin-c/) is in practice the difference between a plant-based diet that is sufficient and one that is not.
+So all the tools in the practical section above are seven times as relevant here: vitamin C at every meal, separating tea and coffee, soaking and sprouting, and periodic ferritin testing. Including vitamin C is in practice the difference between a plant-based diet that is sufficient and one that is not.
 
 ### Summary
 
-Iron is the most common nutritional deficiency in the world, and the key to understanding it lies not in the amount on the label but in the **form** and in what sits beside it on the plate: heme iron from animal sources is absorbed two to ten times better than plant iron, and absorption of plant iron changes dramatically depending on the presence of [vitamin C](/en/food/supplements/vitamin-c/) on the one hand, and tea, coffee and calcium on the other.
+Iron is the most common nutritional deficiency in the world, and the key to understanding it lies not in the amount on the label but in the **form** and in what sits beside it on the plate: heme iron from animal sources is absorbed two to ten times better than plant iron, and absorption of plant iron changes dramatically depending on the presence of vitamin C on the one hand, and tea, coffee and calcium on the other.
 
 For diagnosis, two points matter more than everything else: **ferritin is the marker, not hemoglobin** — you can suffer from fatigue, hair loss and shortness of breath with a completely normal blood count, and this is a very common situation; and **ferritin rises with inflammation**, so CRP should be tested at the same time so as not to miss a masked deficiency.
 
@@ -229,7 +229,7 @@ Answer: Not necessarily. Studies find that iron intake on a vegan diet is usuall
 Answer: Heme iron comes from animal sources and is absorbed at an efficiency of 15%-35%, almost regardless of the rest of the meal. Non-heme iron from plant sources is absorbed at only 2%-20%, and its absorption is strongly affected by enhancers and blockers in the meal.
 
 **Question: How do you improve absorption of plant iron?**
-Answer: Include a source of [vitamin C](/en/food/supplements/vitamin-c/) in the same meal — lemon, red pepper, tomato — which can double or even triple absorption. At the same time, avoid tea, coffee and calcium supplements close to the meal.
+Answer: Include a source of vitamin C in the same meal — lemon, red pepper, tomato — which can double or even triple absorption. At the same time, avoid tea, coffee and calcium supplements close to the meal.
 
 **Question: Does tea really block iron absorption?**
 Answer: Yes, and significantly. The tannins in tea can reduce absorption of non-heme iron by up to 60% when it is drunk with a meal. It is advisable to separate them by an hour or two.

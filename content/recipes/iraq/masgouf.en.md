@@ -1,6 +1,6 @@
 ---
 title: "Masgouf"
-seo_title: "Masgouf: An Iraqi Recipe for Baghdad's Grilled Fish — Calories per Serving"
+seo_title: "Masgouf Recipe: Baghdad-Style Grilled Fish"
 date: 2026-08-24T02:00:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/iraq/masgouf.webp"
@@ -75,7 +75,7 @@ This is one of the best-value dishes across all three recipe categories on the s
 
 Another point in its favor: freshwater fish of this kind sit low in the food chain and therefore accumulate less mercury than large predatory fish such as [tuna](/en/food/tuna/). On the other hand, fish from polluted rivers can accumulate other contaminants, so the source of the fish matters.
 
-**What raises the number** is not the fish but what surrounds it: a whole [samoon](/en/recipes/iraq/samoon/) (about 250 calories), rice, and [amba](/en/recipes/iraq/amba/). A full masgouf meal in an Iraqi restaurant is 800-1,000 calories.
+**What raises the number** is not the fish but what surrounds it: a whole [samoon](/en/recipes/iraq/samoon/) (about 250 calories), rice, and amba. A full masgouf meal in an Iraqi restaurant is 800-1,000 calories.
 
 ### Variations and tips
 
@@ -86,7 +86,7 @@ Another point in its favor: freshwater fish of this kind sit low in the food cha
 
 ### Summary
 
-Masgouf is a dish whose whole secret lies in the technique rather than the ingredients: four seasonings, two hours of gentle radiant heat, and a short finish on the coals. About 470 calories and 50 grams of protein per serving — the best protein-to-calorie ratio among the Iraqi dishes here. It is almost always served with [amba](/en/recipes/iraq/amba/) and [samoon](/en/recipes/iraq/samoon/). More recipes in [Iraqi cuisine](/en/recipes/iraq/).
+Masgouf is a dish whose whole secret lies in the technique rather than the ingredients: four seasonings, two hours of gentle radiant heat, and a short finish on the coals. About 470 calories and 50 grams of protein per serving — the best protein-to-calorie ratio among the Iraqi dishes here. It is almost always served with amba and samoon. More recipes in [Iraqi cuisine](/en/recipes/iraq/).
 
 ### Frequently asked questions
 

@@ -21,7 +21,7 @@ The most common type, with the mildest flavor.
     * **Fewer antioxidants:** It contains fewer [polyphenols](/en/food/polyphenols/) than the darker types.
     * **Too soft:** It may turn mushy if overcooked.
 
-### 2. Red [Quinoa](/en/food/quinoa/)
+### 2. Red Quinoa
 
 It holds its shape better when cooked and has a nuttier flavor.
 
@@ -35,7 +35,7 @@ It holds its shape better when cooked and has a nuttier flavor.
     * **Cooking time:** It needs about 5 more minutes of cooking compared with white.
     * **Chewiness:** The texture is slightly firmer and chewy.
 
-### 3. Black [Quinoa](/en/food/quinoa/)
+### 3. Black Quinoa
 
 The wilder variety, with the strongest earthy flavor.
 
@@ -53,7 +53,7 @@ The wilder variety, with the strongest earthy flavor.
 
 ### Nutritional comparison table (per 100 grams cooked)
 
-| Component | White [quinoa](/en/food/quinoa/) | Red [quinoa](/en/food/quinoa/) | Black [quinoa](/en/food/quinoa/) |
+| Component | White quinoa | Red quinoa | Black quinoa |
 | --- | --- | --- | --- |
 | **Calories** | ~120 | ~120 | ~120 |
 | **Protein** | 4.4 grams | 4.4 grams | 4.4 grams |
@@ -63,4 +63,4 @@ The wilder variety, with the strongest earthy flavor.
 
 ### Summary and conclusions
 
-If the goal is **antioxidants and maximum health**, **black [quinoa](/en/food/quinoa/)** is the clear winner. For **salads and cold dishes**, **red [quinoa](/en/food/quinoa/)** provides the best texture. For everyday use, **as a rice substitute and in kids' meals**, **white [quinoa](/en/food/quinoa/)** is the most practical and quickest choice. A blend of all three ("tricolor [quinoa](/en/food/quinoa/)") lets you enjoy the best of all worlds.
+If the goal is **antioxidants and maximum health**, **black quinoa** is the clear winner. For **salads and cold dishes**, **red quinoa** provides the best texture. For everyday use, **as a rice substitute and in kids' meals**, **white quinoa** is the most practical and quickest choice. A blend of all three ("tricolor quinoa") lets you enjoy the best of all worlds.

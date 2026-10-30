@@ -1,6 +1,6 @@
 ---
 title: "A Scientific Comparison: Red, Green and Black Lentils"
-seo_title: "Red, Green and Black Lentils: Differences, Cooking and Names on the Package"
+seo_title: "Red, Green and Black Lentils: Differences and Cooking"
 date: 2025-12-27T08:20:00+02:00
 lastmod: 2026-09-05T00:00:00+03:00
 featured_image: ""

@@ -1,9 +1,9 @@
 ---
 title: "Gluten"
-seo_title: "Gluten: What It Is, Which Foods Contain Gluten and Who Really Needs to Avoid It"
+seo_title: "Gluten: What It Is, Which Foods Have It, Who Should Avoid It"
 date: 2026-09-02T04:00:00+03:00
 featured_image: ""
-description: "What gluten is and which foods contain it, the difference between celiac disease, wheat allergy and gluten sensitivity, what the 20 ppm label means, and whether gluten-free is healthier."
+description: "What gluten is and which foods contain it, celiac vs. wheat allergy vs. gluten sensitivity, what the 20 ppm label means, and whether gluten-free is healthier."
 ---
 
 ## Gluten
@@ -176,11 +176,11 @@ This list accounts for most "accidental exposures" in people with celiac disease
 
 **If you have been diagnosed:** avoidance is absolute and lifelong. Look for an explicit "gluten-free" label or the crossed-grain symbol, not just the absence of wheat in the ingredient list. In a shared kitchen — a separate toaster, a separate colander, and spreads in a personal jar. In Israel, it is worth checking with your health fund (kupat holim) whether it contributes toward the cost of gluten-free food.
 
-**If you feel unwell after bread but don't have celiac disease:** before giving up a whole category, try to isolate the cause. Switching to long-fermented [sourdough bread](/en/food/sourdough/), to [rye bread](/en/food/rye-bread/), or reducing the portion solves the problem for many people — a good sign that fructans, not gluten, were to blame.
+**If you feel unwell after bread but don't have celiac disease:** before giving up a whole category, try to isolate the cause. Switching to long-fermented sourdough bread, to [rye bread](/en/food/rye-bread/), or reducing the portion solves the problem for many people — a good sign that fructans, not gluten, were to blame.
 
-**If you avoid gluten by choice:** build your menu around naturally gluten-free foods — [quinoa](/en/food/quinoa/), [buckwheat](/en/food/buckwheat/), brown [rice](/en/food/rice/), [legumes](/en/food/lentil/), potatoes, vegetables and fruit — and not around processed "gluten-free" products, which are usually processed food with less fiber and more sugar.
+**If you avoid gluten by choice:** build your menu around naturally gluten-free foods — [quinoa](/en/food/quinoa/), buckwheat, brown [rice](/en/food/rice/), legumes, potatoes, vegetables and fruit — and not around processed "gluten-free" products, which are usually processed food with less fiber and more sugar.
 
-**For vegetarians and vegans:** seitan is a dense, convenient protein source, but its protein is low in lysine. Combine it in the same meal with [legumes](/en/food/lentil/) or [soy](/en/food/tofu/) to complete the amino acid profile.
+**For vegetarians and vegans:** seitan is a dense, convenient protein source, but its protein is low in lysine. Combine it in the same meal with legumes or [soy](/en/food/tofu/) to complete the amino acid profile.
 
 ### Summary
 

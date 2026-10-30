@@ -45,7 +45,7 @@ It belongs to the gourd family (Cucurbitaceae) together with [zucchini](/en/food
 | Water | 95.2 g | An excellent source of hydration |
 | [Vitamin K](/en/food/supplements/vitamin-k/) | 16.4 mcg | ~14% daily |
 | [Potassium](/en/food/supplements/potassium/) | 147 mg | ~3% daily |
-| [Magnesium](/en/food/supplements/magnesium/) | 13 mg | ~3% daily |
+| Magnesium | 13 mg | ~3% daily |
 | Fiber | 0.5 g | Mostly in the skin |
 
 ### Culinary and practical use

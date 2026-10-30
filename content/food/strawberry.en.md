@@ -70,6 +70,8 @@ Answer: Usually yes — thanks to their low GI and fiber content. Consult a diet
 **Question: Which is better — organic or conventional strawberries?**
 Answer: Organic is clearly better for strawberries — one of the fruits with the highest pesticide residues. If it isn't available, a thorough wash with water and a little [apple cider vinegar](/en/food/apple-cider-vinegar/) helps.
 
+**Compare:** [A Scientific Comparison: Blueberries, Raspberries and Strawberries](/en/compare/blueberry-raspberry-strawberry/)
+
 ### Summary
 
 The strawberry is a sweet, rich and accessible fruit that combines great taste with high nutritional value. It's recommended to eat them in season and freely as part of a varied diet, preferring organic because of pesticide levels.

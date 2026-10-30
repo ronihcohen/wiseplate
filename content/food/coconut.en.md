@@ -62,6 +62,8 @@ Coconut meat and coconut flour are in a different category: thanks to their high
 
 With coconut milk, distinguish between the full-fat canned version (high in fat, for cooked dishes) and "coconut drink" in a carton — a highly diluted product that is mostly water and often contains added sugar and stabilizers.
 
+**Compare:** [A Scientific Comparison: Olive, Coconut and Avocado Oil](/en/compare/olive-coconut-avocado-oil/)
+
 ### Summary
 
 Coconut suffers from a large gap between its marketing image as a "superfood" and the evidence. Coconut oil raises LDL and is not MCT oil in the usual sense; lauric acid mostly behaves like a long-chain fat. On the other hand, coconut meat is an excellent source of fiber and minerals, and coconut water is a low-calorie, potassium-rich drink. The bottom line: an excellent and entirely justified culinary ingredient — but not a substitute for the unsaturated fats that are the foundation of the diet.

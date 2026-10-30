@@ -1,5 +1,6 @@
 ---
 title: "The Artificial Sweetener Paradox: A Diet That Makes You Gain Weight?"
+seo_title: "Artificial Sweeteners: Can a Diet Drink Make You Gain Weight?"
 date: 2026-01-15T11:00:00+02:00
 featured_image: ""
 description: "Do \"zero\" drinks really help you lose weight? New research reveals the damaging effect on gut bacteria and the disruption of the body's natural satiety mechanisms."

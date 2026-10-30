@@ -1,10 +1,10 @@
 ---
 title: "Chicken Breast"
-seo_title: "Chicken Breast: Nutrition Facts per 100 g, How Much Protein It Has and What Injected Chicken Is"
+seo_title: "Chicken Breast: Protein per 100 g and Nutrition Facts"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-08-20T09:00:00+03:00
 featured_image: ""
-description: "Chicken breast: nutrition facts per 100 grams, how much protein it has (31 grams cooked), how it differs from thigh, what injected chicken is and how much sodium it adds, and how not to dry it out."
+description: "Chicken breast: nutrition facts per 100 g, 31 g protein cooked, breast vs. thigh, the sodium in injected chicken, and how not to dry it out."
 ---
 
 ## Chicken Breast
@@ -96,7 +96,7 @@ Anyone who eats chicken every day will benefit from combining the two.
 
 * **Niacin (B3) — 86% of the daily value in 100 grams.** Required to make NAD and NADP, key coenzymes in all of the cell's energy-producing processes.
 
-* **[Selenium](/en/food/supplements/selenium/) — 49%** per 100 grams, supporting thyroid function and the antioxidant defense system.
+* **Selenium — 49%** per 100 grams, supporting thyroid function and the antioxidant defense system.
 
 * **[Vitamin B6](/en/food/supplements/vitamin-b6/) — 47%.** Involved in amino acid metabolism and neurotransmitter production.
 
@@ -120,7 +120,7 @@ Anyone who eats chicken every day will benefit from combining the two.
 
 * **"Striped" white meat and "woody breast".** A phenomenon that has spread in recent years because of rapid fattening and broilers with especially large breasts. It shows up as white stripes along the grain or as a hard, rubbery texture. Nutritionally, the meat contains **less protein and more fat and collagen** than usual, and texture quality drops. It is not a health hazard, but it changes the product.
 
-* **Low in [iron](/en/food/iron/) and [zinc](/en/food/supplements/zinc/):** unlike [red meat](/en/food/red-meat/), chicken breast is not a significant source of heme iron. Anyone who relies on it as an almost exclusive meat source — especially women of childbearing age — should make sure they have other iron sources.
+* **Low in iron and zinc:** unlike [red meat](/en/food/red-meat/), chicken breast is not a significant source of heme iron. Anyone who relies on it as an almost exclusive meat source — especially women of childbearing age — should make sure they have other iron sources.
 
 * **Processed chicken products** — chicken sausages, frozen schnitzels, nuggets and chicken pastrami — are an entirely different category: high sodium, fried coating, and sometimes mechanically separated meat. The data on this page does not apply to them.
 

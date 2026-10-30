@@ -1,5 +1,6 @@
 ---
 title: "The Ultra-Processed Food Epidemic: Between Biological Manipulation and Economic Interest"
+seo_title: "Ultra-Processed Foods: What They Are and Why They Matter"
 date: 2024-05-21T09:00:00+03:00
 featured_image: ""
 description: "Ultra-processed food in Israel: why it causes overeating, what the data say about disease rates in adults and teenagers, and how the industry gets around regulation."
@@ -32,6 +33,8 @@ The data indicate that the food industry acts actively to shape consumption habi
 
 3.  **Political pressure and repeal of taxes:**
     The fight over the tax on sweetened beverages reveals the power of the lobbyists. Although data showed a drop of about 10% in per-capita purchases of high-sugar drinks following the tax, it was repealed under industry pressure. The pressure included threats (which turned out to be empty) of laying off thousands of workers and direct calls to decision-makers.
+
+**See also:** [Sausages and Hot Dogs](/en/food/sausages/), [Sugary Soft Drinks](/en/food/sugary-soft-drinks/), [Frozen Pizza](/en/food/frozen-pizza/), [Instant Cup Soup](/en/food/instant-soup/), [Sweetened Breakfast Cereals](/en/food/sweetened-cereals/), [Processed Energy Bars](/en/food/processed-energy-bars/), [Gummy Candies](/en/food/gummy-candies/), [Waffles](/en/food/waffles/), [Sufganiyah (Jelly Doughnut)](/en/food/sufganiyah/), [Argaliot (Filled Cookies)](/en/food/argaliot/), [Plant-Based Whipped Cream](/en/food/plant-whipped-cream/), [Food Marketing to Children: Mind Hijacking, Sanctioned by Law](/en/food/marketing-to-children/), [The Sugar Industry: The Sweet Deception of the Century](/en/food/sugar-industry-tactics/)
 
 ### Summary
 The reality emerging from the data is of an "obesogenic environment" (one that promotes obesity), in which products biologically engineered to bypass satiety mechanisms are aggressively marketed, backed by a system of political pressure. The result is that the price of the industry's profits is paid by the public with its health.

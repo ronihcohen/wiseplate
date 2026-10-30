@@ -1,6 +1,6 @@
 ---
 title: "Ghormeh Sabzi"
-seo_title: "Ghormeh Sabzi: An Authentic Persian Recipe for Herb Stew — Calories per Serving"
+seo_title: "Ghormeh Sabzi Recipe: Authentic Persian Herb Stew"
 date: 2026-08-24T00:20:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/iran/ghormeh-sabzi.webp"

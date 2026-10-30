@@ -1,6 +1,6 @@
 ---
 title: "Mafrum"
-seo_title: "Tripolitan Mafrum: A Precise Recipe for Stuffed Potatoes — Calories"
+seo_title: "Tripolitan Mafrum Recipe: Stuffed Potatoes"
 date: 2026-09-19T10:10:00+03:00
 lastmod: 2026-09-19T10:10:00+03:00
 featured_image: "/images/recipes/tripoli/mafrum.webp"

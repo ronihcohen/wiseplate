@@ -1,5 +1,6 @@
 ---
 title: "Coffee"
+seo_title: "Coffee: Benefits, Downsides, How Many Cups a Day, Filtered or Not"
 date: 2026-04-10T09:00:00+02:00
 featured_image: ""
 description: "A scientific analysis of coffee, the most consumed drink in the world — research on antioxidants, cognitive performance, risks and how to drink it right."

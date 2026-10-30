@@ -1,10 +1,10 @@
 ---
 title: "Commercial Ice Cream"
-seo_title: "Commercial Ice Cream: How Much Air You're Buying, How Much Sugar It Has, and How to Read the Label"
+seo_title: "Commercial Ice Cream: Air, Sugar and How to Read the Label"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
-description: "Commercial ice cream: full nutrition facts, why two tubs of the same volume don't hold the same amount of ice cream, how much sugar is in a serving, and the difference between 'ice cream' and 'frozen dessert'."
+description: "Commercial ice cream: nutrition facts, how much is air, sugar per serving, and the difference between \"ice cream\" and \"frozen dessert\" on the label."
 ---
 
 ## Commercial Ice Cream
@@ -81,7 +81,7 @@ Standards in Israel and Europe distinguish between categories, and the differenc
 * **Read the ingredient list.** [Milk](/en/food/milk/), cream, sugar, eggs, vanilla — the shorter, the better.
 * **"Parve" is not "light."** Parve ice creams are usually based on coconut or palm fat, and are highly saturated. Choose them only if the reason is kashrut or allergy.
 * **A homemade alternative that works:** frozen [banana](/en/food/banana/) blended in a food processor with cocoa or [peanut butter](/en/food/peanut-butter/) — creamy texture, no added sugar.
-* **A high-protein version:** frozen [Greek yogurt](/en/food/greek-yogurt/) with [berries](/en/food/blueberries/) — about 70 calories per 100 grams and 8 grams of protein.
+* **A high-protein version:** frozen Greek yogurt with [berries](/en/food/blueberries/) — about 70 calories per 100 grams and 8 grams of protein.
 * **Time it.** Dessert after a balanced meal creates a much milder glycemic load than ice cream on an empty stomach.
 
 ### Summary

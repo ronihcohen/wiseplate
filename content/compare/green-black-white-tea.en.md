@@ -1,9 +1,9 @@
 ---
 title: "A Scientific Comparison: Green, Black and White Tea"
-seo_title: "Green vs. Black vs. White Tea: How Much Caffeine Each Has, Benefits and Downsides"
+seo_title: "Green vs. Black vs. White Tea: Caffeine, Benefits, Downsides"
 date: 2025-12-27T08:10:00+02:00
 featured_image: ""
-description: "How much caffeine is in green, black and white tea, how they differ in antioxidants and processing, and the benefits and downsides of each type — including a comparison with coffee."
+description: "How much caffeine is in green, black and white tea, how they differ in antioxidants and processing, and the benefits and downsides of each."
 ---
 
 All true teas come from the same remarkable plant – Camellia sinensis. The big difference lies in how the leaves are processed after picking.
@@ -53,7 +53,7 @@ The most delicate and luxurious tea, made from the youngest buds.
 
 | Component | Black tea | Green tea | White tea |
 | --- | --- | --- | --- |
-| **[Caffeine](/en/food/supplements/caffeine/)** | 40-70 mg | 20-45 mg | 15-30 mg |
+| **Caffeine** | 40-70 mg | 20-45 mg | 15-30 mg |
 | **Main antioxidant** | Theaflavins | Catechins ([EGCG](/en/food/egcg/)) | Catechins (in high concentration) |
 | **Processing** | Full oxidation | No oxidation (heating) | Minimal (drying only) |
 | **Main effect** | Alertness and heart health | Fat burning and concentration | Anti-aging and skin protection |
@@ -90,7 +90,7 @@ This is the most common question about tea, and the short answer is that every t
 | Type | Main downsides |
 |---|---|
 | **Black tea** | The most caffeine of the three — may disturb sleep if drunk in the afternoon; relatively acidic and may worsen heartburn; stains teeth more than the others because of the theaflavins; blocks plant iron absorption if drunk with a meal |
-| **Green tea** | May cause nausea on an empty stomach because of the tannins; becomes very bitter if brewed in boiling water; blocks iron absorption; concentrated extracts (unlike the drink) have been linked to liver damage — see [EGCG](/en/food/egcg/) |
+| **Green tea** | May cause nausea on an empty stomach because of the tannins; becomes very bitter if brewed in boiling water; blocks iron absorption; concentrated extracts (unlike the drink) have been linked to liver damage — see EGCG |
 | **White tea** | Significantly more expensive; a delicate flavor perceived as weak; less clinical research than on green and black tea |
 | **All types** | Block absorption of non-heme [iron](/en/food/iron/) by up to 60% when drunk with a meal; contain caffeine and so aren't suitable in large amounts during pregnancy (accepted limit: up to 200 mg of caffeine a day from all sources) |
 
@@ -103,19 +103,19 @@ To boost the immune system or for a diet, **green tea** is the classic, proven c
 ### Frequently asked questions about tea
 
 **Question: Does tea really cause dehydration?**
-Answer: **Myth.** [Caffeine](/en/food/supplements/caffeine/) is indeed a mild diuretic, but the amount of water in a cup of tea far exceeds its diuretic effect. Studies show that drinking tea hydrates the body just like water (at a reasonable intake of up to 6 cups a day).
+Answer: **Myth.** Caffeine is indeed a mild diuretic, but the amount of water in a cup of tea far exceeds its diuretic effect. Studies show that drinking tea hydrates the body just like water (at a reasonable intake of up to 6 cups a day).
 
 **Question: Does adding [milk](/en/food/milk/) ruin the health benefits?**
-Answer: **Yes and no.** [Milk](/en/food/milk/) contains a protein called casein, which can bind to the [polyphenols](/en/food/polyphenols/) (antioxidants) in tea and somewhat reduce their absorption in the body. If you're after maximum antioxidants — it's better to drink it plain. If your goal is enjoyment — the effect isn't that dramatic, and it's worth enjoying the taste.
+Answer: **Yes and no.** Milk contains a protein called casein, which can bind to the [polyphenols](/en/food/polyphenols/) (antioxidants) in tea and somewhat reduce their absorption in the body. If you're after maximum antioxidants — it's better to drink it plain. If your goal is enjoyment — the effect isn't that dramatic, and it's worth enjoying the taste.
 
 **Question: Why does green tea sometimes turn bitter?**
-Answer: The reason is **water temperature and steeping time**. Green tea contains [tannins](/en/food/tannins/) (bitter) and amino acids (sweet). Boiling water (100 degrees, 212°F) scorches the leaves and releases the bitter [tannins](/en/food/tannins/) immediately. Cooler water (70-80 degrees) releases the sweetness and aroma before the bitterness. **Tip:** Don't leave the tea bag in the cup forever. 2-3 minutes is more than enough.
+Answer: The reason is **water temperature and steeping time**. Green tea contains [tannins](/en/food/tannins/) (bitter) and amino acids (sweet). Boiling water (100 degrees, 212°F) scorches the leaves and releases the bitter tannins immediately. Cooler water (70-80 degrees) releases the sweetness and aroma before the bitterness. **Tip:** Don't leave the tea bag in the cup forever. 2-3 minutes is more than enough.
 
 **Question: Does tea interfere with [iron](/en/food/iron/) absorption?**
-Answer: **Yes.** The [polyphenols](/en/food/polyphenols/) and tannins in tea can bind to [iron](/en/food/iron/) from plant sources (non-heme [iron](/en/food/iron/)) and prevent its absorption in the gut. **The solution:** Separate drinking tea from meals. Drink tea an hour before or an hour after eating. [Vitamin C](/en/food/supplements/vitamin-c/) (such as [lemon](/en/food/lemon/) in your tea) can help improve absorption and neutralize some of the inhibitory effect.
+Answer: **Yes.** The [polyphenols](/en/food/polyphenols/) and tannins in tea can bind to iron from plant sources (non-heme iron) and prevent its absorption in the gut. **The solution:** Separate drinking tea from meals. Drink tea an hour before or an hour after eating. [Vitamin C](/en/food/supplements/vitamin-c/) (such as [lemon](/en/food/lemon/) in your tea) can help improve absorption and neutralize some of the inhibitory effect.
 
-**Question: Which tea has the most [caffeine](/en/food/supplements/caffeine/)?**
-Answer: Surprisingly, it isn't always black tea. **Black tea** usually contains the most [caffeine](/en/food/supplements/caffeine/) because it's brewed in boiling water for a long time, which extracts the maximum from the leaf. **Green tea** usually contains less, both because of the type of leaves and because of the gentler brewing. **White tea** can contain a high amount of [caffeine](/en/food/supplements/caffeine/) because it's made from buds (where the plant concentrates [caffeine](/en/food/supplements/caffeine/) as a defense against insects), but because of the short, lukewarm brewing, the final drink usually has less [caffeine](/en/food/supplements/caffeine/).
+**Question: Which tea has the most caffeine?**
+Answer: Surprisingly, it isn't always black tea. **Black tea** usually contains the most caffeine because it's brewed in boiling water for a long time, which extracts the maximum from the leaf. **Green tea** usually contains less, both because of the type of leaves and because of the gentler brewing. **White tea** can contain a high amount of caffeine because it's made from buds (where the plant concentrates caffeine as a defense against insects), but because of the short, lukewarm brewing, the final drink usually has less caffeine.
 
 **Question: How long can brewed tea be kept?**
 Answer: It's best to drink tea soon after making it. After two hours at room temperature, it starts to oxidize and its taste changes. In the fridge it can keep for up to 24 hours ("iced tea"), but after that it may lose some of its antioxidants and develop off-flavors.

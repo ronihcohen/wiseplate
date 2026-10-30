@@ -1,10 +1,10 @@
 ---
 title: "Sausages and Hot Dogs"
-seo_title: "Sausages and Hot Dogs: Nutrition Facts, How Much Protein, and Are There Healthy Sausages"
+seo_title: "Sausages and Hot Dogs: Nutrition, Protein, Healthier Picks"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-09-01T17:35:00+03:00
 featured_image: ""
-description: "Sausages and hot dogs: full nutrition facts by type, how much protein and sodium a hot dog contains, what the processed-meat classification means, and whether healthy sausages really exist."
+description: "Sausages and hot dogs: nutrition by type, protein and sodium per hot dog, what the processed-meat classification means, and whether healthy sausages exist."
 ---
 
 ## Sausages and Hot Dogs
@@ -67,6 +67,8 @@ Not in the sense of "healthy", but yes in the sense of **less bad**. The practic
 * **[Vitamin B12](/en/food/supplements/vitamin-b12/) and [zinc](/en/food/supplements/zinc/)** in the meat versions, with good bioavailability.
 * **Acceptance by children** — a practical fact worth managing, not ignoring.
 * **Low price** relative to other animal protein sources.
+
+**See also:** [Blood Sausage](/en/food/blood-sausage/)
 
 ### Summary
 

@@ -15,7 +15,7 @@ The oldest and most researched, and the only one that comes close to cow's [milk
 
 * **Composition:** Made from soybeans and water. Rich in complete, high-quality protein.
 * **Benefits:**
-    * **Protein:** It contains about 7-8 grams of protein per cup (similar to cow's [milk](/en/food/milk/)), which is filling and contributes to building muscle.
+    * **Protein:** It contains about 7-8 grams of protein per cup (similar to cow's milk), which is filling and contributes to building muscle.
     * **Phytoestrogens:** It contains isoflavones that may help reduce menopause symptoms and protect the heart.
     * **Cooking:** It performs very well in cooking and baking, thickens and creates a stable foam for coffee.
 * **Downsides:**
@@ -32,10 +32,10 @@ Loved for its low calories and delicate flavor.
     * **Taste:** Delicate, nutty and pleasant; it blends wonderfully into smoothies and porridges.
     * **[Vitamin E](/en/food/supplements/vitamin-e/):** Many brands fortify it with [vitamin E](/en/food/supplements/vitamin-e/) and [calcium](/en/food/supplements/calcium/).
 * **Downsides:**
-    * **Low in protein:** It contains a tiny amount of protein (about 1 gram per cup). It is not a nutritional substitute for [milk](/en/food/milk/).
+    * **Low in protein:** It contains a tiny amount of protein (about 1 gram per cup). It is not a nutritional substitute for milk.
     * **Environment:** Growing [almonds](/en/food/almonds/) uses enormous amounts of water (mainly in California).
 
-### 3. [Oat](/en/food/oatmeal/) [Milk](/en/food/milk/)
+### 3. [Oat](/en/food/oatmeal/) Milk
 
 The new trend, which wins the taste and foam test.
 
@@ -52,18 +52,18 @@ The new trend, which wins the taste and foam test.
 
 ### Nutritional comparison table (per 240 ml cup – unsweetened)
 
-| Component | [Soy milk](/en/food/soy-milk/) | [Almond milk](/en/food/almond-milk/) | [Oat](/en/food/oatmeal/) [milk](/en/food/milk/) |
+| Component | [Soy milk](/en/food/soy-milk/) | [Almond milk](/en/food/almond-milk/) | Oat milk |
 | --- | --- | --- | --- |
 | **Calories** | ~80-100 | **~30-40 (the lowest)** | ~120-130 |
 | **Protein** | **7-8 grams (the winner)** | 1 gram | 2-3 grams |
 | **Texture in coffee** | Good, sometimes separates with acidity | Thin, doesn't froth well | **Excellent, creamy and stable** |
 | **Sensitivities** | Contains soy | Contains nuts | Contains gluten (usually*) |
 
-*\* [Oats](/en/food/oatmeal/) themselves are [gluten-free](/en/food/gluten/), but are usually processed in a wheat environment. People with celiac disease must look for a "gluten-free" label.*
+*\* Oats themselves are [gluten-free](/en/food/gluten/), but are usually processed in a wheat environment. People with celiac disease must look for a "gluten-free" label.*
 
 ### Summary and conclusions
 
-If you're looking for a full **nutritional substitute** for cow's [milk](/en/food/milk/) (especially for children and vegans), **[soy milk](/en/food/soy-milk/)** is the only choice that provides high-quality protein. If the goal is **weight loss**, (unsweetened) **[almond milk](/en/food/almond-milk/)** will save you calories. For the most indulgent coffee and for anyone sensitive to soy's aftertaste, **[oat](/en/food/oatmeal/) [milk](/en/food/milk/)** is the new king of coffee shops, but watch the amount of carbohydrates and oil.
+If you're looking for a full **nutritional substitute** for cow's milk (especially for children and vegans), **soy milk** is the only choice that provides high-quality protein. If the goal is **weight loss**, (unsweetened) **almond milk** will save you calories. For the most indulgent coffee and for anyone sensitive to soy's aftertaste, **oat milk** is the new king of coffee shops, but watch the amount of carbohydrates and oil.
 
 ### Frequently asked questions
 

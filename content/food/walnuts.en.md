@@ -82,6 +82,8 @@ Another ratio worth knowing: the omega-6 to omega-3 ratio in walnuts is about 4:
 
 **Pairings:** excellent in salads, [oatmeal](/en/food/oatmeal/), yogurt and as part of a rich "pesto." For vegetarians and vegans, walnuts are a key ingredient for getting ALA, alongside [flax seeds](/en/food/flax-seeds/) and [chia seeds](/en/food/chia-seeds/).
 
+**Compare:** [A Scientific Comparison: Brazil Nuts, Walnuts and Almonds](/en/compare/brazil-walnut-almond/)
+
 ### Summary
 
 Walnuts are the nut with the strongest research base for heart health, thanks to a combination of ALA, polyphenols and a unique fat profile — and the results of the PREDIMED study give this support from a randomized trial, not just from observation. It is important to understand the limited conversion of ALA to EPA/DHA and not to see them as a substitute for fish. Two practical points make a big difference: store them in the fridge, and don't remove the bitter skin.

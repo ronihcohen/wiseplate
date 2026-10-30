@@ -1,10 +1,10 @@
 ---
 title: "Amaranth"
-seo_title: "Amaranth: What It Is, Nutrition Facts, Protein and How It Compares to Quinoa"
+seo_title: "Amaranth: Nutrition Facts, Protein and Amaranth vs. Quinoa"
 date: 2026-08-09T12:00:00+03:00
 lastmod: 2026-08-18T09:00:00+03:00
 featured_image: ""
-description: "Amaranth: what exactly it is, full nutrition facts, how much protein it has, why it contains the lysine that grains lack, how it compares to quinoa, and what its downsides are."
+description: "Amaranth: what it is, nutrition facts and protein, the lysine that grains lack, how it compares to quinoa, and its downsides."
 ---
 
 ## Amaranth (*Amaranthus*)
@@ -38,12 +38,12 @@ Amaranth needs no such complement: **it is rich in lysine** and its amino acid p
 
 ### Amaranth vs. quinoa
 
-| | Amaranth (cooked) | [Quinoa](/en/food/quinoa/) (cooked) |
+| | Amaranth (cooked) | Quinoa (cooked) |
 |---|---|---|
 | Calories | 102 | 120 |
 | Protein | 3.8 grams | 4.4 grams |
 | Fiber | 2.1 grams | 2.8 grams |
-| [Calcium](/en/food/supplements/calcium/) | **47 mg** | 17 mg |
+| Calcium | **47 mg** | 17 mg |
 | [Iron](/en/food/iron/) | **2.1 mg** | 1.5 mg |
 | Texture | Porridge-like and sticky | Separate and grainy |
 | Saponins | Few | Many — must be rinsed |
@@ -53,17 +53,17 @@ Amaranth needs no such complement: **it is rich in lysine** and its amino acid p
 ### Benefits
 
 * **Complete protein that is [gluten-free](/en/food/gluten/):** suitable for celiac disease and gluten sensitivity, with a complete amino acid profile — a rare combination.
-* **[Calcium](/en/food/supplements/calcium/) unusual for a plant food:** 159 mg per 100 grams dry, several times more than most grains. Especially relevant in a vegan diet.
-* **[Magnesium](/en/food/supplements/magnesium/) and [iron](/en/food/iron/)** in large amounts.
+* **Calcium unusual for a plant food:** 159 mg per 100 grams dry, several times more than most grains. Especially relevant in a vegan diet.
+* **[Magnesium](/en/food/supplements/magnesium/) and iron** in large amounts.
 * **Squalene:** amaranth oil contains an unusually high concentration of squalene (about 6%-8%) — a compound usually found in shark liver oil and olive oil. It is being studied in relation to blood lipid profiles and skin health, but the evidence is still preliminary.
 * **Fiber and beta-glucans:** contribute to satiety and blood sugar regulation.
 * **It pops like popcorn** — [amaranth popcorn](/en/food/amaranth-popcorn/) is a whole-grain snack that is low in calories and quick to make.
 
 ### Downsides and warnings
 
-* **Phytic acid:** amaranth is rich in it, and it binds [iron](/en/food/iron/), [zinc](/en/food/supplements/zinc/) and [calcium](/en/food/supplements/calcium/) and reduces their absorption. This is a significant caveat precisely because these minerals are its main advantage. **Soaking for 8 hours, sprouting or fermenting reduces it significantly** — and so actually improves what the body takes in.
+* **Phytic acid:** amaranth is rich in it, and it binds iron, [zinc](/en/food/supplements/zinc/) and calcium and reduces their absorption. This is a significant caveat precisely because these minerals are its main advantage. **Soaking for 8 hours, sprouting or fermenting reduces it significantly** — and so actually improves what the body takes in.
 * **Oxalates:** amaranth leaves (eaten as a vegetable in many cuisines) are rich in oxalates, which is relevant for people prone to kidney stones. The amount in the seeds is much lower.
-* **Saponins:** in the seed coat, in much smaller amounts than in [quinoa](/en/food/quinoa/). Rinsing under running water removes most of them.
+* **Saponins:** in the seed coat, in much smaller amounts than in quinoa. Rinsing under running water removes most of them.
 * **A sticky texture that is not for everyone.** Amaranth cooked on its own tends toward a slimy texture. The usual solution is to mix it with another grain in a 1:3 ratio, or to use it deliberately as a porridge rather than as a rice substitute.
 * **An earthy, slightly peppery flavor** with mild bitterness, more pronounced than quinoa. Lightly toasting the seeds in a dry pan before cooking softens it and brings out a nutty aroma.
 * **Availability and price:** less common than quinoa and sometimes more expensive.

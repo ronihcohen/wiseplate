@@ -1,6 +1,6 @@
 ---
 title: "Msemen"
-seo_title: "Msemen Bread: A Recipe for Moroccan Pan-Fried Flatbread — Calories per Piece"
+seo_title: "Msemen Recipe: Moroccan Pan-Fried Flatbread"
 date: 2026-08-24T03:30:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/morocco/msemen.webp"
@@ -61,7 +61,7 @@ Regular supermarket white flour and semolina work; fine semolina gives a smoothe
 5. **Fold twice.** Fold both sides into the center to make a long strip, brush again with oil and semolina, and fold the strip crosswise to make a square. Set aside for 10 minutes.
 6. **Flatten again.** Gently flatten each square to about 15x15 cm. Don't press hard — hard pressing glues the layers together and undoes all the work.
 7. **Cook in a pan.** Heat a heavy pan over medium heat **with no oil** and cook each msemen for about 2 minutes per side, until golden spots appear. Press lightly with a spatula while it cooks so the center cooks too.
-8. **Serve hot.** Msemen is a dish of the moment — it is best in the first minutes after leaving the pan, with [honey](/en/food/honey/) and butter or with salty cheese.
+8. **Serve hot.** Msemen is a dish of the moment — it is best in the first minutes after leaving the pan, with honey and butter or with salty cheese.
 
 ### Nutrition facts and calorie estimate
 
@@ -75,7 +75,7 @@ The recommended serving is one piece of about 85 grams.
 | Protein | about 6 grams |
 | Of which fiber | about 2 grams |
 
-This number is misleading only if you forget how msemen is eaten. The piece itself, without toppings, is roughly like two slices of bread — about 270 calories, of which about 70 come from the oil and butter of the folding and the rest from the flour. The trouble starts on the plate: a tablespoon of [honey](/en/food/honey/) adds about 64 calories, and a tablespoon of butter about 100 more. One msemen "done properly" easily reaches 430 calories, and most people eat two.
+This number is misleading only if you forget how msemen is eaten. The piece itself, without toppings, is roughly like two slices of bread — about 270 calories, of which about 70 come from the oil and butter of the folding and the rest from the flour. The trouble starts on the plate: a tablespoon of honey adds about 64 calories, and a tablespoon of butter about 100 more. One msemen "done properly" easily reaches 430 calories, and most people eat two.
 
 Nutritionally this is a white-flour pastry: readily available carbohydrate, little fiber, and almost no micronutrients. The only upgrade that really works is replacing some of the white flour with whole-wheat flour — see [the comparison of wheat, spelt and rye flours](/en/compare/wheat-spelt-rye-flour/). It is important to say here that a full swap doesn't work: whole-wheat flour absorbs more water and tears when stretched, and without stretching there are no layers.
 
@@ -93,7 +93,7 @@ Msemen is an exercise in lamination done without a fridge or an oven: a soft dou
 ### Frequently asked questions
 
 **Question: How many calories are in msemen?**
-Answer: A piece of about 85 grams is about 270 calories. With a tablespoon of [honey](/en/food/honey/) and a tablespoon of butter, the way it is usually served, the serving reaches about 430 calories. Msemen stuffed with meat or onion ranges from 380 to 450 calories per piece.
+Answer: A piece of about 85 grams is about 270 calories. With a tablespoon of honey and a tablespoon of butter, the way it is usually served, the serving reaches about 430 calories. Msemen stuffed with meat or onion ranges from 380 to 450 calories per piece.
 
 **Question: What is the difference between msemen and baghrir?**
 Answer: These are two completely different breads, even though they are served together. Msemen is a kneaded dough stretched and folded into a multi-layered square; *baghrir* is a liquid yeasted batter cooked on one side only that develops hundreds of holes on its surface. Both are eaten with honey and butter.

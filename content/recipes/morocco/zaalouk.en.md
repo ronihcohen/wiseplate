@@ -1,6 +1,6 @@
 ---
 title: "Zaalouk"
-seo_title: "Zaalouk Salad: A Moroccan Recipe for Cooked Eggplant Salad — Calories per Serving"
+seo_title: "Zaalouk Recipe: Moroccan Cooked Eggplant Salad"
 date: 2026-08-24T03:20:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/morocco/zaalouk.webp"
@@ -71,7 +71,7 @@ The recommended serving is about one-sixth of the recipe — about 140 grams aft
 
 This breakdown tells the whole story: the eggplant and tomato together contribute about 47 calories per serving, and everything else — about 108 calories — is olive oil. Two conclusions follow. The first is that the amount of oil is the only lever that really changes the number. The second, more important one is that five grams of fiber in 155 calories is an excellent ratio, and that the fat profile here is exactly the one Mediterranean diet research points to.
 
-Zaalouk also benefits from long cooking in a way the table doesn't show: the lycopene in [tomato](/en/food/tomato/) becomes more available to the body when it is cooked in the presence of fat. Details on oils in [the olive, coconut and avocado oil comparison](/en/compare/olive-coconut-avocado-oil/).
+Zaalouk also benefits from long cooking in a way the table doesn't show: the lycopene in tomato becomes more available to the body when it is cooked in the presence of fat. Details on oils in [the olive, coconut and avocado oil comparison](/en/compare/olive-coconut-avocado-oil/).
 
 ### Variations and tips
 
@@ -82,7 +82,7 @@ Zaalouk also benefits from long cooking in a way the table doesn't show: the lyc
 
 ### Summary
 
-Zaalouk is what happens to eggplant when you give it time, high heat and lemon. It is vegan, cheap, keeps five days in the fridge, and provides five grams of fiber in about 155 calories — almost all of them from olive oil. Roasting the eggplant directly is the only step in the recipe that really changes the result, and also the one that reduces oil absorption. It is served alongside [matbucha](/en/recipes/morocco/matbucha/) to open the meal, and before a [tagine](/en/recipes/morocco/tagine-djaj/) or [couscous](/en/recipes/morocco/couscous/). For the nutritional values of the vegetable itself, see [eggplant](/en/food/eggplant/).
+Zaalouk is what happens to eggplant when you give it time, high heat and lemon. It is vegan, cheap, keeps five days in the fridge, and provides five grams of fiber in about 155 calories — almost all of them from olive oil. Roasting the eggplant directly is the only step in the recipe that really changes the result, and also the one that reduces oil absorption. It is served alongside [matbucha](/en/recipes/morocco/matbucha/) to open the meal, and before a [tagine](/en/recipes/morocco/tagine-djaj/) or [couscous](/en/recipes/morocco/couscous/). For the nutritional values of the vegetable itself, see eggplant.
 
 ### Frequently asked questions
 
@@ -90,7 +90,7 @@ Zaalouk is what happens to eggplant when you give it time, high heat and lemon. 
 Answer: A serving of about one-sixth of the recipe (about 140 grams) is about 155 calories, of which about 108 come from the olive oil. In the version with 3 tablespoons of oil instead of 5, the serving drops to about 115 calories. The eggplant and tomato themselves contribute only about 47 calories per serving.
 
 **Question: What is the difference between zaalouk and baba ghanoush?**
-Answer: Both are roasted eggplant spreads, but the base differs. Zaalouk is cooked with [tomatoes](/en/food/tomato/), cumin and paprika and takes on a tangy-sweet flavor; Levantine baba ghanoush is based on [tahini](/en/food/tahini/) and lemon, with no tomatoes, and isn't cooked further after roasting.
+Answer: Both are roasted eggplant spreads, but the base differs. Zaalouk is cooked with tomatoes, cumin and paprika and takes on a tangy-sweet flavor; Levantine baba ghanoush is based on [tahini](/en/food/tahini/) and lemon, with no tomatoes, and isn't cooked further after roasting.
 
 **Question: Why did my zaalouk come out watery?**
 Answer: For one of two reasons — the eggplant flesh wasn't drained after roasting, or the tomatoes weren't reduced enough. Both are solved the same way: keep cooking in an **uncovered** pot for another 10-15 minutes, stirring, until a spoon dragged across the bottom of the pot leaves a channel that doesn't close.

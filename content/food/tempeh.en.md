@@ -1,10 +1,10 @@
 ---
 title: "Tempeh"
-seo_title: "Tempeh: What It Is, Nutrition Facts, How Much Protein It Has and How It Differs From Tofu"
+seo_title: "Tempeh: What It Is, Protein, Nutrition and Tempeh vs. Tofu"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-08-20T09:00:00+03:00
 featured_image: ""
-description: "Tempeh: what exactly it is, full nutrition facts, how much protein is in 100 grams, how it differs from tofu, why you must not rely on it as a source of B12, and how to prepare it so it isn't bitter."
+description: "Tempeh: what it is, nutrition and protein per 100 g, tempeh vs. tofu, why it isn't a reliable B12 source, and how to cook it so it isn't bitter."
 ---
 
 ## Tempeh
@@ -17,7 +17,7 @@ Tempeh is **partially cooked soybeans fermented with the mold *Rhizopus oligospo
 
 ### Nutrition facts
 
-| Nutrient | Per 100 g tempeh | Per 100 g firm [tofu](/en/food/tofu/) | % Daily Value (tempeh) |
+| Nutrient | Per 100 g tempeh | Per 100 g firm tofu | % Daily Value (tempeh) |
 |---|---|---|---|
 | Calories | 192 | 144 | — |
 | **Protein** | **20.3 g** | 15-17 g | **41%** |
@@ -34,7 +34,7 @@ Tempeh is **partially cooked soybeans fermented with the mold *Rhizopus oligospo
 | Riboflavin (B2) | 0.36 mg | 0.1 mg | 28% |
 | [Sodium](/en/food/supplements/sodium/) | 9 mg | 7 mg | — |
 
-*\*Depends entirely on the coagulant — see [tofu](/en/food/tofu/).*
+*\*Depends entirely on the coagulant — see tofu.*
 
 **The standout figures:** tempeh provides **more protein than tofu** (20.3 vs. 15-17 grams) and **six to twenty times as much fiber** — because the bean stays whole.
 
@@ -68,7 +68,7 @@ That leads to three problems:
 
 * **High-quality complete protein.** 20.3 grams per 100 grams, with all nine essential amino acids. The PDCAAS score of soy protein is about 0.9-1.0 — on par with [egg](/en/food/eggs/) and [milk](/en/food/milk/).
 
-* **The highest protein density among whole soy products** — more than [tofu](/en/food/tofu/), [edamame](/en/food/edamame/) and [soy milk](/en/food/soy-milk/).
+* **The highest protein density among whole soy products** — more than tofu, [edamame](/en/food/edamame/) and [soy milk](/en/food/soy-milk/).
 
 * **Dietary fiber — about 6 grams per 100 grams.** An advantage almost absent from tofu. It contributes to satiety, the microbiome and blood sugar regulation.
 
@@ -80,7 +80,7 @@ That leads to three problems:
 
 * **Almost no [sodium](/en/food/supplements/sodium/)** in the basic product — 9 mg per 100 grams.
 
-* **Soy and hormones:** as with [tofu](/en/food/tofu/) — meta-analyses of controlled trials **found no effect on testosterone or estrogen in men** at dietary amounts. Isoflavones bind mainly to the estrogen receptor beta, with a potency orders of magnitude lower than human estrogen.
+* **Soy and hormones:** as with tofu — meta-analyses of controlled trials **found no effect on testosterone or estrogen in men** at dietary amounts. Isoflavones bind mainly to the estrogen receptor beta, with a potency orders of magnitude lower than human estrogen.
 
 ### Downsides and considerations
 
@@ -96,9 +96,9 @@ That leads to three problems:
 
 * **Higher calorie density than tofu:** 192 vs. 144 calories per 100 grams. Still entirely reasonable for the protein it provides.
 
-* **Flavored and ready-made tempeh products:** "flavored," smoked or pre-fried versions usually contain significant amounts of [sodium](/en/food/supplements/sodium/), oils and sugar — a different product from basic tempeh.
+* **Flavored and ready-made tempeh products:** "flavored," smoked or pre-fried versions usually contain significant amounts of sodium, oils and sugar — a different product from basic tempeh.
 
-* **Availability and price in Israel:** less common than [tofu](/en/food/tofu/) and usually more expensive.
+* **Availability and price in Israel:** less common than tofu and usually more expensive.
 
 ### How to tell if tempeh is good
 
@@ -126,11 +126,13 @@ The black spots are the most common point of confusion — they are **completely
 * **Take a [B12](/en/food/supplements/vitamin-b12/) supplement separately** — tempeh is not a source, period.
 * **Storage:** in the fridge until the expiration date; in the freezer for up to several months. Freezing does not harm the texture.
 
+**See also:** [Redefine Meat Flank Steak](/en/food/redefine-meat-flank/)
+
 ### Summary
 
-Tempeh is **the most whole and nutrient-dense soy product**: 20.3 grams of protein per 100 grams — more than [tofu](/en/food/tofu/) — along with about 6 grams of fiber that is almost absent from tofu, because the bean stays whole rather than being filtered. Fermentation adds a real, measurable advantage: the mold secretes **phytase**, which breaks down phytic acid, so the iron, zinc and magnesium are more available to the body than in unfermented soy.
+Tempeh is **the most whole and nutrient-dense soy product**: 20.3 grams of protein per 100 grams — more than tofu — along with about 6 grams of fiber that is almost absent from tofu, because the bean stays whole rather than being filtered. Fermentation adds a real, measurable advantage: the mold secretes **phytase**, which breaks down phytic acid, so the iron, zinc and magnesium are more available to the body than in unfermented soy.
 
-Two practical points are worth more than everything else: **steam it for 10 minutes before cooking** — this removes the bitterness that makes most people give up on it after one try — and **do not rely on it as a source of [B12](/en/food/supplements/vitamin-b12/)**. The mold does not produce B12; what was measured in the past came from random bacterial contamination, and hygienically made commercial tempeh contains negligible amounts. Vegans need a supplement or fortified food, without exception.
+Two practical points are worth more than everything else: **steam it for 10 minutes before cooking** — this removes the bitterness that makes most people give up on it after one try — and **do not rely on it as a source of B12**. The mold does not produce B12; what was measured in the past came from random bacterial contamination, and hygienically made commercial tempeh contains negligible amounts. Vegans need a supplement or fortified food, without exception.
 
 ### Frequently asked questions
 

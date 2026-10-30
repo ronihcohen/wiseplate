@@ -1,6 +1,6 @@
 ---
 title: "Commercial Mayonnaise"
-seo_title: "Commercial Mayonnaise: How Much Oil It Really Contains, and Who's to Blame for Picnic Food Poisoning"
+seo_title: "Commercial Mayonnaise: How Much Oil, and Food Poisoning Myths"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
@@ -74,7 +74,7 @@ The oil in commercial mayonnaise is usually soybean or canola oil, meaning it is
 ### Downsides and considerations
 
 * **Extreme calorie density.** 680 calories per 100 grams — among the highest of any food product. The problem is that it is spread, not measured.
-* **[Sodium](/en/food/supplements/sodium/).** 635 mg per 100 grams, and sometimes more in light versions.
+* **Sodium.** 635 mg per 100 grams, and sometimes more in light versions.
 * **"Mayonnaise" that isn't mayonnaise.** In Israel and Europe there is a minimum oil and egg-yolk requirement for a product to be called "mayonnaise". Cheap products are sold as "mayonnaise sauce" or "mayonnaise-flavored spread" and contain less oil and more starch, sugar and stabilizers.
 * **Added sugar.** Present in some brands, and in almost all "light" versions.
 * **Homemade mayonnaise and Salmonella** — as detailed above.

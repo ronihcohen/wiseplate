@@ -1,6 +1,6 @@
 ---
 title: "Black Beans"
-seo_title: "Black Beans: Nutrition Facts, How to Get Rid of the Gas, and Why the Skin Matters"
+seo_title: "Black Beans: Nutrition Facts and How to Avoid the Gas"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
@@ -52,7 +52,7 @@ As with [rice](/en/food/rice/), **cooking and cooling beans creates resistant st
 ### Benefits
 
 * **Protein and fiber together:** 8.9 and 8.7 grams per 100 grams cooked — a combination with almost no parallel outside legumes.
-* **[Folate](/en/food/supplements/vitamin-b9/):** 37% of the daily value — one of the best plant sources.
+* **Folate:** 37% of the daily value — one of the best plant sources.
 * **Anthocyanins in the skin** — as detailed above.
 * **A very low glycemic index (around 30).** The combination of fiber, protein and resistant starch produces one of the mildest glycemic responses of any carbohydrate food.
 * **Lipid profile.** Regular legume consumption has been linked in meta-analyses to lower LDL and improved cardiometabolic markers.
@@ -63,7 +63,7 @@ As with [rice](/en/food/rice/), **cooking and cooling beans creates resistant st
 
 * **Gas and bloating** — as detailed above.
 * **FODMAPs.** Black beans are rich in GOS. A serving of about 45 grams cooked is considered low-FODMAP, and beyond that they may trigger symptoms in sensitive people. **Canned, rinsed beans are better tolerated** — some of the GOS has passed into the liquid.
-* **Phytate.** Binds [iron](/en/food/iron/), [zinc](/en/food/supplements/zinc/) and [calcium](/en/food/supplements/calcium/) and reduces their absorption. Soaking, sprouting and long cooking reduce it, and [vitamin C](/en/food/supplements/vitamin-c/) in the same meal offsets part of the effect.
+* **Phytate.** Binds iron, [zinc](/en/food/supplements/zinc/) and [calcium](/en/food/supplements/calcium/) and reduces their absorption. Soaking, sprouting and long cooking reduce it, and [vitamin C](/en/food/supplements/vitamin-c/) in the same meal offsets part of the effect.
 * **Lectins.** Raw beans contain phytohaemagglutinin, a lectin that causes acute poisoning. **The risk is much higher with red kidney beans than with black beans**, but the rule applies to both: **they must be boiled vigorously for at least 10 minutes — slow cooking at low temperature alone is not enough and may even make it worse.**
 * **Incomplete protein.** Rich in lysine, low in methionine and cysteine. Combining them with [rice](/en/food/rice/) or another grain during the day completes the profile — and that is exactly the classic combination in South and Central American cuisines.
 * **[Sodium](/en/food/supplements/sodium/) in canned beans.** Canned products usually contain 300-450 mg per 100 grams. **Rinsing in a colander removes about 40%.**
@@ -77,7 +77,7 @@ As with [rice](/en/food/rice/), **cooking and cooling beans creates resistant st
 * **Don't peel or mash off the skin** if possible — that is where the anthocyanins and insoluble fiber are.
 * **Cook ahead and cool** — resistant starch and a better glycemic response.
 * **Combine with [vitamin C](/en/food/supplements/vitamin-c/)** — [bell pepper](/en/food/red-pepper/), [tomato](/en/food/tomato/) or [lemon](/en/food/lemon/) — to improve absorption of non-heme iron.
-* **With [rice](/en/food/rice/)** — the traditional combination that completes the amino acids, and not by chance.
+* **With rice** — the traditional combination that completes the amino acids, and not by chance.
 * **Canned: rinse well** — removes about 40% of the sodium and improves the flavor.
 * **Freeze cooked beans** in portions — legumes freeze excellently, and it saves cooking time next time.
 

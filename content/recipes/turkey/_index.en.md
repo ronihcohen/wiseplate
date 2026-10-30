@@ -1,6 +1,6 @@
 ---
 title: "Turkish Cuisine"
-seo_title: "Turkish Recipes: 10 Classic Dishes with Full Recipes and Calories per Serving"
+seo_title: "Turkish Recipes: 10 Classic Dishes With Calories"
 date: 2026-08-23T09:00:00+03:00
 lastmod: 2026-09-19T15:00:00+03:00
 featured_image: "/images/recipes/collections/turkey.webp"
@@ -43,30 +43,30 @@ Most of the recipes here repeat the same small group of ingredients, and anyone 
 | *biber salçası* | Cooked red pepper paste, the flavor base of soups and pastries | Tomato paste + sweet paprika |
 | *pul biber* | Dried red pepper flakes, mild and fruity heat | A smaller amount of chili flakes |
 | *isot* | Sun-dried Urfa pepper, a dark pepper with a deep aroma; different from pul biber | Sweet paprika with a little smoked paprika and chili, for a different flavor |
-| Dried mint | Sprinkled over soups, [yogurt](/en/food/greek-yogurt/) and [manti](/en/recipes/turkey/manti/) | Fresh mint, double the amount |
+| Dried mint | Sprinkled over soups, [yogurt](/en/food/greek-yogurt/) and manti | Fresh mint, double the amount |
 | Sumac | A tart purple powder, sprinkled over onion and meat | [Lemon](/en/food/lemon/) juice, but only when the dish can take liquid |
 
 Dried mint is sold in spice shops and grocery stores. Turkish pepper paste isn't available in every store; the recipes give a substitute of tomato paste and paprika, with suitable quantities.
 
 ### Where to start
 
-If you're cooking Turkish for the first time, start with the [lentil soup](/en/recipes/turkey/mercimek-corbasi/) — simple ingredients, one pot and a result that's almost impossible to ruin — and move on to [menemen](/en/recipes/turkey/menemen/) and [cacık](/en/recipes/turkey/cacik/). The dishes that demand real patience are [manti](/en/recipes/turkey/manti/), because of folding the dumplings, and [baklava](/en/recipes/turkey/baklava/), because of working with the pastry sheets.
+If you're cooking Turkish for the first time, start with the [lentil soup](/en/recipes/turkey/mercimek-corbasi/) — simple ingredients, one pot and a result that's almost impossible to ruin — and move on to [menemen](/en/recipes/turkey/menemen/) and cacık. The dishes that demand real patience are manti, because of folding the dumplings, and baklava, because of working with the pastry sheets.
 
-The most interesting cuisines to compare it with are those of its eastern neighbors: [Persian cuisine](/en/recipes/iran/) is built around rice and stew rather than bread and the grill, and leans toward a sweet-sour balance rather than fatty-sour; and [Iraqi cuisine](/en/recipes/iraq/) shares dolma and kubbeh with Turkish cooking but sours them with tamarind. Farther away, at the western edge, [Moroccan cuisine](/en/recipes/morocco/) replaces bread and rice with couscous and fresh acidity with salt-preserving — and the interesting pair there is [imam bayildi](/en/recipes/turkey/imam-bayildi/) versus [zaalouk](/en/recipes/morocco/zaalouk/), two takes on eggplant whose calorie gap is bigger than their difference in flavor.
+The most interesting cuisines to compare it with are those of its eastern neighbors: [Persian cuisine](/en/recipes/iran/) is built around rice and stew rather than bread and the grill, and leans toward a sweet-sour balance rather than fatty-sour; and [Iraqi cuisine](/en/recipes/iraq/) shares dolma and kubbeh with Turkish cooking but sours them with tamarind. Farther away, at the western edge, [Moroccan cuisine](/en/recipes/morocco/) replaces bread and rice with couscous and fresh acidity with salt-preserving — and the interesting pair there is imam bayildi versus [zaalouk](/en/recipes/morocco/zaalouk/), two takes on eggplant whose calorie gap is bigger than their difference in flavor.
 
 ### Frequently asked questions
 
 **Question: What is Turkey's national dish?**
-Answer: There is no single official national dish, but the three accepted candidates are grilled kebab, [manti](/en/recipes/turkey/manti/) — tiny meat dumplings considered the oldest Turkish dish to have survived from Central Asia — and [lahmacun](/en/recipes/turkey/lahmacun/), the most common street pastry.
+Answer: There is no single official national dish, but the three accepted candidates are grilled kebab, manti — tiny meat dumplings considered the oldest Turkish dish to have survived from Central Asia — and [lahmacun](/en/recipes/turkey/lahmacun/), the most common street pastry.
 
 **Question: Is Turkish cuisine healthy?**
 Answer: For the most part, yes. It is based on legumes, vegetables in olive oil, yogurt and whole grains like bulgur, and its fat profile is close to the Mediterranean diet. The other side is the fatty meat dishes, white-flour pastries and sugar-syrup desserts — those are special-occasion dishes, not everyday ones.
 
 **Question: How many calories are in lahmacun?**
-Answer: A standard-size lahmacun (about 145 g) is about 280 calories — less than pizza, because the dough is especially thin and there's no cheese on it. The full breakdown is in the [lahmacun](/en/recipes/turkey/lahmacun/) recipe.
+Answer: A standard-size lahmacun (about 145 g) is about 280 calories — less than pizza, because the dough is especially thin and there's no cheese on it. The full breakdown is in the lahmacun recipe.
 
 **Question: What's the difference between Adana kebab and regular kebab?**
 Answer: Adana kebab is defined by a local standard in the city of Adana: lamb coarsely chopped with a knife (not ground in a grinder), sheep fat, and a local dried hot red pepper called *isot*. "Regular" kebab is ground finer and is sometimes based on beef. Details in the [Adana kebab recipe](/en/recipes/turkey/adana-kebab/).
 
 **Question: Which Turkish dishes are suitable for vegans?**
-Answer: The entire *zeytinyağlı* family — vegetables cooked in olive oil and eaten cold. [Imam bayildi](/en/recipes/turkey/imam-bayildi/) is the clearest example, and the [lentil soup](/en/recipes/turkey/mercimek-corbasi/) is also vegan when you skip the pepper butter and use olive oil instead.
+Answer: The entire *zeytinyağlı* family — vegetables cooked in olive oil and eaten cold. Imam bayildi is the clearest example, and the lentil soup is also vegan when you skip the pepper butter and use olive oil instead.

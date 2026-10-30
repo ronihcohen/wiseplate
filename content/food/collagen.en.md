@@ -37,7 +37,7 @@ Answer: **Usually not.** The collagen molecule is too large to penetrate the out
 Answer: There is no proven ideal time, but many recommend taking it **on an empty stomach** or before bed (when the body repairs itself), or **in the morning** in a smoothie. Consistency is what matters most.
 
 **Question: Is it suitable for vegans?**
-Answer: **No.** Collagen is an animal protein only. There is no plant collagen. However, there are products sold as "collagen boosters" for vegans – blends of [vitamin C](/en/food/supplements/vitamin-c/), [zinc](/en/food/supplements/zinc/) and plant-based amino acids designed to give the body all the raw materials it needs to make collagen itself.
+Answer: **No.** Collagen is an animal protein only. There is no plant collagen. However, there are products sold as "collagen boosters" for vegans – blends of vitamin C, [zinc](/en/food/supplements/zinc/) and plant-based amino acids designed to give the body all the raw materials it needs to make collagen itself.
 
 **Question: Does it also help hair and nails?**
 Answer: **Yes.** Collagen provides the amino acids needed to build keratin (the protein that makes up hair and nails). Many reports point to stronger nails and less breakage, as well as improved hair appearance.

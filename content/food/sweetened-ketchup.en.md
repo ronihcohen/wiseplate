@@ -1,10 +1,10 @@
 ---
 title: "Sweetened Ketchup"
-seo_title: "Ketchup: How Much Sugar Is in It, Nutrition Facts, and the Lycopene Surprise"
+seo_title: "Ketchup: Sugar Content, Nutrition Facts and Lycopene"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-08-18T09:00:00+03:00
 featured_image: ""
-description: "Ketchup: how much sugar and sodium are in a tablespoon, full nutrition facts, why it is actually an excellent source of lycopene, and the difference between regular and reduced-sugar ketchup."
+description: "Ketchup: sugar and sodium per tablespoon, nutrition facts, why it's an excellent source of lycopene, and regular vs. reduced-sugar ketchup."
 ---
 
 ## Sweetened Ketchup

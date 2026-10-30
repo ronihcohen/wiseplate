@@ -1,6 +1,6 @@
 ---
 title: "Minestrone"
-seo_title: "Minestrone: A Traditional Italian Recipe for Vegetable and Bean Soup — Calories per Bowl"
+seo_title: "Minestrone Recipe: Italian Vegetable and Bean Soup"
 date: 2026-09-01T10:10:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/soups/minestrone.webp"
@@ -123,7 +123,7 @@ Answer: Because it keeps absorbing liquid even after the heat is off. By the sec
 Answer: Borlotti (cranberry beans) are the most traditional, and cannellini are the common alternative. Both are soft with a mild flavor that doesn't take over. Red kidney beans work too, but they color the soup.
 
 **Question: What is soffritto and why does it matter?**
-Answer: It's a base of finely chopped [onion](/en/food/onion/), [carrot](/en/food/carrot/) and [celery](/en/food/celery/), softened in olive oil for 5-8 minutes before anything else goes into the pot. It creates the layer of flavor that cooking in water doesn't — and without it the soup stays vegetables in liquid.
+Answer: It's a base of finely chopped onion, carrot and celery, softened in olive oil for 5-8 minutes before anything else goes into the pot. It creates the layer of flavor that cooking in water doesn't — and without it the soup stays vegetables in liquid.
 
 **Question: Is minestrone suitable for vegans?**
 Answer: Yes, provided you leave out the Parmesan and the cheese rind in cooking and use vegetable broth. To make up for the missing umami, add a teaspoon of [miso](/en/food/miso/) at the end or 10 grams of dried mushrooms at the start of cooking.

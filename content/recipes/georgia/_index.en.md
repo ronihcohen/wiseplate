@@ -43,7 +43,7 @@ The list includes two genuinely different versions of [khachapuri](/en/recipes/g
 | Khmeli suneli | A blend from a spice shop | Blends vary; you can mix fenugreek, coriander and dill |
 | Savory (tsitsra) leaves | Fresh savory or a pinch of thyme | In city-style khinkali, cilantro and parsley are also acceptable |
 
-[Khachapuri](/en/recipes/georgia/adjaruli-khachapuri/) is dairy; [khinkali](/en/recipes/georgia/khinkali/), kharcho and chakapuli are meat. They are not served at the same meal in a kosher kitchen, and butter is not used in a meat pan. The walnut dishes and lobio are pareve as long as the ingredients and utensils are suitable. Traditional recipes around the world sometimes use pork or a pork-and-beef mix; here the meat versions use beef, lamb or chicken and suit an Israeli Jewish kitchen.
+[Khachapuri](/en/recipes/georgia/adjaruli-khachapuri/) is dairy; khinkali, kharcho and chakapuli are meat. They are not served at the same meal in a kosher kitchen, and butter is not used in a meat pan. The walnut dishes and lobio are pareve as long as the ingredients and utensils are suitable. Traditional recipes around the world sometimes use pork or a pork-and-beef mix; here the meat versions use beef, lamb or chicken and suit an Israeli Jewish kitchen.
 
 ### About the calorie calculation
 

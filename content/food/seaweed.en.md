@@ -1,6 +1,6 @@
 ---
 title: "Seaweed"
-seo_title: "Seaweed: Health Benefits, Downsides and How Much You Can Eat a Day"
+seo_title: "Seaweed: Benefits, Downsides and How Much a Day"
 date: 2026-04-10T08:00:00+02:00
 lastmod: 2026-08-30T19:30:00+03:00
 featured_image: ""

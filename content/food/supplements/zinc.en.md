@@ -23,7 +23,7 @@ Zinc is essential for testosterone production and male fertility. Low zinc level
 ## Downsides and side effects (Cons)
 
 ### 1. Upsetting the [copper](/en/food/supplements/copper/) balance
-Zinc and [copper](/en/food/supplements/copper/) compete for the same absorption sites in the body. Long-term intake of high doses of zinc (above 40-50 mg per day) can cause [copper](/en/food/supplements/copper/) deficiency, which can lead to anemia and neurological problems. For long-term use, it is recommended to take a supplement that also includes a small amount of [copper](/en/food/supplements/copper/).
+Zinc and [copper](/en/food/supplements/copper/) compete for the same absorption sites in the body. Long-term intake of high doses of zinc (above 40-50 mg per day) can cause copper deficiency, which can lead to anemia and neurological problems. For long-term use, it is recommended to take a supplement that also includes a small amount of copper.
 
 ### 2. Nausea and stomach pain
 Zinc is known to irritate the stomach, especially when taken on an empty stomach. Symptoms can include strong nausea, vomiting and abdominal pain. The simple solution is to always take the supplement after a substantial meal and never on an empty stomach.

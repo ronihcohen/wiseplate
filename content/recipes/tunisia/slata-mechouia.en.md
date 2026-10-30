@@ -1,6 +1,6 @@
 ---
 title: "Tunisian Slata Mechouia"
-seo_title: "Tunisian Slata Mechouia: Roasted Pepper and Tomato Salad — Calories"
+seo_title: "Slata Mechouia Recipe: Tunisian Roasted Pepper Salad"
 date: 2026-09-19T13:20:00+03:00
 lastmod: 2026-09-19T13:20:00+03:00
 featured_image: "/images/recipes/tunisia/slata-mechouia.webp"

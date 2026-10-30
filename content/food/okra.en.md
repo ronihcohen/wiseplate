@@ -1,6 +1,6 @@
 ---
 title: "Okra"
-seo_title: "Okra: Nutrition Facts, What the Slime Is, and How to Cook It Without the Goo"
+seo_title: "Okra: Nutrition Facts and How to Cook It Without the Slime"
 date: 2025-12-22T11:00:00+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
@@ -59,8 +59,8 @@ The slime is released when okra cells are damaged and come into contact with wat
 ### Benefits
 
 * **Exceptionally soluble fiber:** mucilage is a high-quality soluble fiber, and its contribution to satiety, glycemic regulation and blood lipid profile is established at the category level.
-* **[Magnesium](/en/food/supplements/magnesium/):** 57 mg per 100 grams — among the best vegetable sources, for a nutrient many people get less of than recommended.
-* **[Manganese](/en/food/supplements/manganese/):** 34% of the daily value.
+* **Magnesium:** 57 mg per 100 grams — among the best vegetable sources, for a nutrient many people get less of than recommended.
+* **Manganese:** 34% of the daily value.
 * **[Vitamin K](/en/food/supplements/vitamin-k/) and [vitamin C](/en/food/supplements/vitamin-c/):** 26% of the daily value each, for 33 calories.
 * **[Folate](/en/food/supplements/vitamin-b9/):** 15% — significant during the reproductive years and pregnancy.
 * **Polyphenols:** quercetin and its derivatives, and in red varieties also anthocyanins in the skin (which disappear with cooking as the pod turns green).
@@ -69,7 +69,7 @@ The slime is released when okra cells are damaged and come into contact with wat
 ### Downsides and considerations
 
 * **Oxalates.** Okra is considered a high-oxalate food. People who have had calcium-oxalate kidney stones should limit it and eat it with a source of [calcium](/en/food/supplements/calcium/) in the same meal — that way the oxalate binds in the gut and not in the kidney. The rest of the population need not worry.
-* **[Vitamin K](/en/food/supplements/vitamin-k/) and anticoagulants.** 26% of the daily value per 100 grams. People taking Coumadin don't need to avoid it — they need **steady, consistent** intake, so that the drug dose is calibrated to it.
+* **Vitamin K and anticoagulants.** 26% of the daily value per 100 grams. People taking Coumadin don't need to avoid it — they need **steady, consistent** intake, so that the drug dose is calibrated to it.
 * **Fructans and FODMAPs.** In large servings okra may trigger symptoms in sensitive people; a serving of about 75 grams is generally considered low-FODMAP.
 * **Mature pods are fibrous and inedible.** Okra that has grown too large becomes woody. The rule: **up to 7-8 cm** — beyond that it is already tough.
 * **The slime itself** — for some people it is an absolute deal-breaker. The solutions above work, but it's worth starting with the oven-roasted version rather than the stew.

@@ -1,6 +1,6 @@
 ---
 title: "Split Pea Soup"
-seo_title: "Split Pea Soup: A Thick Homemade Recipe — Calories and Protein per Bowl"
+seo_title: "Split Pea Soup Recipe: Thick, Homemade, High-Protein"
 date: 2026-09-01T09:30:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/soups/split-pea-soup.webp"
@@ -112,7 +112,7 @@ Answer: The starch released from the peas sinks and sticks to the bottom of the 
 Answer: Two common reasons. The first is salt or an acidic ingredient (tomato, lemon) added at the start of cooking — both delay the softening of legumes, so they go in only at the end. The second is old peas: legumes stored for a year or more may never soften.
 
 **Question: What is the difference between split peas and frozen green peas?**
-Answer: Split peas are the mature seed, dried and hulled, and contain about 341 calories and 25 grams of protein per 100 grams dry. Frozen [green peas](/en/food/peas/) are picked young and contain about 80 calories and 5 grams of protein per 100 grams. They are not interchangeable in this recipe.
+Answer: Split peas are the mature seed, dried and hulled, and contain about 341 calories and 25 grams of protein per 100 grams dry. Frozen green peas are picked young and contain about 80 calories and 5 grams of protein per 100 grams. They are not interchangeable in this recipe.
 
 **Question: Pea soup makes me bloated — what can I do?**
 Answer: The cause is the fiber and oligosaccharides in the legume. The practical solutions are to start with a small serving and increase gradually, to cook the soup well until the peas break down completely, and to make sure you drink enough — fiber without fluid makes the feeling worse instead of easing it.

@@ -1,6 +1,6 @@
 ---
 title: "Bazin"
-seo_title: "Libyan Bazin: A Recipe for Barley Dough with Lamb Stew — Calories per Serving"
+seo_title: "Libyan Bazin Recipe: Barley Dough With Lamb Stew"
 date: 2026-09-19T11:10:00+03:00
 lastmod: 2026-09-19T11:10:00+03:00
 featured_image: "/images/recipes/tripoli/bazin.webp"

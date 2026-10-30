@@ -1,6 +1,6 @@
 ---
 title: "Homemade Malawach"
-seo_title: "Homemade Yemenite Malawach: A Recipe for Flaky Pan Dough and Calories"
+seo_title: "Homemade Yemenite Malawach Recipe: Flaky Pan Bread"
 date: 2026-09-19T12:40:00+03:00
 lastmod: 2026-09-19T12:40:00+03:00
 featured_image: "/images/recipes/yemen/malawach.webp"
@@ -65,6 +65,8 @@ Toppings are not included. An egg and tomato add about 95 calories together.
 * Freeze unfried circles between sheets of paper for up to two months and fry straight from the freezer over slightly lower heat.
 * Malawach that is too thick stays doughy; too thin loses the soft center.
 * Don't flatten it in the pan — pressing pushes out steam and glues the layers together.
+
+**See also:** [Malawach](/en/food/malawach/)
 
 ### Summary
 

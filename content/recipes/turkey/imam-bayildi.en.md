@@ -1,6 +1,6 @@
 ---
 title: "Imam Bayildi"
-seo_title: "Imam Bayildi: The Turkish Eggplant Recipe in Olive Oil — Calories per Serving"
+seo_title: "Imam Bayildi Recipe: Turkish Eggplant in Olive Oil"
 date: 2026-08-23T09:40:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/imam-bayildi.webp"
@@ -70,7 +70,7 @@ The recommended serving is half a stuffed eggplant — a quarter of the recipe.
 
 It's important to say this explicitly: **about two-thirds of the calories in the dish come from the olive oil.** 100 ml of oil is about 780 calories divided among four servings — about 195 per serving, before we've even touched the vegetables. The eggplant itself, before it meets the oil, is about 25 calories per 100 g — one of the leanest vegetables there is. Eggplant is a sponge: its porous cell structure takes up oil in hard-to-believe amounts, so the same dish can range from 150 to 400 calories depending solely on technique.
 
-On the other hand, the fat here isn't "waste" — it's olive oil, and its fatty acid profile is exactly what the Mediterranean diet is built on. See more on the [olive oil](/en/food/olive-oil/) page and in the comparison of [olive, coconut and avocado oil](/en/compare/olive-coconut-avocado-oil/).
+On the other hand, the fat here isn't "waste" — it's olive oil, and its fatty acid profile is exactly what the Mediterranean diet is built on. See more on the olive oil page and in the comparison of [olive, coconut and avocado oil](/en/compare/olive-coconut-avocado-oil/).
 
 ### How to cut calories without ruining the dish
 

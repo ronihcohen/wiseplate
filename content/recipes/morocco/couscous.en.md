@@ -1,6 +1,6 @@
 ---
 title: "Couscous with Seven Vegetables"
-seo_title: "Moroccan Couscous: A Home Recipe with Seven Vegetables — Calories per Serving"
+seo_title: "Moroccan Couscous Recipe With Seven Vegetables"
 date: 2026-08-24T03:40:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/morocco/couscous.webp"

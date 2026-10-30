@@ -61,7 +61,7 @@ The practical conclusion: **boiled or steamed sweet potato is far better suited 
 | Dietary fiber | 3.3 grams |
 | Protein | 2 grams |
 | Fat | 0.15 grams |
-| [Vitamin A](/en/food/supplements/vitamin-a/) (retinol activity equivalents) | 961 mcg (>100%) |
+| Vitamin A (retinol activity equivalents) | 961 mcg (>100%) |
 | Beta-carotene | 11,509 mcg |
 | [Vitamin C](/en/food/supplements/vitamin-c/) | 19.6 mg |
 | [Potassium](/en/food/supplements/potassium/) | 475 mg |
@@ -77,6 +77,8 @@ The practical conclusion: **boiled or steamed sweet potato is far better suited 
 **For a middle-ground roast:** baking at a high temperature for a relatively short time activates beta-amylase less than slow, prolonged baking — so it sweetens less and raises the GI less.
 
 **Choosing between varieties:** orange — for beta-carotene; purple — for anthocyanins; white — starchier and low in both.
+
+**Compare:** [A Scientific Comparison: Potato, Sweet Potato and Purple Potato](/en/compare/potato-sweet-purple/)
 
 ### Summary
 

@@ -1,6 +1,6 @@
 ---
 title: "Eggplant"
-seo_title: "Eggplant: Nutrition Facts, Nasunin, and How to Cook It Without It Soaking Up a Liter of Oil"
+seo_title: "Eggplant: Nutrition Facts and How to Cook It With Less Oil"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""

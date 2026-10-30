@@ -1,6 +1,6 @@
 ---
 title: "Sugar-Rich Cheesecake"
-seo_title: "Cheesecake: Calories per Slice, and the Difference Between No-Bake and Baked"
+seo_title: "Cheesecake: Calories per Slice, No-Bake vs. Baked"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""

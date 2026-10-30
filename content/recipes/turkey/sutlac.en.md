@@ -33,7 +33,7 @@ What unites the whole family is that its base is [milk](/en/food/milk/) and star
 
 ### Ingredients (for 8 cups)
 
-* 1 liter whole [milk](/en/food/milk/) (3%)
+* 1 liter whole milk (3%)
 * 100 grams short-grain [rice](/en/food/rice/) (sushi or risotto rice)
 * 250 ml water
 * 150 grams sugar
@@ -82,7 +82,7 @@ What does deserve attention is the added sugar: 19 grams per cup is about three-
 
 ### Summary
 
-Sütlaç is a dessert based on two cheap ingredients — milk and rice — that gets its character from a layer of burnt caramel formed in two minutes under the broiler. About 210 calories per cup, with protein and calcium, which makes it the most reasonable way to end a meal in Turkish cuisine. [Baklava](/en/recipes/turkey/baklava/) is reserved for special occasions, and the Persian counterpart — a rice dessert without milk — is [sholeh zard](/en/recipes/iran/shole-zard/). More recipes in [Turkish cuisine](/en/recipes/turkey/).
+Sütlaç is a dessert based on two cheap ingredients — milk and rice — that gets its character from a layer of burnt caramel formed in two minutes under the broiler. About 210 calories per cup, with protein and calcium, which makes it the most reasonable way to end a meal in Turkish cuisine. Baklava is reserved for special occasions, and the Persian counterpart — a rice dessert without milk — is [sholeh zard](/en/recipes/iran/shole-zard/). More recipes in [Turkish cuisine](/en/recipes/turkey/).
 
 ### Frequently asked questions
 

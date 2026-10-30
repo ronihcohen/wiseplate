@@ -61,7 +61,7 @@ Answer: **It depends.** Some are heat-sensitive, but others actually become more
 Answer: Supplements can help in acute situations (such as inflammation), but they isolate one substance out of thousands. In nature, polyphenols work in synergy. An [apple](/en/food/apple/) contains hundreds of substances that work together. A supplement contains one. In the long run, a plant-rich diet always beats the single supplement.
 
 **Question: Is [dark chocolate](/en/food/dark-chocolate/) really healthy because of them?**
-Answer: **Yes, but carefully.** Cacao beans are very rich in flavonoids. Good-quality [dark chocolate](/en/food/dark-chocolate/) (over 70% cacao solids) is an excellent source. However, it also contains a lot of sugar and saturated fat. **Recommendation:** 2 squares a day is health. A whole bar is already a fattening dessert.
+Answer: **Yes, but carefully.** Cacao beans are very rich in flavonoids. Good-quality dark chocolate (over 70% cacao solids) is an excellent source. However, it also contains a lot of sugar and saturated fat. **Recommendation:** 2 squares a day is health. A whole bar is already a fattening dessert.
 
 **Question: Is coffee a good source?**
 Answer: Surprisingly, for the average Westerner, **coffee is the main source of polyphenols in the diet!** It is very rich in chlorogenic acids. As long as you don't load it with sugar and cream, it is considered a health drink rich in antioxidants.

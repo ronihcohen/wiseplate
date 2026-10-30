@@ -1,6 +1,6 @@
 ---
 title: "Mango"
-seo_title: "Mango: Downsides and Benefits, Nutrition Facts and How Much to Eat a Day"
+seo_title: "Mango: Benefits, Downsides, Nutrition and How Much a Day"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-10-07T09:00:00+03:00
 featured_image: ""

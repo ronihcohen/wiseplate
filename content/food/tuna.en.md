@@ -4,7 +4,7 @@ seo_title: "Tuna: Nutrition Facts per 100 Grams, Protein, Omega-3 and Mercury"
 date: 2026-08-10T08:05:00+03:00
 lastmod: 2026-08-19T09:00:00+03:00
 featured_image: ""
-description: "Tuna nutrition facts per 100 grams: 116 calories and 25.5 grams of protein in light tuna in water, versus 198 calories in oil. A full table, how much omega-3 there really is and how much mercury."
+description: "Tuna per 100 g: 116 calories and 25.5 g protein in light tuna in water vs. 198 calories in oil. Full nutrition table, omega-3 and mercury."
 ---
 
 ## Tuna
@@ -110,7 +110,7 @@ Canned tuna is an excellent, cheap and convenient protein source — 25.5 grams 
 Answer: Light tuna canned in water and drained: 116 calories, 25.5 grams of protein, 0.8 grams of fat, zero carbohydrates, 320 mg of sodium, about 90 mcg of selenium and 2.2 mcg of vitamin B12. In oil and drained: 198 calories and 29.1 grams of protein. Fresh: 109 calories and 24.4 grams of protein.
 
 **Question: How much omega-3 is in tuna?**
-Answer: It depends a lot on the type. Canned light tuna provides about 270 mg per 100 grams, albacore about 700-860 mg, and fresh bluefin tuna 1,300-1,500 mg. For comparison, [salmon](/en/food/salmon/) has 2,000-2,500 mg.
+Answer: It depends a lot on the type. Canned light tuna provides about 270 mg per 100 grams, albacore about 700-860 mg, and fresh bluefin tuna 1,300-1,500 mg. For comparison, salmon has 2,000-2,500 mg.
 
 **Question: How much tuna can you eat per week?**
 Answer: For a healthy adult — 2-3 servings of light tuna. Pregnant women, breastfeeding women and young children: up to 2-3 servings of light tuna, or **only one serving** of white tuna (albacore), which has almost three times as much mercury.

@@ -1,6 +1,6 @@
 ---
 title: "Mirza Ghasemi"
-seo_title: "Mirza Ghasemi: A Persian Recipe for Smoked Eggplant with Garlic and Eggs — Calories"
+seo_title: "Mirza Ghasemi Recipe: Persian Smoked Eggplant and Eggs"
 date: 2026-08-24T01:10:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/iran/mirza-ghasemi.webp"
@@ -65,7 +65,7 @@ The recommended serving is about 180 grams, a quarter of the pan.
 | Carbohydrates | about 22 g |
 | of which fiber | about 9 g |
 
-This is an eggplant dish that sidesteps the usual calorie trap of this family. [Eggplant](/en/food/eggplant/) soaks up oil like a sponge, and when fried it can absorb hundreds of calories — which is why Turkish [imam bayildi](/en/recipes/turkey/imam-bayildi/) reaches about 300 calories per half eggplant. Here the eggplant is charred over a dry flame and doesn't touch oil at all in the first stage, so all the oil in the dish is the three tablespoons used for frying.
+This is an eggplant dish that sidesteps the usual calorie trap of this family. Eggplant soaks up oil like a sponge, and when fried it can absorb hundreds of calories — which is why Turkish [imam bayildi](/en/recipes/turkey/imam-bayildi/) reaches about 300 calories per half eggplant. Here the eggplant is charred over a dry flame and doesn't touch oil at all in the first stage, so all the oil in the dish is the three tablespoons used for frying.
 
 The nine grams of fiber per serving come almost entirely from the eggplant itself, and the eggs add complete protein. The garlic here is not just flavor: it is consumed in an amount of almost two cloves per serving — an amount considered meaningful in studies on allicin and the sulfur compounds in garlic.
 

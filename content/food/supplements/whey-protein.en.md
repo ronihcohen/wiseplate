@@ -61,6 +61,8 @@ With kidney disease, protein intake should be adjusted with your care team; a ge
 
 For competitive athletes, batch testing for banned substances reduces the risk but doesn't eliminate it. Make sure the specific batch appears in the testing body's database. [AIS guidelines](https://www.ausport.gov.au/ais/nutrition/supplements/athlete-resources).
 
+**See also:** [The Guide to Combining Supplements: How to Build the Perfect Stack](/en/food/supplements/supplement-stack/), [Beta-Alanine for Athletes](/en/food/supplements/beta-alanine/)
+
 ### Frequently asked questions
 
 **Question: Do you need protein powder to build muscle?**

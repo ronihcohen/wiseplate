@@ -1,10 +1,10 @@
 ---
 title: "Deep-Fried Sweet Potato Fries"
-seo_title: "Sweet Potato Fries: How Many Calories, and Are They Healthier Than Regular Fries"
+seo_title: "Sweet Potato Fries: Calories and Are They Healthier?"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-08-18T09:00:00+03:00
 featured_image: ""
-description: "Deep-fried sweet potato fries: how many calories they contain, whether they are really healthier than regular fries, what happens to beta-carotene during frying, and how to make a better version."
+description: "Sweet potato fries: calories, whether they're healthier than regular fries, what frying does to beta-carotene, and how to make a better version."
 ---
 
 {{< youtube id="s3yQq8VjFsU" title="Sweet Potato Fries: Healthier Than Regular Fries? (video)" loading="lazy" >}}

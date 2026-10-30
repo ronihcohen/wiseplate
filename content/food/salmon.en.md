@@ -1,6 +1,6 @@
 ---
 title: "Salmon"
-seo_title: "Salmon: How Much Protein It Has, Omega-3, Nutrition Facts and Farmed vs Wild"
+seo_title: "Salmon: Protein, Omega-3, Nutrition and Farmed vs. Wild"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-08-18T09:00:00+03:00
 featured_image: ""
@@ -40,7 +40,7 @@ It is a complete protein of high biological value, containing all nine essential
 This is the most common question, and the answer is more complicated than "wild is always better":
 
 * **Farmed salmon is fattier** — about 12 grams of fat per 100 grams compared with 8 in wild. Because omega-3 sits in the fat, **farmed salmon actually provides more EPA and DHA per serving**, not less.
-* **Wild salmon is leaner and higher in protein**, and provides 1.5-2 times the [vitamin D](/en/food/supplements/vitamin-d/).
+* **Wild salmon is leaner and higher in protein**, and provides 1.5-2 times the vitamin D.
 * **The omega-6 to omega-3 ratio** is worse in farmed salmon, because of feed based on vegetable oils. Still, the absolute ratio remains favorable compared with almost any other protein source.
 * **Contaminants:** older studies found higher levels of PCBs and dioxins in farmed salmon. Feed regulations that have changed since then have narrowed the gap significantly, and health authorities agree that the benefit of the omega-3 outweighs the risk in both types.
 * **Astaxanthin** — the antioxidant pigment that gives salmon its color. In wild salmon it comes from krill and algae; in farmed salmon it is added to the feed. Chemically it is the same molecule.
@@ -51,7 +51,7 @@ This is the most common question, and the answer is more complicated than "wild 
 
 * **Long-chain omega-3:** EPA and DHA are the biologically active forms, unlike the plant ALA provided by [flax seeds](/en/food/flax-seeds/) and [walnuts](/en/food/walnuts/), whose conversion in the body is only 5%-10%. One serving of salmon covers the weekly recommendation of 250-500 mg a day.
 * **Heart health:** eating oily fish twice a week is consistently linked in large cohorts to lower cardiovascular mortality. The observed mechanisms: lowering triglycerides by 15%-30%, reducing inflammation, and stabilizing heart rhythm.
-* **[Vitamin D](/en/food/supplements/vitamin-d/):** one of the few truly dietary sources. A 150-gram serving of wild salmon may provide over 1,000 IU — more than the recommended daily intake.
+* **Vitamin D:** one of the few truly dietary sources. A 150-gram serving of wild salmon may provide over 1,000 IU — more than the recommended daily intake.
 * **DHA and brain health:** DHA is a key structural component of nerve cell membranes and the retina. It is especially important in pregnancy and infancy for the development of the brain and vision.
 * **[Selenium](/en/food/supplements/selenium/) and [B12](/en/food/supplements/vitamin-b12/)** in significant amounts.
 * **Low mercury:** about 0.02 ppm — among the lowest in fish, and 6-17 times less than [tuna](/en/food/tuna/). Salmon is a short-lived fish that is not a predator at the top of the food chain, so it is considered safe even in pregnancy.
@@ -75,7 +75,7 @@ This is the most common question, and the answer is more complicated than "wild 
 
 ### Summary
 
-Salmon provides 22-25 grams of protein per 100 grams, 1,200-2,300 mg of omega-3 and [vitamin D](/en/food/supplements/vitamin-d/) in an amount almost no other food provides — with especially low mercury. The farmed versus wild question is less decisive than people think: farmed provides more omega-3 per serving, wild provides more protein and vitamin D. Two servings a week cover the recommendation, and if the price puts you off you will get a similar benefit from [sardines](/en/food/sardines/) at a third of the price.
+Salmon provides 22-25 grams of protein per 100 grams, 1,200-2,300 mg of omega-3 and vitamin D in an amount almost no other food provides — with especially low mercury. The farmed versus wild question is less decisive than people think: farmed provides more omega-3 per serving, wild provides more protein and vitamin D. Two servings a week cover the recommendation, and if the price puts you off you will get a similar benefit from sardines at a third of the price.
 
 ### Frequently asked questions
 
