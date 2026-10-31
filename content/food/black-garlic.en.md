@@ -1,68 +1,86 @@
 ---
 title: "Black Garlic"
+seo_title: "Black Garlic: What It Is, What Research Shows and How to Use It"
 date: 2026-02-19T09:45:00+02:00
+lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "Black garlic: how aging turns ordinary garlic sweet and dark, what S-allyl cysteine (SAC) is, and what research shows about its antioxidant effects."
+description: "Black garlic is ordinary garlic heated in humidity for weeks: sweet, soft and mild. What SAC is, what the one human cholesterol trial found, and how to use it."
 ---
 
-## Introduction: Black Garlic - the magic of functional aging
+## Black Garlic
 
-Black garlic is not a unique botanical variety of [garlic](/en/food/garlic/), but simply fresh, ordinary garlic bulbs (Allium sativum) that have undergone a unique, controlled process: they are exposed to constant high heat and humidity (usually around 60 to 90 degrees Celsius and 70%-90% humidity) for an extended period of several weeks (30 to 90 days). This process is not ordinary "fermentation" by bacteria, but a powerful non-enzymatic browning reaction known as the "Maillard reaction", which breaks down amino acids and sugars at a low-but-steady temperature over time.
+**Black garlic is ordinary [garlic](/en/food/garlic/) kept for several weeks at about 60–90 °C and high humidity until the cloves turn black, soft and sweet-savoury with no sharpness. It is richer than fresh garlic in S-allyl cysteine (SAC), but almost all the benefits attributed to it come from lab and animal studies: in the main randomised trial in humans, it did not lower LDL.** It is an excellent seasoning, not a medicine.
 
-The result of this painstaking process is a spectacular transformation: the white, firm garlic cloves turn completely black, their texture becomes soft, jelly-like and chewy (like a fine dried fruit such as Medjool dates or [figs](/en/food/figs/)), and the sharp, pungent smell and taste almost completely disappear. In their place comes a deep umami flavor profile that combines a rich, earthy balsamic sweetness, with no trace of the notorious "garlic breath" after eating.
+Black garlic (in Hebrew "שום שחור") is not a special variety, and despite the common label it is not fermented by microbes. The change comes from the Maillard reaction, a non-enzymatic browning between sugars and amino acids, the same reaction that browns toast and roast meat, only at a low temperature over a long time. At the end the cloves are soft and sticky, with a texture like dates or dried fruit, and a taste reminiscent of balsamic vinegar, prunes and soy sauce.
 
-But the real change doesn't happen only in the flavor; the aging process converts the harsh active compounds of white garlic into soluble, well-absorbed "health-preserving" molecules, which makes black garlic a valuable commercial functional food with very impressive biological benefits.
+### What changes in the garlic?
 
-## The chemical change: what happens to garlic as it turns black?
+- **Allicin disappears.** In fresh garlic, when it is crushed, the enzyme alliinase converts alliin into allicin, the pungent, volatile compound. The heat used to make black garlic inactivates the enzyme, so there is almost no allicin. Hence no sharpness and little odour.
+- **SAC rises.** Other compounds in garlic are converted during ageing into S-allyl cysteine, a stable, water-soluble sulphur compound whose concentration in black garlic is several times higher than in fresh garlic. [Ahmed & Wang, 2021](https://pubmed.ncbi.nlm.nih.gov/34443625/).
+- **Sweetness.** Some of the garlic's carbohydrates, mainly fructans, break down into simple sugars, and the garlic loses water. So it is sweeter and more concentrated.
+- **Maillard products.** Browning compounds form, including 5-HMF, which has been studied mainly in the lab.
 
-Fresh garlic contains a strong, active enzyme called alliinase, which, when the garlic is crushed, converts the compound alliin into a volatile sulfur compound called allicin — which gives garlic its pungency and its antibacterial ability (in fact, this is the plant's defense mechanism).
-During the production of black garlic, the pungent allicin is gently transformed by heat into a range of stable organic compounds that are absorbed much better:
-The most critical transition of all is from the allicin molecule to a water-soluble amino acid called **S-allyl-cysteine** (**SAC** for short). SAC is absorbed into the human bloodstream almost 100%, its antioxidant capacity is legendary, and in black garlic its concentration is **5 times higher or more** than in fresh garlic.
+### Nutrition facts
 
-## Nutritional and health benefits of black garlic
+Garlic is eaten in small amounts, so its contribution of vitamins and minerals is small. Approximate values:
 
-### A powerful, stable antioxidant (Anti-oxidative Powerhouse)
-The levels of antioxidants ([polyphenols](/en/food/polyphenols/) and flavonoids) in black garlic jump many times over compared with fresh white garlic. The dominant component, SAC, acts as a powerful "sweeper" of free radicals in the bloodstream. Oxidative stress is the primary trigger behind the dangerous triad of modern diseases – constant inflammation, functional organ breakdown (accelerated aging) and DNA mutations. The phenomenal level of SAC contributes to the continuous, massive neutralization of these toxic oxidizing molecules, more than any other known vegetable or medicinal plant.
+| Nutrient | Fresh garlic, per 100 g | Fresh garlic, per clove (about 3 g) | Black garlic, per clove (about 3 g) |
+|---|---|---|---|
+| Calories | about 150 | about 4.5 | about 5–8 |
+| Carbohydrates | about 33 g | about 1 g | about 1–1.5 g |
+| of which sugars | about 1 g | negligible | about 0.5–1 g |
+| Protein | about 6.4 g | about 0.2 g | about 0.2–0.3 g |
+| Fibre | about 2.1 g | about 0.1 g | about 0.1 g |
 
-### Multi-directional protection of the heart and blood vessels
-Garlic is a veteran player in cardiology, but black garlic takes this a step further:
-1. **Improving the lipid profile:** clinical studies report a dramatic reduction in the oxidation of "bad" cholesterol (LDL). (Oxidized LDL is the direct factor that settles in the artery walls and produces atherosclerotic plaque.)
-2. **Lowering blood pressure:** SAC helps the steady production of nitric oxide in the endothelium of the blood vessels. The result is a quiet, clean widening of the arteries and improved blood perfusion of the tissues (lowering essential hypertension).
-3. **Reducing inflammation in the artery wall:** other compounds formed during aging act as suppressors of inflammatory warning proteins in the bloodstream (such as CRP), thereby preventing the formation of tiny thromboses.
+Black garlic values vary with how dried it is, so they are given as a range. In practice, a few cloves a day add fewer than 30 calories.
 
-### Neuroprotection and preventing Alzheimer's
-The brain, because of its enormous oxygen consumption, is dramatically sensitive to inflammatory oxidative damage that encourages the formation of amyloid proteins (markers of Alzheimer's disease and dementia). The SAC molecule (soluble in water and in brain cells) successfully crosses the blood-brain barrier (BBB), where it actively protects neurons. In laboratory experiments in animals, black garlic extract was shown to reduce cell death in the memory centers (hippocampus) resulting from toxins and to improve impaired memory in accelerated aging.
+### Benefits
 
-### Protecting and restoring the liver (Hepatoprotective)
-The liver is the central filter that absorbs the inflammation and toxins in our body from the day we are born. The antioxidants in black garlic, and especially those in the SAC group, have been shown to have a phenomenal ability to speed up reduction processes in cases of fatty liver (not caused by alcohol). Black garlic inhibits the accumulation of fat droplets in the liver and supports detoxification processes in the stages of the hepatic system.
+- **Flavour without bite.** This is the real advantage: a deep, sweet flavour that blends into sauces, spreads and stews, with no garlic breath and none of the irritation fresh garlic causes some people.
+- **Blood lipids: one trial, mixed results.** In a double-blind randomised trial in 60 people with mildly raised cholesterol, 6 g of black garlic a day for 12 weeks did not change total cholesterol, LDL or triglycerides. HDL rose slightly and apoB fell compared with placebo. [Jung et al., 2014](https://pubmed.ncbi.nlm.nih.gov/24976429/). This is one small trial, and it does not show "cholesterol lowering".
+- **Antioxidants.** In the test tube, black garlic has higher antioxidant activity than fresh garlic. Animals given extracts of it showed effects on the liver, blood lipids and inflammatory markers. [Ahmed & Wang, 2021](https://pubmed.ncbi.nlm.nih.gov/34443625/). Lab and animal studies do not prove a benefit in people, especially not at a few cloves a day.
+- **Not to be confused with "aged garlic extract".** A different product, garlic extract aged in alcohol for months (aged garlic extract), has been tested in trials on blood pressure. In a randomised trial in people with uncontrolled hypertension, two capsules a day lowered systolic pressure by about 12 mmHg compared with placebo. [Ried et al., 2013](https://pubmed.ncbi.nlm.nih.gov/23169470/). That is a standardised extract, not black garlic off the shelf.
 
-### Anti-cancer properties
-Although white garlic has known protective abilities, the enormous concentration of polyphenols and SAC in black garlic forms an effective line of defense. Test-tube observations indicate that it can promote the shrinking and self-destruction of cells in a range of gastrointestinal cancers, breast cancer, liver cancer and even blood cancers (leukemia), by activating triggering proteins (microscopic apoptosis) without harming the health of the surrounding normal cells.
+### Downsides
 
-## Side effects and warnings worth knowing
+- **Thin evidence.** Popular claims, such as protection against Alzheimer's, cancer or fatty liver, rest on test tubes and animals. There are no human trials showing them.
+- **Less allicin.** If you use garlic for its allicin, for example because of the studies on garlic and blood pressure, black garlic does not replace fresh crushed garlic.
+- **Price.** Black garlic costs far more than ordinary garlic, and most of the difference is in taste.
+- **Bleeding and surgery.** Garlic products, mainly high-dose supplements, may slightly increase bleeding tendency. People on anticoagulants or facing surgery should tell their doctor if they take garlic supplements. With black garlic in seasoning amounts the risk is small.
+- **FODMAP.** Garlic is rich in fructans. Some of them break down in black garlic, but people with irritable bowel syndrome may still react.
+- **Making it at home.** Making it in a slow cooker takes weeks and gives off a strong smell. Do not try to speed it up with more heat, as the garlic will burn and turn bitter.
 
-Compared with fresh white garlic, which is sharp, significantly irritates the stomach lining and can cause reflux, heartburn and bloating, black garlic has almost no digestive side effects (its volatile compounds have disappeared entirely). However:
-- **Bleeding risk:** although it is milder in this respect than white garlic, black garlic contains compounds that slow blood clotting. High intake should be stopped several weeks before major surgery. It is also not recommended on your own initiative for people taking strong daily blood thinners, because of a synergistic "amplifying" effect.
-- **Loss of the "antibiotic pungency":** if your goal is to treat a feverish illness or an acute, severe viral infection — white garlic, with its pungent allicin, is more active and aggressive at destroying bacteria on direct contact. Black garlic specializes in long-term, antioxidant, anti-aging protection.
+### Practical use
 
-## Culinary use and including it in your diet
+- **How much?** One or two cloves a day for flavour. There is no established "therapeutic" dose for black garlic.
+- **As a spread.** The cloves are soft and spread like jam. Mash onto toasted [sourdough](/en/food/sourdough/) with a little olive oil.
+- **In sauces.** Mash with oil, rice vinegar or balsamic and a little water for a dark, rich salad dressing, or stir into mayonnaise or tahini.
+- **In cooking.** Two or three cloves deepen the flavour of a stew, stock or mushroom sauce.
+- **With cheese and desserts.** Its sweetness suits hard cheeses and even dark chocolate.
+- **Storage.** A whole head keeps for weeks in a cool, dry place. Once peeled, keep it in the fridge in a closed container.
 
-Black garlic has enjoyed a renaissance and the status of "black gold" in fine-dining kitchens over the past decade. With the gentle sweetness of aged balsamic, umami beef stock and tiny hints of chocolate and dates — it is an amazing ingredient:
-- **A spread on its own:** thanks to its gel-like texture, black garlic cloves simply stretch and spread like [peanut butter](/en/food/peanut-butter/). You can spread them on a crostini or a slice of toasted [sourdough bread](/en/food/sourdough/) for a Michelin-level starter.
-- **Deepening casseroles, meat and stocks:** you can melt 3-4 such cloves into any roast, rich soup or deep stock to give it a tremendous depth of sweet-earthy umami "fifth taste" at the base of the dish.
-- **Sauces for a complex vinaigrette:** a puree of black garlic cloves combined with [rice](/en/food/rice/) vinegar, quality oil and a few greens makes a sauce of exceptional color and flavor for [tomato](/en/food/tomato/) salads or lettuce hearts.
+**See also:** [Garlic](/en/food/garlic/), [Polyphenols](/en/food/polyphenols/)
 
-## Summary
+### Summary
 
-The transformation of a pungent, aggressive weapon (fresh garlic) into a soft, sweet, jammy culinary gem (black garlic) is an example of modern culinary alchemy. Black garlic represents the principle of the upgraded functional food in optimal form. This conversion created an exponentially richer, available source of the critical molecule SAC and a range of rare antioxidants, which actively and daily fight the wear-and-tear hallmarks of Western diseases: fatty liver, cholesterol deposits in the blood, aging of brain cells and high levels of inflammation and radical stress. Fortunately, it does so while embracing a mesmerizing flavor that even makes up for its lack of traditional pungency.
+Black garlic is ordinary garlic that has undergone slow browning in heat and humidity. The result is a soft, sweet, savoury seasoning with no sharpness and no garlic breath, and more SAC than fresh garlic. The health benefits attributed to it are based almost entirely on test tubes and animals, and the main randomised human trial found no fall in LDL. Enjoying it for the flavour is great, but there is no reason to pay for it as a supplement.
 
-## Frequently asked questions
+### Frequently asked questions
 
-### Question: Can you make black garlic at home in a simple way?
-Answer: It is possible, but it requires suitable equipment and a lot of patience, and also tolerance for the smell. You can use a standard slow cooker set to the lowest heat (Keep Warm) — at around 60 to 70 degrees it needs to be left on, out on the balcony, for two to three weeks straight (the strong fumes in the first days will drive any guest out of the house). These days there are small dedicated machines that make black garlic easily for home consumers.
+**Question: What is the difference between black garlic and ordinary garlic?**
+Answer: Black garlic is ordinary garlic heated in humidity for weeks. It is sweet and soft, has almost no allicin or sharpness, and is richer in SAC. Fresh crushed garlic is what most garlic studies tested.
 
-### Question: Does black garlic leave a "garlic smell" on the body or the breath?
-Answer: Absolutely not. One of its most prominent advantages beyond health is the complete evaporation of the sulfurous compound allicin during its time in controlled heat. After eating black garlic cloves you can carry on with your day in a large group in close contact, with no worry about the characteristic odor known from fresh garlic in sweat or on the breath.
+**Question: Is black garlic fermented?**
+Answer: Not in the usual sense. No bacteria or yeasts are at work. The darkening comes from the Maillard reaction, a chemical browning driven by heat.
 
-### Question: How much benefit will I get if I eat just one or two cloves of black garlic a day?
-Answer: The antioxidant benefit embodied in SAC will be delivered especially efficiently in your body even at a dose of one or two large cloves a day (about 3 to 6 grams). Most clinical studies have shown significant effects in lowering cholesterol and blood pressure at these modest but regular doses, so there is no need to "devour" large amounts of it to get full protection for the blood system and the heart.
+**Question: Does black garlic lower cholesterol?**
+Answer: That has not been shown. In a 12-week randomised trial, 6 g a day did not lower LDL, total cholesterol or triglycerides. HDL rose slightly.
+
+**Question: Does black garlic cause garlic breath?**
+Answer: Much less than fresh garlic, because allicin and much of the volatile compounds disappear during the process.
+
+**Question: How much black garlic should you eat a day?**
+Answer: One or two cloves a day, for the flavour. There is no established therapeutic dose, and results from extract studies do not apply to black garlic off the shelf.
+
+**Question: Can you make black garlic at home?**
+Answer: Yes, in a slow cooker on its lowest warm setting, about 60–70 °C, for two to three weeks, or in a dedicated machine. The process gives off a strong smell, so run it on a balcony or somewhere well ventilated.
