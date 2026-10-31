@@ -4,7 +4,7 @@ seo_title: "Iodine: Daily Needs, Pregnancy and Deficiency in Israel"
 date: 2026-02-13T05:56:32+02:00
 lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "Iodine: 150 mcg a day for adults and 220 in pregnancy. Why Israel's national survey found deficiency in children and pregnant women, food sources, and kelp risks."
+description: "Iodine: 150 mcg a day for adults, 220 in pregnancy. Why Israel's national survey found deficiency in children and pregnant women, food sources, kelp risks."
 ---
 
 ## Iodine

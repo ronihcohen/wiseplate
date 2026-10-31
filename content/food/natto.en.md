@@ -1,69 +1,83 @@
 ---
 title: "Natto"
+seo_title: "Natto: Vitamin K2, Nutrition, Warfarin and What Research Shows"
 date: 2026-02-19T09:45:00+02:00
+lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "A comprehensive scientific review of natto: fermented soybeans that are nature's richest dietary source of vitamin K2 and of the unique enzyme nattokinase."
+description: "Natto is the richest dietary source of vitamin K2: about 850 mcg in 85 g. What studies show on bones and nattokinase, and why people on warfarin should avoid it."
 ---
 
-## Introduction: Natto — the Treasures of Japanese Fermentation
+## Natto
 
-Natto (in Hebrew "נאטו") is an ancient traditional Japanese food made of whole soybeans that have gone through a unique fermentation by *Bacillus subtilis* bacteria. It has a reputation as a genuine "superfood" in Japanese culture, where it is eaten regularly, usually for breakfast over a bowl of [rice](/en/food/rice/).
+**Natto is soybeans fermented with the bacterium *Bacillus subtilis*, and it is the richest dietary source of vitamin K2 (MK-7): about 850 mcg in 85 grams — dozens of times the recommended intake. That makes it a nutritious food with about 18 grams of protein per 100 grams, but also a food that people taking warfarin (Coumadin) need to avoid.**
 
-Natto has unusual sensory qualities that often put off Western tasters at first: it has a strong smell (a bit reminiscent of blue [cheese](/en/food/cheese/) or mild ammonia, due to protein breakdown), a deep, nutty umami taste, and above all an especially slimy, sticky texture (mucilage), created by the polymer chains of polyglutamic acid that the bacteria produce. Beyond taste and texture, natto is an unrivaled nutritional powerhouse. It is considered the most natural and accessible source of vitamin K2 in nature, and it is the exclusive source of an enzyme with medicinal properties — nattokinase.
+Natto (in Hebrew "נאטו") is a traditional Japanese breakfast food, usually eaten over rice with soy sauce and mustard. It has a strong smell, a nutty umami taste and a slimy, stringy texture, which comes from polyglutamic acid produced by the bacteria. In Israel it is sold mainly frozen, in Asian food shops, in small 40-50 gram packs.
 
-## Advanced Nutritional Profile of Natto
+### Nutrition facts
 
-An average serving of natto (about 100 grams) is exceptionally rich in macro- and micronutrients, which are significantly upgraded by fermentation, making them especially available for absorption (the process reduces phytic acid, which is common in unfermented soybeans and inhibits mineral absorption):
-- **Calories:** about 210 calories.
-- **Protein:** about 18 to 20 grams of complete plant protein. The protein itself has already been partially broken down by the bacteria, which makes its amino acids very easy to digest and quick to absorb.
-- **Carbohydrates:** about 14 grams, of which more than 5 grams are soluble and insoluble dietary fiber.
-- **Fat:** about 11 grams, the vast majority unsaturated fatty acids.
-- **Iron:** about 48% of the reference daily intake (RDI). Fermentation significantly increases the availability of [iron](/en/food/iron/) compared with regular soy.
-- **Calcium and magnesium:** about 20% and 29% of the daily intake, respectively.
-- **Vitamin C and B vitamins:** a respectable amount of riboflavin (B2), B6 and folate.
+Approximate values for natto:
 
-However, the real "stars" of natto, which make it a unique preventive remedy, are its unprecedented bioactive components:
+| Nutrient | Per 100 g | Per typical pack (about 45 g) |
+|---|---|---|
+| Calories | about 210 | about 95 |
+| Protein | about 18-19 g | about 8.5 g |
+| Fat | about 11 g (mostly unsaturated) | about 5 g |
+| Carbohydrates (fiber) | about 13 g (about 5 g) | about 6 g (about 2.5 g) |
+| [Iron](/en/food/iron/) | about 8.5 mg | about 4 mg |
+| [Calcium](/en/food/supplements/calcium/) | about 215 mg | about 100 mg |
+| [Magnesium](/en/food/supplements/magnesium/) | about 115 mg | about 50 mg |
+| [Vitamin K2](/en/food/supplements/vitamin-k/) (MK-7) | about 1,000 mcg | about 450 mcg |
 
-## Active Nutritional and Health Benefits of Natto
+According to the NIH, 85 grams of natto provide about 850 mcg of vitamin K2 — far more than any other food. The adequate intake for adults is 90-120 mcg of vitamin K a day. [NIH ODS — Vitamin K](https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/). The iron in natto is plant (non-heme) iron, which is absorbed less well than iron from meat; vitamin C in the same meal improves its absorption.
 
-### Nature's richest source of vitamin K2 (Menaquinone-7)
-While vitamin K1 (from plant sources such as [spinach](/en/food/spinach/) or [kale](/en/food/kale/)) is mainly responsible for the body's general blood-clotting mechanism, vitamin K2 occupies a completely different place in human metabolism. K2's critical role is to activate proteins (such as osteocalcin) whose job is to move excess [calcium](/en/food/supplements/calcium/) out of the bloodstream and into the bones and teeth, instead of letting it settle — a deadly process — on the walls of blood vessels, the kidneys or soft tissues. Natto is, by a huge margin, the world's number 1 source of this essential nutrient in its long-chain form (MK-7), containing on average about 1000 micrograms of vitamin K2 per 100 grams, an amount 100 times greater than aged hard cheeses or egg yolk. This pathway alone has been documented to reduce the risk of bone fractures in old age by very high rates.
+### Benefits
 
-### Nattokinase and active protection of the blood vessels and heart
-Another property unique in the world to natto is the enzyme called nattokinase. This proteolytic (protein-digesting) enzyme is produced during fermentation by this specific bacterium. Consistent medical studies have shown that nattokinase has a natural, powerful ability to dissolve fibrin — the main protein that makes up blood clots. This means that consuming nattokinase thins the blood naturally, directly reduces the risk of pathological blood clots (thrombosis, stroke), helps break down cholesterol and dramatically improves blood flow in the cardiovascular system, without the harsh side effects of chemical blood thinners.
+- **Vitamin K2 and bone health:** vitamin K is needed to activate osteocalcin, a bone protein that binds calcium. In Japan, women in prefectures where people eat a lot of natto had higher blood MK-7 levels, and there was an inverse correlation between natto intake per prefecture and the rate of hip fractures. [Kaneki et al., 2001](https://pubmed.ncbi.nlm.nih.gov/11369171/). This is an ecological study that does not prove cause. In a controlled trial in 244 postmenopausal women, a 180 mcg MK-7 supplement a day for three years slowed the decline in bone density. [Knapen et al., 2013](https://pubmed.ncbi.nlm.nih.gov/23525894/). No trial has tested whether natto itself reduces fractures.
+- **Complete plant protein:** about 8.5 grams of protein in a small pack, from soybeans that fermentation has softened and partly broken down.
+- **Minerals and fiber:** natto provides meaningful amounts of iron, magnesium, potassium and calcium, and about 5 grams of fiber per 100 grams.
+- **Live bacteria:** fresh or thawed natto contains live *B. subtilis* spores, which survive stomach acid. There are no good trials showing a specific clinical benefit from eating natto as a probiotic.
+- **Soy and testosterone — a myth:** a meta-analysis of 41 clinical studies found that soy and isoflavones do not affect testosterone or estrogen in men. [Reed et al., 2021](https://pubmed.ncbi.nlm.nih.gov/33383165/).
 
-### An ocean of hardy probiotics
-Natto contains billions of live bacteria of the fermenting microbe, *B. subtilis*. Unlike many delicate probiotic strains that do not survive the aggressive acidity of human gastric juices, *B. subtilis* is unique in forming a tough "spore" around itself. This hardiness allows a decisive share of the bacteria to reach the large intestine intact, where they establish resilient colonies, suppress contaminating pathogens and significantly improve constipation and digestive irregularity.
+### Nattokinase — what the evidence actually shows
 
-### Lowering blood pressure and widening blood vessels
-In addition to nattokinase, which lowers blood viscosity, natto contains a variety of small active peptides and antioxidants produced as the complex soybeans are broken down. Various (IN-VIVO) studies have found that natto has an inhibitory effect on the enzyme ACE (Angiotensin-Converting Enzyme) — exactly the mechanism most conventional prescription blood-pressure drugs work on.
+Nattokinase is an enzyme produced during fermentation that breaks down fibrin in the lab, which is why it is marketed as a "natural blood thinner." In the largest controlled trial to date, 265 people with an average age of 65 took nattokinase or a placebo for about three years, and there was no difference in the progression of atherosclerosis in the neck arteries, in blood pressure or in any blood test. [Hodis et al., 2021](https://pubmed.ncbi.nlm.nih.gov/33843667/). In other words, claims that nattokinase prevents stroke or lowers blood pressure are not supported. The enzyme is also destroyed by heat, so little of it is left in well-heated natto.
 
-## Side Effects and Warnings You Should Know
+### Downsides
 
-- **A strong interaction with blood-thinning drugs:** this is probably the most critical warning. Because of the double, powerful effect of both the clot-dissolving enzyme nattokinase and the enormous load of [vitamin K](/en/food/supplements/vitamin-k/), people actively taking blood thinners (from preventive aspirin, through warfarin/Coumadin, to modern anticoagulants such as Xarelto or Eliquis) **must consult closely with a cardiologist** before eating natto, because it changes the blood's clotting parameter (the INR) quickly and strongly. For healthy people this is an amazing preventive benefit; for complex patients it is a powerful clinical intervention that requires monitoring.
-- **Soy in the context of phytoestrogens and the thyroid:** for most of the population, the doses of phytoestrogens (isoflavones) in soy, certainly in its safer fermented form, are not a problem, and their effect even protects against hormonal cancers. However, for people with an underactive thyroid (hypothyroidism) and low [iodine](/en/food/supplements/iodine/) levels, or with special clinical conditions, eating large amounts of soy products may call for caution.
+- **Warfarin (Coumadin) — the most important warning:** warfarin works against vitamin K, and a large, varying amount of vitamin K disrupts the INR. As little as 50 mcg of MK-7 a day may interfere with treatment in a clinically relevant way, and one pack of natto contains several times that. [Schurgers et al., 2007](https://pubmed.ncbi.nlm.nih.gov/17158229/). In Japan, people on warfarin are told to avoid natto completely. Newer anticoagulants (such as apixaban or rivaroxaban) are not affected by vitamin K, but check with your doctor before eating natto regularly, and certainly before taking nattokinase supplements.
+- **Smell and texture:** many people simply can't eat it. That is not a health downside, but it limits the practical benefit.
+- **Soy allergy:** natto is soy — people with a soy allergy must avoid it.
+- **Thyroid:** soy can interfere with the absorption of thyroxine medication. If you take it, leave a few hours between the pill and a meal with soy.
+- **Sodium in the sauce:** natto itself is low in sodium, but the sauce sachets that come with it and soy sauce add a few hundred mg.
 
-## Culinary Use and Fitting It Into Your Diet
+### Practical use
 
-Natto's unique taste and stringy texture are undoubtedly a challenge for the average Israeli/Western palate. The right way to eat it is to balance it with strong spicy-salty flavors that cut through the slimy texture:
-- **The traditional Japanese way:** in Japan, natto in its small containers is customarily stirred vigorously for a full minute (which boosts the release of nutrients and the formation of the sticky "threads"), and then a little soy sauce (shoyu) or very hot Japanese mustard (karashi) is mixed in. After seasoning, the whole mixture is poured over a deep bowl of hot steamed rice and garnished with an adventurous topping of finely chopped fresh green [onion](/en/food/onion/) and a fresh egg (usually just a raw yolk).
-- **Adding it to flavorful salads:** for those who struggle with the concentrated traditional way, you can add a spoonful of natto to a large, well-seasoned green salad with a lemony vinaigrette, where the texture gets lost and the nutrients remain.
-- **No intensive heating:** as with other live fermented foods such as kefir and kombucha, cooking natto heavily and bringing it to a boil kills the bacteria. The important enzyme nattokinase is especially sensitive and breaks down at temperatures above 60 degrees (140°F). Eating it at room temperature or warmed passively by the rice is the ideal choice.
+- **The traditional way:** stir the natto vigorously for about half a minute until "strings" form, add a little soy sauce or the included sachet and mustard, and serve over hot rice with green [onion](/en/food/onion/).
+- **For beginners:** mix a spoonful of natto into a well-seasoned salad, an omelet or a [rice](/en/food/rice/) bowl with vegetables. Spicy and sour flavors mask the smell.
+- **Heat:** no cooking needed. High heat damages nattokinase and the bacteria, but vitamin K2 is fairly heat-stable.
+- **Storage:** thaw frozen natto in the fridge and eat it within two or three days. Check the expiry date.
+- **How much:** one pack (40-50 grams) several times a week is common in Japan. For healthy people there is no known limit with respect to vitamin K.
 
-## Summary
+### Summary
 
-Natto is not just another "high-fiber vegetable," and it is definitely an acquired taste. From a purely bio-engineering standpoint, it is one of the most impressive natural functional foods available to modern humans, and anyone wise enough to include it in their diet will gain a range of survival advantages. Its global monopoly on vitamin K2 enables a proper, healthy synergy of storing [calcium](/en/food/supplements/calcium/) and phosphorus in the bones without the danger of calcification of the heart's blood vessels in women and men around menopausal age. The added protection provided by nattokinase effectively acts as a shock absorber for the arteries, lowering the chances of destructive blood clots and supporting healthy blood pressure. If you get past the deep smell and sometimes off-putting texture, you discover a whole health laboratory in a spoonful of fermented beans — an inspiration for a diet full of benefits and for the remarkable longevity that characterizes specific regions of Japan, which eat it devoutly.
+Natto is a nutritious fermented soy food with protein, iron, magnesium and fiber, and it is the richest dietary source of vitamin K2. There is evidence that K2 supplements slow bone loss, but no trial shows that natto prevents fractures, and a long trial of nattokinase found no effect on atherosclerosis or blood pressure. For people taking warfarin, natto is not suitable. For everyone else it is a good addition to the diet, if you can get used to the taste.
 
-## Frequently asked questions
+### Frequently asked questions
 
-### Question: Where can you find natto in Israel, and how do you store it?
-Answer: In Israel it is very hard to find fresh natto, but it is available frozen in the large Asian food chains, sometimes in tiny individual containers. Thaw it only in the refrigerator (not in the microwave, so as not to kill the bacteria). Keep thawed natto in the refrigerator for a few days at most.
+**Question: How much vitamin K2 is in natto?**
+Answer: About 850 mcg in 85 grams according to the NIH, or about 450 mcg in a typical 45-gram pack. That is far more than any other food, including aged cheeses and egg yolks.
 
-### Question: Can I just take nattokinase as a supplement instead of eating natto?
-Answer: Yes, the supplement market offers nattokinase supplements (extracted directly from natto). They are very popular among people put off by the food's smell and texture, and have proven highly effective at preventing blood clots and improving blood flow. However, taking a supplement does not give you the probiotics, the important dietary fiber of soy and the unbeatable amount of vitamin K2 that real natto holds, so the whole food is always preferable from a holistic therapeutic standpoint.
+**Question: Can you eat natto while taking warfarin (Coumadin)?**
+Answer: No. The large amount of vitamin K2 in natto counteracts warfarin and can disrupt the INR for days. In Japan the standard advice for people on warfarin is to avoid natto completely.
 
-### Question: Why does natto in particular have so much vitamin K2, when other plants lack it?
-Answer: Plants, in general, contain only vitamin K1. Vitamin K2 (in its common form, menaquinone) is produced only by bacteria as a byproduct of ongoing fermentation (sometimes the vitamin is stored in animals' guts or accumulates in fermented hard cheeses). The exclusive bacterium used to ferment natto (B. subtilis natto), as part of breaking down the soy, is simply a legendary biological manufacturer of this critical vitamin, which is why the concentrations in natto are so dramatic compared with other foods.
+**Question: Can a nattokinase supplement replace a blood thinner?**
+Answer: No. In a three-year controlled trial, nattokinase did not affect the progression of atherosclerosis, blood pressure or clotting tests. Never stop an anticoagulant in favor of a supplement, and combining the two requires a doctor's advice.
 
-### Question: I've heard soy is dangerous for men and lowers testosterone. Does natto fall into the same category?
-Answer: This is a mistaken belief based on a stubborn myth that has been refuted by huge scientific reviews (meta-analyses). Reasonable and even high soy intake does not affect testosterone levels in men. The phytoestrogens in the fermented soy of natto act through complex modulation that is actually linked to, and apparently protects against, the development of precancerous problems of the prostate. There is no reason for men to avoid soy, let alone natto, which takes its benefits to great heights of natural clot dissolving and bone fortification.
+**Question: Why does natto have so much more vitamin K2 than other foods?**
+Answer: Plants make mainly vitamin K1. Vitamin K2 is made by bacteria, and the *Bacillus subtilis* that ferments natto produces especially large amounts of the MK-7 form.
+
+**Question: Does the soy in natto lower testosterone?**
+Answer: No. A meta-analysis of 41 clinical studies found no effect of soy or isoflavones on testosterone or estrogen in men.
+
+**Question: Where can you buy natto in Israel, and how do you store it?**
+Answer: Mostly frozen, in Asian food shops and some supermarket chains. Thaw it in the fridge (not the microwave) and eat it within a few days.

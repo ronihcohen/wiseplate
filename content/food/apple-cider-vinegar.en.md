@@ -1,71 +1,91 @@
 ---
 title: "Apple Cider Vinegar"
+seo_title: "Apple Cider Vinegar: Benefits, Downsides, Weight Loss and Dose"
 date: 2026-04-10T08:00:00+02:00
+lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "A balanced look at apple cider vinegar: what research has actually found about its effect on blood sugar, digestion, and the myths that surround it."
+description: "1–2 tablespoons of diluted apple cider vinegar with a meal slightly blunt the blood sugar rise. What studies found on weight, teeth and throat, and how to drink it."
 ---
 
 ## Apple Cider Vinegar
 
-Apple cider vinegar is a vinegar produced by a double fermentation: first, yeasts turn the apple's sugars into alcohol (hard cider), and then Acetobacter bacteria turn the alcohol into acetic acid — the main active ingredient. The "Mother" — strands of bacteria and enzymes visible in unfiltered vinegar — is the natural formula, but evidence for its specific benefit is limited.
+**Apple cider vinegar is vinegar made by fermenting apple juice and contains about 5% acetic acid; 1–2 tablespoons diluted in water with a carbohydrate-rich meal moderately reduce the rise in blood sugar and insulin afterwards, but the effect on weight is small (about 1–2 kg over 12 weeks in the key study).** It does not detox the body or burn fat, and drinking it undiluted damages teeth and the esophagus. In Hebrew it is called "חומץ תפוחים".
 
-In recent years apple cider vinegar has become hugely popular on social media, with sweeping health claims — some backed by research, some significantly exaggerated.
+The vinegar is made in two fermentations: yeasts turn the apple sugar into alcohol, and Acetobacter bacteria turn the alcohol into acetic acid, the main active component. The "mother", the cloudy strands in unfiltered vinegar, is a colony of bacteria and cellulose. There is no evidence that it adds a health benefit beyond the acetic acid.
 
-### Research-backed health benefits
+### Nutrition facts
 
-* **Regulating post-meal (postprandial) blood sugar:** this is the best-established effect. Small but consistent studies found that taking 1-2 tablespoons, diluted, before a carbohydrate-rich meal reduces the blood sugar spike by about 19-34% compared with placebo. The mechanism: acetic acid inhibits disaccharidase (a carbohydrate-digesting enzyme) and slows gastric emptying.
+Values per tablespoon (15 ml) of regular apple cider vinegar, approximate:
 
-* **Satiety and calorie control:** studies found that taking it before a meal increased the feeling of fullness and reduced total calorie intake. One Swedish study (2005) found a reduction of up to 200 calories a day when it was taken diluted with breakfast.
-
-* **Acetic acid and metabolism:** in animal studies (mice), acetic acid improved glucose uptake in muscle, reduced fat accumulation in the liver and improved the lipid profile. Human research is still limited.
-
-* **Antimicrobial properties:** acetic acid at a concentration of 5-6% (the concentration of regular vinegar) is effective against many bacteria — including E. coli, Salmonella and Candida. This explains its historical use as a preservative and for pickling vegetables.
-
-* **Potassium and enzymes:** unfiltered vinegar contains small amounts of [potassium](/en/food/supplements/potassium/) and enzymes, although their concentration is very low relative to the recommended daily intake.
-
-### Downsides and health considerations
-
-* **Damage to tooth enamel — a real risk:** its high acidity (pH about 3) erodes enamel when taken straight. Always dilute it in 200-300 ml of water and never drink it undiluted. Rinsing your mouth with water afterward is a must.
-
-* **Irritation and erosion of the esophagus:** drinking it straight (undiluted) has been reported to cause burns to the esophageal lining and hoarseness, and swallowing undiluted vinegar has even caused a severe burn. Never drink it straight.
-
-* **Overpromising:** rapid weight loss, detoxing the body, curing cancer, lowering blood pressure — these claims are not backed by sufficient research. Keep your expectations realistic.
-
-* **Drug interactions:** it may affect potassium levels and amplify the effect of diabetes medications (risk of hypoglycemia). People taking digoxin or diuretics — consult a doctor.
-
-* **Delayed gastric emptying:** the same effect that helps balance blood sugar can also worsen gastroparesis (delayed gastric emptying) in people who have it.
-
-### How to use it correctly
-
-| Use | Recommended amount | Notes |
+| Nutrient | Per tablespoon (15 ml) | Per 100 ml |
 |---|---|---|
-| Before a meal | 1-2 tablespoons in 250 ml of water | 15-20 min before |
-| Vinaigrette | 1 part to 3 parts oil | With mustard and honey |
-| Meat marinade | 2-3 tablespoons | With garlic and spices |
-| Pickling vegetables | 1/2 cup | With salt and sugar |
+| Calories | about 3 | about 21 |
+| Acetic acid | about 0.75 g | about 5 g |
+| Carbohydrates | about 0.1 g | about 0.9 g |
+| Potassium | about 11 mg | about 73 mg |
+| Sodium | almost none | about 5 mg |
+| Acidity (pH) | 2.5–3 | 2.5–3 |
 
-### Culinary uses
+Nutritionally, vinegar contains almost nothing except acetic acid. The small amounts of potassium and polyphenols are not meaningful.
 
-* **Salad vinaigrette:** a 1:3 ratio of vinegar to [olive oil](/en/food/olive-oil/) with mustard and [honey](/en/food/honey/)
-* **Marinade:** tenderizes meat and deepens flavor with [garlic](/en/food/garlic/) and rosemary
-* **In homemade ketchup and barbecue sauces:** adds depth and tang
-* **Bread dough and baked goods:** substitutes for most acidic ingredients
-* **Quick-pickled vegetables:** with a little salt and sugar — ready within hours
+### Benefits
+
+**Blood sugar and insulin after a meal.** This is the best-established effect. A meta-analysis of trials found that vinegar taken with a meal reduced the rise in blood sugar and insulin afterwards compared with control [(Shishehbor et al., 2017)](https://pubmed.ncbi.nlm.nih.gov/28292654/). The likely mechanism: acetic acid slows stomach emptying and affects starch digestion and glucose uptake in muscle. The effect is clearer with a carbohydrate-rich meal and small or negligible with a low-carbohydrate one.
+
+**Type 2 diabetes.** A 2025 meta-analysis of seven small trials in people with type 2 diabetes found that daily apple cider vinegar lowered fasting glucose and HbA1c [(Arjmandfard et al., 2025)](https://pubmed.ncbi.nlm.nih.gov/39949546/). The studies are small, short and differ from each other, so it is a possible add-on to treatment, not a replacement for it.
+
+**Weight, modestly.** In a double-blind trial in Japan, people with obesity who drank 15 or 30 ml of vinegar a day (diluted in a drink) for 12 weeks lost a little more weight, waist circumference and visceral fat than those on placebo, and their triglycerides fell [(Kondo et al., 2009)](https://pubmed.ncbi.nlm.nih.gov/19661687/). The difference was about 1–2 kg. The study was funded by a vinegar maker, and a result like that changes little without changes to the diet.
+
+**Fullness.** In some trials vinegar with a meal increased feelings of fullness. Part of that effect may come from mild nausea and an unpleasant taste rather than from physiology alone.
+
+**In the kitchen.** As a seasoning, vinegar adds flavor to salads and sauces without calories or salt, which is a real if quiet advantage.
+
+### Downsides
+
+**Teeth.** Vinegar is very acidic (pH 2.5–3), and acidic drinks are a known cause of enamel erosion [(Lussi, 2011)](https://pubmed.ncbi.nlm.nih.gov/21625128/). So dilute it in a glass of water, don't swish it around your mouth, and rinse with water afterwards. Don't brush your teeth straight after.
+
+**Esophagus and throat.** Drinking it undiluted can irritate and burn the esophagus and throat. Apple cider vinegar tablets can cause harm too: esophageal injury from a lodged tablet has been reported, and testing of different products found large gaps between label and content, to the point of doubt whether some contained apple cider vinegar at all [(Hill et al., 2005)](https://pubmed.ncbi.nlm.nih.gov/15983536/).
+
+**Heartburn and stomach.** In people with reflux, ulcers or a sensitive stomach, vinegar can worsen symptoms. People with gastroparesis (slow stomach emptying, for example in long-standing diabetes) should be careful, because vinegar slows emptying further.
+
+**Medication.** Vinegar may add to the effect of diabetes drugs, especially insulin, and cause low blood sugar. Large, long-term intake has been linked in case reports to low [potassium](/en/food/supplements/potassium/), which matters for people on diuretics or digoxin. Check with your doctor.
+
+**Unsupported claims.** "Detox", "alkalizing" the body, curing cancer or substantially lowering blood pressure are not supported by research. Vinegar does not change the acidity of your blood.
+
+### Practical use
+
+| Use | Amount | Notes |
+|---|---|---|
+| Drink before or with a meal | 1–2 tablespoons (15–30 ml) in a glass of water (250 ml) | a straw helps; rinse your mouth afterwards |
+| Vinaigrette | 1 part vinegar to 3 parts [olive oil](/en/food/olive-oil/) | with mustard and a little [honey](/en/food/honey/) |
+| Marinade | 2–3 tablespoons | with [garlic](/en/food/garlic/) and spices |
+| Quick pickling | half a cup of vinegar to a cup of water | with salt and a little sugar |
+
+- **No more than 2 tablespoons a day** as a drink. There is no proven benefit from larger amounts.
+- **Only diluted.** Never straight from the bottle or as a "shot".
+- **In food is simplest:** a salad with vinaigrette next to a carbohydrate portion gives the same effect without drinking vinegar.
+- **Tablets:** better avoided, because of the esophageal risk and inconsistent content.
+
+### Summary
+
+Apple cider vinegar moderately reduces the blood sugar rise after a carbohydrate-rich meal, and in small studies it slightly lowers fasting glucose and weight. These are small effects, not a miracle cure. It is safe diluted at 1–2 tablespoons a day, but drinking it undiluted harms teeth and the esophagus, and people on diabetes drugs or diuretics should check with their doctor. Its best use is in the kitchen, as a salad dressing.
 
 ### Frequently asked questions
 
 **Question: Does apple cider vinegar help with weight loss?**
-Answer: One Japanese study (2009) found a loss of 1-2 kg after 12 weeks — very modest. It does not "burn fat", but it may help with satiety and blood sugar regulation.
+Answer: Slightly. In a 12-week trial, drinking 15–30 ml a day led to about 1–2 kg more weight loss than placebo. It does not "burn fat", and without dietary changes the effect is negligible.
 
-**Question: What is the difference between filtered and unfiltered vinegar ("with the Mother")?**
-Answer: Vinegar with "the Mother" contains bacteria and proteins, but evidence for a specific health benefit from them is very limited.
+**Question: How much apple cider vinegar can I drink a day?**
+Answer: 1–2 tablespoons (15–30 ml) a day, diluted in a glass of water. Those are the amounts tested in studies. Larger amounts raise the risk to teeth, stomach and potassium levels.
 
-**Question: How long does it take to see an effect?**
-Answer: For blood sugar — a possible effect from the very first meal. For weight — studies ran for 8-12 weeks.
+**Question: When should I drink apple cider vinegar?**
+Answer: Before or with a carbohydrate-rich meal, if the aim is to blunt the blood sugar rise. On an empty stomach without food it has no special benefit and may irritate the stomach.
+
+**Question: Is vinegar "with the mother" better?**
+Answer: There is no evidence for that. The mother contains bacteria and cellulose, but acetic acid is responsible for the measured effects, and it is present in filtered vinegar too.
 
 **Question: Can I drink apple cider vinegar straight from the bottle?**
-Answer: Absolutely not — its acidity of pH~3 erodes tooth enamel and can irritate the esophagus. Always dilute it.
+Answer: No. An acidity of pH 2.5–3 erodes enamel and can burn the esophagus. Always dilute it in a glass of water and rinse your mouth afterwards.
 
-### Summary
-
-Apple cider vinegar is a gentle addition with limited, realistic effects, mainly on blood sugar regulation and satiety. It works well in salad dressings and in cooking — but it is not a "miracle cure". Always use it diluted and keep your expectations accurate.
+**Question: Is apple cider vinegar suitable for people with diabetes?**
+Answer: It may help a little with blood sugar control, but it can add to the effect of medication and cause low blood sugar, and people with slow stomach emptying should avoid it. Coordinate with your doctor.

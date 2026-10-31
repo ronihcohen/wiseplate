@@ -4,7 +4,7 @@ seo_title: "Insulin and Insulin Resistance: How It Works and What Helps"
 date: 2026-08-09T12:00:00+03:00
 lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "Insulin: how it moves sugar into cells, what insulin resistance is and why it starts years before diabetes, and what really helps — weight loss, exercise and sleep."
+description: "Insulin: how it moves sugar into cells, what insulin resistance is and why it starts years before diabetes, and what helps — weight loss, exercise, sleep."
 ---
 
 ## Insulin

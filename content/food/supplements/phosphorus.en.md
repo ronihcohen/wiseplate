@@ -4,7 +4,7 @@ seo_title: "Phosphorus: Daily Needs and the Problem With Phosphate Additives"
 date: 2026-02-13T05:56:32+02:00
 lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "Phosphorus: 700 mg a day for adults, and most people get more. Why phosphate additives (E338–E452) are almost fully absorbed, and why it matters for kidney disease."
+description: "Phosphorus: 700 mg a day for adults, and most get more. Why phosphate additives (E338–E452) are almost fully absorbed, and why that matters in kidney disease."
 ---
 
 ## Phosphorus

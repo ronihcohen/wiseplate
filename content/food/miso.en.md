@@ -1,50 +1,82 @@
 ---
 title: "Miso Paste"
+seo_title: "Miso: Nutrition Facts, Sodium, Benefits, Downsides and Uses"
 date: 2026-03-05T11:05:00+02:00
+lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "Fermented miso paste: a powerhouse of live probiotics and natural umami that lifts any stew or sauce to chef-restaurant level, while supplying amino acids and vitamins."
+description: "A tablespoon of miso: about 35 kcal and 630 mg sodium. What miso is, what research says on miso soup, blood pressure and stomach cancer, probiotics, and uses."
 ---
 
-## Introduction: Miso Paste
+## Miso Paste
 
-If there is one chef-restaurant secret you simply must bring home, it is miso (in Hebrew, "משחת מיסו"). It is a traditional Japanese paste made by long fermentation of soybeans (or sometimes [barley](/en/food/barley/), [rice](/en/food/rice/) and other legumes) with sea salt and a unique fermentation mold called koji. This process, which can take anywhere from a few weeks to years, breaks the soy proteins down into free amino acids and creates a fermented paste bursting with live probiotics. The result is a "meaty", deep, salty (umami) flavor that adds incredible complexity to any dish, even a fully vegan one. Most of us know miso only from thin Japanese soup, but its potential in the home kitchen is endless.
+**Miso is a Japanese paste of soybeans fermented with salt and koji. One tablespoon (about 17 grams) provides about 35 calories, about 2 grams of protein and about 630 mg of sodium — more than a quarter of the daily limit. As a seasoning it adds a lot of umami flavor in a small amount, but it is mainly a source of salt, not a "health supplement."**
 
-## Nutritional and health benefits
+Miso (in Hebrew "משחת מיסו") is made from cooked soybeans, salt and koji — rice or barley inoculated with the mold *Aspergillus oryzae*. The koji breaks down the protein and starch in the soybeans, and over weeks to years a paste forms that is rich in glutamic acid, which is responsible for the umami taste. There are also versions made from [barley](/en/food/barley/), [rice](/en/food/rice/) and even [chickpeas](/en/food/chickpeas/), without soy.
 
-### Digestion and live probiotics
-The long fermentation process makes miso a great source of good bacteria (probiotics) and beneficial fungi. Regular intake of unpasteurized (live) miso helps balance the gut flora (the microbiome), improves digestion, may reduce inflammation in the digestive tract and strengthen the local immune system in the gut. Fermentation also breaks down the phytic acid in the original soybeans, so minerals become far more available for absorption in the body.
+Main types:
+- **White miso (Shiro):** short fermentation, more rice, a sweetish, mild taste and less salt.
+- **Red miso (Aka):** long fermentation, a deeper and saltier taste.
+- **Hatcho:** almost all soy, fermented up to three years, dark and very strong.
 
-### Free amino acids and tissue building
-Miso, as mentioned, provides complete protein that has already been broken down into bioavailable amino acids. Prominent among them is glutamic acid, which is responsible for the powerful umami taste, but also serves as an important neurotransmitter in the brain and takes part in energy pathways.
+### Nutrition facts
 
-### Antioxidants and protection against radiation
-The fermented soybeans in miso are rich in isoflavones such as genistein. Epidemiological studies in Japan have consistently shown that traditional miso soup intake is associated with a reduced risk of several types of cancer (such as breast cancer and prostate cancer), and it also protects cells from free radicals and even radiation damage, as documented after tragic events in Japan in which survivors who ate miso showed better immune recovery.
+Approximate values for a typical miso:
 
-## Side effects and warnings worth knowing
+| Nutrient | Per 100 g | Per tablespoon (about 17 g) |
+|---|---|---|
+| Calories | about 200 | about 35 |
+| Protein | about 12 g | about 2 g |
+| Carbohydrates | about 26 g | about 4.5 g |
+| Fiber | about 5 g | about 1 g |
+| Fat | about 6 g | about 1 g |
+| **[Sodium](/en/food/supplements/sodium/)** | **about 3,700 mg** | **about 630 mg** |
+| [Vitamin K](/en/food/supplements/vitamin-k/) | about 30 mcg | about 5 mcg |
 
-- **High sodium levels:** Concentrated miso paste contains quite a lot of salt, used in the fermentation process to suppress harmful bacteria. While a single teaspoon won't do harm, people with chronic high blood pressure should plan their overall [sodium](/en/food/supplements/sodium/) intake when they add miso in place of other salt in a dish.
-- **Soy sensitivity:** Traditional miso is based on soy, so people allergic to soy must look for "[chickpea](/en/food/chickpeas/) miso" or miso based on other soy-free legumes (many of which are now made by craft producers).
+A typical bowl of miso soup contains a tablespoon of miso, so about 600-700 mg of sodium. White miso is a little less salty than red, but the difference is not dramatic — check the label.
 
-## Culinary use: "the winning pair"
+### Benefits
 
-Using miso doesn't end with classic soup with [tofu](/en/food/tofu/) cubes. It is the ultimate seasoning base:
+- **A lot of flavor in a small amount:** a teaspoon of miso gives depth to a sauce, a marinade or a vegetable stew. If you use it to replace part of the salt in a dish, you add no sodium — but if you add it on top of the usual salt, you do.
+- **A fermented food:** unpasteurized miso contains live microorganisms, mainly salt-tolerant lactic acid bacteria and yeasts. There are almost no human trials testing miso as a probiotic, and most of them die in boiling soup. A trial of a diet rich in a variety of fermented foods found more gut microbiome diversity and lower inflammatory markers — but that was a study of a whole diet, not of miso. [Wastyk et al., 2021](https://pubmed.ncbi.nlm.nih.gov/34256014/).
+- **Miso soup and blood pressure — less bad than expected:** despite the salt, Japanese studies found that miso soup raises blood pressure less than the same amount of salt. In a small trial of 40 people with high-normal blood pressure, two servings of miso a day for 8 weeks did not raise daytime blood pressure and even slightly lowered nighttime blood pressure compared with a low-salt soy food. [Kondo et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31371810/). Worth knowing: employees of a miso maker took part in the trial, and it is small. A Japanese review concludes that observational studies found no link between how often people eat miso soup and blood pressure, but the mechanism is unclear and most of the evidence comes from small studies and animal research. [Ito, 2020](https://pubmed.ncbi.nlm.nih.gov/32867671/).
+- **Soy and isoflavones:** miso contains isoflavones from soy. A meta-analysis of 41 clinical studies found that soy does not affect testosterone or estrogen in men. [Reed et al., 2021](https://pubmed.ncbi.nlm.nih.gov/33383165/).
 
-- **How to choose? (My recommendation):** I found you the winning organic pair from Eden Foods (which is also kosher):
-  1. **Light miso (Shiro):** A shorter fermentation time and a sweetish, delicate taste. Excellent and spot-on for light salad dressings (try mixing half a teaspoon with [sesame](/en/food/sesame-seeds/) oil, rice vinegar and a little maple), or as a delicate glaze for baked fish.
-  2. **Dark miso (Genmai or Hatcho):** Usually based on a combination of brown rice or whole soybeans with a very long fermentation time (up to 3 years). It gives incredible dark, salty depth to casseroles, vegan "beef" sauces and heavy Asian stir-fries.
-- **The iron rule (don't boil it!):** To preserve the live probiotics in miso (unpasteurized miso from the refrigerator), add it only at the end of cooking. For example, turn off the heat under the soup or stew, dissolve the teaspoon of miso in a small bowl with a little warm (not boiling) water, and then pour it back into the pot. This way you get rich flavor alongside maximum health value.
+### Downsides
 
-## Summary
+- **Sodium — the main downside:** 100 grams of miso contain about 3,700 mg of sodium, more than the entire daily limit. In the Japanese JACC cohort study, people who ate three or more bowls of miso soup a day had about a 60% higher risk of stomach cancer than those who ate less, and total sodium intake was linked to risk in a linear way. [Umesawa et al., 2016](https://pubmed.ncbi.nlm.nih.gov/26477994/). A meta-analysis of cohort studies found the link between salt and stomach cancer was especially strong in Japan. [D'Elia et al., 2012](https://pubmed.ncbi.nlm.nih.gov/22296873/).
+- **Soy allergy and gluten:** most miso is soy-based, and many varieties also contain [gluten](/en/food/gluten/) from barley or wheat. There are chickpea-only or rice-only versions — check the label.
+- **Vitamin K and blood thinners:** the amount per serving is small, but people taking warfarin should keep their intake of vitamin K-rich foods consistent, including fermented soy foods. [NIH ODS — Vitamin K](https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/).
+- **Biogenic amines:** like other fermented foods, miso contains tyramine and histamine, which can bother people with histamine sensitivity or those taking MAOI drugs.
 
-Miso is a hidden treasure from the Far East that belongs in every modern Western refrigerator. It solves the problem of "blandness" in many vegetarian and vegan dishes — one teaspoon changes the whole dish — and along the way it equips the gut with friendly bacteria and amino acids that help restore the body. Once you know its power, it is hard to imagine the kitchen without it.
+### Practical use
 
-## Frequently asked questions
+- **Amount:** a teaspoon to a tablespoon a day is reasonable. If you watch your blood pressure, count miso as part of that meal's salt, not as something extra.
+- **Miso soup:** one tablespoon of miso per about 250 ml of stock. Dissolve the miso in a little hot liquid, add it at the end of cooking and don't boil it — that preserves the flavor and the live microorganisms.
+- **Dressings and marinades:** white miso with [sesame](/en/food/sesame-seeds/) oil, rice vinegar and a little sweetness is a classic salad dressing. Miso mixed with butter or oil works as a glaze for fish or roasted vegetables.
+- **Stews:** dark miso adds depth to legume stews, mushroom sauces and stir-fries, and pairs well with [tofu](/en/food/tofu/).
+- **Where to buy:** unpasteurized miso is sold refrigerated; miso on a regular shelf has usually been pasteurized. Both are fine for cooking.
+- **Storage:** in a closed container in the fridge, miso keeps for many months, even a year. Use a clean spoon.
 
-### Question: Does miso sitting on the supermarket shelf (not refrigerated) contain live bacteria?
-Answer: Usually not. Miso sold in plastic jars outside the refrigerator has been double heat-pasteurized to completely stop fermentation and stabilize the product for a long shelf life. You can enjoy its mild umami flavor and its minerals, but not the live probiotics or active enzymes. For the health benefits, always look for unpasteurized miso in the refrigerated section or natural artisanal miso.
+### Summary
 
-### Question: Is fermented soy like miso safe for men and women, given concerns about "hormones"?
-Answer: Yes. The myth around phytoestrogens in soy has been refuted in recent years in the context of normal, everyday intake. On the contrary — it was found that soy isoflavones bind to estrogen receptors in a way that protects them from an excessive effect of human estrogen (a balancing activity). More importantly, the long fermentation process completely breaks down problematic chemicals and leaves a super-safe, nourishing product.
+Miso is a fermented Japanese seasoning that gives deep umami flavor in small amounts and fits well into plant-based cooking. The health benefits attributed to it — probiotics, cancer protection — have not been shown in human trials, while its high sodium content is well established: large amounts of miso soup are linked to a higher risk of stomach cancer. Use it to replace part of the salt, a teaspoon to a tablespoon a day, rather than as a "health food" to add freely.
 
-### Question: How long does unpasteurized miso paste keep in the refrigerator?
-Answer: Miso is a naturally preserved product (thanks to the salt and its acidity level). If you keep it in an airtight container in the refrigerator, take it out only with a clean spoon and don't put leftovers back in — it can last a year and even keep developing flavors very slowly.
+### Frequently asked questions
+
+**Question: Is miso healthy?**
+Answer: As a seasoning in small amounts, yes — it adds flavor without many calories. But it is high in sodium (about 630 mg per tablespoon), and the probiotic benefits attributed to it have not been shown in human trials.
+
+**Question: Does shelf-stable miso (not refrigerated) contain live bacteria?**
+Answer: Usually not. Miso sold outside the fridge has usually been pasteurized to stop fermentation. The flavor and nutrients remain, but not the live microorganisms. Unpasteurized miso is sold refrigerated.
+
+**Question: How much sodium is in miso soup?**
+Answer: A typical bowl with a tablespoon of miso has about 600-700 mg of sodium — a quarter to a third of the daily limit. In a large Japanese study, three or more bowls a day were linked to a higher risk of stomach cancer.
+
+**Question: Does the soy in miso affect hormones?**
+Answer: According to a meta-analysis of 41 clinical studies, soy and isoflavones do not affect testosterone or estrogen in men. The amount in a serving of miso is small anyway.
+
+**Question: Is miso suitable for people sensitive to gluten?**
+Answer: Not always. Barley miso (mugi) contains gluten, and some products contain wheat. Miso made only from rice and soy is usually gluten-free — check the label.
+
+**Question: How long does miso paste keep in the fridge?**
+Answer: In a closed container in the fridge — many months, sometimes a year. The salt and acidity preserve it. Always use a clean spoon; a slight change in color over time is natural.

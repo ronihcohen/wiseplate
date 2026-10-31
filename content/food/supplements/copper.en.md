@@ -4,7 +4,7 @@ seo_title: "Copper: Daily Needs, and Why Zinc Supplements Can Deplete It"
 date: 2026-02-13T05:56:32+02:00
 lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "Copper: 900 mcg a day for adults, its role in iron transport and the nervous system, why high-dose zinc causes deficiency, and when anaemia calls for a copper test."
+description: "Copper: 900 mcg a day for adults, its role in iron transport and nerves, why high-dose zinc causes deficiency, and when anaemia calls for a copper test."
 ---
 
 ## Copper
