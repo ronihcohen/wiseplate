@@ -4,7 +4,7 @@ seo_title: "Argaliot (Filled Cookies): Calories and Sugar per Cookie"
 date: 2025-12-22T21:34:00+02:00
 lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "One argalit (about 8 g) has about 35–40 calories, and 100 g holds about 25–35 g of sugar. What is in the filled cookie, why it is hard to stop, and how to fit it in."
+description: "One argalit (about 8 g) has about 35–40 calories, and 100 g holds about 25–35 g of sugar. What is in this filled cookie and how to fit it into your diet."
 ---
 
 ## Argaliot (Filled Cookies)

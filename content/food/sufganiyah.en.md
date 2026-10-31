@@ -4,7 +4,7 @@ seo_title: "Sufganiyah (Jelly Doughnut): Calories and a Smarter Hanukkah"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "A standard jam sufganiyah (80–90 g) has about 300 calories, 16 g of fat and 18 g of sugar. What frying does, the acrylamide question, and enjoying Hanukkah sensibly."
+description: "A standard jam sufganiyah (80–90 g) has about 300 calories, 16 g of fat and 18 g of sugar. What frying does, acrylamide, and a sensible Hanukkah."
 ---
 
 ## Sufganiyah (Jelly Doughnut)
