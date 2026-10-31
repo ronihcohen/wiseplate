@@ -2,14 +2,16 @@
 title: "Vitamin K"
 seo_title: "Vitamin K: K1 vs. K2, Sources, Dosage and Blood Thinners"
 date: 2026-02-13T05:56:32+02:00
-lastmod: 2026-08-18T09:00:00+03:00
+lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "Vitamin K: the difference between K1 and K2, food sources and exact amounts, recommended intake, why babies get a shot at birth, and the interaction with Coumadin."
+description: "Vitamin K: 90–120 mcg a day from leafy greens. K1 vs. K2, why babies get a shot at birth, and how to eat green vegetables while taking warfarin (Coumadin)."
 ---
 
 ## Vitamin K
 
-Vitamin K is a fat-soluble vitamin whose best-known role — blood clotting — is only part of the story. Its name comes from the German word *Koagulation*, but research over the past two decades has focused on its second role: **routing [calcium](/en/food/supplements/calcium/) to the right place in the body** — to the bones rather than the arteries.
+**Vitamin K is a fat-soluble vitamin needed for blood clotting and bone building. Adults need 90 micrograms a day (women) or 120 (men) — one serving of leafy greens supplies that — and no upper limit has been set. People on warfarin (Coumadin) should keep their intake steady, not avoid vegetables.** [NIH fact sheet on vitamin K](https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/) In Hebrew it is "ויטמין K".
+
+Its name comes from the German word *Koagulation*, but much of the research over the past two decades concerns its second role: activating proteins that bind [calcium](/en/food/supplements/calcium/) in bone and in blood vessel walls.
 
 ### K1 vs. K2 — not really the same vitamin
 
@@ -33,7 +35,7 @@ It enables one chemical reaction: **carboxylation of glutamate**. Proteins that 
 * **Osteocalcin** — in bone. It binds calcium and fixes it into the bone matrix.
 * **MGP (Matrix Gla Protein)** — in blood vessel walls. Its job is to **prevent** calcium from depositing in the arteries. Uncarboxylated MGP is an accepted marker of K2 deficiency in the tissues.
 
-Hence the concept of the "calcium paradox": a situation where there is enough calcium in the diet but it migrates to the arteries instead of the bone. K2 is the link that directs it.
+Hence the idea of the "calcium paradox": a situation where there is enough calcium in the diet but it deposits in the arteries instead of the bone, and K2 is supposed to direct it. It is an interesting hypothesis based on the mechanism and on observational studies, not a conclusion proven in trials.
 
 ### Food sources and amounts
 
@@ -64,12 +66,24 @@ Hence the concept of the "calcium paradox": a situation where there is enough ca
 
 ### How much you need
 
-The Adequate Intake (AI) that has been set is based **on clotting needs only**, not on the needs of bones and arteries:
+The Adequate Intake (AI) that has been set is based **on clotting needs**, not on the needs of bones and arteries:
 
-* **Men: 120 mcg per day.** Women: 90 mcg per day.
+| Age | Adequate intake per day |
+|---|---|
+| Infants 0–6 months | 2.0 mcg |
+| Infants 7–12 months | 2.5 mcg |
+| 1–3 | 30 mcg |
+| 4–8 | 55 mcg |
+| 9–13 | 60 mcg |
+| 14–18 | 75 mcg |
+| 19 and over | men 120, women 90 mcg |
+| Pregnancy and breastfeeding (19+) | 90 mcg |
+
+**Upper limit: not set**, because no toxicity has been reported from vitamin K1 or K2 in food or supplements. [NIH ODS — vitamin K](https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/)
+
 * A serving of [spinach](/en/food/spinach/) or [broccoli](/en/food/broccoli/) easily covers this. **True K1 deficiency is very rare** in a healthy adult.
-* No separate recommendation has been set for K2. Intervention studies on bone density and arterial flexibility mostly used **180 mcg of MK-7 per day** for 3 years.
-* **Absorption requires fat.** Taking it with a meal containing fat significantly increases bioavailability — this is true of all fat-soluble vitamins.
+* No separate recommendation has been set for K2. In a Dutch trial in which postmenopausal women took **180 mcg of MK-7 a day** for 3 years, bone density loss in the spine and femoral neck was smaller than with placebo. [Knapen et al., 2013](https://pubmed.ncbi.nlm.nih.gov/23525894/)
+* **Absorption requires fat.** Taking it with a meal containing fat improves absorption — as with all fat-soluble vitamins.
 
 ### The shot babies get at birth
 
@@ -81,19 +95,19 @@ A single 1 mg intramuscular injection at birth prevents almost all forms of the 
 
 ### Downsides, risks and interactions
 
-* **Coumadin (warfarin) — the most important interaction.** The drug works precisely by blocking the vitamin K cycle. **The common mistake is thinking you need to avoid green vegetables — that's not true.** Cardiologists' guidance is to keep vitamin K intake **steady and consistent**, so that the drug dose can be calibrated to it. Sharp swings — a week of salads and then a week without — are what's dangerous, not the vegetables themselves. Don't take a K2 supplement while on Coumadin without your treating doctor knowing.
+* **Coumadin (warfarin) — the most important interaction.** The drug works precisely by blocking the vitamin K cycle. **The common mistake is thinking you need to avoid green vegetables — that's not true.** The guidance is to keep vitamin K intake **steady and consistent**, so that the drug dose can be calibrated to it. [NIH ODS — vitamin K](https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/) In a Dutch trial, a fixed daily 100 mcg of vitamin K even improved the stability of treatment with an anticoagulant of the same family — but that was done under an anticoagulation clinic's supervision, and should not be copied on your own. [Rombouts et al., 2007](https://pubmed.ncbi.nlm.nih.gov/17666020/) Sharp swings — a week of salads and then a week without — are what's dangerous, not the vegetables themselves. Don't take a K2 supplement while on Coumadin without your treating doctor knowing.
 * **DOAC-type drugs** (Eliquis, Xarelto) are not affected by vitamin K.
 * **Toxicity:** no toxicity has been documented for natural K1 and K2, even at high doses. An important exception is **menadione (vitamin K3)**, a synthetic form that has been banned from human supplements because of liver toxicity and hemolysis.
 * **Drugs that reduce absorption:** orlistat, cholestyramine, and broad-spectrum antibiotics used long term (which damage the gut flora).
 * **Fat malabsorption conditions:** celiac disease, Crohn's, cystic fibrosis, cholestatic liver disease and bariatric surgery — here true K deficiency is possible and warrants testing.
-* **The evidence for K2 is still not clear-cut.** Observational studies (including the Rotterdam Study) found a consistent link between high K2 intake and less arterial calcification and cardiac mortality, and several intervention studies showed improvements in arterial flexibility and bone density. But other large studies did not reproduce the finding, and there is no consensus yet. It is a promising direction, not an established fact.
+* **The evidence for K2 is still not clear-cut.** Observational studies (including the Rotterdam Study [Geleijnse et al., 2004](https://pubmed.ncbi.nlm.nih.gov/15514282/)) found a link between high K2 intake and less arterial calcification and cardiac mortality, and several intervention studies showed improvements in arterial flexibility and bone density. But other large studies did not reproduce the finding, and there is no consensus yet. It is a promising direction, not an established fact.
 
 ### Practical use
 
 * **Most people don't need a supplement.** A daily serving of green leafy vegetables covers K1, and aged [cheese](/en/food/cheese/), egg yolks and fermented foods contribute K2.
 * **If you're considering a K2 supplement:** choose MK-7 (long half-life) rather than MK-4, at a dose of 100-200 mcg, and take it with a fatty meal.
 * **Combining with [vitamin D](/en/food/supplements/vitamin-d/):** vitamin D increases calcium absorption from the gut, and K2 directs it to the bone. For people taking high doses of vitamin D over a long period, this is why many recommend adding K2, although direct evidence for it is still limited.
-* **Cook green vegetables with [olive oil](/en/food/olive-oil/)** — simple and straightforward, and it doubles absorption.
+* **Cook green vegetables with [olive oil](/en/food/olive-oil/)** — simple, and it improves absorption.
 
 ### Summary
 

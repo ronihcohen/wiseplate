@@ -1,15 +1,32 @@
 ---
 title: "Corn Syrup"
+seo_title: "High-Fructose Corn Syrup (HFCS): Is It Worse Than Sugar?"
 date: 2026-08-10T07:10:00+03:00
+lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "HFCS, fructose metabolism and fatty liver — and why the comparison with regular sugar shows that the problem is not the syrup itself but the amount."
+description: "High-fructose corn syrup (HFCS) is 42–55% fructose, vs 50% in table sugar. Is it more harmful, what is the fatty-liver link, and how much is OK a day."
 ---
 
 ## Corn Syrup / HFCS
 
+**High-fructose corn syrup (HFCS) contains 42% or 55% fructose, compared with 50% in ordinary table sugar, so calorie for calorie it affects the body almost exactly like sugar.** The problem is not the source of the sugar but the amount: the cheap syrup found its way into many products, and it counts as free sugar just like white sugar and honey.
+
 Corn syrup (in Hebrew "סירופ תירס") is made by enzymatically breaking down [corn](/en/food/corn/) starch into glucose. In its basic form it is almost pure glucose syrup, less sweet than sugar. The version at the center of the health debate is **high-fructose corn syrup (HFCS)**, in which an enzyme called glucose isomerase converts some of the glucose into the sweeter fructose.
 
 The two common versions are HFCS-55 (55% fructose, 42% glucose), used in drinks, and HFCS-42, used in baked goods and processed food.
+
+### Nutrition facts
+
+High-fructose corn syrup (approximate):
+
+| Nutrient | Per 100 g | Per tablespoon (about 20 g) |
+| --- | --- | --- |
+| Calories | about 280 | about 56 |
+| Carbohydrate (all sugars) | about 76 g | about 15 g |
+| Water | about 24 g | about 5 g |
+| Protein, fat, fibre | 0 | 0 |
+
+It contains no meaningful amounts of vitamins or minerals.
 
 The syrup was developed in the 1970s and captured a huge market share thanks to three industrial advantages: it is significantly cheaper than cane sugar (mainly because of corn subsidies and tariffs on imported sugar), it is liquid and therefore easy to mix in mass production, and it retains moisture and extends shelf life.
 
@@ -21,7 +38,7 @@ A widespread claim holds that HFCS is uniquely harmful, far beyond regular sugar
 
 **HFCS-55** contains 55% fructose, already in free form.
 
-The difference is 5 percentage points. After digestion, both reach the liver in almost identical composition. Systematic reviews that compared the two directly found no significant difference in their effect on weight, blood lipids or metabolic markers when the calorie amount is the same.
+The difference is 5 percentage points. After digestion, both reach the liver in almost identical composition. The US Food and Drug Administration (FDA) states that it is not aware of evidence of a difference in safety between foods containing HFCS and foods containing similar amounts of sugar or honey. [FDA — HFCS questions and answers](https://www.fda.gov/food/food-additives-petitions/high-fructose-corn-syrup-questions-and-answers)
 
 **The conclusion is not that HFCS is safe** — but that the problem is **fructose and the amount**, not the source of the sugar. Focusing on HFCS as a unique villain diverts attention from the real question: how much added sugar is consumed overall.
 
@@ -33,9 +50,9 @@ Where HFCS **does** play a unique role: its low price and ease of use led to it 
 
 * **Bypassing the control point:** in the glucose breakdown pathway there is an enzyme (phosphofructokinase) that acts as a regulating tap — when the cell is saturated with energy, it closes. Fructose enters the pathway **below** this control point, so its breakdown is unregulated. Excess energy flows directly into fat production.
 
-* **De novo lipogenesis (DNL):** the result is increased production of fatty acids in the liver. Some are packaged into VLDL and raise blood triglycerides, and some are stored in the liver itself.
+* **De novo lipogenesis (DNL):** the result is increased production of fatty acids in the liver. Some are packaged into VLDL and raise blood triglycerides, and some are stored in the liver itself. In a 10-week trial, drinks sweetened with fructose — but not glucose — increased abdominal fat and blood lipids and reduced insulin sensitivity. [Stanhope 2009, J Clin Invest](https://pubmed.ncbi.nlm.nih.gov/19381015/)
 
-* **Non-alcoholic fatty liver disease (NAFLD):** high, prolonged fructose intake is consistently linked to fat accumulation in the liver and to insulin resistance. Controlled feeding trials showed a measurable increase in liver fat with high fructose intake.
+* **Non-alcoholic fatty liver disease (NAFLD):** high, prolonged fructose intake is consistently linked to fat accumulation in the liver and to insulin resistance. A systematic review found that adding extra calories as fructose raises liver fat, but adding similar extra calories as glucose does so to a similar degree — so the calorie surplus is probably the key factor, and the evidence on HFCS versus sugar was insufficient for a conclusion. [Chung 2014, Am J Clin Nutr](https://pubmed.ncbi.nlm.nih.gov/25099546/)
 
 * **A weak satiety response:** fructose triggers a weaker insulin and leptin response than glucose — two hormones that signal satiety. The calories "don't register" well, especially when they come in liquid form.
 
@@ -49,13 +66,13 @@ Where HFCS **does** play a unique role: its low price and ease of use led to it 
 
 * **Hidden presence:** it appears on labels under many names — "corn syrup", "high-fructose corn syrup", "glucose-fructose syrup", "isoglucose" (the name used in the European Union). Products not perceived as sweet at all contain it.
 
-* **Type 2 diabetes and obesity:** large cohort studies link sweetened drink consumption with an increased risk of type 2 diabetes, obesity and metabolic syndrome. The link is consistent, although fundamentally observational.
+* **Type 2 diabetes and obesity:** large cohort studies link sweetened drink consumption with an increased risk of type 2 diabetes, obesity and metabolic syndrome. The link is consistent, although fundamentally observational: 1–2 drinks a day were linked to a 26% higher risk of diabetes. [Malik 2010, Diabetes Care](https://pubmed.ncbi.nlm.nih.gov/20693348/)
 
 * **Tooth decay:** like any fermentable sugar, it feeds the mouth bacteria that produce acid.
 
 ### What the official recommendation says
 
-The World Health Organization recommends limiting **free sugars** — a category that includes corn syrup, white sugar, [honey](/en/food/honey/), date syrup (silan) and fruit juices — to less than 10% of total daily calories, and preferably below 5%.
+The World Health Organization recommends limiting **free sugars** — a category that includes corn syrup, white sugar, [honey](/en/food/honey/), date syrup (silan) and fruit juices — to less than 10% of total daily calories, and preferably below 5%. [WHO — Guideline: sugars intake](https://www.who.int/publications/i/item/9789241549028)
 
 For a 2,000-calorie diet: under 50 grams a day, and preferably under 25 grams (about 6 teaspoons). A single can of a sweetened drink contains about 35-40 grams — meaning it exceeds the stricter threshold on its own.
 
@@ -78,7 +95,7 @@ High-fructose corn syrup is not a unique poison, and it is almost identical to t
 ### Frequently asked questions
 
 **Question: Is corn syrup more harmful than regular sugar?**
-Answer: Hardly. Table sugar is 50% fructose and HFCS-55 is 55% — a difference of 5 percentage points. Reviews that compared the two directly found no significant difference for the same number of calories. The problem is fructose and the amount, not the source.
+Answer: Hardly. Table sugar is 50% fructose and HFCS-55 is 55% — a difference of 5 percentage points. The FDA is not aware of evidence of a difference in safety between them, and a systematic review found that the effect on the liver comes mainly from excess calories. The problem is fructose and the amount, not the source.
 
 **Question: So why is HFCS considered a problem?**
 Answer: Because of economics, not biochemistry. Its low price and ease of use made it possible to put sugar into products that used not to be sweet — bread, sauces, processed meat — and thereby raised total sugar intake in the population.

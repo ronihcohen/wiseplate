@@ -1,62 +1,78 @@
 ---
 title: "Milk"
-seo_title: "Milk: Benefits, Downsides and Nutrition Facts"
+seo_title: "Milk Nutrition Facts: Benefits, Downsides and What Research Shows"
 date: 2026-02-13T12:00:00+02:00
+lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "Milk — benefits and downsides, full nutritional value, lactose and intolerance, and the differences between types of milk."
+description: "A 240 ml glass of 3% milk: about 8 g protein and 290 mg calcium. What studies say about milk and bones, acne and mucus, lactose, and whole vs low-fat milk."
 ---
 
-Milk (in Hebrew, "חלב"), and especially cow's milk, is one of the most basic foods in Western culture. It is the first source of nutrition for all mammals, designed to meet all the needs of the growing young. However, drinking it in adulthood (and especially drinking the milk of another species) is a phenomenon unique to humans, and it is the subject of much health and ethical debate.
+## Milk
 
-### Nutritional composition: a complete package
-A glass of milk (200 ml) is a small "nutrition bomb" containing almost all the macronutrients:
-*   **Complete protein:** Milk contains about 3% protein, divided into two main groups: casein (about 80%) and [whey protein](/en/food/supplements/whey-protein/) (about 20%). These proteins are well absorbed by the body and provide all the essential amino acids for building muscle.
-*   **Fat:** Ranges from 0% (skim) to 3-4% (whole milk). Milk fat contains saturated fatty acids, but also fat-soluble vitamins (A, D, E, K).
-*   **Carbohydrates:** The sugar in milk is called lactose.
+**A 240 ml glass of 3% cow's milk provides about 145 calories, about 8 grams of complete protein and about 290 mg of calcium — nearly a third of an adult's daily calcium needs. Milk is an efficient, cheap source of protein and calcium, but it is not essential: research does not show that milk prevents fractures, and most adults worldwide digest lactose only partially.**
 
-### Vitamins and minerals
-*   **[Calcium](/en/food/supplements/calcium/):** The best-known source of [calcium](/en/food/supplements/calcium/) in the Western world. Calcium is essential not only for bones and teeth but also for normal muscle and nerve function. The bioavailability of the calcium in milk is higher than that of many plant sources.
-*   **[Vitamin B12](/en/food/supplements/vitamin-b12/):** Milk is an excellent source of this vitamin, which is essential for the nervous system and for producing red blood cells.
-*   **[Potassium](/en/food/supplements/potassium/) and [magnesium](/en/food/supplements/magnesium/):** Minerals essential for balancing blood pressure.
+Milk (in Hebrew "חלב") is the first food of every mammal, but drinking it as an adult is a human habit that developed with the domestication of cattle. In Israel, cow's milk is the base for a long list of products — [cheese](/en/food/cheese/), [cottage cheese](/en/food/cottage-cheese/), [yogurt](/en/food/greek-yogurt/) and [kefir](/en/food/kefir/) — so understanding milk itself is the starting point for all dairy.
 
-### The lactose issue
-Lactose is a disaccharide made of glucose and galactose. To digest it, the body needs an enzyme called **lactase**.
-In most mammals (and in many humans too), lactase production drops significantly after the nursing age. As a result, about 65% of the world's population has some degree of lactose intolerance, which shows up as gas, bloating and diarrhea after consuming milk.
-*   **The solution:** Hard cheeses (Parmesan, yellow cheese) and yogurt are naturally very low in lactose, since bacteria broke it down during fermentation.
+### Nutrition facts
 
-### Milk and tea: the odd couple
-Adding milk to tea is a classic British custom. Chemically, the protein **casein** binds to the [polyphenols](/en/food/polyphenols/) (the [tannins](/en/food/tannins/) and antioxidants) in tea.
-*   **The upside:** This neutralizes the bitterness of the [tannins](/en/food/tannins/) and makes the tea softer and more pleasant to drink.
-*   **The downside:** This binding reduces (by about 10-20%) the body's ability to absorb the antioxidants. It doesn't cancel the benefits of tea, but it weakens them somewhat.
+Approximate values for 3% fat cow's milk:
 
-### Benefits of milk
+| Nutrient | Per 100 ml | Per glass (240 ml) |
+|---|---|---|
+| Calories | about 60 | about 145 |
+| Protein | about 3.3 g | about 8 g |
+| Fat (saturated) | about 3 g (about 2 g) | about 7.5 g (about 4.5 g) |
+| Carbohydrates (lactose) | about 4.7 g | about 11 g |
+| [Calcium](/en/food/supplements/calcium/) | about 120 mg | about 290 mg |
+| [Vitamin B12](/en/food/supplements/vitamin-b12/) | about 0.4 mcg | about 1 mcg |
+| [Potassium](/en/food/supplements/potassium/) | about 150 mg | about 360 mg |
 
-- **Highly available complete protein:** About 6–7 grams of protein per glass, containing all the essential amino acids. Whey protein is rich in leucine, the amino acid that switches on the muscle-building mechanism.
-- **Especially available calcium:** The bioavailability of the calcium in milk is higher than that of most plant sources, in which oxalates and phytates block some of the absorption.
-- **A complete nutritional package:** Milk provides protein, calcium, [vitamin B12](/en/food/supplements/vitamin-b12/), [phosphorus](/en/food/supplements/phosphorus/), potassium and riboflavin all at once — a combination that is hard to get from any other single food.
-- **Fortified with vitamin D** in many countries, making it a significant source of a vitamin that is hard to get from food.
-- **Workout recovery:** The ratio of protein to carbohydrates in milk makes it an effective, inexpensive recovery drink.
+1% milk has about 42 calories per 100 ml, with the same protein and calcium. The protein is about 80% casein and about 20% [whey protein](/en/food/supplements/whey-protein/). In the US and Canada milk is routinely fortified with vitamin D; in Israel only some products are, so check the label.
 
-### Downsides of milk
+### Benefits
 
-- **Lactose intolerance:** The most common downside — about 65% of the world's population develop a decline in lactase production after infancy, and the result is gas, bloating and stomach pain. The solutions: lactose-free milk, hard cheeses, [yogurt](/en/food/greek-yogurt/) or [kefir](/en/food/kefir/).
-- **Milk protein allergy:** A completely different condition from lactose intolerance — an immune reaction to casein or whey proteins, common mainly in childhood and potentially severe. Here there is no solution other than complete avoidance.
-- **Saturated fat:** Whole milk contains about 4.5 grams of saturated fat per glass. Research on dairy products and heart health is complex and not clear-cut, but people who need to limit saturated fat should factor this in.
-- **Acne:** Several observational studies have found an association between milk intake — especially skim milk — and worsening acne, probably through an effect on IGF-1. The findings do not prove causation.
-- **Milk is not essential:** You can certainly get calcium and protein from other sources — [tahini](/en/food/tahini/), [almonds](/en/food/almonds/), [tofu](/en/food/tofu/), leafy greens and fortified plant drinks.
+- **Highly available complete protein:** a glass of milk provides about 8 grams of protein with all the essential amino acids. Whey protein is rich in leucine, which switches on muscle protein building — which is why milk makes a cheap, effective recovery drink after training.
+- **Well-absorbed calcium:** dairy is the main calcium source in Western diets, and its calcium is absorbed better than calcium from high-oxalate plant sources such as spinach. [NIH ODS — Calcium](https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/).
+- **B12 and riboflavin:** a glass of milk provides about 40% of the daily requirement for [vitamin B12](/en/food/supplements/vitamin-b12/), which matters especially for vegetarians (who are not vegan). [NIH ODS — Vitamin B12](https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/).
+- **A low-cost nutrient package:** protein, calcium, [phosphorus](/en/food/supplements/phosphorus/), potassium and riboflavin in one available, inexpensive product.
+- **Not linked to diabetes:** in meta-analyses of cohort studies, dairy intake was not linked to a higher risk of type 2 diabetes, and some found a modest inverse association. [Aune et al., 2013](https://pubmed.ncbi.nlm.nih.gov/23945722/).
 
----
+### Downsides
 
-### Frequently asked questions about milk
+- **Lactose intolerance:** in most adults worldwide, production of the enzyme lactase falls after childhood, and the result can be gas, bloating and diarrhea after a glass of milk. It is uncommon in northern Europe and common in East Asia, Africa and parts of the Middle East. Many people manage fine with a small amount (half a glass) or with lactose-free milk, [yogurt](/en/food/greek-yogurt/) and [kefir](/en/food/kefir/).
+- **Milk protein allergy:** a completely different condition from lactose intolerance — an immune reaction to casein or whey proteins, common mainly in childhood and potentially severe. Lactose-free milk is not a solution here.
+- **Milk does not prevent fractures the way people assume:** in a meta-analysis of cohort studies, women who drank more milk did not have fewer hip fractures; in men there was a non-significant trend. [Bischoff-Ferrari et al., 2011](https://pubmed.ncbi.nlm.nih.gov/20949604/). In a large Swedish study, women who drank three or more glasses a day even had higher mortality — but this is an observational study, and the researchers themselves cautioned against drawing recommendations from it. [Michaëlsson et al., 2014](https://pubmed.ncbi.nlm.nih.gov/25352269/).
+- **Acne:** in a meta-analysis of about 78,000 children, teenagers and young adults, drinking milk (including skim milk) was linked to a slightly higher risk of acne. The studies are observational and show publication bias, so causation is not proven. [Juhl et al., 2018](https://pubmed.ncbi.nlm.nih.gov/30096883/).
+- **Saturated fat:** 3% milk contains about 4.5 grams of saturated fat per glass. People who need to lower LDL can choose 1% milk.
+- **Prostate cancer:** in meta-analyses of cohort studies, high dairy intake was linked to a small increase in prostate cancer risk. The association is modest and not proven to be causal. [Aune et al., 2015](https://pubmed.ncbi.nlm.nih.gov/25527754/).
+
+### Practical use
+
+- **How much to drink:** there is no number of glasses you need to "hit." One or two glasses a day of milk or dairy cover a good share of daily calcium. People who don't drink milk can get calcium from [tahini](/en/food/tahini/), calcium-set [tofu](/en/food/tofu/), leafy greens and fortified plant drinks such as [soy milk](/en/food/soy-milk/).
+- **After training:** one or two glasses of milk (or reduced-sugar chocolate milk) provide protein and carbohydrates for recovery.
+- **With coffee and tea:** casein binds the [polyphenols](/en/food/polyphenols/) in tea and softens the taste of the [tannins](/en/food/tannins/). The binding may slightly reduce absorption of some antioxidants, but it does not cancel the value of the tea.
+- **Storage:** fresh milk keeps 4-5 days in the fridge once opened. Shelf-stable (UHT) milk keeps unopened outside the fridge, and its nutritional value is almost identical.
+
+### Summary
+
+Milk is an efficient, cheap source of complete protein, calcium, B12 and riboflavin, and one or two glasses a day fit well into a balanced diet for people who tolerate it. On the other hand, it is not a "must" for bone health — studies do not show that drinking a lot of milk prevents fractures — and most adults worldwide digest lactose only partially. People who don't drink milk can get the same nutrients from other sources.
+
+### Frequently asked questions
 
 **Question: Does milk cause phlegm?**
-Answer: **Probably not.** Although many people feel that way, clinical studies have not found a direct link between milk intake and increased phlegm production. The sensation is often due to milk's thick texture lingering in the throat (fat coating), which mimics the feeling of phlegm, but it is not real inflammatory mucus.
+Answer: Probably not. In a trial in which volunteers were infected with a cold virus, the amount of milk they drank was not linked to the amount of nasal secretions or to congestion. [Pinnock et al., 1990](https://pubmed.ncbi.nlm.nih.gov/2154152/). The sensation probably comes from milk's thick texture coating the throat.
 
 **Question: Does milk leach calcium from the body?**
-Answer: **A complicated myth.** The claim is that animal protein creates acidity in the blood, and the body breaks down bone (alkaline calcium) to balance it. Modern studies do not broadly support this theory (the acid-ash hypothesis). Protein is just as essential to bone health as calcium, and dairy intake is generally associated with higher bone density, not lower.
+Answer: No. The claim rests on the "acid load" hypothesis, which modern studies have not supported. Protein is important for bone health, and milk does not lower bone density — but it has not been shown to prevent fractures either.
 
 **Question: Is goat's milk healthier than cow's milk?**
-Answer: **It has certain advantages.** The nutritional composition is similar, but in goat's milk the fat globules are smaller, which makes it easier to digest. It also contains less lactose and a different type of casein (A2), which may be less allergenic or inflammatory for some people who are sensitive to cow's milk.
+Answer: The nutritional composition is similar. Goat's milk has smaller fat globules and slightly less lactose, but it is not a substitute for people allergic to cow's milk — most of them react to it too. More on the [goat cheese](/en/food/goat-cheese/) page.
 
-**Question: Is low-fat or whole milk better?**
-Answer: **It depends on the goal.** In the past, low-fat was recommended to reduce calories and cholesterol. Today, studies show that milk fat contributes to satiety, and full-fat dairy intake may actually be associated with a lower risk of obesity. [Vitamin D](/en/food/supplements/vitamin-d/), for example, is absorbed only in the presence of fat, so 0% fat milk is less effective in terms of vitamin absorption.
+**Question: Whole or low-fat milk?**
+Answer: The main difference is calories and saturated fat; protein and calcium are almost identical. People who need to lower LDL or calories should choose 1%. Cohort studies do not show that whole milk causes more weight gain, but they do not show it is better either.
+
+**Question: How much milk should you drink a day?**
+Answer: There is no required amount. Adults need about 1,000 mg of calcium a day from all sources; a glass of milk provides about 290 mg. You can reach the target without milk at all.
+
+**Question: Is lactose-free milk less nutritious?**
+Answer: No. The enzyme lactase is added to break lactose down into glucose and galactose in advance. Protein and calcium are the same, and the taste is slightly sweeter.

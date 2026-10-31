@@ -1,73 +1,92 @@
 ---
 title: "Goat Cheese"
-seo_title: "Goat Cheese: Benefits, Downsides and Nutrition Facts"
+seo_title: "Goat Cheese: Nutrition, Benefits and Is It Easier to Digest?"
 date: 2026-08-09T12:00:00+03:00
+lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "Goat cheese — benefits and downsides, nutrition facts, and whether it is really easier to digest than cow's-milk cheese."
+description: "Soft goat cheese: about 264 kcal and 18 g protein per 100 g. Is it really easier to digest, why it is not safe for cow's milk allergy, and its sodium and fat."
 ---
 
 {{< youtube id="AttlS579Yeo" title="Goat Cheese: Easier to Digest Than Cow's Milk Cheese? (video)" loading="lazy" >}}
 
-## Goat Cheese: A Unique Nutritional Profile and Advantages Over Cow's Milk
+## Goat Cheese: Nutrition, Benefits and Downsides
 
-**Goat cheese is also known by its French name, *chèvre*.** In Hebrew it is written two ways, "גבינת עזים" and "גבינת עיזים" — both spellings are correct and refer to the same product.
+**Soft goat cheese (French *chèvre*) provides about 264 calories and 18 grams of protein per 100 grams — roughly the same as a cow's-milk cheese with similar fat. Some people find it easier on their stomach, but it is not a safe substitute for people allergic to cow's milk, and its lactose content is only slightly lower.**
 
-Goat cheese (*chèvre*, from the French word for goat) is one of the oldest [dairy](/en/food/milk/) foods in human culture, with production that predates cow's-milk cheeses by thousands of years. In the Middle East and the Mediterranean basin, goat cheese is an age-old staple — and not by chance. Nutritionally, goat's milk and its products differ from cow's milk in ways that can significantly change the bioavailability of nutrients and how well people who struggle to digest dairy tolerate it.
+In Hebrew it is written two ways, "גבינת עזים" and "גבינת עיזים", and both spellings are correct. Cheeses made from goat's milk have been part of Mediterranean and Middle Eastern diets since antiquity, and in Israel they are everywhere: from soft spreadable cheese to aged cheeses from small farms in the Galilee and the Negev. Nutritionally, the differences between goat's milk and cow's [milk](/en/food/milk/) are real but smaller than marketing suggests.
 
-100 grams of soft goat cheese (fresh chèvre) contains about 264 calories, 18 grams of protein, 21 grams of fat, 0.1 grams of carbohydrates and 140 mg of [calcium](/en/food/supplements/calcium/). Aged goat cheeses contain less moisture and a higher concentration of all nutrients.
+### Nutrition facts
 
-### Research-based health benefits
+Approximate values per 100 grams and per typical 30-gram serving:
 
-* **Smaller fat globules and easier digestion:** goat's milk contains significantly smaller fat globules than cow's milk, which increases the total surface area and allows lipase (the fat-digesting enzyme) to work more efficiently. The result is faster, more efficient digestion with less load on the digestive system. This explains why many people who complain of feeling heavy after cow's-milk cheeses report easier digestion with goat cheese.
+| Type | Calories (100 g) | Protein | Fat | Saturated fat | [Calcium](/en/food/supplements/calcium/) | [Sodium](/en/food/supplements/sodium/) |
+|---|---|---|---|---|---|---|
+| Fresh soft goat cheese | about 264 | about 18 g | about 21 g | about 15 g | about 140 mg | about 370 mg |
+| Hard aged goat cheese | about 450 | about 30 g | about 36 g | about 25 g | about 900 mg | about 350 mg |
+| 30 g serving, soft | about 80 | about 5.5 g | about 6 g | about 4.5 g | about 40 mg | about 110 mg |
 
-* **A different casein makeup and better tolerance:** goat's milk is low in αs1 (alpha-s1) casein — the dominant protein in cow's milk — and relatively rich in β-casein. This different protein makeup, together with a slightly lower lactose concentration (4.2% in goat's milk versus 4.7% in cow's milk) and a softer, more delicate curd that forms in the stomach, together mean that some people who are sensitive to cow's milk tolerate goat's milk and its products better.
+Carbohydrates are close to zero (under a gram). Note the calcium gap: in fresh soft cheese most of the calcium stays behind in the whey, so it is only a moderate calcium source; hard aged cheese is a far richer one.
 
-* **A high concentration of MCTs (medium-chain fats):** goat's milk is richer than cow's milk in medium-chain triglycerides (MCTs) such as caproic, caprylic and capric acid. These fats are absorbed directly into the liver and used for quick energy, similar to the way the fats in [coconut](/en/food/coconut/) oil are absorbed. Studies show that MCT intake is associated with faster use for energy and a reduced tendency to store fat.
+### Benefits
 
-* **Highly bioavailable [calcium](/en/food/supplements/calcium/):** goat cheese provides highly bioavailable calcium, essential for bone density, muscle function and nerve conduction. In addition, the organic acids produced during fermentation (such as lactic acid in aged cheeses) help calcium absorption.
+* **Complete protein in a small volume:** like any [cheese](/en/food/cheese/), goat cheese provides complete protein with all the essential amino acids. A 30-gram serving adds about 5-6 grams of protein to a salad or a sandwich.
 
-* **Fermentation bacteria in aged cheeses:** aged goat cheeses (such as goat gouda, goat kashkaval or the French Crottin de Chavignol) contain live bacterial cultures that survived the aging process. They may serve as a modest probiotic source that supports a balanced gut microbiome — although not every aged [cheese](/en/food/cheese/) contains live bacteria in significant amounts.
+* **Well-absorbed calcium, mainly in hard cheeses:** calcium from dairy is absorbed well, and hard cheeses are among the most concentrated dietary sources of it. [NIH ODS — Calcium](https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/).
 
-* **Tryptophan to support serotonin:** goat cheese is rich in the amino acid tryptophan, the building block of serotonin — a neurotransmitter that regulates mood, sleep and appetite. Like other dairy cheeses, it provides a significant amount of tryptophan relative to a fairly small serving.
+* **A slightly different protein and fat makeup:** goat's milk is relatively low in αs1-casein, and its fat globules are smaller on average than those in cow's milk. Laboratory studies show it forms a softer curd in the stomach. That may explain why some people feel less heavy after eating it — but this is an individual experience, and there are no large clinical trials showing that goat cheese is "easier to digest" for the general population.
 
-* **High concentrations of [vitamin A](/en/food/supplements/vitamin-a/) and riboflavin (B2):** goat's milk contains a higher concentration of vitamin A and riboflavin (B2) than cow's milk. Vitamin A is essential for eye health, the immune system and epithelial tissue. B2 is involved in energy metabolism and ATP production.
+* **A strong flavor that lets a small portion go far:** the tangy, sharp taste, which comes from short- and medium-chain fatty acids (caproic, caprylic and capric acid), means a small amount is enough to season a salad or a pastry. That is a practical advantage when managing calories.
 
-### Downsides and health considerations
+* **Low lactose in aged cheeses:** aging breaks down most of the lactose, so hard goat cheeses are usually well tolerated by people with lactose intolerance. Goat's milk itself has only slightly less lactose than cow's milk (about 4.2% versus 4.7%), so fresh soft cheese is not an automatic solution.
 
-* **Saturated fat content:** like any cheese, goat cheese contains saturated fat. A 50-gram serving (soft cheese) contains about 7 grams of saturated fat — about a third of the recommended daily ceiling (about 20 grams). Anyone following guidelines to cut saturated fat for cardiovascular reasons should factor this into their daily total.
+### Downsides
 
-* **Not suitable for milk protein allergy (IgE-mediated):** despite its relatively good tolerance, goat cheese still contains milk proteins that can cause an allergic reaction. It is important to distinguish between lactose intolerance — which usually does not rule out aged cheeses — and milk protein allergy, which requires complete avoidance.
+* **Not suitable for cow's milk allergy:** this is the most important myth to correct. Goat milk proteins are very similar to cow milk proteins. In a study of 26 children with proven cow's milk allergy, 24 also reacted to goat's milk in a double-blind food challenge, and the researchers concluded that goat's milk is not an appropriate substitute. [Bellioni-Businco et al., 1999](https://pubmed.ncbi.nlm.nih.gov/10359905/).
 
-* **Calorie density:** goat cheese, like other cheeses, is a calorie-dense food. A 100-gram portion contains about 264 calories (in soft cheese) up to 400+ calories (in hard aged cheese). It is easy to eat more than the intended amount, which can contribute to a calorie surplus.
+* **Saturated fat:** 100 grams of soft cheese contain about 15 grams of saturated fat. If you are watching your LDL, count it like any full-fat cheese.
 
-* **Variable [sodium](/en/food/supplements/sodium/) content:** aged cheeses and brined cheeses (such as feta-style goat cheese) are rich in [sodium](/en/food/supplements/sodium/) and can contain 400–800 mg per 100 grams. People with high blood pressure or sodium restrictions will prefer soft, less salty goat cheeses.
+* **Calorie density:** it is easy to spread 60-80 grams on a couple of slices of bread and reach 200 calories from the cheese alone.
 
-* **Production and sustainability:** commercial goat cheese production, like all dairy, raises animal welfare and environmental questions. Goat cheese production also has an environmental footprint, although it is lower than that of beef and usually lower than that of industrial cow's-milk cheeses.
+* **Sodium in aged and feta-style cheeses:** brined, feta-style goat cheeses can contain 600 mg of sodium or more per 100 grams. High salt intake is linked to high blood pressure and, in cohort studies, to a higher risk of stomach cancer. [D'Elia et al., 2012](https://pubmed.ncbi.nlm.nih.gov/22296873/).
+
+* **Pregnancy:** soft, bloomy-rind cheeses made from unpasteurized milk may carry Listeria, an infection that is especially dangerous to the fetus. During pregnancy choose pasteurized goat cheese or hard cheese, or heat the cheese until it is steaming. [Madjunkov et al., 2017](https://pubmed.ncbi.nlm.nih.gov/28536811/).
 
 ### Types of goat cheese and their characteristics
 
-| Type | Moisture | Lactose | Nutrient concentration | Sodium content |
+| Type | Moisture | Lactose | Nutrient concentration | Sodium |
 |---|---|---|---|---|
-| Fresh soft cheese | High | Low | Low | Low |
+| Fresh soft cheese | High | Low | Low | Low-medium |
 | Bûcheron | Medium | Very low | Medium | Medium |
-| Hard aged cheese | Low | Negligible | High | High |
+| Hard aged cheese | Low | Negligible | High | Medium |
 | Feta-style cheese | Medium | Low | Medium | Very high |
 
-### Recommended nutritional pairings
+### Practical use
 
-Soft goat cheese goes very well with natural [honey](/en/food/honey/), [walnuts](/en/food/walnuts/), [tomatoes](/en/food/tomato/) and [leafy greens](/en/food/spinach/) — a combination that balances the fat with antioxidants and phytochemicals. Aged goat cheese is excellent on [sourdough bread](/en/food/sourdough/) with [olive oil](/en/food/olive-oil/).
+* **Salads:** 30 grams of crumbled goat cheese over [leafy greens](/en/food/spinach/), [tomatoes](/en/food/tomato/) and [walnuts](/en/food/walnuts/) is enough for flavor without adding many calories.
+* **On bread:** aged goat cheese on [sourdough bread](/en/food/sourdough/) with [olive oil](/en/food/olive-oil/). A drizzle of [honey](/en/food/honey/) over soft goat cheese is a classic pairing, but remember it adds sugar.
+* **Baking:** soft goat cheese melts nicely into quiches and shakshuka and can replace part of the yellow cheese with less sodium.
+* **Storage:** fresh soft cheese keeps about a week in the fridge once opened; aged cheese wrapped in baking paper keeps for several weeks.
 
 ### Summary
 
-Goat cheese is a dairy product with a unique profile that offers advantages over cow's-milk cheeses for specific groups — mainly people sensitive to cow's milk, people with digestive problems, or those looking for an easily digested source of calcium and protein. Its rich fat-to-protein ratio makes it a meaningful nutritional addition when it is combined well and eaten in suitable portions.
+Goat cheese is a nutritious cheese with complete protein and calcium (especially in the hard versions) and a strong flavor that makes small portions satisfying. The differences from cow's milk exist but are small: it is not a safe substitute for people with cow's milk allergy, and fresh goat cheese has only slightly less lactose. Treat it like any full-fat cheese — 30-50 grams a day, with an eye on sodium in the salty versions.
 
 ### Frequently asked questions
 
 **Question: Is goat cheese suitable for people with lactose intolerance?**
-Answer: Often yes, especially aged goat cheeses. The aging process breaks down most of the lactose, and even in fresh soft cheese the lactose concentration is relatively low. However, everyone is different, and it is advisable to start with small amounts and watch how you react.
+Answer: Aged goat cheeses usually are, because aging breaks down most of the lactose. Fresh soft cheese has a little lactose, and goat's milk itself contains only slightly less lactose than cow's milk. Start with a small amount and see how you react.
+
+**Question: Can people who are allergic to cow's milk eat goat cheese?**
+Answer: Usually not. Goat milk proteins are very similar to cow milk proteins, and most people allergic to cow's milk also react to goat's milk. Do not try it without checking with an allergist.
+
+**Question: Is goat cheese really easier to digest?**
+Answer: For some people, yes — the fat globules are smaller and the curd in the stomach is softer. But there are no large trials showing a general digestive advantage, and the difference depends mainly on the person and the type of cheese.
 
 **Question: What is the difference between goat cheese and feta?**
-Answer: Traditional feta is made from sheep's milk (sometimes mixed with goat's milk), while goat cheese is made from goat's milk only. Feta's texture is different, and its sodium content is higher because it is made in brine. Both are rich in protein and calcium.
+Answer: Traditional feta is made from sheep's milk (sometimes with some goat's milk) and is aged in brine, which makes it saltier. Goat cheese is made only from goat's milk and can be soft and fresh or hard and aged.
 
 **Question: How much goat cheese is healthy to eat a day?**
-Answer: In the context of a balanced diet, a serving of 30–50 grams of soft cheese or 20–30 grams of aged cheese (about 1–2 slices) is a reasonable amount. It should be counted as part of your total dairy and total daily saturated fat.
+Answer: 30-50 grams of soft cheese or 20-30 grams of aged cheese is a reasonable amount in a balanced diet. Count it as part of your total dairy and daily saturated fat.
+
+**Question: Can you eat goat cheese during pregnancy?**
+Answer: Pasteurized goat cheese and hard cheeses, yes. Soft, white-rind cheeses made from unpasteurized milk are best avoided, or eaten only when thoroughly heated, because of the Listeria risk.

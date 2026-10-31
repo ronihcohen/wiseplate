@@ -1,75 +1,91 @@
 ---
 title: "Grapefruit"
+seo_title: "Grapefruit and Medication: Interactions, Nutrition, Benefits"
 date: 2026-04-10T09:00:00+02:00
+lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "A nutritional analysis of grapefruit: a citrus fruit with a high concentration of naringenin and furanocoumarins, with important drug interactions."
+description: "Half a grapefruit has about 52 calories and 38 mg of vitamin C. Why grapefruit raises blood levels of drugs such as some statins (CYP3A4), and who should avoid it."
 ---
 
 ## Grapefruit
 
-Grapefruit (*Citrus paradisi*) is a large citrus fruit that arose in 18th-century Barbados — a natural hybrid of pomelo and [orange](/en/food/orange/). It has a distinctive sour-bitter taste that comes from the compound naringenin, and it contains an antioxidant profile and bioactive compounds not found in other citrus fruits.
+**Half a grapefruit (about 120 g) provides roughly 52 calories and about 38 mg of vitamin C, around half the recommended daily intake. The most important thing to know: grapefruit and grapefruit juice block the enzyme CYP3A4 in the gut, so they raise blood levels of certain medicines, such as some statins. Anyone on regular medication should check with a pharmacist before eating grapefruit.**
 
-Red grapefruit (Ruby Red) is relatively rich in lycopene; white grapefruit contains a higher concentration of naringenin. Both have high nutritional value.
+The grapefruit (*Citrus paradisi*, in Hebrew "אשכולית") is a large citrus fruit that arose as a natural cross between the pomelo and the [orange](/en/food/orange/). Its bitter taste comes mainly from the flavanone naringin, and red and pink varieties also contain lycopene and beta-carotene. Nutritionally it is a good, low-calorie fruit; what makes it unusual is its furanocoumarins, compounds that affect how drugs are broken down.
 
-### Research-based health benefits
+### Nutrition facts
 
-* **Naringenin:** the flavanone characteristic of grapefruit, studied for its ability to improve [insulin](/en/food/supplements/insulin/) sensitivity, reduce fat buildup in the liver and support the expression of anti-inflammatory genes. Lab and animal studies found strong anti-atherosclerotic effects.
+Per 100 g of raw red or pink grapefruit, and for half a medium grapefruit (about 120 g). Values are rounded.
 
-* **[Vitamin C](/en/food/supplements/vitamin-c/):** half a grapefruit provides about 40 mg of vitamin C — about 44% of the daily value. It supports immunity, [collagen](/en/food/collagen/) production and [iron](/en/food/iron/) absorption.
-
-* **Lycopene (in red grapefruit):** a carotenoid pigment studied for protection against prostate cancer and support of heart health. Red grapefruit contains a considerable amount for a citrus fruit.
-
-* **Pectin and fiber:** help balance cholesterol and regulate sugar absorption.
-
-* **[Potassium](/en/food/supplements/potassium/):** half a grapefruit provides about 160 mg — contributing to blood pressure regulation.
-
-* **Furanocoumarins:** compounds distinctive to grapefruit that inhibit the CYP3A4 enzyme in the liver. Although they cause drug interactions (see Downsides), in the absence of medications they act as a bioactive tool that affects metabolism.
-
-* **Low glycemic index:** GI≈25 — one of the lowest among fruits, suitable for managing blood sugar levels.
-
-### Downsides and health considerations
-
-* **A significant drug interaction:** grapefruit contains furanocoumarins that inhibit the CYP3A4 enzyme in the intestinal wall and the liver — the enzyme responsible for breaking down hundreds of common drugs. As a result, the drug concentration in the blood rises unpredictably and may reach toxic levels. Affected drugs: statins (atorvastatin, simvastatin), benzodiazepines, calcium channel blockers, cyclosporine, antiviral drugs and more. **Patients taking prescription drugs — check with your doctor before eating it.**
-
-* **Bitterness — a reason people drop it:** naringenin is responsible for the bitter taste that keeps some people from eating grapefruit. Fruit picked at its peak is less bitter.
-
-* **Teeth:** acidity of about pH 3 — rinse your mouth after eating.
-
-* **Acidity and reflux:** like all citrus fruits, it may cause irritation in sensitive people.
-
-### Nutrition facts for half a grapefruit (about 120 grams)
-
-| Nutrient | Amount | % daily value |
+| Nutrient | Per 100 g | Half a grapefruit (120 g) |
 |---|---|---|
-| Calories | 52 kcal | — |
-| [Vitamin C](/en/food/supplements/vitamin-c/) | 40 mg | ~44% |
-| [Vitamin A](/en/food/supplements/vitamin-a/) | 28 mcg | ~3% |
-| [Potassium](/en/food/supplements/potassium/) | 160 mg | ~3% |
-| Fiber | 2 grams | ~7% |
-| Sugar | 8 grams | — |
+| Calories | 42 | about 52 |
+| Carbohydrate | 10.7 g | about 13 g |
+| of which sugar | 6.9 g | about 8 g |
+| Dietary fiber | 1.6 g | about 2 g |
+| Protein | 0.8 g | about 1 g |
+| [Vitamin C](/en/food/supplements/vitamin-c/) | 31 mg | about 38 mg |
+| [Vitamin A](/en/food/supplements/vitamin-a/) (red/pink) | about 55-60 mcg | about 70 mcg |
+| [Potassium](/en/food/supplements/potassium/) | 135 mg | about 165 mg |
+| Water | about 88% | — |
 
-### Culinary and practical use
+White grapefruit contains almost no vitamin A or lycopene; the other values are similar.
 
-* **Straight, with a spoon:** the classic way — halve it and eat with a spoon, preferably without sugar
-* **In salads:** red grapefruit with arugula, [avocado](/en/food/avocado/) and [pomegranate](/en/food/pomegranate/) seeds
-* **As a marinade for fish:** refreshing sourness and bitterness combined with [salmon](/en/food/salmon/)
-* **In smoothies:** balances the sweetness of other fruits
-* **Vinaigrette:** grapefruit juice as the base for a salad dressing
+### Benefits
+
+* **Vitamin C for few calories.** Half a grapefruit supplies about half the recommended intake of vitamin C (75-90 mg a day for adults), which is essential for collagen formation and improves the absorption of iron from plant foods. [NIH ODS: Vitamin C](https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/). Pairing it with [lentils](/en/food/lentil/) or spinach in a meal makes use of this.
+
+* **Whole fruit and diabetes.** In three large US cohort studies, every three servings of grapefruit a week was associated with a 5% lower risk of type 2 diabetes, while fruit juice was associated with a higher risk. [Muraki et al., 2013](https://pubmed.ncbi.nlm.nih.gov/23990623/). It is an observational link, but it supports eating the fruit rather than drinking juice.
+
+* **Lots of volume, few calories.** About 88% water and relatively little sugar. Grapefruit makes a dessert or starter that fills you up without many calories.
+
+* **Carotenoids in the red varieties.** Red grapefruit provides beta-carotene and lycopene, the same pigments found in [tomatoes](/en/food/tomato/).
+
+### Downsides
+
+* **Drug interactions: the main downside.** The furanocoumarins in grapefruit inhibit the enzyme CYP3A4 in the gut wall, which breaks down a large share of medicines before they enter the bloodstream. When it is blocked, more of the drug reaches the blood and stays in the body longer, raising the risk of side effects. The US Food and Drug Administration (FDA) lists as examples some statins (simvastatin and atorvastatin), nifedipine for blood pressure, cyclosporine, buspirone, budesonide and amiodarone. With statins, excess drug in the blood raises the risk of muscle and liver damage. [FDA](https://www.fda.gov/consumers/consumer-updates/grapefruit-juice-and-some-drugs-dont-mix).
+
+* **Spacing by hours is not enough.** The gut enzyme is inactivated rather than merely "occupied", and the body has to make new enzyme. So separating the grapefruit and the drug by a few hours does not solve the problem, and sometimes a single grapefruit or one glass of juice is enough to have an effect. A review in the CMAJ listed dozens of drugs that can react this way, some with serious side effects. [Bailey et al., 2013](https://pubmed.ncbi.nlm.nih.gov/23184849/).
+
+* **The opposite effect with some drugs.** With the antihistamine fexofenadine (Allegra), grapefruit juice actually reduces absorption, because it affects transporter proteins in the gut. [FDA](https://www.fda.gov/consumers/consumer-updates/grapefruit-juice-and-some-drugs-dont-mix).
+
+* **Similar fruits.** Seville oranges (used for bitter marmalade), pomelos and tangelos can cause the same interaction. Ordinary oranges are generally not considered a problem in this respect.
+
+* **Acidity.** The acid can irritate people with reflux and contribute to enamel erosion. Rinse your mouth with water and avoid brushing right away.
+
+### Practical use
+
+* **Who need not worry:** people who take no regular medication can eat grapefruit freely.
+* **Who should check:** anyone on a regular prescription drug. The leaflet, pharmacist or doctor can tell you whether your specific drug is affected; not every statin and not every blood-pressure drug is.
+* **Cutting:** halve it crosswise and loosen the segments with a serrated knife, or peel it and lift out the segments without the bitter membrane.
+* **In salads:** red grapefruit segments with arugula, [avocado](/en/food/avocado/) and [pomegranate](/en/food/pomegranate/) seeds.
+* **With fish:** segments and juice balance oily dishes such as [salmon](/en/food/salmon/).
+* **Skip the sugar:** sprinkling sugar on half a grapefruit cancels part of the benefit. If it is too bitter, choose a red variety, which is usually sweeter.
+* **Reading labels:** if your drug interacts with grapefruit, check mixed juices, sodas and "citrus" drinks too, since grapefruit juice is sometimes an ingredient.
+
+### Summary
+
+Grapefruit is a low-calorie citrus fruit with plenty of vitamin C and, in the red varieties, carotenoids. For most people it is a good choice. The single, important caveat: it changes blood levels of some medicines, so anyone on regular medication should check before adding grapefruit or grapefruit juice to their diet.
 
 ### Frequently asked questions
 
 **Question: Is every drug affected by grapefruit?**
-Answer: No — only drugs that are broken down through CYP3A4. Check the leaflet of the specific drug with your pharmacist.
+Answer: No. Only drugs broken down by CYP3A4 in the gut, or absorbed through certain transporter proteins. Even within one drug class there are differences; check the leaflet or ask your pharmacist.
 
-**Question: How long does the CYP3A4-blocking effect last?**
-Answer: The effect lasts up to 24 hours after eating grapefruit. Spacing it a few hours apart is not enough — avoid it completely while taking affected drugs.
+**Question: If I take my drug in the morning and eat grapefruit in the evening, is that OK?**
+Answer: Usually not. The gut enzyme is inactivated for a long time, so spacing by hours does not cancel the interaction for drugs that are affected.
 
-**Question: Do pomelo or orange cause the same problem?**
-Answer: Pomelo also contains furanocoumarins to some degree. Orange — much less, and it is usually safe. Grapefruit is the most problematic.
+**Question: Do pomelos or oranges cause the same problem?**
+Answer: Pomelos, tangelos and Seville oranges can cause a similar interaction. Ordinary oranges are generally not considered a problem.
 
-**Question: Is grapefruit good for weight loss?**
-Answer: It's not magic — but its low GI, fiber and the fullness it provides with few calories may support weight management.
+**Question: Which statins are affected?**
+Answer: The FDA names simvastatin and atorvastatin as examples. Some statins are hardly affected, so the question is about your specific drug.
 
-### Summary
+**Question: Does grapefruit help with weight loss?**
+Answer: There is no "fat-burning" ingredient in it. It is low in calories and filling, so it can replace a high-calorie dessert. That is the real benefit.
 
-Grapefruit is a unique citrus fruit with a high concentration of naringenin, vitamin C and fiber — excellent for people who don't take drugs affected by CYP3A4. If you take prescription drugs, you must consult your doctor before adding it to your diet.
+**Question: How many calories are in a grapefruit?**
+Answer: About 42 calories per 100 g, so roughly 52 for half a medium grapefruit.
+
+**Question: What is the difference between red and white grapefruit?**
+Answer: Red and pink grapefruit contain beta-carotene and lycopene and are usually sweeter. White is more bitter and has almost no vitamin A. Both can affect medications.

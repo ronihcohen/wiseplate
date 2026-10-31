@@ -1,16 +1,17 @@
 ---
 title: "Kimchi"
-seo_title: "Kimchi: What It Is, Nutrition Facts, Benefits and Downsides"
+seo_title: "Kimchi: Nutrition Facts, Benefits, Downsides and Sodium"
 date: 2025-12-22T11:00:00+02:00
+lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "What kimchi is and how it is made, its nutritional value, and its benefits and downsides — including its high sodium content and what to know before eating it."
+description: "Kimchi: 15 kcal but 500-1,100 mg sodium per 100 g. What it is, what trials found on probiotics and weight, the stomach cancer link, and how much to eat a day."
 ---
 
 {{< youtube id="PvUNcasaA54" title="Kimchi: Healthy Probiotic or Too Much Salt? (video)" loading="lazy" >}}
 
 ## Kimchi
 
-**Kimchi is a traditional Korean dish of vegetables pickled in salt and fermented in a spicy seasoning mix.** In Korea it is eaten at almost every meal, including breakfast, and it is considered the national dish. The best-known version — *baechu kimchi* — is based on napa [cabbage](/en/food/cabbage/), but there are more than 180 documented variations, based on white radish (*kkakdugi*), [cucumber](/en/food/cucumber/) (*oi sobagi*), green [onion](/en/food/onion/) and more.
+**Kimchi (in Hebrew "קימצ'י") is a Korean dish of vegetables, mostly napa cabbage, salted and fermented with hot pepper and garlic. 100 grams provide only about 15 calories plus live lactic acid bacteria, but also 500-1,100 mg of sodium — so it works as a 30-50 gram side dish, not as a main course.** In Korea it is eaten at almost every meal, including breakfast, and it is considered the national dish. The best-known version — *baechu kimchi* — is based on napa [cabbage](/en/food/cabbage/), but there are more than 180 documented variations, based on white radish (*kkakdugi*), [cucumber](/en/food/cucumber/) (*oi sobagi*), green [onion](/en/food/onion/) and more.
 
 The communal tradition of making kimchi ahead of winter, **Kimjang**, was inscribed in 2013 on UNESCO's list of intangible cultural heritage. Whole families prepare hundreds of heads of cabbage together in late autumn — a remnant of a time when this was the only way to survive with a supply of vegetables through the Korean winter.
 
@@ -44,18 +45,17 @@ Kimchi is extremely low in calories — 15 calories per 100 grams — so it adds
 
 ### Benefits
 
-- **Plant-based probiotics:** Kimchi provides live lactic acid bacteria, mainly strains of *Lactiplantibacillus* and *Leuconostoc*. Unlike [yogurt](/en/food/greek-yogurt/) and [kefir](/en/food/kefir/), it is completely free of [milk](/en/food/milk/) — an advantage for people with lactose intolerance or a milk protein allergy.
+- **Plant-based probiotics:** Kimchi provides live lactic acid bacteria, mainly *Lactiplantibacillus*, *Leuconostoc* and *Weissella*, and in properly fermented kimchi they reach about a billion or more per gram. [Cha et al., 2024](https://pubmed.ncbi.nlm.nih.gov/36718547/). In a controlled trial at Stanford, a diet rich in fermented foods (including kimchi, yogurt and kefir) for 10 weeks increased gut microbiome diversity and lowered inflammatory markers in the blood. [Wastyk et al., 2021](https://pubmed.ncbi.nlm.nih.gov/34256014/). Unlike [yogurt](/en/food/greek-yogurt/) and [kefir](/en/food/kefir/), it is completely free of [milk](/en/food/milk/) — an advantage for people with lactose intolerance or a milk protein allergy.
 - **Prebiotic fiber alongside the probiotics:** The vegetables themselves provide fiber that feeds gut bacteria — a combination of probiotics and prebiotics in the same food.
 - **Nutrient density relative to calories:** 37% of the daily intake of vitamin K and 17% of vitamin C, in only 15 calories.
 - **Compounds from cruciferous cabbage:** Napa cabbage contains glucosinolates, which are being studied in the context of anti-inflammatory activity and cellular defense mechanisms.
-- **Capsaicin from the pepper:** The compound that gives the heat has been studied for a mild effect on metabolism and satiety.
 - **A side dish that encourages eating vegetables:** A practical advantage that is easy to miss — a spoonful of kimchi turns a bowl of rice or a plain egg into a dish with bold flavor, and it is an effective way to increase vegetable intake.
-- **Preliminary metabolic studies:** Small studies in Korea found slight improvements in lipid profile and insulin sensitivity following regular intake. These are limited studies, mainly in Korean populations, and no strong conclusions should be drawn from them.
+- **Preliminary metabolic studies:** In a crossover trial in 22 overweight people, four weeks of fermented kimchi slightly improved blood pressure, fasting glucose and body fat compared with fresh kimchi. [Kim et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21745625/). In a similar trial in 21 people with prediabetes, fermented kimchi improved insulin sensitivity. [An et al., 2013](https://pubmed.ncbi.nlm.nih.gov/23969321/). These are small, short trials with no group that ate no kimchi, and no strong conclusions should be drawn from them.
 
 ### Downsides
 
-- **Sodium — the main downside:** A 100-gram serving of kimchi can provide 500–1,100 mg of sodium, that is, up to about half of the recommended daily limit (2,300 mg). Anyone managing high blood pressure, heart failure or kidney disease must take this into account. A realistic side-dish portion is about 30–50 grams, and at that amount the sodium is reasonable.
-- **Link to stomach cancer — a link worth understanding correctly:** Epidemiological studies in Korea found an association between high intake of salt-pickled vegetables and an increased risk of stomach cancer, and **salt-preserved food** is classified by international research bodies as a possible risk factor. It is important to keep this in proportion: the link is attributed to the **salt** and the damage it does to the stomach lining, not to fermentation itself — and it was observed at typical Korean intake levels, which are much higher than what is common in the West. As an occasional side dish, there is no real concern.
+- **Sodium — the main downside:** A 100-gram serving of kimchi can provide 500–1,100 mg of sodium, that is, up to about half of the recommended daily limit (2,300 mg). Anyone managing high blood pressure, heart failure or kidney disease must take this into account. A realistic side-dish portion is about 30–50 grams, and at that amount the sodium is reasonable. Interestingly, in a 12-year Korean cohort study, total kimchi intake was not linked to a higher risk of developing high blood pressure. [Song et al., 2017](https://pubmed.ncbi.nlm.nih.gov/28582822/).
+- **Link to stomach cancer — a link worth understanding correctly:** A case-control study in Korea found that high intake of kimchi and soybean pastes was linked to a higher risk of stomach cancer. [Nan et al., 2005](https://pubmed.ncbi.nlm.nih.gov/15929164/). In a meta-analysis of cohort studies, high salt intake was linked to about a 68% higher risk of stomach cancer, and the link was strongest in Japanese populations. [D'Elia et al., 2012](https://pubmed.ncbi.nlm.nih.gov/22296873/). It is important to keep this in proportion: the link is attributed to the **salt** and the damage it does to the stomach lining, not to fermentation itself — and it was observed at typical Korean intake levels, which are much higher than what is common in the West. As an occasional side dish, there is no real concern.
 - **Histamine and biogenic amines:** As with any fermented food, fermentation produces histamine and tyramine. People with histamine sensitivity may experience headaches, itching or nasal congestion. People taking MAOI medications should avoid it.
 - **FODMAPs and irritable bowel:** Kimchi contains significant amounts of garlic and onion, so it is high in FODMAPs and may trigger symptoms in irritable bowel syndrome.
 - **Spiciness, heartburn and reflux:** The *gochugaru* may worsen heartburn and reflux symptoms in people who are sensitive to them.
@@ -63,7 +63,7 @@ Kimchi is extremely low in calories — 15 calories per 100 grams — so it adds
 - **Immunocompromised people:** As with any food containing live cultures, medical consultation is needed.
 - **Pasteurized products:** Canned kimchi or kimchi pasteurized at high temperature loses its live bacteria. It remains a tasty fermented vegetable food, but without the probiotic benefit. Look for a refrigerated product in the chilled section.
 
-### Culinary use
+### Practical use
 
 - **As a side dish (*banchan*)** — the traditional form: a spoonful or two alongside rice and a main course.
 - **Kimchi jjigae** — a sour kimchi stew with tofu and meat. The classic use for kimchi that has become too sour.

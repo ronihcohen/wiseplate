@@ -1,88 +1,91 @@
 ---
 title: "Copper"
-seo_title: "Copper: Sources, Deficiency and Zinc Supplement Risks"
+seo_title: "Copper: Daily Needs, and Why Zinc Supplements Can Deplete It"
 date: 2026-02-13T05:56:32+02:00
-lastmod: 2026-09-02T09:00:00+03:00
+lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "Copper: its role in iron metabolism and connective tissue, why zinc supplements cause most deficiency, and when anemia calls for a copper test."
+description: "Copper: 900 mcg a day for adults, its role in iron transport and the nervous system, why high-dose zinc causes deficiency, and when anaemia calls for a copper test."
 ---
 
-Copper is a trace mineral most people never think about — and rightly so, because primary dietary deficiency is rare. **But it does come into medicine through the back door**, in a way worth knowing about: **the most common cause of copper deficiency in the Western world is taking high-dose [zinc](/en/food/supplements/zinc/).**
+## Copper
 
-The two compete for the same absorption mechanisms in the gut. Zinc stimulates production of a protein called **metallothionein**, which binds copper in the intestinal cells and prevents it from being absorbed. **Anyone who takes 50 mg of zinc a day for months — as many do "for immunity" or "for their skin" — may develop a genuine copper deficiency, with anemia and nerve damage.**
+**Copper is a trace mineral adults need 900 micrograms of a day, and it is plentiful in nuts, seeds, legumes and shellfish. Dietary deficiency is rare, but secondary deficiency — mainly after bariatric surgery or long-term high-dose zinc — can cause anaemia and nerve damage.** In Hebrew it is "נחושת". [NIH fact sheet on copper](https://ods.od.nih.gov/factsheets/Copper-HealthProfessional/).
 
-### Dosage and sources
+The zinc connection is the part worth knowing. Zinc makes gut cells produce a protein called metallothionein, which binds copper and blocks its absorption. Someone who takes tens of milligrams of [zinc](/en/food/supplements/zinc/) a day for months — "for immunity" or "for the skin" — can develop a real copper deficiency.
 
-| Measure | Value |
-|---|---|
-| Recommended Dietary Allowance (RDA) — adults | 900 mcg |
-| Pregnancy / breastfeeding | 1,000 / 1,300 mcg |
-| Tolerable Upper Intake Level (UL) | 10 mg per day |
+### How much you need a day
+
+| Age | Recommended intake a day (RDA) | Tolerable upper limit a day (UL) |
+|---|---|---|
+| Infants 0–6 months | 200 mcg (AI) | Not set |
+| Infants 7–12 months | 220 mcg (AI) | Not set |
+| 1–3 | 340 mcg | 1,000 mcg |
+| 4–8 | 440 mcg | 3,000 mcg |
+| 9–13 | 700 mcg | 5,000 mcg |
+| 14–18 | 890 mcg | 8,000 mcg |
+| 19+ | 900 mcg | 10,000 mcg (10 mg) |
+| Pregnancy | 1,000 mcg | 8,000–10,000 mcg |
+| Breastfeeding | 1,300 mcg | 8,000–10,000 mcg |
+
+### Food sources
 
 | Source | Copper per 100 g |
 |---|---|
-| [Oysters](/en/food/oysters/) | 1.6 mg (176%) |
-| [Dark chocolate](/en/food/dark-chocolate/) 70-85% | 1.8 mg |
-| [Cashews](/en/food/cashews/) | 2.2 mg |
-| [Sesame](/en/food/sesame-seeds/) / [tahini](/en/food/tahini/) | 1.5 mg |
-| [Buckwheat](/en/food/buckwheat/) (dry) | 1.1 mg |
-| [Hazelnuts](/en/food/hazelnuts/) | 1.7 mg |
-| Shiitake [mushrooms](/en/food/mushrooms/) (dried) | 5.2 mg |
+| Dried shiitake [mushrooms](/en/food/mushrooms/) | about 5.2 mg |
+| Whole [sesame seeds](/en/food/sesame-seeds/) | about 4.1 mg |
+| [Cashews](/en/food/cashews/) | about 2.2 mg |
+| [Dark chocolate](/en/food/dark-chocolate/) 70–85% | about 1.8 mg |
+| [Hazelnuts](/en/food/hazelnuts/) | about 1.7 mg |
+| [Tahini](/en/food/tahini/) | about 1.6 mg |
+| [Oysters](/en/food/oysters/) | 1.5–4.5 mg, depending on species |
+| [Buckwheat](/en/food/buckwheat/) (dry) | about 1.1 mg |
 
-## Benefits (Pros)
+A handful of cashews (30 g) provides about 0.6 mg — roughly two-thirds of the daily need — so a varied diet covers copper easily.
 
-### 1. Mobilizing [iron](/en/food/iron/) — the role nobody talks about
-Copper is the core of **ceruloplasmin**, an enzyme that oxidizes ferrous iron to ferric iron and allows it to bind transferrin and travel in the blood. **Without copper, iron stays stuck in the body's stores and is unavailable for making hemoglobin.** The result: **anemia that doesn't respond to an iron supplement** — a classic clinical sign of copper deficiency.
+### Benefits
 
-### 2. Connective tissue and blood vessels
-The copper-dependent enzyme **lysyl oxidase** forms the cross-links between [collagen](/en/food/collagen/) and elastin fibers. That is what gives skin, tendons, bone and blood vessel walls their strength. Severe deficiency compromises the integrity of blood vessels.
+- **Moving [iron](/en/food/iron/):** Copper is part of the enzyme ceruloplasmin, which lets iron leave the body's stores and bind to its carrier protein in the blood. Without copper, iron is "stuck" and unavailable for making haemoglobin. That is why a classic sign of copper deficiency is anaemia that does not respond to iron, sometimes with low white blood cells (neutropenia). [Myint et al., 2018](https://pubmed.ncbi.nlm.nih.gov/29959467/).
+- **Connective tissue:** The copper-dependent enzyme lysyl oxidase cross-links [collagen](/en/food/collagen/) and elastin fibres, giving strength to skin, bone and blood vessel walls.
+- **Energy and the nervous system:** Copper is part of cytochrome c oxidase, the final enzyme of the mitochondrial respiratory chain, and it is needed to maintain myelin and make noradrenaline.
+- **Antioxidant defence and pigment:** Copper is part of the enzyme SOD (together with zinc) and of tyrosinase, which makes melanin.
 
-### 3. Energy production and the nervous system
-Copper is a cofactor of **cytochrome c oxidase** — the last enzyme in the mitochondrial respiratory chain. It is also needed to form myelin and to synthesize neurotransmitters (dopamine beta-hydroxylase).
+### Downsides and side effects
 
-### 4. Antioxidant and pigmentation
-A component of the enzyme **Cu/Zn-SOD** in the cytoplasm, and of **tyrosinase** — the enzyme that produces melanin. Hair losing its color is a known sign of severe copper deficiency.
+- **Deficiency caused by zinc:** Long-term zinc intake above the upper limit (40 mg a day) can cause copper deficiency. The clinical picture: anaemia, neutropenia and, in advanced cases, spinal cord damage with walking and sensory problems — which resembles [vitamin B12](/en/food/supplements/vitamin-b12/) deficiency and can persist partly even after treatment. A case series described such nerve damage from zinc-rich denture adhesives used excessively for years. [Nations et al., 2008](https://pubmed.ncbi.nlm.nih.gov/18525032/).
+- **Bariatric surgery:** Gastric bypass skips the part of the gut where most copper is absorbed, and copper deficiency is a known complication that needs blood monitoring for years.
+- **Wilson disease:** A genetic disorder in which the body cannot excrete copper through bile, so it builds up in the liver and brain. People with Wilson disease avoid copper-containing supplements and limit copper-rich foods as their doctor advises.
+- **Excess:** Rare from food. Acute poisoning (from water in corroded copper pipes, or a wrongly dosed supplement) causes nausea, vomiting and abdominal pain, and chronic excess can damage the liver.
 
-## Downsides and Side Effects (Cons)
+### Practical use
 
-### 1. Deficiency caused by [zinc](/en/food/supplements/zinc/) — the main practical risk
-As described above. **A dose of more than 40-50 mg of zinc a day over time** is enough to cause copper deficiency. The best-documented syndrome is **myeloneuropathy** — spinal cord damage with walking and sensory disturbances, clinically similar to [vitamin B12](/en/food/supplements/vitamin-b12/) deficiency and potentially **irreversible if not caught in time**. Cases have also been described from chronic swallowing of zinc-rich denture adhesive.
+- **A healthy person with a varied diet does not need a copper supplement.**
+- **Anyone taking high-dose zinc for a long time** should do so under medical guidance and with copper alongside. That is how the AREDS supplement for macular degeneration was designed: 80 mg zinc with 2 mg copper, to prevent deficiency. [AREDS, 2001](https://pubmed.ncbi.nlm.nih.gov/11594942/).
+- **Anaemia that does not respond to iron**, especially after bariatric surgery or in someone taking zinc, is a reason to ask for copper and ceruloplasmin tests.
+- **A standard multivitamin** usually contains 0.5–2 mg copper, nowhere near the upper limit.
 
-### 2. Bariatric surgery
-Gastric bypass surgery removes or bypasses the part of the gut where most copper is absorbed. **Copper deficiency after bariatric surgery is a recognized complication**, and requires long-term monitoring.
+### Summary
 
-### 3. Wilson's disease — a genetic excess
-A genetic disorder in which the body cannot excrete copper through bile, so it accumulates in the liver, brain and cornea. **People with Wilson's disease must avoid copper-rich foods and any supplement that contains it.** The classic sign is the Kayser-Fleischer ring in the cornea.
-
-### 4. Toxicity from excess
-Rare from diet. It has been described in acute poisoning (water from corroded copper pipes, wrongly dosed supplements) and causes nausea, vomiting, abdominal pain and, in severe cases, liver damage.
-
-### 5. A copper supplement on its own — almost always unnecessary
-A healthy person with a reasonable diet has no need for a copper supplement. **The practical exception:** someone taking high-dose zinc over a long period — for them a combined supplement including 1-2 mg of copper is recommended.
-
-## Summary
-
-Copper is needed to mobilize [iron](/en/food/iron/), for the strength of connective tissue, for energy production and for myelin — and it is found in [oysters](/en/food/oysters/), [cashews](/en/food/cashews/), [tahini](/en/food/tahini/) and [dark chocolate](/en/food/dark-chocolate/) in amounts that easily cover intake. **Primary dietary deficiency is rare, but secondary deficiency is more common than it seems** — and its usual cause is a high-dose zinc supplement taken for months. Two practical rules: **anyone taking zinc long term needs copper alongside it**, and **anemia that doesn't respond to iron calls for a copper test**.
+Copper is needed to move iron, build connective tissue, produce energy and keep the nervous system healthy, and it is plentiful in nuts, seeds, dark chocolate and shellfish. Primary dietary deficiency is rare, but secondary deficiency happens: after bariatric surgery and with long-term high-dose zinc. Two practical rules: anyone on long-term high-dose zinc needs copper alongside it, and anaemia that does not respond to iron calls for a copper test.
 
 ### Frequently asked questions
 
-**Question: How much copper do you need per day?**
-Answer: 900 mcg for adults (1,000 in pregnancy, 1,300 when breastfeeding), with a tolerable upper intake level of 10 mg. A handful of cashews, a spoonful of tahini or two squares of dark chocolate supply a good part of that, which is why primary dietary deficiency is rare on a varied diet.
+**Question: How much copper do I need a day?**
+Answer: 900 micrograms for adults, 1,000 in pregnancy and 1,300 while breastfeeding. The upper limit is 10 mg a day. A handful of cashews or a spoonful of tahini provides a good share of it.
 
-**Question: Does a zinc supplement cause copper deficiency?**
-Answer: Yes, and it is the most common cause of copper deficiency in the Western world. Zinc stimulates production of metallothionein in the intestinal cells, which binds copper and prevents its absorption. A dose of more than 40-50 mg of zinc a day for months is enough to cause deficiency. Anyone taking zinc long term needs a supplement that also includes 1-2 mg of copper.
+**Question: Can zinc supplements cause copper deficiency?**
+Answer: At high doses over a long time, yes. Zinc makes gut cells produce a protein that binds copper and blocks its absorption. The risk rises with more than 40 mg of zinc a day for months, which is why high-dose zinc is usually given with copper.
 
 **Question: What happens in copper deficiency?**
-Answer: Two main signs. Anemia that doesn't respond to an iron supplement — because without copper, iron stays stuck in the stores and is unavailable for hemoglobin — and neutropenia. In advanced cases, myeloneuropathy develops: spinal cord damage with walking and sensory disturbances, similar to B12 deficiency and potentially irreversible if not caught in time.
+Answer: The main signs are anaemia that does not respond to iron and low white blood cells. In advanced cases spinal cord damage develops, with walking and sensory problems, similar to B12 deficiency. Blood counts usually recover within weeks of treatment, but nerve damage may remain.
 
 **Question: Which foods are rich in copper?**
-Answer: The leaders are dried shiitake mushrooms (5.2 mg per 100 g), cashews (2.2 mg), dark chocolate (1.8 mg), hazelnuts (1.7 mg), oysters (1.6 mg), sesame and tahini (1.5 mg) and buckwheat (1.1 mg). Nuts, seeds and seafood are the strongest categories.
+Answer: Dried shiitake mushrooms, sesame seeds, cashews, dark chocolate, hazelnuts, tahini, oysters and buckwheat. Nuts, seeds and shellfish are the strongest categories.
 
 **Question: Who is at risk of copper deficiency?**
-Answer: Mainly people taking high-dose zinc over a long period, and bariatric surgery patients — bypass operations remove or bypass the part of the gut where most copper is absorbed, a recognized complication that requires long-term monitoring. Also patients on parenteral nutrition and infants with Menkes disease.
+Answer: Mainly people who have had bariatric surgery and people taking high-dose zinc long-term, as well as patients on long-term intravenous feeding and infants with the genetic condition Menkes disease.
 
-**Question: What is Wilson's disease?**
-Answer: A genetic disorder in which the body cannot excrete copper through bile, so it accumulates in the liver, brain and cornea — where the characteristic Kayser-Fleischer ring forms. People with Wilson's disease must avoid copper-rich foods and any supplement containing it, and are treated with drugs that bind copper.
+**Question: What is Wilson disease?**
+Answer: A genetic disorder in which the body cannot excrete copper through bile, so it accumulates in the liver, brain and cornea. It is treated with drugs that bind copper, and patients avoid supplements that contain it.
 
-**Question: Should you take a copper supplement?**
-Answer: For a healthy person with a reasonable diet — no. The only practical exception is someone taking a high-dose zinc supplement over a long period, for whom a combined supplement with 1-2 mg of copper is recommended. After bariatric surgery, too, supplementation is done under medical supervision rather than on your own initiative.
+**Question: Should I take a copper supplement?**
+Answer: A healthy person does not need one. The exceptions are people on long-term high-dose zinc and people after bariatric surgery, and in both cases it is done with medical follow-up and blood tests.

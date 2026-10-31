@@ -1,102 +1,98 @@
 ---
 title: "Blueberries"
+seo_title: "Blueberries: Nutrition, Memory and Heart Health — The Evidence"
 date: 2026-08-10T06:40:00+03:00
+lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "Anthocyanins, memory and blood pressure — a review of the evidence on blueberries, and why freezing actually preserves them so well."
+description: "Blueberries have 57 calories per 100 g. A cup a day improved blood-vessel function in a 6-month trial; memory evidence is modest. Why frozen equals fresh."
 ---
 
 ## Blueberries
 
-The blueberry (*Vaccinium* spp.; in Hebrew "אוכמניות") is a small berry from the heath family (Ericaceae), and one of the most studied foods in the field of nutrition and cognition. Its deep blue-purple color comes from **anthocyanins** — pigments from the flavonoid family that are concentrated mainly in the skin, and around which almost all of the research revolves.
+**100 g of blueberries provide about 57 calories, 2.4 g of fiber and about 10 g of sugar, and they are concentrated in anthocyanins. In a six-month controlled trial, a cup of blueberries a day improved blood-vessel function but not insulin resistance; the evidence for memory is real but modest. Frozen blueberries are nutritionally equivalent to fresh.**
 
-100 grams of blueberries provide about 57 calories, 14 grams of carbohydrates, 2.4 grams of fiber and about 120-160 mg of anthocyanins. It is a fruit relatively low in sugar (about 10 grams per 100 grams) with a low glycemic index (about 53), so it is well tolerated even in carbohydrate-restricted diets.
+The blueberry (*Vaccinium*, in Hebrew "אוכמניות") is a small berry from the heath family. Its deep blue-purple color comes from **anthocyanins**, pigments in the flavonoid family concentrated in the skin, and almost all of the research revolves around them. It helps to distinguish **cultivated blueberries** (highbush, the common supermarket kind) from **wild blueberries** (lowbush, sold mostly frozen). Wild blueberries are smaller, so the ratio of skin to volume is higher, which makes them richer in anthocyanins.
 
-It is worth distinguishing between two types: **cultivated blueberries** (highbush, the common supermarket kind) and **wild blueberries** (lowbush/wild, sold mainly frozen). Wild blueberries are smaller, so their ratio of skin to volume is higher — and their anthocyanin content is about 50% higher or even more.
+### Nutrition facts
 
-### Research-based health benefits
+Per 100 g of fresh blueberries, and per cup (about 150 g). Values are rounded.
 
-* **Cognition and memory — the most researched area:** This is the blueberry's unique research foundation. The Nurses' Health Study, which followed tens of thousands of women for years, found that high intake of blueberries and strawberries was associated with a delay of up to about two and a half years in cognitive decline. Smaller controlled trials, in adults with mild cognitive decline and in children, showed improvements in memory and processing speed after consuming blueberries or blueberry extract. The proposed mechanism includes improved cerebral blood flow — demonstrated with fMRI — and effects on neuronal signaling pathways.
+| Nutrient | Per 100 g | Cup (150 g) |
+|---|---|---|
+| Calories | 57 | about 85 |
+| Carbohydrate | 14.5 g | about 22 g |
+| of which sugar | 10 g | about 15 g |
+| Dietary fiber | 2.4 g | about 3.6 g |
+| Protein | 0.7 g | about 1 g |
+| Fat | 0.3 g | about 0.5 g |
+| [Vitamin C](/en/food/supplements/vitamin-c/) | 9.7 mg | about 15 mg |
+| [Vitamin K](/en/food/supplements/vitamin-k/) | 19.3 mcg | about 29 mcg |
+| [Manganese](/en/food/supplements/manganese/) | 0.34 mg | about 0.5 mg |
+| Anthocyanins | about 120-160 mg | about 180-240 mg |
+| Glycemic index | about 53 | — |
 
-* **Blood pressure and blood vessel function:** Meta-analyses of controlled trials found a moderate drop in systolic blood pressure and improved endothelial function (FMD) with regular blueberry intake. The mechanism is similar to that of [cocoa flavanols](/en/food/dark-chocolate/) — increased nitric oxide availability and relaxation of the blood vessel wall.
+### Benefits
 
-* **Insulin sensitivity:** Several controlled trials in adults with [insulin](/en/food/supplements/insulin/) resistance showed improved insulin sensitivity after daily blueberry intake. The finding is consistent but modest in size.
+* **Blood-vessel function and blood lipids.** In a six-month, double-blind randomized trial, 115 adults with metabolic syndrome received blueberry powder equivalent to half a cup or a cup a day, or a placebo. One cup a day improved flow-mediated dilation (FMD) and arterial stiffness and, in those not taking statins, slightly raised HDL. Half a cup had no effect, and insulin resistance and blood pressure did not change. [Curtis et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31136659/). In other words, there is an effect on blood vessels, but not on every measure and not at every dose.
 
-* **Fiber and the microbiome:** 2.4 grams of fiber per 100 grams, combined with [polyphenols](/en/food/polyphenols/), most of which are not absorbed in the small intestine and reach the colon. There they serve as a substrate for gut bacteria, which convert them into active metabolites — so a substantial part of the "antioxidant activity" actually takes place through the microbiome.
+* **Memory and cognitive aging.** In the Nurses' Health Study, women who ate more blueberries and strawberries showed slower cognitive decline, at a rate the researchers estimated as a delay of up to about two and a half years of cognitive aging. [Devore et al., 2012](https://pubmed.ncbi.nlm.nih.gov/22535616/). In a small controlled trial, 37 adults aged 60-75 who received blueberry powder equivalent to a cup a day for 90 days made fewer errors on some memory and task-switching tests, with no improvement in gait or balance. [Miller et al., 2018](https://pubmed.ncbi.nlm.nih.gov/28283823/). The effects are small but relatively consistent for this field.
 
-* **[Vitamin C](/en/food/supplements/vitamin-c/) and [vitamin K](/en/food/supplements/vitamin-k/):** 100 grams provide about 9.7 mg of vitamin C and about 19 mcg of vitamin K.
+* **Type 2 diabetes risk.** In three large US cohort studies, every three servings of blueberries a week was associated with a 26% lower risk of type 2 diabetes, the strongest association among the fruits examined. [Muraki et al., 2013](https://pubmed.ncbi.nlm.nih.gov/23990623/). That is an observational association; the Curtis trial above found no improvement in insulin resistance.
 
-* **Low calorie density:** 57 calories per 100 grams make them one of the "cheapest" fruits calorie-wise relative to their nutritional value — a practical advantage for weight management.
+* **Fiber and the microbiome.** Most of the [polyphenols](/en/food/polyphenols/) in blueberries are not absorbed in the small intestine and reach the colon, where bacteria convert them into active metabolites. A large part of the effect runs through the microbiome, which also explains why responses vary between people.
 
-### Important caveats
+* **Low calorie density.** A cup of blueberries provides about 85 calories. As a topping for yogurt or porridge, they replace added sugar.
 
-The "superfood" label attached to blueberries deserves some balance. Three caveats:
+### What needs qualifying
 
-1. **The ORAC score is irrelevant.** For years blueberries were marketed on the basis of a high ORAC (oxygen radical absorbance capacity) score. The US Department of Agriculture (USDA) removed this database from its website in 2012, explicitly stating that ORAC values are measured in a test tube and have no proven biological meaning in the human body. Marketing based on ORAC is not valid.
+1. **The ORAC score is irrelevant.** Blueberries were marketed for years on their high ORAC score ("antioxidant capacity"). The US Department of Agriculture withdrew that database in 2012, because values measured in a test tube do not indicate an effect in the body.
+2. **Anthocyanin bioavailability is low.** Only a small fraction reaches the blood in its original form; the effect works through metabolites.
+3. **Effect sizes are modest.** Blueberries are a good addition to a diet, not a treatment. "Superfood" is a marketing label.
 
-2. **The bioavailability of anthocyanins is low.** Less than 1% of the anthocyanins consumed are absorbed intact into the blood. The effect is mostly mediated by metabolites formed in the gut — which also explains why the response varies between people.
+### Downsides
 
-3. **The effect size is modest.** The measured drops in blood pressure and cognitive improvements are real and statistically significant, but small. Blueberries are a good addition to the diet — not a therapeutic intervention.
+* **Price.** Fresh blueberries are expensive, especially out of season. The fix: frozen (see below).
+* **Vitamin K and blood thinners.** The amount is moderate, but anyone taking warfarin (Coumadin) should keep their intake of vitamin K foods steady and avoid sudden changes.
+* **Pesticide residues.** Blueberries are not peeled, so wash them well just before eating.
+* **FODMAPs in large portions.** Small amounts are well tolerated even on a low-FODMAP diet; a large serving can cause symptoms in sensitive people.
+* **"Blueberry-flavored" products.** Muffins, jams and yogurts often contain a lot of sugar and little fruit, sometimes only flavoring and coloring.
 
-### Downsides and health considerations
+### Practical use
 
-* **Price and availability:** Fresh blueberries are significantly more expensive than most fruits, especially out of season. This is the most significant practical downside, and the solution is simple (see below on frozen).
+**Frozen blueberries are not inferior to fresh.** They are frozen within hours of harvest, at peak ripeness, whereas "fresh" berries sometimes spend weeks in transport and storage. Freezing preserves anthocyanins well, and frozen berries are cheaper, available all year, and are often the wild kind.
 
-* **[Vitamin K](/en/food/supplements/vitamin-k/) and anticoagulants:** The content is moderate, but people taking warfarin (Coumadin) are advised to keep their intake of vitamin K-rich foods **consistent** and not to change it suddenly.
-
-* **Pesticides:** Blueberries sometimes appear on lists of fruits with high residues. Since the value is concentrated in the skin and they cannot be peeled, thorough washing or choosing organic is relevant.
-
-* **FODMAPs in large portions:** In small amounts blueberries are well tolerated on a low-FODMAP diet, but large portions may cause symptoms in sensitive people.
-
-* **Processed products:** Blueberry muffins, jams and "blueberry-flavored" yogurts usually contain a lot of sugar and a negligible amount of fruit — and sometimes only flavoring and food coloring. The nutritional benefit does not survive the processing.
-
-### Nutrition facts per 100 grams
-
-| Component | Amount |
-|---|---|
-| Calories | 57 |
-| Carbohydrates | 14.5 g |
-| of which sugar | 10 g |
-| Dietary fiber | 2.4 g |
-| Protein | 0.7 g |
-| Fat | 0.3 g |
-| [Vitamin C](/en/food/supplements/vitamin-c/) | 9.7 mg |
-| Vitamin K | 19.3 mcg |
-| [Manganese](/en/food/supplements/manganese/) | 0.34 mg |
-| Anthocyanins | 120-160 mg |
-| Glycemic index | ~53 |
-
-### Frozen vs. fresh — a practical point
-
-This is probably the most useful advice about blueberries. **Frozen blueberries are not inferior to fresh ones, and are sometimes even better.**
-
-They are frozen using IQF (individually quick frozen) within hours of picking, at peak ripeness — whereas "fresh" blueberries sometimes go through weeks of transport and storage during which vitamin C and polyphenols degrade. Studies comparing the two found similar and even higher anthocyanin content in the frozen ones.
-
-What's more, ice crystals rupture the cell walls — which releases anthocyanins and may even **increase** their availability. Add the fact that frozen blueberries are significantly cheaper and available year-round (and are often wild blueberries rich in anthocyanins), and this is the better practical choice for most people.
-
-To use: add frozen blueberries directly to a smoothie, yogurt or [oatmeal](/en/food/oatmeal/). Slow thawing in the fridge preserves texture better than quick thawing.
+* Add frozen berries straight to smoothies, yogurt or [oatmeal](/en/food/oatmeal/).
+* Slow thawing in the fridge keeps the texture better.
+* Fresh berries: wash only just before eating, because moisture speeds mold.
+* The portion commonly used in studies: 75-150 g (half a cup to a cup) a day.
+* With [dark chocolate](/en/food/dark-chocolate/) or nuts, blueberries make a dessert with little added sugar.
+* Cooking blueberries into a sauce or baking them reduces vitamin C and some anthocyanins, but most of the fiber remains; raw or frozen is the best way to keep the pigments.
 
 **Compare:** [A Scientific Comparison: Blueberries, Raspberries and Strawberries](/en/compare/blueberry-raspberry-strawberry/)
 
 ### Summary
 
-Blueberries are a fruit with a genuine research base — mainly in cognition, where the evidence is unique compared to other fruits, and also in blood pressure and insulin sensitivity. The effect sizes are modest, and the ORAC score used to market them is not scientifically valid. They are an excellent addition to a varied diet, not a medicine. The most significant practical step: buy frozen — cheaper, available year-round, and at least nutritionally equivalent.
+Blueberries have a real research base, mainly for blood-vessel function and cognitive aging, plus a strong observational link to lower diabetes risk. The effects are modest, and some popular claims (ORAC, "superfood") do not hold up. The key practical step: buy them frozen, and eat a cup a day if that suits you.
 
 ### Frequently asked questions
 
 **Question: Are frozen blueberries less healthy than fresh?**
-Answer: No, and sometimes they are even better. They are frozen within hours of picking at peak ripeness, while "fresh" ones go through weeks of storage. Studies found similar and even higher anthocyanin content in frozen blueberries, and ice crystals may even increase the availability of the pigments.
+Answer: No. They are frozen at peak ripeness and keep their anthocyanins well. They are also cheaper and available all year.
 
 **Question: Do blueberries really improve memory?**
-Answer: There is real evidence — large cohort studies and small controlled trials showed improved memory and a delay in cognitive decline. However, the effect size is modest, and some studies used concentrated extracts rather than the fruit. A good addition to the diet, not a treatment.
+Answer: There is modest evidence: a large cohort study linked berry intake with slower cognitive decline, and a small trial showed improvement on some memory tests. They are a good addition, not a treatment.
 
-**Question: How many blueberries a day?**
-Answer: Most studies used 100-150 grams a day (about half a cup to a cup), or an equivalent extract. This is a reasonable, achievable amount, especially in frozen form.
+**Question: How many blueberries should I eat a day?**
+Answer: Most studies used the equivalent of a cup (about 150 g) a day. In the longest trial, half a cup was not enough to change the measured markers.
 
 **Question: Are blueberries suitable for people with diabetes?**
-Answer: Yes. They are relatively low in sugar (about 10 grams per 100 grams), have a low glycemic index (about 53) and are rich in fiber. Several trials even showed improved insulin sensitivity.
+Answer: Yes. They contain about 10 g of sugar per 100 g, have a low glycemic index and provide fiber. They have been linked to a lower risk of diabetes, although they did not improve insulin resistance in a controlled trial.
 
-**Question: What is the difference between wild blueberries and regular blueberries?**
-Answer: Wild blueberries (wild/lowbush, usually frozen) are smaller, so their skin-to-volume ratio is higher — and their anthocyanin content is about 50% higher or more than that of cultivated blueberries.
+**Question: What is the difference between wild and regular blueberries?**
+Answer: Wild blueberries are smaller with a higher proportion of skin, so they are richer in anthocyanins. They are sold mostly frozen.
 
 **Question: Does the high ORAC score of blueberries matter?**
-Answer: No. The US Department of Agriculture removed the ORAC database in 2012 and determined that these values, measured in a test tube, have no proven biological meaning in the body. Marketing based on ORAC is not scientifically valid.
+Answer: No. The US Department of Agriculture withdrew its ORAC database in 2012, because test-tube values do not indicate an effect in the body.
+
+**Question: Can I eat blueberries while taking Coumadin?**
+Answer: Yes, in a consistent amount. The principle with warfarin is a steady vitamin K intake, not avoidance.
