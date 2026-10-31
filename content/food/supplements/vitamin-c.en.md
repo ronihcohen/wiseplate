@@ -75,7 +75,7 @@ High doses can cause diarrhea, nausea and abdominal cramps. There is concern abo
 * If you take a supplement anyway: 100–250 mg a day is enough; beyond that most of it is not absorbed and is excreted in the urine.
 * Store powder and tablets in a dry, dark place. A solution or cut fruit loses vitamin C faster when exposed to air, light and heat.
 
-**See also:** [Vitamin E](/en/food/supplements/vitamin-e/) · [Combining supplements guide](/en/food/supplements/supplement-stack/)
+**See also:** [Vitamin E (Tocopherol)](/en/food/supplements/vitamin-e/) · [Combining Supplements: What Works Together, What Interferes, and When to Take Them](/en/food/supplements/supplement-stack/)
 
 ### Summary
 

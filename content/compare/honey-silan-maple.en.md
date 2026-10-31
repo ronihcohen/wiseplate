@@ -86,7 +86,7 @@ Maple syrup is made from the sap of maple trees (mainly in Canada and the north-
 
 Honey, date syrup and maple syrup are three versions of sugar with different flavors and very little extra nutrition. Maple is slightly lighter in calories and supplies manganese, date syrup keeps a trace of the date, and honey helps with coughs in children but is forbidden for infants. Choose by taste, and keep the amount down: together with all other sugars, it is best not to go above about 6 teaspoons a day.
 
-**Compare:** [white, brown and coconut sugar](/en/compare/white-brown-coconut-sugar/).
+**Compare:** [A Scientific Comparison: White, Brown and Coconut Sugar](/en/compare/white-brown-coconut-sugar/).
 
 ### Frequently asked questions
 

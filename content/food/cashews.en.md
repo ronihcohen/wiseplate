@@ -68,7 +68,7 @@ According to the US National Institutes of Health, 1 ounce of dry-roasted cashew
 - **Cashew butter.** A milder alternative to peanut butter, with slightly less protein.
 - **Storage.** In a sealed jar in a cool place, or in the fridge for longer storage.
 
-**See also:** [Almonds](/en/food/almonds/), [Brazil nuts](/en/food/brazil-nuts/), [Pistachios](/en/food/pistachios/), [Peanut butter](/en/food/peanut-butter/)
+**See also:** [Almonds](/en/food/almonds/), [Brazil Nuts](/en/food/brazil-nuts/), [Pistachios](/en/food/pistachios/), [Peanut Butter](/en/food/peanut-butter/)
 
 ### Summary
 

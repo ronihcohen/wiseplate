@@ -61,7 +61,7 @@ A large Ettinger or Pinkerton avocado can weigh 250 g or more of edible flesh, a
 
 **Compare:** [A Scientific Comparison: Olive, Coconut and Avocado Oil](/en/compare/olive-coconut-avocado-oil/)
 
-**See also:** [Olive oil](/en/food/olive-oil/), [Coconut](/en/food/coconut/)
+**See also:** [Olive Oil](/en/food/olive-oil/), [Coconut](/en/food/coconut/)
 
 ### Summary
 

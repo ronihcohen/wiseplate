@@ -86,7 +86,7 @@ A popular claim that strawberries "whiten teeth" thanks to malic acid is not sup
 
 All three berries are a good choice: low in calories, low in sugar compared with other fruit, and rich in polyphenols. Raspberries lead on fiber and low sugar, strawberries on vitamin C and low calories, and blueberries on anthocyanins and memory research. A daily cup of a mix of all three, fresh or frozen, covers the benefits of each.
 
-**See also:** [cherries](/en/food/cherry/), [pomegranate](/en/food/pomegranate/).
+**See also:** [Cherry](/en/food/cherry/), [Pomegranate](/en/food/pomegranate/).
 
 ### Frequently asked questions
 

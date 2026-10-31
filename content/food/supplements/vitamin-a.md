@@ -95,7 +95,7 @@ RAE (Retinol Activity Equivalents) הוא יחידה שמשקללת את ההב�
 - **תרופות:** מי שנוטל רטינואידים לאקנה או לפסוריאזיס (איזוטרטינואין, אציטרטין) לא צריך ליטול בנוסף תוספי ויטמין A, כי ההשפעות מצטברות. [NIH ODS — ויטמין A](https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/)
 - **מעשנים ומעשנים לשעבר:** להימנע מתוספי בטא־קרוטן במינון גבוה.
 
-**ראו גם:** [ויטמין E](/food/supplements/vitamin-e/) · [המדריך לשילוב תוספים](/food/supplements/supplement-stack/)
+**ראו גם:** [ויטמין E (Tocopherol)](/food/supplements/vitamin-e/) · [שילוב תוספי תזונה: מה עובד יחד, מה מפריע ומתי לקחת](/food/supplements/supplement-stack/)
 
 ### סיכום
 

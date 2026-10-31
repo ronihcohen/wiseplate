@@ -89,7 +89,7 @@ White chocolate is made from cocoa butter, sugar and milk powder. Without cocoa 
 
 Dark chocolate is the only type with some health advantage to its name: less sugar, more fiber and minerals, and flavanols that lower blood pressure slightly. It is also calorie-dense, contains caffeine and sometimes heavy metals, so it belongs in small portions. Milk and white chocolate are treats for enjoyment, and white is caffeine-free. A 10–20 g serving of dark chocolate with your [coffee](/en/food/coffee/) is a good way to enjoy it.
 
-**See also:** [cacao nibs](/en/food/cacao-nibs/).
+**See also:** [Cacao and Cacao Nibs](/en/food/cacao-nibs/).
 
 ### Frequently asked questions
 

@@ -4,7 +4,7 @@ seo_title: "Brown Lentils Nutrition: Protein, Iron, Benefits and Downsides"
 date: 2025-12-22T11:10:00+02:00
 lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "A cup of cooked brown lentils: about 18 g protein, 15 g fiber and 6.6 mg iron. Nutrition facts, trials on cholesterol and blood sugar, gas, and how to cook them."
+description: "A cup of cooked brown lentils: about 18 g protein, 15 g fiber and 6.6 mg iron. Nutrition, cholesterol and blood sugar trials, gas, and cooking."
 ---
 
 ## Brown Lentils

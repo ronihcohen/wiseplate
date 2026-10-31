@@ -4,7 +4,7 @@ seo_title: "What Is EGCG? Benefits, Dosage, Liver Safety and Side Effects"
 date: 2026-08-09T12:00:00+03:00
 lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "EGCG is the main catechin in green tea, 20–50 mg a cup. What studies found on weight and blood pressure, and why extracts of 800 mg a day or more harm the liver."
+description: "EGCG is the main catechin in green tea, 20–50 mg a cup. What studies found on weight and blood pressure, and why extracts of 800 mg a day or more harm the liver"
 ---
 
 ## What Is EGCG?

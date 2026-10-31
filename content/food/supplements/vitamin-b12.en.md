@@ -94,7 +94,7 @@ No Tolerable Upper Intake Level has been set for B12, and it is considered safe 
 - **Pill or shot:** a Cochrane review found that high-dose pills (1,000–2,000 mcg a day) raise B12 levels about as well as injections, though the number of trials is small. [Wang et al., Cochrane 2018](https://pubmed.ncbi.nlm.nih.gov/29543316/) Severe neurological cases usually start with injections.
 - **Symptoms worth testing for:** numbness in the feet, unexplained fatigue, memory problems, or anemia with large red blood cells.
 
-**See also:** [Vitamin B6](/en/food/supplements/vitamin-b6/) · [Combining supplements guide](/en/food/supplements/supplement-stack/)
+**See also:** [Vitamin B6 (Pyridoxine)](/en/food/supplements/vitamin-b6/) · [Combining Supplements: What Works Together, What Interferes, and When to Take Them](/en/food/supplements/supplement-stack/)
 
 ### Summary
 

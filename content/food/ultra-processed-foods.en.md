@@ -67,7 +67,7 @@ The definition itself is disputed. Researchers such as Michael Gibney argue that
 * **A short ingredient list:** the shorter and more familiar the list, the closer the product is to real food.
 * **No need for perfection:** partial reduction still changes the picture. You do not have to give up every packaged product.
 
-**See also:** [Sausages and Hot Dogs](/en/food/sausages/), [Sugary Soft Drinks](/en/food/sugary-soft-drinks/), [Frozen Pizza](/en/food/frozen-pizza/), [Instant Cup Soup](/en/food/instant-soup/), [Sweetened Breakfast Cereals](/en/food/sweetened-cereals/), [Processed Energy Bars](/en/food/processed-energy-bars/), [Gummy Candies](/en/food/gummy-candies/), [Waffles](/en/food/waffles/), [Sufganiyah (Jelly Doughnut)](/en/food/sufganiyah/), [Argaliot (Filled Cookies)](/en/food/argaliot/), [Plant-Based Whipped Cream](/en/food/plant-whipped-cream/), [Food Marketing to Children](/en/food/marketing-to-children/), [The Sugar Industry and Science](/en/food/sugar-industry-tactics/)
+**See also:** [Sausages and Hot Dogs](/en/food/sausages/), [Sugary Soft Drinks](/en/food/sugary-soft-drinks/), [Frozen Pizza](/en/food/frozen-pizza/), [Instant Cup Soup](/en/food/instant-soup/), [Sweetened Breakfast Cereals](/en/food/sweetened-cereals/), [Processed Energy Bars](/en/food/processed-energy-bars/), [Gummy Candies](/en/food/gummy-candies/), [Waffles](/en/food/waffles/), [Sufganiyah (Jelly Doughnut)](/en/food/sufganiyah/), [Argaliot (Filled Cookies)](/en/food/argaliot/), [Plant-Based Whipped Cream](/en/food/plant-whipped-cream/), [Food Marketing to Children: How It Shapes What They Eat](/en/food/marketing-to-children/), [The Sugar Industry and Science: How Funded Research Shifted the Blame to Fat](/en/food/sugar-industry-tactics/)
 
 ### Summary
 

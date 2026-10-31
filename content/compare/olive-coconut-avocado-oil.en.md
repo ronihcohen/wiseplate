@@ -83,7 +83,7 @@ Avocado oil is pressed from the flesh of the fruit. Its fat composition is very 
 
 Extra virgin olive oil is the best-supported choice for heart health and suits most uses in the kitchen. Avocado oil is a good alternative for high heat and neutral flavor, but it is expensive and far less studied. Coconut oil raises LDL, so its place is in baking and occasional use, not as your everyday oil. Whichever you use, a tablespoon is about 120 kcal, and measuring is worth it.
 
-**See also:** [margarine](/en/food/margarine/), [polyphenols](/en/food/polyphenols/).
+**See also:** [Margarine](/en/food/margarine/), [Polyphenols](/en/food/polyphenols/).
 
 ### Frequently asked questions
 

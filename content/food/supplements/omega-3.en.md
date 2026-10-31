@@ -67,7 +67,7 @@ The gap between the two tables is the point: one serving of salmon provides near
 - **Read the label correctly:** "1,000 mg fish oil" is not 1,000 mg of omega-3. What matters is EPA plus DHA, which in a standard capsule is sometimes only 300 mg.
 - **High doses only under guidance:** 2–4 grams a day for high triglycerides is medical treatment, not a general supplement — because of the atrial fibrillation risk and drug interactions.
 
-**See also:** [How to Combine Supplements: Building a Sensible Stack](/en/food/supplements/supplement-stack/)
+**See also:** [Combining Supplements: What Works Together, What Interferes, and When to Take Them](/en/food/supplements/supplement-stack/)
 
 ### Summary
 

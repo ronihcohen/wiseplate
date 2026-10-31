@@ -57,7 +57,7 @@ The dough is based on white wheat flour, sugar and vegetable fat (usually palm o
 * **Compare labels:** the differences between brands in sugar and fat are significant.
 * **A homemade alternative:** home-baked cookies with part wholemeal flour, less sugar and a filling of ground [dates](/en/food/dates/).
 
-**See also:** [Ultra-Processed Foods](/en/food/ultra-processed-foods/), [Food Marketing to Children](/en/food/marketing-to-children/), [Waffles](/en/food/waffles/)
+**See also:** [Ultra-Processed Foods: What They Are, What the Research Shows and How to Cut Back](/en/food/ultra-processed-foods/), [Food Marketing to Children: How It Shapes What They Eat](/en/food/marketing-to-children/), [Waffles](/en/food/waffles/)
 
 ### Summary
 

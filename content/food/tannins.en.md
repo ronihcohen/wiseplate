@@ -57,7 +57,7 @@ There are two main groups: **hydrolyzable tannins**, such as tannic acid and the
 - **Milk:** [milk](/en/food/milk/) binds some tannins and softens astringency.
 - **Fruit:** ripening sharply lowers active tannins, which is why a ripe persimmon or [banana](/en/food/banana/) is not astringent. Cooking, for example poached [pear](/en/food/pear/), softens them too.
 
-**See also:** [Polyphenols: what they are and where to find them](/en/food/polyphenols/)
+**See also:** [Polyphenols](/en/food/polyphenols/)
 
 ### Summary
 

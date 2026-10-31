@@ -4,7 +4,7 @@ seo_title: "Honey: Nutrition, Benefits, Downsides, Cough and Babies"
 date: 2026-08-10T06:15:00+03:00
 lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "Honey is mostly sugar: a tablespoon has about 64 calories and 17 g sugar. What is proven (cough in children), what is not, and why babies under one must avoid it."
+description: "Honey is mostly sugar: a tablespoon has about 64 calories and 17 g sugar. What is proven (cough in children), what is not, why babies under one must avoid it."
 ---
 
 ## Honey
@@ -68,7 +68,7 @@ For adding to tea: it is worth waiting for the drink to cool a little (below abo
 
 When choosing: dark, strongly flavored honeys (buckwheat, heather) are richer in antioxidants than light, delicate ones.
 
-**Compare:** [A Scientific Comparison: Honey, Silan and Maple Syrup](/en/compare/honey-silan-maple/)
+**Compare:** [A Scientific Comparison: Honey, Date Syrup and Maple Syrup](/en/compare/honey-silan-maple/)
 
 ### Summary
 

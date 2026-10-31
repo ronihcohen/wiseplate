@@ -85,7 +85,7 @@ The resemblance to a brain is a coincidence, but the fat profile of [walnuts](/e
 
 There is no single "healthiest nut", only the right nut for the goal. Walnuts are the choice for healthy fats and blood lipids, almonds are the most balanced everyday snack, and Brazil nuts are a selenium source that works only in small portions. A mix of almonds and walnuts in a portion of about 30 g a day, plus the occasional Brazil nut, gives you the benefits of all three without going over the selenium limit.
 
-**See also:** [pecans](/en/food/pecans/), [cashews](/en/food/cashews/), [hazelnuts](/en/food/hazelnuts/), [pistachios](/en/food/pistachios/).
+**See also:** [Pecans](/en/food/pecans/), [Cashews](/en/food/cashews/), [Hazelnuts](/en/food/hazelnuts/), [Pistachios](/en/food/pistachios/).
 
 ### Frequently asked questions
 

@@ -77,7 +77,7 @@ Two processing steps do change what ends up in the powder:
 * **Roasting and heating** reduce flavanols, so unroasted powder usually keeps more of them.
 * **Alkalizing ("Dutch-process" cocoa)** cuts flavanols the most. Natural (non-alkalized) cocoa powder from the supermarket is much closer to raw cacao than Dutch-process cocoa is, at a lower price.
 
-The minerals — [magnesium](/en/food/supplements/magnesium/), iron and copper — are not destroyed by heat, so they are similar across powders. Claims about the "bliss molecule" anandamide are overstated too: cacao contains it in tiny amounts, and there is no evidence that a normal serving affects mood through it. The noticeable lift comes mostly from theobromine and caffeine.
+The minerals — magnesium, iron and copper — are not destroyed by heat, so they are similar across powders. Claims about the "bliss molecule" anandamide are overstated too: cacao contains it in tiny amounts, and there is no evidence that a normal serving affects mood through it. The noticeable lift comes mostly from theobromine and caffeine.
 
 **In the kitchen:** raw cacao powder replaces regular cocoa 1:1 in baking, although it tastes more bitter and fruity and is lighter in color. To keep the flavanols, use it in recipes that are not baked too — a smoothie, [date](/en/food/dates/) and cacao balls, or a warm drink with [almond milk](/en/food/almond-milk/) that is not boiled.
 

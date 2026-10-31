@@ -62,7 +62,7 @@ description: "מדריך לחלבון מי גבינה: כמה חלבון צרי�
 
 לספורטאים תחרותיים, בדיקת אצווה לחומרים אסורים מפחיתה סיכון אך אינה מבטלת אותו. יש לוודא שהאצווה הספציפית מופיעה במאגר של גוף הבדיקה. [הנחיות AIS](https://www.ausport.gov.au/ais/nutrition/supplements/athlete-resources).
 
-**ראו גם:** [המדריך לשילוב תוספים: איך לבנות את הסטאק המושלם](/food/supplements/supplement-stack/), [בטא־אלנין לספורטאים](/food/supplements/beta-alanine/)
+**ראו גם:** [שילוב תוספי תזונה: מה עובד יחד, מה מפריע ומתי לקחת](/food/supplements/supplement-stack/), [בטא־אלנין לספורטאים](/food/supplements/beta-alanine/)
 
 ### שאלות ותשובות נפוצות
 

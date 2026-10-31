@@ -65,7 +65,7 @@ description: "קאלה נמאק הוא מלח עם תרכובות גופרית �
 
 **להשוואה:** [השוואה מדעית: מלח שולחן, הימלאיה וים](/compare/table-himalayan-sea-salt/)
 
-**ראו גם:** [טופו](/food/tofu/), [נתרן](/food/supplements/sodium/)
+**ראו גם:** [טופו](/food/tofu/), [נתרן (Sodium)](/food/supplements/sodium/)
 
 ### סיכום
 

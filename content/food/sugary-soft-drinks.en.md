@@ -58,7 +58,7 @@ The WHO recommends limiting free sugars to less than 10% of calories, and ideall
 * **Fruit juice is not an alternative:** even natural juice counts as free sugar.
 * **Sport:** a sugary or sports drink suits long efforts, not a half-hour workout.
 
-**See also:** [Ultra-Processed Foods](/en/food/ultra-processed-foods/), [The Sugar Industry and Science](/en/food/sugar-industry-tactics/)
+**See also:** [Ultra-Processed Foods: What They Are, What the Research Shows and How to Cut Back](/en/food/ultra-processed-foods/), [The Sugar Industry and Science: How Funded Research Shifted the Blame to Fat](/en/food/sugar-industry-tactics/)
 
 ### Summary
 

@@ -96,7 +96,7 @@ No Tolerable Upper Intake Level has been set. Excess thiamine is excreted in the
 - **Symptoms that need urgent care:** confusion, unsteady walking or double vision in someone from one of the risk groups.
 - **Cooking:** cook grains and legumes in little water and don't discard the cooking liquid, because thiamine is water-soluble.
 
-**See also:** [Vitamin B6](/en/food/supplements/vitamin-b6/) · [Combining supplements guide](/en/food/supplements/supplement-stack/)
+**See also:** [Vitamin B6 (Pyridoxine)](/en/food/supplements/vitamin-b6/) · [Combining Supplements: What Works Together, What Interferes, and When to Take Them](/en/food/supplements/supplement-stack/)
 
 ### Summary
 

@@ -47,7 +47,7 @@ The 2023 guideline recommends mandatory (not voluntary) policies that protect ch
 * **Drinks:** water as the default, and [sugary soft drinks](/en/food/sugary-soft-drinks/) only on special occasions.
 * **Get them in the kitchen:** children who help cook tend to try more vegetables and new foods.
 
-**See also:** [Argaliot (Filled Cookies)](/en/food/argaliot/), [Plant-Based Whipped Cream](/en/food/plant-whipped-cream/), [Ultra-Processed Foods](/en/food/ultra-processed-foods/)
+**See also:** [Argaliot (Filled Cookies)](/en/food/argaliot/), [Plant-Based Whipped Cream](/en/food/plant-whipped-cream/), [Ultra-Processed Foods: What They Are, What the Research Shows and How to Cut Back](/en/food/ultra-processed-foods/)
 
 ### Summary
 

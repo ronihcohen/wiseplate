@@ -71,7 +71,7 @@ The recommended magnesium intake for adults is 310–420 mg a day depending on a
 
 **Compare:** [A Scientific Comparison: Chia, Flax and Hemp Seeds](/en/compare/chia-flax-hemp-seeds/)
 
-**See also:** [Chia seeds](/en/food/chia-seeds/), [Flax seeds](/en/food/flax-seeds/)
+**See also:** [Chia Seeds](/en/food/chia-seeds/), [Flax Seeds](/en/food/flax-seeds/)
 
 ### Summary
 

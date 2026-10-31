@@ -83,7 +83,7 @@ Another ratio worth knowing: the omega-6 to omega-3 ratio in walnuts is about 4:
 
 **Don't remove the skin:** the bitterness is the taste of the polyphenols.
 
-**See also:** [Brazil nuts](/en/food/brazil-nuts/), [Almonds](/en/food/almonds/)
+**See also:** [Brazil Nuts](/en/food/brazil-nuts/), [Almonds](/en/food/almonds/)
 
 **Pairings:** excellent in salads, [oatmeal](/en/food/oatmeal/), yogurt and as part of a rich "pesto." For vegetarians and vegans, walnuts are a key ingredient for getting ALA, alongside [flax seeds](/en/food/flax-seeds/) and [chia seeds](/en/food/chia-seeds/).
 

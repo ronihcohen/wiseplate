@@ -56,7 +56,7 @@ Gummies with added vitamins or "fruit juice" are still sweets as far as sugar go
 * **For sport:** a small bag during an effort of more than about 90 minutes is reasonable fuel.
 * **Read the ingredients:** look for gelatin or pectin according to your preference, and check colours and preservatives.
 
-**See also:** [Ultra-Processed Foods](/en/food/ultra-processed-foods/), [Food Marketing to Children](/en/food/marketing-to-children/), [Sugary Soft Drinks](/en/food/sugary-soft-drinks/)
+**See also:** [Ultra-Processed Foods: What They Are, What the Research Shows and How to Cut Back](/en/food/ultra-processed-foods/), [Food Marketing to Children: How It Shapes What They Eat](/en/food/marketing-to-children/), [Sugary Soft Drinks](/en/food/sugary-soft-drinks/)
 
 ### Summary
 

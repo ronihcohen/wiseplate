@@ -59,7 +59,7 @@ One doughnut provides about 70% of the World Health Organization's stricter targ
 * **Drinks:** water or unsweetened tea, not a [sugary soft drink](/en/food/sugary-soft-drinks/) on top.
 * **Children:** a small doughnut at the holiday party; not a daily extra for all eight days.
 
-**See also:** [Waffles](/en/food/waffles/), [Ultra-Processed Foods](/en/food/ultra-processed-foods/), [The Sugar Industry and Science](/en/food/sugar-industry-tactics/)
+**See also:** [Waffles](/en/food/waffles/), [Ultra-Processed Foods: What They Are, What the Research Shows and How to Cut Back](/en/food/ultra-processed-foods/), [The Sugar Industry and Science: How Funded Research Shifted the Blame to Fat](/en/food/sugar-industry-tactics/)
 
 ### Summary
 

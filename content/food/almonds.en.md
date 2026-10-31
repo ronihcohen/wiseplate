@@ -59,7 +59,7 @@ Most of the fat in almonds is monounsaturated (oleic acid), as in [olive oil](/e
 - **Products.** [Almond milk](/en/food/almond-milk/) contains very few almonds and therefore little protein. Almond flour and almond butter keep the nutritional value of the nut, and almond butter is absorbed better than whole almonds.
 - **Storage.** In a sealed jar in a cool place. In the fridge they keep for months.
 
-**Compare:** [A Scientific Comparison: Brazil Nuts, Walnuts and Almonds](/en/compare/brazil-walnut-almond/) | [Soy, almond and oat milk](/en/compare/soy-almond-oat-milk/)
+**Compare:** [A Scientific Comparison: Brazil Nuts, Walnuts and Almonds](/en/compare/brazil-walnut-almond/) | [A Scientific Comparison: Soy, Almond and Oat Milk](/en/compare/soy-almond-oat-milk/)
 
 **See also:** [Walnuts](/en/food/walnuts/), [Cashews](/en/food/cashews/), [Pistachios](/en/food/pistachios/)
 

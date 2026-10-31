@@ -94,7 +94,7 @@ The rate at which beta-carotene is converted to retinol is not fixed: **it depen
 - **Medications:** anyone taking retinoids for acne or psoriasis (isotretinoin, acitretin) should not take vitamin A supplements on top, because the effects add up. [NIH ODS — vitamin A](https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/)
 - **Smokers and former smokers:** avoid high-dose beta-carotene supplements.
 
-**See also:** [Vitamin E](/en/food/supplements/vitamin-e/) · [Combining supplements guide](/en/food/supplements/supplement-stack/)
+**See also:** [Vitamin E (Tocopherol)](/en/food/supplements/vitamin-e/) · [Combining Supplements: What Works Together, What Interferes, and When to Take Them](/en/food/supplements/supplement-stack/)
 
 ### Summary
 

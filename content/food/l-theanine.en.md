@@ -4,7 +4,7 @@ seo_title: "L-Theanine: Dosage, Sleep, Stress and Caffeine Combination"
 date: 2026-02-13T12:10:00+02:00
 lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "L-theanine from tea: 100–200 mg a day in studies. What trials found on sleep, stress and focus with caffeine, how much is in a cup of tea, side effects and limits."
+description: "L-theanine from tea: 100–200 mg a day in studies. What trials found on sleep, stress and focus with caffeine, how much is in a cup of tea, and its limits."
 ---
 
 ## L-Theanine

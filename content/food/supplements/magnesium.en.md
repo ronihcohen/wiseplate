@@ -48,7 +48,7 @@ Excess magnesium from supplements can cause diarrhea, nausea and abdominal pain.
 
 Before buying, write down three things: what problem you want to solve, what you already eat on a typical day and which supplements and medications you take. That way you can check whether there is a real nutritional gap instead of choosing a product by the name of the form or the big milligram number on the front of the package.
 
-**See also:** [The Guide to Combining Supplements: How to Build the Perfect Stack](/en/food/supplements/supplement-stack/)
+**See also:** [Combining Supplements: What Works Together, What Interferes, and When to Take Them](/en/food/supplements/supplement-stack/)
 
 ### Frequently asked questions
 

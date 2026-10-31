@@ -66,7 +66,7 @@ The amount of spice in food is safe, but there is not enough information on the 
 - **Choose a third-party-tested product** (USP, NSF and similar); imported turmeric has in the past been found to contain lead (see the turmeric spice page).
 - **The spice in the kitchen** is a different matter: a teaspoon of turmeric in a stew with oil and black pepper is part of a good diet, but it is not a therapeutic dose.
 
-**See also:** [Omega-3](/en/food/supplements/omega-3/) · [Combining supplements guide](/en/food/supplements/supplement-stack/)
+**See also:** [Omega-3](/en/food/supplements/omega-3/) · [Combining Supplements: What Works Together, What Interferes, and When to Take Them](/en/food/supplements/supplement-stack/)
 
 ### Summary
 

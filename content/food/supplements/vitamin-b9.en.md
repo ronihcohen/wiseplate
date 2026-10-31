@@ -96,7 +96,7 @@ With alcohol addiction, celiac disease and inflammatory bowel diseases, pregnanc
 - **5-MTHF or folic acid:** both are fine; you don't need an MTHFR test to choose.
 - **In food:** legumes, leafy greens and asparagus, fresh or briefly cooked, because folate is destroyed by long cooking.
 
-**See also:** [Combining supplements guide](/en/food/supplements/supplement-stack/)
+**See also:** [Combining Supplements: What Works Together, What Interferes, and When to Take Them](/en/food/supplements/supplement-stack/)
 
 ### Summary
 

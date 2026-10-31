@@ -71,7 +71,7 @@ Only some dairy products in Israel are fortified with vitamin D (check the label
 - **With a meal:** absorption is better with a meal that contains fat.
 - **Daily or weekly:** a daily dose of 600–2,000 IU suits most adults who have a reason to supplement. Higher therapeutic doses to correct a deficiency should be set by a doctor, with a follow-up test.
 
-**See also:** [How to Combine Supplements: Building a Sensible Stack](/en/food/supplements/supplement-stack/)
+**See also:** [Combining Supplements: What Works Together, What Interferes, and When to Take Them](/en/food/supplements/supplement-stack/)
 
 ### Summary
 

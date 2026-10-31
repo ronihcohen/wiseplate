@@ -56,7 +56,7 @@ In a study in which 450 US adults recorded everything they ate and even collecte
 - **Hyponatraemia — the opposite problem:** Low blood sodium causes confusion, headache, nausea, seizures and brain swelling, and can be fatal. At the Boston Marathon, 13% of runners tested finished with low sodium, and the main risk factors were weight gain during the race (that is, drinking too much) and a finishing time over 4 hours. [Almond et al., 2005](https://pubmed.ncbi.nlm.nih.gov/15829535/). Other causes: thiazide diuretics, heart failure, cirrhosis and kidney disease.
 - **Salt substitutes:** A substitute in which part of the sodium was replaced by potassium reduced stroke and death in a large trial in China. [Neal et al., 2021](https://pubmed.ncbi.nlm.nih.gov/34459569/). But it is dangerous for people with kidney disease and for those taking ACE inhibitors, angiotensin receptor blockers or potassium-sparing diuretics.
 
-**See also:** [Running Heart Rate Zones: The Secret to Endurance and Better Performance](/en/run/running-zones/), [Indian Black Salt (Kala Namak)](/en/food/kala-namak/)
+**See also:** [Running Heart Rate Zones: How to Calculate Them and Why Most Runs Should Be Easy](/en/run/running-zones/), [Indian Black Salt (Kala Namak)](/en/food/kala-namak/)
 
 ### Practical use
 

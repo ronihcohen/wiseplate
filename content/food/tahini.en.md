@@ -69,7 +69,7 @@ Approximate values for raw tahini. Mineral values, especially calcium, vary grea
 - **Storage.** Oil separating into a top layer is normal; just stir. After opening, keep it somewhere cool or in the fridge to slow oxidation.
 - **How much?** Two tablespoons of raw tahini a day is a reasonable amount for most people.
 
-**See also:** [Sesame seeds](/en/food/sesame-seeds/), [Peanut butter](/en/food/peanut-butter/)
+**See also:** [Sesame Seeds](/en/food/sesame-seeds/), [Peanut Butter](/en/food/peanut-butter/)
 
 ### Summary
 

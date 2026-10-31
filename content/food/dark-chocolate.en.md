@@ -4,7 +4,7 @@ seo_title: "Dark Chocolate: How Much a Day, Blood Pressure, Heavy Metals"
 date: 2026-08-10T06:25:00+03:00
 lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "How much dark chocolate a day? 20–30 g (about 150 calories). What studies found on blood pressure (about 2 mmHg), cadmium and lead, and why cocoa % is not enough."
+description: "How much dark chocolate a day? 20–30 g (about 150 calories). What studies found on blood pressure (about 2 mmHg), cadmium and lead, why cocoa % is not enough."
 ---
 
 ## Dark Chocolate

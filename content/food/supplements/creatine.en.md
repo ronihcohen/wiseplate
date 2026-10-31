@@ -60,7 +60,7 @@ Choose in advance a measure tied to your goal: reps at a fixed load, progress in
 
 Athletes subject to drug testing should choose a product whose batch has been independently tested and verify the batch number. Such testing reduces the risk of contamination but does not eliminate it. [AIS guidance on choosing supplements](https://www.ausport.gov.au/ais/nutrition/supplements/athlete-resources).
 
-**See also:** [The Guide to Combining Supplements: How to Build the Perfect Stack](/en/food/supplements/supplement-stack/)
+**See also:** [Combining Supplements: What Works Together, What Interferes, and When to Take Them](/en/food/supplements/supplement-stack/)
 
 ### Frequently asked questions
 

@@ -4,7 +4,7 @@ seo_title: "Coffee: Benefits, Downsides, How Many Cups a Day, Filtered or Not"
 date: 2026-04-10T09:00:00+02:00
 lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "How many cups of coffee a day is healthy? Up to 3–4 (400 mg caffeine), 200 mg in pregnancy. What studies found, and why filtered beats unfiltered for cholesterol."
+description: "How many cups of coffee a day is healthy? Up to 3–4 (400 mg caffeine), 200 mg in pregnancy. What studies found, and why filtered is better for cholesterol."
 ---
 
 ## Coffee
@@ -82,7 +82,7 @@ In a Norwegian study that followed about half a million people for some 20 years
 - **Add-ons:** sugar, syrups and whipped cream turn coffee into a high-calorie drink. A reasonable amount of [milk](/en/food/milk/) is fine.
 - **Medication:** some drugs (certain antibiotics, thyroid medication, some psychiatric drugs) interact with caffeine or with absorption. Ask your pharmacist.
 
-**See also:** [Caffeine: doses for performance and safety](/en/food/supplements/caffeine/) · [Green, black and white tea compared](/en/compare/green-black-white-tea/)
+**See also:** [Caffeine for Athletes](/en/food/supplements/caffeine/) · [A Scientific Comparison: Green, Black and White Tea](/en/compare/green-black-white-tea/)
 
 ### Summary
 

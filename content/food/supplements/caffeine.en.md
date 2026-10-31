@@ -58,7 +58,7 @@ Never measure pure caffeine powder with a household teaspoon. Highly concentrate
 
 Try a new product in a planned training session, not for the first time in a competition. Record the product, amount, time, other intake and athletic result, along with side effects and sleep quality. There is no need to raise the dose if the low dose already delivers the result you want. The adult guidance here is not a usage plan for children or teenagers.
 
-**See also:** [The Guide to Combining Supplements: How to Build the Perfect Stack](/en/food/supplements/supplement-stack/)
+**See also:** [Combining Supplements: What Works Together, What Interferes, and When to Take Them](/en/food/supplements/supplement-stack/)
 
 ### Frequently asked questions
 

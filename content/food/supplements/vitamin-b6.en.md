@@ -87,7 +87,7 @@ Not from diet, but from **alcohol addiction, kidney disease, malabsorption syndr
 - **Morning sickness:** B6 is an accepted first-line treatment, at the dose your doctor sets — not more on your own initiative.
 - **Anyone taking medications** such as isoniazid or levodopa should coordinate a B6 supplement with their doctor.
 
-**See also:** [Vitamin B1](/en/food/supplements/vitamin-b1/) · [Combining supplements guide](/en/food/supplements/supplement-stack/)
+**See also:** [Vitamin B1 (Thiamine)](/en/food/supplements/vitamin-b1/) · [Combining Supplements: What Works Together, What Interferes, and When to Take Them](/en/food/supplements/supplement-stack/)
 
 ### Summary
 

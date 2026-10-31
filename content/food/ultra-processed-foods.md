@@ -68,7 +68,7 @@ description: "מזון אולטרה-מעובד לפי שיטת NOVA: איך מז
 * **רשימת רכיבים קצרה:** ככל שהרשימה קצרה ומוכרת יותר, כך המוצר קרוב יותר למזון אמיתי.
 * **בלי שלמות:** גם צמצום חלקי משנה את התמונה. אין צורך לוותר על כל מוצר ארוז.
 
-**ראו גם:** [נקניקיות](/food/sausages/), [משקאות מוגזים ממותקים](/food/sugary-soft-drinks/), [פיצה קפואה](/food/frozen-pizza/), [מרק נמס בכוס](/food/instant-soup/), [דגני בוקר ממותקים](/food/sweetened-cereals/), [חטיפי אנרגיה מעובדים](/food/processed-energy-bars/), [ממתקי גומי](/food/gummy-candies/), [וופלים](/food/waffles/), [סופגניה](/food/sufganiyah/), [ערגליות](/food/argaliot/), [קצפת צמחית](/food/plant-whipped-cream/), [שיווק מזון לילדים](/food/marketing-to-children/), [תעשיית הסוכר](/food/sugar-industry-tactics/)
+**ראו גם:** [נקניקיות](/food/sausages/), [משקאות מוגזים ממותקים](/food/sugary-soft-drinks/), [פיצה קפואה](/food/frozen-pizza/), [מרק נמס בכוס](/food/instant-soup/), [דגני בוקר ממותקים](/food/sweetened-cereals/), [חטיפי אנרגיה מעובדים](/food/processed-energy-bars/), [ממתקי גומי](/food/gummy-candies/), [וופלים](/food/waffles/), [סופגניה](/food/sufganiyah/), [ערגליות](/food/argaliot/), [קצפת צמחית](/food/plant-whipped-cream/), [שיווק מזון לילדים: איך הוא משפיע על מה שהם אוכלים](/food/marketing-to-children/), [תעשיית הסוכר והמדע: איך מחקר ממומן הסיט את האשמה לשומן](/food/sugar-industry-tactics/)
 
 ### סיכום
 

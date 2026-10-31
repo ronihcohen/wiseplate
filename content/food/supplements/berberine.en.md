@@ -54,7 +54,7 @@ The ANSES opinion notes risks including lowered blood sugar and blood pressure, 
 | Treating high blood sugar | What is the diagnosis, which medications are being taken and what is the follow-up plan? |
 | Buying a combination product | Are the formulation and dose the same as in the cited study? |
 
-**See also:** [The Guide to Combining Supplements: How to Build the Perfect Stack](/en/food/supplements/supplement-stack/)
+**See also:** [Combining Supplements: What Works Together, What Interferes, and When to Take Them](/en/food/supplements/supplement-stack/)
 
 ### Frequently asked questions
 

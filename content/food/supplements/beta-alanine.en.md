@@ -56,7 +56,7 @@ Check how much beta-alanine is actually in a serving. If only the weight of a bl
 
 Choose a test that recurs in your training plan and is related to your goal. Record the result before the period of use and at its end, along with changes in your plan and in the test conditions. If you changed your diet, caffeine and training load at the same time, you won't be able to tell with confidence which factor contributed. Even the absence of a clear improvement is useful information when deciding whether the expense is justified.
 
-**See also:** [The Guide to Combining Supplements: How to Build the Perfect Stack](/en/food/supplements/supplement-stack/), [Running Heart Rate Zones: The Secret to Endurance and Better Performance](/en/run/running-zones/)
+**See also:** [Combining Supplements: What Works Together, What Interferes, and When to Take Them](/en/food/supplements/supplement-stack/), [Running Heart Rate Zones: How to Calculate Them and Why Most Runs Should Be Easy](/en/run/running-zones/)
 
 ### Frequently asked questions
 

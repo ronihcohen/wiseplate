@@ -87,7 +87,7 @@ Not from diet, but from **fat malabsorption syndromes**: cystic fibrosis, Crohn'
 - **Who might:** people with NASH, as their doctor decides, and people with conditions that impair fat absorption.
 - **Blood thinners:** warfarin, antiplatelet drugs and the newer anticoagulants — don't add vitamin E without advice.
 
-**See also:** [Vitamin A](/en/food/supplements/vitamin-a/) · [Combining supplements guide](/en/food/supplements/supplement-stack/)
+**See also:** [Vitamin A (Retinol)](/en/food/supplements/vitamin-a/) · [Combining Supplements: What Works Together, What Interferes, and When to Take Them](/en/food/supplements/supplement-stack/)
 
 ### Summary
 
