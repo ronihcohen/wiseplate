@@ -1,68 +1,101 @@
 ---
 title: "Lamb"
+seo_title: "Lamb Nutrition Facts: Iron, Fat and What Research Says"
 date: 2026-08-09T12:00:00+03:00
+lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "A scientific analysis of the nutritional values of lamb, its biological benefits and recommended intake considerations"
+description: "Lamb: about 25 g protein plus heme iron, zinc and B12 per 100 g, but lots of saturated fat. What studies say on red meat, diabetes and cancer, and how often to eat."
 ---
 
-## Lamb: a nutrient-rich source of protein
+## Lamb
 
-Lamb and mutton (*Ovis aries*; in Hebrew, "כבש") are among the oldest meats in human culture and a central component of Middle Eastern, Mediterranean and North African cuisines. Nutritionally, lamb is considered one of the highest-quality animal protein sources, with a complete amino acid profile and a high content of essential micronutrients.
+**Lamb provides about 25 grams of complete protein per 100 grams cooked, along with highly available heme iron, zinc and vitamin B12. On the other hand, many cuts are high in saturated fat, and cohort studies link unprocessed red meat to a moderately higher risk of diabetes and colorectal cancer — so it is best eaten in moderation, two or three times a week at most.**
 
-100 grams of lamb (roasted leg, meat and fat) contain about 258 calories, 25 grams of protein, 17 grams of fat and zero carbohydrates. In a lean cut with the visible fat removed, the values drop to about 190 calories and 8 grams of fat. Lamb is especially rich in heme [iron](/en/food/iron/), [zinc](/en/food/supplements/zinc/), vitamins B12, B3 and B6, [selenium](/en/food/supplements/selenium/) and phosphorus.
+Lamb and mutton (in Hebrew "כבש") are central to Middle Eastern, Mediterranean and North African cooking — from skewers and kebabs to slow-cooked shanks and holiday roasts. "Lamb" is a young sheep, up to about a year old, and its meat is milder and leaner; mutton, from older sheep, is darker, fattier and stronger in flavor.
 
-### Research-based health benefits
+### Nutrition facts
 
-* **Complete, high-quality protein:** Lamb provides all nine essential amino acids that the body cannot make on its own. With a high PDCAAS (Protein Digestibility-Corrected Amino Acid Score), it is considered an excellent biological protein, essential for building and repairing muscle tissue, especially among athletes and older adults.
+Approximate values for roasted leg of lamb (lean and fat) and for a lean cut with visible fat removed:
 
-* **Highly bioavailable heme iron:** Like other red meats, lamb is rich in heme [iron](/en/food/iron/), which is absorbed in the digestive tract with an efficiency of 15–35%, compared with non-heme iron from plant sources (only 1–10%). This makes it an important clinical choice for people with iron deficiency, women of childbearing age and endurance runners.
+| Nutrient (100 g cooked) | Leg, lean and fat | Lean cut | 150 g serving (lean) |
+|---|---|---|---|
+| Calories | about 258 | about 190 | about 285 |
+| Protein | about 25 g | about 28 g | about 42 g |
+| Fat (saturated) | about 17 g (about 7 g) | about 8 g (about 3 g) | about 12 g (about 4.5 g) |
+| [Iron](/en/food/iron/) | about 2 mg | about 2 mg | about 3 mg |
+| [Zinc](/en/food/supplements/zinc/) | about 4.5 mg | about 5 mg | about 7.5 mg |
+| [Vitamin B12](/en/food/supplements/vitamin-b12/) | about 2.5 mcg | about 2.6 mcg | about 4 mcg |
+| [Selenium](/en/food/supplements/selenium/) | about 26 mcg | about 30 mcg | about 45 mcg |
 
-* **A high concentration of zinc:** 100 grams of lamb contain about 5–6 mg of [zinc](/en/food/supplements/zinc/), about 50–60% of the recommended daily intake for men. Zinc acts as a cofactor for about 300 different enzymes in the body, including those responsible for immune function, DNA synthesis and hormonal balance.
+It contains no carbohydrates. Cuts such as chops, shoulder and breast, and fatty ground lamb, can reach 300 calories or more per 100 grams.
 
-* **Vitamin B12 for nervous system function:** A medium serving (150 grams) provides the full daily intake of [vitamin B12](/en/food/supplements/vitamin-b12/), a nutrient found almost exclusively in animal foods. B12 is essential for producing red blood cells, for the health of the myelin sheaths of nerve cells and for preventing megaloblastic anemia.
+### Benefits
 
-* **Carnosine, a special antioxidant:** Lamb contains a high concentration of carnosine, a dipeptide made from the amino acids histidine and beta-alanine. Carnosine acts as an intracellular antioxidant in muscle, helps buffer the acids produced during intense physical activity, and studies link it to slowing aging processes in muscles.
+* **Complete protein:** all the essential amino acids, highly digestible. A 150-gram serving provides more than 40 grams of protein — useful for people who train and for older adults who need to preserve muscle mass.
 
-* **Selenium content for thyroid function:** Selenium is a trace mineral essential for the synthesis of thyroid hormones (T3, T4) and for the action of the enzyme glutathione peroxidase, the body's main antioxidant line of defense. A medium serving of lamb provides about 20–30% of the recommended daily intake of [selenium](/en/food/supplements/selenium/).
+* **Heme iron:** the iron in red meat is in heme form, which is absorbed far better than iron from plant sources. Meat also improves the absorption of plant iron eaten in the same meal. That matters for women of childbearing age, endurance runners and people prone to iron deficiency. [NIH ODS — Iron](https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/).
 
-### Downsides and health considerations
+* **Zinc:** a 150-gram serving provides about 7.5 mg of zinc — about 70% of the recommended intake for men (11 mg) and more than the full intake for women (8 mg). Zinc matters for the immune system and wound healing. [NIH ODS — Zinc](https://ods.od.nih.gov/factsheets/Zinc-HealthProfessional/).
 
-* **Saturated fat content:** Lamb, particularly the fatty cuts (ribs, shoulder), contains a significant amount of saturated fat. High, sustained intake of saturated fat is associated with a rise in LDL cholesterol, a risk factor for atherosclerosis and coronary heart disease. Distinguish between lean cuts (leg, loin) and fatty cuts.
+* **Vitamin B12:** a medium serving provides more than the daily recommended intake (2.4 mcg) of [vitamin B12](/en/food/supplements/vitamin-b12/), which is found almost only in animal foods. [NIH ODS — Vitamin B12](https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/).
 
-* **Processed lamb products and sausages:** Processed lamb products (merguez, frozen skewers, lamb sausage) usually contain high amounts of [sodium](/en/food/supplements/sodium/), preservatives and nitrites. The World Health Organization (WHO) classifies processed [red meat](/en/food/red-meat/) as a Group 1 carcinogen, and limiting its intake is recommended.
+* **Selenium:** a 150-gram serving provides almost the full daily intake (55 mcg) of [selenium](/en/food/supplements/selenium/), which is needed for thyroid function.
 
-* **Purines and uric acid:** Lamb is rich in purines — compounds that the body breaks down into uric acid. For people with gout or uric acid kidney stones, limiting lamb (and red meat in general) is medically recommended.
+### Downsides
 
-* **Environmental impact:** Raising sheep produces a relatively high amount of methane (about 24 kg CO₂e per kg of meat), a significant contribution to greenhouse gas emissions. Sustainability considerations are an increasing factor in dietary decisions.
+* **Red meat and diabetes:** in three large US cohort studies and a meta-analysis, each daily serving of unprocessed red meat was linked to about a 12% higher risk of type 2 diabetes, and processed meat to an even higher risk. Replacing a serving of red meat with nuts, low-fat dairy or whole grains was linked to a lower risk. [Pan et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21831992/).
 
-* **Allergy and sensitivity:** Lamb allergy is relatively rare, but it exists and is sometimes linked to tick bites (alpha-gal syndrome). In addition, people sensitive to sheep's milk may also react to the muscle proteins of lamb itself.
+* **Colorectal cancer:** the World Health Organization's International Agency for Research on Cancer (IARC) classified processed meat as carcinogenic to humans (Group 1), and unprocessed [red meat](/en/food/red-meat/) — including lamb — as "probably carcinogenic" (Group 2A), mainly in relation to colorectal cancer. [Bouvard et al., 2015](https://pubmed.ncbi.nlm.nih.gov/26514947/). The absolute risk for any one person is small, but it rises with the amount eaten.
 
-### Principles for choosing well and cooking optimally
+* **Saturated fat:** fatty cuts contain 7 grams of saturated fat or more per 100 grams, which raises LDL. Lamb sausages such as merguez also add a lot of [sodium](/en/food/supplements/sodium/).
 
-Choosing the right cut is critical for balancing nutritional value against fat content. Lean cuts such as leg, loin and shank (osso buco) are better than ribs and neck in terms of saturated fat. Moist cooking (stock, stew) keeps the meat moist and allows tough cuts to cook for a long time until they are as tender as possible. An internal temperature of 63°C (145°F, medium) up to 77°C (170°F, well done) is the safe standard for whole cuts.
+* **Purines and gout:** meat is rich in purines, which the body breaks down into uric acid. In people with gout, high intake of purines from animal sources over the previous two days was linked to a several-fold higher risk of a recurrent attack. [Zhang et al., 2012](https://pubmed.ncbi.nlm.nih.gov/22648933/).
+
+* **High-heat grilling:** grilling over coals until charred forms compounds (heterocyclic amines and PAHs) that are carcinogenic in lab studies. Moist cooking and avoiding charring reduce them.
+
+* **Environmental impact:** the carbon footprint of lamb, like that of beef, is much higher than that of chicken, fish or legumes, mainly because of methane from sheep digestion.
+
+* **Alpha-gal:** a rare allergy to mammalian meat, triggered by a tick bite, can cause a reaction several hours after eating lamb, beef or pork.
 
 ### Comparison with other meats
 
-| Measure (per 100 grams, cooked) | Lamb (leg) | Beef (tenderloin) | Chicken (breast) |
+| Per 100 g cooked (approximate) | Lamb (leg) | Beef (tenderloin) | Chicken (breast) |
 |---|---|---|---|
-| Calories | 258 | 215 | 165 |
-| Protein (g) | 25 | 26 | 31 |
-| Total fat (g) | 17 | 9 | 4 |
-| Iron (mg) | 2.7 | 2.6 | 1.0 |
-| Zinc (mg) | 5.3 | 5.0 | 1.0 |
-| B12 (mcg) | 2.6 | 2.4 | 0.3 |
+| Calories | about 258 | about 215 | about 165 |
+| Protein | about 25 g | about 26 g | about 31 g |
+| Fat | about 17 g | about 9 g | about 4 g |
+| Iron | about 2 mg | about 2.6 mg | about 1 mg |
+| Zinc | about 4.5 mg | about 5 mg | about 1 mg |
+| B12 | about 2.5 mcg | about 2.4 mcg | about 0.3 mcg |
+
+### Practical use
+
+* **Choose lean cuts:** leg, tenderloin and loin are leaner than chops, shoulder and breast. You can trim visible fat before cooking.
+* **How much:** most guidelines recommend limiting red meat to about 350-500 grams cooked per week — about two or three servings — and avoiding processed meat as much as possible.
+* **Cooking method:** stews, slow cooking and moderate-temperature oven roasting are better than direct grilling until charred. A marinade with herbs and lemon may reduce the formation of compounds during grilling.
+* **Safety:** whole cuts — at least 63°C inside plus a few minutes' rest; ground lamb and kebabs — at least 71°C.
+* **Balance the plate:** lamb with plenty of vegetables, legumes and whole grains, rather than as the center of every meal.
 
 ### Summary
 
-Lamb is a highly nutritious food that offers a rare combination of complete protein, highly available heme iron, zinc, B12 and selenium. It is especially suitable for people with increased nutritional needs — athletes, older adults and people prone to anemia. At the same time, prefer lean cuts, avoid processed products and include it in a balanced, varied diet.
+Lamb is an excellent source of complete protein, heme iron, zinc, B12 and selenium, and a medium serving covers most of the daily need for several of them. On the other hand, lamb is red meat, cohort studies link high intake to diabetes and colorectal cancer, and many cuts are high in saturated fat. The balanced approach is to eat it two or three times a week, choose lean cuts, avoid processed meat and charring, and fill the rest of the week with chicken, fish and legumes.
 
 ### Frequently asked questions
 
-**Question: How many times a week is it recommended to eat lamb?**
-Answer: The guidelines of most health organizations recommend limiting red meat (including lamb) to 2–3 times a week, with preference for lean cuts and healthy cooking methods (roasting, moist cooking) rather than frequent charcoal grilling.
+**Question: How often should you eat lamb?**
+Answer: Most health organizations recommend limiting red meat, including lamb, to about 350-500 grams cooked per week — about two or three servings — preferring lean cuts and cooking without charring.
 
-**Question: Is lamb suitable for athletes?**
-Answer: Yes, absolutely. Its complete protein profile, together with a high concentration of carnosine and zinc, makes it an excellent choice for supporting muscle building and post-workout recovery. It is best to choose lean cuts and pair them with vegetables and complex carbohydrates.
+**Question: Is lamb healthier than beef?**
+Answer: They are very similar. Lamb usually has a little more fat, and lean beef a little more iron. Both are red meat, with the same benefits and the same risks.
 
-**Question: Is there a nutritional difference between young lamb and mature sheep (mutton)?**
-Answer: Yes. Lamb (sheep up to one year old) usually contains less fat and has a milder flavor. Mature sheep is richer in saturated fat and has a stronger flavor. Nutritionally, both provide a similar protein and mineral profile, but young lamb is usually preferred in terms of calorie density.
+**Question: Is lamb good for athletes?**
+Answer: Yes. It provides complete protein, iron and zinc, which matter for people who train and for endurance runners. Choose lean cuts, pair them with carbohydrates and vegetables, and vary your protein sources.
+
+**Question: What is the nutritional difference between lamb and mutton?**
+Answer: Lamb (up to a year old) is leaner and milder in flavor. Mutton is fattier with a stronger taste. The protein and mineral profile is similar.
+
+**Question: Is lamb suitable for people with gout?**
+Answer: Only in limited amounts. Meat is rich in purines, and high intake of purines from animal sources has been linked to a higher risk of gout attacks. People with gout should ask their doctor or dietitian about the amount.
+
+**Question: Is lamb a good source of iron?**
+Answer: Yes. Its iron is in heme form, which is absorbed much better than plant iron, and lamb also improves iron absorption from vegetables in the same meal. A 150-gram serving provides about 3 mg of iron.
