@@ -1,160 +1,103 @@
 ---
 title: "Running Underwear"
+seo_title: "Running Underwear: Which Fabric to Choose and How to Stop Chafing"
 date: 2025-12-30T19:04:30+02:00
+lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "A scientific review of the pros and cons of wearing dedicated running underwear compared with going without or wearing everyday underwear."
----
-## Running Underwear: A Physiological and Functional Analysis
-
-Choosing running gear usually focuses on [shoes](/en/run/runway/), but the base layer against the skin has a decisive effect on a runner's performance, comfort and skin health. Dedicated running underwear (running briefs/boxers) is designed to meet the mechanical and thermal challenges of physical exertion.
-
-### Benefits
-
-* **Moisture management and sweat wicking:** Unlike cotton, which absorbs liquid and stays wet, technical underwear is made of synthetic fibers (such as polyester and nylon) that wick sweat away from the body. This keeps the garment from getting heavier and maintains a stable body temperature.
-* **Preventing chafing:** This underwear is designed with flat seams (flatlock seams) or no seams at all in sensitive friction areas. The anatomical construction reduces the risk of blisters and skin irritation in the groin and inner thighs.
-* **Mechanical support:** Running involves multi-axis movement and oscillation. Dedicated underwear provides structural support for the organs, which reduces discomfort and excess movement that can lead to pain over the long term.
-* **Antibacterial properties:** Most sports models incorporate silver fibers or chemical treatments that prevent the growth of odor-causing bacteria, maintaining better hygiene during long runs.
-
-### Downsides
-
-* **Pressure and restricted blood flow:** If the underwear is too tight or has a rigid waistband, it can restrict capillary blood flow or press on lymph nodes in the groin area, which hurts recovery and comfort.
-* **The ventilation issue:** With fabric that is too thick or a lack of ventilation panels (mesh), an overly hot and humid "microclimate" can form. This environment can encourage fungal infections (such as tinea cruris) if the gear doesn't wick well enough.
-* **Reliance on chemicals:** Some of the odor-repelling agents or softeners used in making synthetic fabrics can trigger an allergic reaction (contact dermatitis) in runners with especially sensitive skin.
-
-
-Choosing running underwear is no less critical than choosing shoes. The right underwear will prevent the runner's number one enemy — **chafing** — and keep the area dry and cool.
-
-Below is a comprehensive comparison of the different fabric types, ranked from the most recommended for running to the one you should avoid entirely.
-
+description: "How to choose running underwear: why cotton causes chafing, polyester vs nylon vs merino, which length stops thigh rub, and when to skip underwear altogether."
 ---
 
-### 1. Synthetic fabrics (polyester and nylon) — the performance standard
+## Running Underwear
 
-Most professional sports underwear is made from a blend of these fabrics together with elastane (Lycra) for stretch.
+**Running underwear is made from synthetic fabric or merino wool that moves sweat away from the skin, with flat seams and a snug fit, and its main job is to prevent chafing — not to improve performance.** The most important choices: no cotton, a snug fit, and if your thighs touch, boxer briefs with at least a 15 cm (6-inch) leg. In Hebrew it is called "תחתונים לריצה".
 
-#### **Polyester**
+Choosing running gear usually focuses on [shoes](/en/run/runway/), but the base layer is what stays in direct contact with your skin for the whole run. On a run of an hour or more, in an Israeli summer, the wrong underwear can turn a good run into a painful one.
 
-The most common material in sportswear.
+### Why chafing happens
 
-* **Pros:** Excels at **wicking sweat** (moving moisture away from the body to the outside), lightweight, very durable in the wash and holds its shape.
-* **Cons:** Tends to build up bad odors (bacteria) faster than natural fabrics, unless it has had an antibacterial treatment.
-* **Bottom line:** A workhorse. The safe, common choice for most runners.
+Chafing is skin irritation caused by repeated friction, especially when the skin is wet. Sweat softens the outer layer of the skin, and salt drying on the skin increases friction. The sensitive areas are the inner thighs, the groin, the waistline and the buttocks. The longer and more humid the run, the higher the risk.
 
-#### **Nylon**
+### Fabric comparison
 
-Another synthetic material, usually smoother and softer to the touch than polyester.
+| Property | Polyester | Nylon | Merino wool | Bamboo/modal | Cotton |
+| --- | --- | --- | --- | --- | --- |
+| Moving sweat away | Very high | High | Good (absorbs but feels dry) | Medium | Very low |
+| Drying speed | Fast | Fast | Medium | Slow | Very slow |
+| Preventing chafing | Very good | Excellent (smooth) | Good | Good on short runs | Poor |
+| Odour resistance | Low | Medium | High | Medium | Medium |
+| Durability | High | High | Medium | Medium | High |
+| Price | Low-medium | Medium | High | Medium | Low |
 
-* **Pros:** Very soft to the touch (a "buttery" feel), stronger and more tear-resistant than polyester, glides over the skin (excellent for preventing friction).
-* **Cons:** Wicks sweat slightly less well than polyester (absorbs a little more water), but still excellent for running.
-* **Bottom line:** The best choice for anyone with sensitive skin or looking for an especially soft feel.
+### The fabrics in detail
 
----
+**Polyester:** the most common fabric in sportswear. It moves sweat away and dries quickly, and it is light and survives many washes. The downside: it tends to hold odour unless it has an anti-odour treatment. The safe choice for most runners.
 
-### 2. Advanced natural materials (merino wool and bamboo) — comfort and premium
+**Nylon:** smoother and softer to the touch, strong and tear-resistant, and it glides over the skin — an advantage against friction. It absorbs slightly more water than polyester. Especially suited to sensitive skin.
 
-#### **Merino Wool**
+**Merino wool:** a fine fibre that does not itch like ordinary wool. It regulates temperature and is less prone to holding odour, so it can be worn on multi-day runs too. The downsides: it is expensive, less resistant to abrasion and dries more slowly than synthetics. Suited to winter, very long runs and hiking.
 
-The luxury choice. Very fine wool from New Zealand sheep.
+**Bamboo / modal (viscose):** very soft and pleasant, but when wet it loses its shape and dries slowly. Better for short runs and the gym than for long runs in the heat.
 
-* **Pros:** **Temperature regulation** (warms when it's cold, cools when it's hot), exceptional sweat wicking (it absorbs moisture into the fiber but leaves the skin dry), and above all — it **doesn't stink** even after long runs (naturally antibacterial).
-* **Cons:** Very expensive, less resistant to mechanical wear (holes) over time, dries more slowly than synthetics.
-* **Bottom line:** Perfect for ultra runs, winter runs, or anyone who wants the very best and is willing to pay.
+**Cotton:** comfortable for everyday wear, but it absorbs sweat and stays wet. The underwear gets heavy, bunches up and rubs against wet skin. Best avoided for running.
 
-#### **Bamboo / Modal**
+### Benefits of dedicated running underwear
 
-Fibers produced from wood cellulose (such as bamboo or beech). Sometimes called viscose or rayon.
+* **Less chafing:** smooth fabric, flat or no seams, and a cut that doesn't bunch.
+* **Dryness:** fabric that moves sweat away and dries quickly shortens the time your skin stays wet.
+* **Support and comfort:** a snug fit reduces movement and discomfort while running.
+* **The right length:** long boxer briefs cover the area where the thighs rub together.
 
-* **Pros:** Extremely soft, hypoallergenic, feels cool on the body.
-* **Cons:** Tends to lose its shape when wet, dries more slowly than synthetics. If the run is long and you sweat a lot, it can feel "heavy".
-* **Bottom line:** Great for easy runs, the gym or everyday wear, less so for marathon running.
+### Downsides and limitations
 
----
+* **Pressure:** underwear that is too tight, or a tight waistband, can rub and irritate.
+* **Odour:** synthetic fabrics hold odour, and anti-odour treatments wear off with washing.
+* **Price:** dedicated running underwear, and merino in particular, costs more.
+* **Skin sensitivity:** some people react to fabric finishes or elastic; if you get irritation that isn't from friction, try a different fabric or brand.
+* **No substitute for friction management:** even the best underwear will not be enough on its own on a long run in the heat.
 
-### 3. Cotton — the big danger
+### Example models
 
-* **The situation:** Cotton is an excellent fabric for everyday wear but a poor one for intense aerobic activity.
-* **The problem:** Cotton is hydrophilic (water-loving). It absorbs sweat and **doesn't release it**.
-* **The result:** The underwear becomes heavy and wet, loses its shape and starts rubbing against the wet skin. This is a sure recipe for severe chafing in the groin.
-* **Bottom line:** **Avoid completely for running.**
+Models change from season to season; these are examples of categories, not definitive recommendations:
 
----
+* **Saxx (Kinetic line):** an internal pouch that separates the genitals from the thighs and prevents skin-to-skin contact. Nylon and spandex. Suited to long runs and to runners who suffer from chafing.
+* **Under Armour (Tech Mesh line):** thin, airy mesh fabric, polyester and elastane. Suited to summer and to heavy sweaters.
+* **Decathlon (Kiprun):** low-cost running underwear, usually polyester. Good for beginners and everyday training.
+* **Smartwool (merino):** merino wool underwear. Suited to winter and long runs.
 
-### Summary comparison table
+### Practical use: preventing chafing
 
-| Property | Polyester | Nylon | Merino Wool | Cotton |
-| --- | --- | --- | --- | --- |
-| **Sweat wicking** | Very high | High | High (absorbs but stays dry) | Very low (absorbs and stays wet) |
-| **Chafing prevention** | Excellent | Excellent plus (very smooth) | Very good | Poor |
-| **Odor resistance** | Low (tends to stink) | Medium | **Very high (doesn't stink)** | Medium |
-| **Temperature regulation** | Good | Good | **Excellent (heat/cold)** | Poor (cold when wet) |
-| **Long-term durability** | Very high | Very high | Medium (delicate) | High |
-| **Price** | Cheap to medium | Medium | Expensive | Cheap |
+1. **The length rule:** if your thighs touch when you walk, choose snug boxer briefs with a 15 cm (6-inch) or 23 cm (9-inch) leg rather than briefs or short trunks.
+2. **Lubricant:** on runs longer than about 10 km, apply an anti-chafe stick (such as Body Glide) or a dedicated cream to the inner thighs and groin. Petroleum jelly works, but it is greasy and can clog the fabric.
+3. **Shorts with a built-in liner:** if your shorts have an inner brief, don't wear underwear under them — two layers sliding over each other increase friction.
+4. **The right size:** snug, like a "second skin". Too loose and it bunches and rubs; too tight and it presses.
+5. **Test before race day:** never wear a new item for the first time on race day. Try it on a long run first.
+6. **After the run:** change into dry clothes quickly, and rinse the sweat and salt off your skin.
+7. **Long runs:** on the week's long run, usually in [zone 2](/en/run/running-zones/), friction builds up — the quality of the seams matters as much as the fabric. Running in the heat also means losing [sodium](/en/food/supplements/sodium/) in sweat, and the salt that dries on the skin adds friction.
 
-### The Verdict
+### Treating chafing
 
-1. **For everyday runs / training in the Israeli summer:** Go with **polyester** or a polyester-nylon blend (such as snug compression underwear). Look for a "snug boxer" cut (boxer briefs) with at least a 6-inch inseam to prevent friction between the thighs.
-2. **For winter runs or very long runs:** Consider **merino wool**. The comfort and lack of odor are worth the investment.
-3. **For sensitive skin:** Try underwear based on **modal/bamboo** (for short runs) or quality **nylon**.
-4. **For very long runs:** The longer the run — and in [Zone 2](/en/run/running-zones/) training it is usually the longest of the week — the more the accumulated friction adds up, and the quality of the seams matters more than the fabric itself. Also pay attention to the loss of [sodium](/en/food/supplements/sodium/) in sweat, which worsens skin irritation.
+Rinse with water and a mild soap, pat dry, and apply a protective ointment such as zinc oxide cream or petroleum jelly. Let the skin heal before your next run, or protect the area with lubricant. If there are signs of infection — spreading redness, local warmth or pus — see a doctor.
 
----
+### Summary
 
-### Part 1: Recommended models (from the top end to the best value)
+Good running underwear is mainly a tool for preventing chafing. Choose synthetic fabric or merino rather than cotton, a snug fit and a length that covers the area where your thighs rub, and add lubricant on long runs. Beyond that, the differences between brands are relatively small — what matters is that the underwear is still comfortable after an hour of running in the heat.
 
-I've divided the recommendations into categories, so you can choose what suits your budget and needs:
+### Frequently asked questions
 
-#### 1. The undisputed king: Saxx (Kinetic HD model)
+**Question: Why shouldn't I run in cotton underwear?**
+Answer: Cotton absorbs sweat and stays wet. The fabric gets heavy, bunches up and rubs against wet skin, which is a recipe for chafing in the groin and thighs.
 
-**Saxx** revolutionized the field with its patented **"BallPark Pouch"** — a kind of internal "hammock" that separates your anatomy from your thighs.
+**Question: What is the best fabric for running underwear?**
+Answer: For most runners, polyester or a polyester-nylon blend with elastane. Merino wool is excellent for winter and very long runs, and smooth nylon suits sensitive skin.
 
-* **Why it's good:** Completely prevents skin-to-skin contact in sensitive areas.
-* **Fabric:** Nylon and spandex (semi-compression). Fits snugly but doesn't squeeze.
-* **Suited to:** Long runs, marathons, and people who suffer from chronic chafing.
+**Question: Should I wear underwear under running shorts with a built-in liner?**
+Answer: No. The liner is designed to replace underwear, and two layers create unnecessary friction and heat.
 
-#### 2. The workhorse: Under Armour (Tech Mesh model)
+**Question: How do I prevent chafing between the thighs?**
+Answer: Snug boxer briefs with a 15–23 cm leg that covers the contact area, lubricant on long runs, and a fabric that dries quickly.
 
-Under Armour were the pioneers of wicking apparel, and their underwear is still excellent.
+**Question: What should I do about chafing after a run?**
+Answer: Rinse gently, pat dry and apply a protective ointment such as zinc oxide cream. If signs of infection appear, see a doctor.
 
-* **Why it's good:** Made of a very thin, highly breathable mesh throughout. Its wicking is outstanding. No seams on the sides and back for maximum comfort.
-* **Fabric:** Polyester and elastane.
-* **Suited to:** Hot summer runs and people who sweat a lot.
-
-#### 3. The budget solution: Decathlon (Kalenji / Kiprun brand)
-
-Decathlon offers dedicated running underwear at prices significantly lower than the big brands.
-
-* **Why it's good:** Excellent value for money. They do the job — they wick, fit well ("snug boxer") and are comfortable.
-* **Fabric:** Usually a polyester blend.
-* **Suited to:** Beginner runners, everyday training, or anyone who needs to buy a lot of pairs without going broke.
-
-#### 4. Natural luxury: Smartwool (Merino 150 model)
-
-For those who want the benefits of merino wool.
-
-* **Why it's good:** Amazing temperature regulation and a very soft feel.
-* **Suited to:** Winter runs, hikes and ultra runs.
-
----
-
-### Part 2: Tips for care and preventing chafing (beyond the underwear)
-
-Even with the best underwear in the world, a 20 km run in the Israeli summer can cause problems. Here are the iron rules:
-
-1. **The Long Leg Rule:**
-If your thighs touch each other when you walk or run, don't buy underwear in a "brief" (triangle) cut or short boxers (trunks).
-* **The solution:** Look for snug boxers with a **6-inch (about 15 cm) or 9-inch** inseam. The fabric must cover the area where your thighs rub.
-
-
-2. **Lubrication is your best friend:**
-For long runs (over 10 km), it is recommended to apply a lubricant to friction areas (groin, inner thigh).
-* **Recommended:** **Body Glide** — a dedicated stick that doesn't stain clothes and is water/sweat resistant.
-* **Less recommended:** Vaseline (because it's greasy, clogs the fabric pores of wicking underwear, and is hard to wash out).
-
-
-3. **The "no underwear" option (lined shorts):**
-Many running shorts come with **a built-in inner brief (liner)**.
-* If you buy shorts like that — **don't wear underwear underneath!** It creates two layers of fabric that move against each other and cause chafing and unnecessary heat. Trust the built-in liner.
-
-
-4. **The right size:**
-Running underwear must be **snug**. If it's loose, the fabric will fold and rub the skin. If it's too tight, it will cut off blood flow. It should feel like a "second skin".
+**Question: Is merino underwear worth the price?**
+Answer: For long runs, winter running or multi-day runs, usually yes, thanks to its temperature regulation and odour resistance. For short summer runs, inexpensive polyester does a good job.

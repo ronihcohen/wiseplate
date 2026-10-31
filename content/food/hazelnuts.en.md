@@ -1,10 +1,10 @@
 ---
 title: "Hazelnuts"
-seo_title: "Hazelnuts: Nutrition Facts, Benefits and Downsides, and How Many to Eat a Day"
+seo_title: "Hazelnuts: Nutrition Facts, Benefits and How Many a Day"
 date: 2025-12-22T11:00:00+02:00
 lastmod: 2026-08-20T09:00:00+03:00
 featured_image: ""
-description: "Hazelnuts: full nutrition facts, why they are the nut richest in monounsaturated fat, how much manganese and vitamin E they contain, whether Nutella counts, and the link to pollen allergy."
+description: "Hazelnuts: nutrition facts, the most monounsaturated fat of any nut, manganese and vitamin E, whether Nutella counts, and the pollen allergy link."
 ---
 
 ## Hazelnuts
@@ -98,7 +98,7 @@ The skin is indeed slightly bitter and astringent, which is why it is removed in
 
   **Chocolate-hazelnut spread is not "a way to eat hazelnuts"** — it is a candy that contains a few nuts. None of the nut's benefits described here carries over to it to any significant degree. There are pure hazelnut spreads (100% ground nuts) that are a completely different product.
 
-* **Phytic acid.** Reduces absorption of [zinc](/en/food/supplements/zinc/), [iron](/en/food/iron/) and [magnesium](/en/food/supplements/magnesium/). Soaking partially reduces it.
+* **Phytic acid.** Reduces absorption of [zinc](/en/food/supplements/zinc/), iron and [magnesium](/en/food/supplements/magnesium/). Soaking partially reduces it.
 
 * **Excess manganese combined with supplements:** the high manganese content is an advantage in a normal diet, but someone taking a manganese supplement alongside high intake of nuts and whole grains may exceed the limit. The safe upper limit for adults is 11 mg a day.
 
@@ -111,7 +111,7 @@ The skin is indeed slightly bitter and astringent, which is why it is removed in
 | | Calories | Protein | Fiber | Stands out for |
 |---|---|---|---|---|
 | **Hazelnuts** | **176** | **4.2 grams** | **2.7 grams** | **Manganese (76%), monounsaturated fat, vitamin E** |
-| [Walnuts](/en/food/walnuts/) | 185 | 4.3 grams | 1.9 grams | Omega-3 (ALA) |
+| Walnuts | 185 | 4.3 grams | 1.9 grams | Omega-3 (ALA) |
 | [Almonds](/en/food/almonds/) | 164 | 6.0 grams | 3.5 grams | Vitamin E, calcium, protein |
 | [Pecans](/en/food/pecans/) | 196 | 2.6 grams | 2.7 grams | Monounsaturated fat, low in carbohydrates |
 | [Brazil nuts](/en/food/brazil-nuts/) | 187 | 4.1 grams | 2.1 grams | Selenium (extreme) |
@@ -129,7 +129,7 @@ The skin is indeed slightly bitter and astringent, which is why it is removed in
 
 ### Summary
 
-Hazelnuts are **the nut with the fat profile closest to olive oil** — about 75% monounsaturated oleic acid, the highest proportion in the category — and alongside that an exceptional source of [manganese](/en/food/supplements/manganese/) (76% of the daily value in a handful), [copper](/en/food/supplements/copper/) and [vitamin E](/en/food/supplements/vitamin-e/).
+Hazelnuts are **the nut with the fat profile closest to olive oil** — about 75% monounsaturated oleic acid, the highest proportion in the category — and alongside that an exceptional source of manganese (76% of the daily value in a handful), copper and vitamin E.
 
 Two practical points matter more than everything else: **don't remove the brown skin**, where about 80% of the antioxidants are concentrated, and keep the nut completely separate in your mind from **chocolate spread** — a product containing about 13% nuts and about 56% sugar, which carries almost none of the benefits described here. And finally, allergy: the serious kind requires complete avoidance, but the itchy mouth in people sensitive to birch pollen is a completely different phenomenon, which sometimes disappears with roasted nuts.
 

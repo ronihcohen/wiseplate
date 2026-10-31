@@ -1,10 +1,10 @@
 ---
 title: "Dates"
-seo_title: "Dates: Nutrition Facts, Calories and Sugar, and Are They OK for Diabetics"
+seo_title: "Dates: Nutrition Facts, Sugar and Are They OK for Diabetics?"
 date: 2025-12-22T11:00:00+02:00
 lastmod: 2026-08-20T09:00:00+03:00
 featured_image: ""
-description: "Dates: full nutrition facts, how many calories are in a Medjool date, why their glycemic index is low despite 66% sugar, what research says about dates in late pregnancy, and how they differ from silan."
+description: "Dates: nutrition facts, calories in a Medjool date, why the glycemic index is low despite 66% sugar, dates in late pregnancy, and dates vs. silan."
 ---
 
 ## Dates
@@ -65,7 +65,7 @@ This is one of the few areas where there is dedicated clinical research on a spe
 
 ### Other benefits
 
-* **A notable amount of [potassium](/en/food/supplements/potassium/):** 696 mg per 100 g — more than a [banana](/en/food/banana/) by weight. Potassium balances the effect of [sodium](/en/food/supplements/sodium/) on blood pressure and is needed for muscle and nerve function.
+* **A notable amount of potassium:** 696 mg per 100 g — more than a [banana](/en/food/banana/) by weight. Potassium balances the effect of [sodium](/en/food/supplements/sodium/) on blood pressure and is needed for muscle and nerve function.
 
 * **Fiber — 24% of the daily intake in 100 g.** Most of it is insoluble, adding stool bulk and gut motility. Two or three dates are a reasonable, well-founded home remedy for constipation.
 
@@ -91,13 +91,13 @@ This is one of the few areas where there is dedicated clinical research on a spe
 
 * **Sulfites in dried fruit:** dates are usually **not** sulfured (unlike apricots or golden raisins), but check the label — people sensitive to sulfites should make sure.
 
-* **[Potassium](/en/food/supplements/potassium/) — the reverse consideration in kidney disease:** what is an advantage for most people becomes a limitation for patients with chronic kidney failure, who need to restrict potassium. Dates are a high-potassium food, so consult a dietitian.
+* **Potassium — the reverse consideration in kidney disease:** what is an advantage for most people becomes a limitation for patients with chronic kidney failure, who need to restrict potassium. Dates are a high-potassium food, so consult a dietitian.
 
 * **Stuffed and coated dates:** dates filled with marzipan, coated in [chocolate](/en/food/dark-chocolate/) or rolled in sugar are a different category — added sugar on top of natural sugar.
 
 ### Comparison: dates vs. other dried fruits (per 100 g)
 
-| | Calories | Sugar | Fiber | [Potassium](/en/food/supplements/potassium/) |
+| | Calories | Sugar | Fiber | Potassium |
 |---|---|---|---|---|
 | **Dates (Medjool)** | **277** | **66 g** | **6.7 g** | **696 mg** |
 | Raisins | 299 | 59 g | 3.7 g | 749 mg |

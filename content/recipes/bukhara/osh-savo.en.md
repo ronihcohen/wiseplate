@@ -17,7 +17,7 @@ calories: 835
 
 ## Osh Savo — Bukharian Shabbat Stew
 
-Osh savo means roughly "Shabbat rice." A Central Asian pilaf was adapted to the prohibition on cooking on Shabbat and became a Bukharian Jewish overnight pot — a hamin, the Shabbat stew left to cook overnight. There are dry and moist versions; here the rice is soft and moist, with tomatoes, apple and dried fruit.
+Osh savo means roughly "Shabbat [rice](/en/food/rice/)." A Central Asian pilaf was adapted to the prohibition on cooking on Shabbat and became a Bukharian Jewish overnight pot — a hamin, the Shabbat stew left to cook overnight. There are dry and moist versions; here the rice is soft and moist, with [tomatoes](/en/food/tomato/), [apple](/en/food/apple/) and dried fruit.
 
 **Prep time:** 35 minutes · **Cooking:** 9–10 hours · **Yield:** 8 · **Difficulty:** medium
 
@@ -28,7 +28,7 @@ Rice keeps absorbing for hours. At the start of baking, the liquid should be abo
 ### Ingredients (for 8 servings)
 
 * 500 grams long-grain rice, rinsed
-* 1 kg beef for long cooking, in large cubes
+* 1 kg [beef](/en/food/red-meat/) for long cooking, in large cubes
 * 80 ml oil
 * 3 onions, sliced
 * 500 grams chopped tomatoes
@@ -44,8 +44,8 @@ Chuck, neck or shoulder work; a cut with a little collagen stays juicy. The amou
 
 ### Method
 
-1. Heat the oil in an ovenproof pot, brown the meat and remove it. Brown the onion for 10 minutes.
-2. Add the tomatoes and spices and cook for 5 minutes. Return the meat and add the chickpeas and fruit.
+1. Heat the oil in an ovenproof pot, brown the meat and remove it. Brown the [onion](/en/food/onion/) for 10 minutes.
+2. Add the tomatoes and spices and cook for 5 minutes. Return the meat and add the [chickpeas](/en/food/chickpeas/) and fruit.
 3. Scatter the rice over and add boiling water to 2 cm above it. Boil for 5 minutes.
 4. Cover tightly and move to an oven preheated to 110°C (230°F) for 9–10 hours.
 5. In the morning, check that the meat is tender and the pot is very hot in the center. If it dries out early, add boiling water; never cold water to a hot pot.

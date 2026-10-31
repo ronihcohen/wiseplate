@@ -1,10 +1,10 @@
 ---
 title: "Menemen"
-seo_title: "Menemen: The Turkish Breakfast Recipe with Eggs and Tomatoes — Calories"
+seo_title: "Menemen Recipe: Turkish Eggs and Tomatoes"
 date: 2026-08-23T09:20:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/menemen.webp"
-description: "A recipe for menemen — Turkish eggs in tomatoes and green pepper, the dish that differs from shakshuka in one detail, with a calorie estimate of about 320 calories per individual serving."
+description: "Menemen: Turkish eggs in tomatoes and green pepper, the dish that differs from shakshuka in one detail. About 320 calories per serving."
 recipe_cuisine: "Turkish"
 recipe_category: "Breakfast"
 prep_time: "PT10M"
@@ -31,8 +31,8 @@ Adding menemen to the table changes it nutritionally more than you'd think: a br
 
 ### Ingredients (for 2 servings)
 
-* 4 large [eggs](/en/food/eggs/)
-* 3 very ripe [tomatoes](/en/food/tomato/), peeled and chopped (or 400 g canned crushed tomatoes)
+* 4 large eggs
+* 3 very ripe tomatoes, peeled and chopped (or 400 g canned crushed tomatoes)
 * 2 long green peppers (*sivri biber*), sliced into rings — or a regular green [pepper](/en/food/red-pepper/)
 * 1 tablespoon [olive oil](/en/food/olive-oil/) + 1 tablespoon butter
 * 1/2 [onion](/en/food/onion/), chopped — optional, and in Izmir they'll say it's forbidden
@@ -69,12 +69,12 @@ The recommended serving is half the pan — 2 eggs with the sauce.
 
 Adding 60 g of feta adds about 150 calories to the pan (about 75 per serving), and two slices of country bread — another 160 or so. A full meal with bread and cheese actually comes to about 550 calories.
 
-Nutritionally it's an especially good breakfast: the protein-to-carbohydrate ratio is high, which means lasting fullness and a moderate rise in blood sugar. The [eggs](/en/food/eggs/) supply [choline](/en/food/supplements/choline/) and [vitamin B12](/en/food/supplements/vitamin-b12/), and the tomatoes cooked in oil supply highly bioavailable lycopene — lycopene actually becomes more available after heating, and is absorbed better in the presence of fat.
+Nutritionally it's an especially good breakfast: the protein-to-carbohydrate ratio is high, which means lasting fullness and a moderate rise in blood sugar. The eggs supply [choline](/en/food/supplements/choline/) and [vitamin B12](/en/food/supplements/vitamin-b12/), and the tomatoes cooked in oil supply highly bioavailable lycopene — lycopene actually becomes more available after heating, and is absorbed better in the presence of fat.
 
 ### Variations and tips
 
 * **A lighter version:** Skip the butter and use just a tablespoon of [olive oil](/en/food/olive-oil/) — a saving of about 50 calories per serving without hurting the texture.
-* **A higher-protein version:** Add a fifth egg or an extra egg white. See also other protein sources on the [eggs](/en/food/eggs/) page.
+* **A higher-protein version:** Add a fifth egg or an extra egg white. See also other protein sources on the eggs page.
 * **Sucuk:** A version with slices of fried *sucuk* sausage is common in Turkey. It's very tasty, but adds about 150-200 calories and brings [processed meat](/en/food/sausages/) into the dish — best saved for weekends.
 * **Tomatoes in winter:** When there are no ripe tomatoes, a good can of crushed tomatoes beats pale fresh ones.
 

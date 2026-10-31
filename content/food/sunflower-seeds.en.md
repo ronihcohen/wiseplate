@@ -1,10 +1,10 @@
 ---
 title: "Sunflower Seeds"
-seo_title: "Sunflower Seeds: Nutrition Facts, Benefits and Downsides, and How Many to Eat a Day"
+seo_title: "Sunflower Seeds: Nutrition, Benefits and How Many a Day"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-08-20T09:00:00+03:00
 featured_image: ""
-description: "Sunflower seeds: full nutrition facts, why they are the number one food source of vitamin E, how much sodium is in salted seeds, what cadmium is, and what cracking them with your teeth does to your teeth."
+description: "Sunflower seeds: nutrition facts, a top food source of vitamin E, sodium in salted seeds, cadmium, and what cracking them does to your teeth."
 ---
 
 ## Sunflower Seeds
@@ -80,7 +80,7 @@ Its main role is **protecting fats from oxidation**: it is incorporated into cel
 
 * **An extreme omega-6 to omega-3 ratio.** Sunflower seeds contain plenty of linoleic acid and almost zero omega-3. In a diet already rich in omega-6 and poor in omega-3, they tip the ratio even further. There's nothing wrong with that in itself — but it's worth balancing with [flax seeds](/en/food/flax-seeds/), [chia](/en/food/chia-seeds/), [walnuts](/en/food/walnuts/) or [oily fish](/en/food/salmon/).
 
-* **Phytic acid.** Binds [zinc](/en/food/supplements/zinc/), [iron](/en/food/iron/) and [magnesium](/en/food/supplements/magnesium/) and reduces their absorption. Soaking or sprouting reduces it.
+* **Phytic acid.** Binds [zinc](/en/food/supplements/zinc/), [iron](/en/food/iron/) and magnesium and reduces their absorption. Soaking or sprouting reduces it.
 
 * **Rapid oxidation.** Their high polyunsaturated fat content makes them especially sensitive. Seeds with a bitter or "stale" taste are seeds whose fat has oxidized. **Store them in an airtight container in the fridge or freezer.**
 
@@ -90,10 +90,10 @@ Its main role is **protecting fats from oxidation**: it is incorporated into cel
 
 ### Comparison: sunflower seeds vs. other seeds (per 28 grams)
 
-| | Calories | Protein | [Vitamin E](/en/food/supplements/vitamin-e/) | [Magnesium](/en/food/supplements/magnesium/) | Stands out in |
+| | Calories | Protein | Vitamin E | Magnesium | Stands out in |
 |---|---|---|---|---|---|
 | **Sunflower seeds** | **164** | **5.8 g** | **9.8 mg (66%)** | **91 mg** | **Vitamin E, selenium, copper** |
-| [Pumpkin seeds](/en/food/pumpkin-seeds/) | 163 | 8.5 g | 0.6 mg | 156 mg | Magnesium, zinc |
+| Pumpkin seeds | 163 | 8.5 g | 0.6 mg | 156 mg | Magnesium, zinc |
 | [Sesame](/en/food/sesame-seeds/) | 160 | 5.0 g | 0.1 mg | 99 mg | Calcium, iron |
 | [Flax seeds](/en/food/flax-seeds/) | 150 | 5.1 g | 0.1 mg | 111 mg | Omega-3, lignans |
 
@@ -107,7 +107,7 @@ Its main role is **protecting fats from oxidation**: it is incorporated into cel
 * **Soak** for 6-8 hours and dry, if you want to maximize mineral absorption.
 * **Light roasting only** — up to 150°C (302°F), about 10-15 minutes. High heat damages vitamin E.
 * **Sunflower seed butter** is a good alternative to peanut butter for people with allergies — check that there's no added sugar or oil.
-* **Balance with omega-3:** include [flax seeds](/en/food/flax-seeds/), [chia](/en/food/chia-seeds/) or [oily fish](/en/food/salmon/) in your diet.
+* **Balance with omega-3:** include flax seeds, [chia](/en/food/chia-seeds/) or [oily fish](/en/food/salmon/) in your diet.
 
 ### Summary
 

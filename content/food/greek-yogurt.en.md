@@ -1,10 +1,10 @@
 ---
 title: "Greek Yogurt"
-seo_title: "Greek Yogurt: What Is It and How Is It Different from Regular Yogurt?"
+seo_title: "Greek Yogurt: What It Is and How It Differs From Regular"
 date: 2026-08-10T08:45:00+03:00
 lastmod: 2026-10-07T09:00:00+03:00
 featured_image: ""
-description: "What is Greek yogurt and how is it different from regular yogurt? How straining works, protein, calories, sugar and calcium per 100 grams compared, and what to check on the label."
+description: "What is Greek yogurt and how does it differ from regular yogurt? How straining works, protein, calories, sugar and calcium compared, and label tips."
 ---
 
 {{< youtube id="KOnky4Hy2ik" title="Greek Yogurt: What Makes It Greek? (video)" loading="lazy" >}}

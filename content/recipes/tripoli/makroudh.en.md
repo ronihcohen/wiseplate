@@ -1,6 +1,6 @@
 ---
 title: "Makroudh"
-seo_title: "Tripolitan Makroudh: Semolina and Date Cookies — Calories per Piece"
+seo_title: "Makroudh Recipe: Semolina and Date Cookies"
 date: 2026-09-19T11:40:00+03:00
 lastmod: 2026-09-19T11:40:00+03:00
 featured_image: "/images/recipes/tripoli/makroudh.webp"
@@ -45,7 +45,7 @@ Vacuum-packed date paste from the supermarket is exactly right; if it is hard, k
 
 1. **Make the syrup.** Boil the sugar, water and lemon for 8–10 minutes until slightly thickened. Cool; hot cookies need cool syrup.
 2. **Mix the semolina and fat.** Rub the semolina, salt and oil between your fingers until all the grains are coated. Add the water and orange blossom water gradually, only until the dough comes together. Cover for 30 minutes.
-3. **Make the filling.** Knead the date paste with the cinnamon and orange zest and roll it into three thin ropes.
+3. **Make the filling.** Knead the date paste with the cinnamon and [orange](/en/food/orange/) zest and roll it into three thin ropes.
 4. **Fill.** Divide the dough into three, form each part into a log and flatten it into a channel. Lay a date rope inside, close and roll gently.
 5. **Cut.** Flatten the log slightly and cut diagonally into 4–5 cm diamonds. Score a light pattern without reaching the filling.
 6. **Fry.** Fry at 170°C (338°F) in batches, 4–5 minutes, until deep golden. Oil that is too cool will be absorbed; oil that is too hot will brown them before the semolina cooks.

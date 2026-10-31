@@ -1,6 +1,6 @@
 ---
 title: "Malawach"
-seo_title: "Malawach: How Many Calories in One Sheet, and Why You Don't Need to Fry It in Oil"
+seo_title: "Malawach: Calories per Sheet and How to Cook It Without Oil"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""

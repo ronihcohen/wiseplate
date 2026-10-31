@@ -17,13 +17,13 @@ calories: 580
 
 ## Kurdish Yaprakh
 
-Yaprakh is a Kurdish and regional name for stuffed vegetables and leaves. In Zakho, folded, wide grape leaves alongside onions are documented; other families roll them. Both shapes are valid.
+Yaprakh is a Kurdish and regional name for stuffed vegetables and leaves. In Zakho, folded, wide grape leaves alongside [onions](/en/food/onion/) are documented; other families roll them. Both shapes are valid.
 
 **Prep:** 1 hour · **Cooking:** 100 minutes · **Yield:** about 50 stuffed pieces · **Difficulty:** medium
 
 ### A Kurdish fold and room for the rice
 
-In some traditions of the Jews of Zakho, the grape leaf is folded into a wide, flat parcel, while other families roll it into a cigar. The shape matters less than the space: rice expands almost threefold in volume, so use a little filling and close loosely. The onion layers add sweetness and keep the leaves from being packed into a single mass.
+In some traditions of the Jews of Zakho, the grape leaf is folded into a wide, flat parcel, while other families roll it into a cigar. The shape matters less than the space: [rice](/en/food/rice/) expands almost threefold in volume, so use a little filling and close loosely. The onion layers add sweetness and keep the leaves from being packed into a single mass.
 
 ### Ingredients
 
@@ -41,10 +41,10 @@ Israeli short-grain rice holds the filling better than long-grain rice. Blanch f
 
 ### Method
 
-1. Mix the rice, beef, herbs, tomato, half the oil and the seasoning.
+1. Mix the rice, [beef](/en/food/red-meat/), herbs, [tomato](/en/food/tomato/), half the oil and the seasoning.
 2. Place a little filling on each leaf and fold or roll loosely. Fill the onion layers.
 3. Line a pot with torn leaves and arrange the pieces snugly, seam side down.
-4. Pour in the water, lemon juice and the rest of the oil. Place a heatproof plate on top.
+4. Pour in the water, [lemon](/en/food/lemon/) juice and the rest of the oil. Place a heatproof plate on top.
 5. Bring to a boil, cover and cook for 80–100 minutes until the rice is tender and the meat reaches 71 degrees Celsius.
 
 ### Nutrition facts and calorie estimate

@@ -4,7 +4,7 @@ seo_title: "Tripolitan Recipes: 10 Libyan Dishes with Calories per Serving"
 date: 2026-09-19T10:00:00+03:00
 lastmod: 2026-09-19T10:00:00+03:00
 featured_image: "/images/recipes/collections/tripoli.webp"
-description: "Ten Tripolitan recipes you can make in Israel — mafrum, chraime, couscous, tbecha bsilk, shorba, bazin, nokidess, arisa, shakshuka and makroudh, with quantities and calories per serving."
+description: "Ten Tripolitan recipes you can make in Israel, including mafrum, chraime, couscous, bazin, arisa and makroudh, with quantities and calories per serving."
 ---
 
 In Israel people say "Tripolitan" (in Hebrew, "טריפוליטאי") about almost the entire cuisine of Libyan Jews, even when the family came from Benghazi, Homs or another town. Tripoli was the largest community and the name became a catch-all term. It is a Mediterranean and North African cuisine with a clear Italian layer: [couscous](/en/recipes/tripoli/couscous/), spicy meat stews and fish on one side; pasta and nokidess on the other. The base that recurs in almost every pot is [tomato](/en/food/tomato/) paste fried in oil with garlic, paprika and caraway until it darkens and loses its raw taste.

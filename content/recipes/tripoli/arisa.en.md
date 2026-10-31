@@ -1,6 +1,6 @@
 ---
 title: "Arisa — Libyan Wheat Sabbath Stew"
-seo_title: "Tripolitan Arisa: A Recipe for Wheat and Meat Sabbath Stew — Calories per Serving"
+seo_title: "Tripolitan Arisa Recipe: Wheat and Meat Shabbat Stew"
 date: 2026-09-19T11:30:00+03:00
 lastmod: 2026-09-19T11:30:00+03:00
 featured_image: "/images/recipes/tripoli/arisa.webp"

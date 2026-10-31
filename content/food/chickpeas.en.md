@@ -1,6 +1,6 @@
 ---
 title: "Chickpeas: Protein or Carb?"
-seo_title: "Chickpeas: Protein or Carb? Nutrition Facts, Benefits and Downsides"
+seo_title: "Chickpeas: Protein or Carb? Nutrition, Benefits, Downsides"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-10-07T09:00:00+03:00
 featured_image: ""

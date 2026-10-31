@@ -1,6 +1,6 @@
 ---
 title: "Tripolitan Shakshuka"
-seo_title: "Tripolitan Shakshuka: A Spicy Recipe with Peppers and Eggs — Calories"
+seo_title: "Tripolitan Shakshuka Recipe: Spicy, With Peppers"
 date: 2026-09-19T11:00:00+03:00
 lastmod: 2026-09-19T11:00:00+03:00
 featured_image: "/images/recipes/tripoli/shakshuka.webp"

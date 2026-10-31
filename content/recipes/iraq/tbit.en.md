@@ -1,6 +1,6 @@
 ---
 title: "T'bit"
-seo_title: "T'bit: An Iraqi Recipe for Rice-Stuffed Chicken for Shabbat — Calories per Serving"
+seo_title: "T'bit Recipe: Iraqi Rice-Stuffed Chicken for Shabbat"
 date: 2026-08-24T02:10:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/iraq/tbit.webp"
@@ -86,7 +86,7 @@ What you can improve: remove the chicken skin before serving (a saving of about 
 
 ### Summary
 
-T'bit is the Baghdadi solution to the same problem that gave rise to hamin and skhina: a dish that cooks by itself all night. About 820 calories per serving with 46 grams of protein, and a rice crust at the bottom of the pot that is considered the best part. It is served with [amba](/en/recipes/iraq/amba/), and the more festive Iraqi dish from the same family is [quzi](/en/recipes/iraq/quzi/). More recipes in [Iraqi cuisine](/en/recipes/iraq/).
+T'bit is the Baghdadi solution to the same problem that gave rise to hamin and skhina: a dish that cooks by itself all night. About 820 calories per serving with 46 grams of protein, and a rice crust at the bottom of the pot that is considered the best part. It is served with amba, and the more festive Iraqi dish from the same family is [quzi](/en/recipes/iraq/quzi/). More recipes in [Iraqi cuisine](/en/recipes/iraq/).
 
 ### Frequently asked questions
 

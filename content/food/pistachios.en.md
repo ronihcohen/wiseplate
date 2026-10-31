@@ -2,16 +2,19 @@
 title: "Pistachios"
 seo_title: "Pistachios: Are They Healthy, How Many a Day and Nutrition Facts"
 date: 2025-12-22T08:21:28+02:00
+lastmod: 2026-10-30T09:00:00+02:00
 lastmod: 2026-10-07T09:00:00+03:00
 featured_image: ""
-description: "How many pistachios can you eat a day, are roasted pistachios healthy, are they even a nut, and what are their full nutrition facts — including the benefits and downsides."
+description: "30 g of pistachios (about 49 kernels) is about 160 calories and 6 g of protein. How many a day, whether roasted is healthy, what trials show, and the downsides."
 ---
 
 {{< youtube id="P68Bjxe_xlk" title="Pistachios: Not Really a Nut? (video)" loading="lazy" >}}
 
 ## Pistachios
 
-The pistachio (*Pistacia vera*) has been grown in the Middle East and Central Asia for more than 3,000 years, and it is one of the few foods that has managed to be both a popular snack and a food widely studied in a cardiometabolic context. In Hebrew it is called "פיסטוק". It stands out among nuts in three ways: it has the **fewest calories per serving**, it provides the **largest number of pieces** per serving, and it is almost the only one considered a **complete protein source**.
+**Pistachios are a healthy snack as long as they are unsalted: a 30 g serving, about 49 kernels, provides about 160 calories, 6 g of protein and 3 g of fibre. In a meta-analysis of 11 randomised trials they modestly lowered blood pressure and fasting blood sugar without raising body weight.** The usual amount is 30 g a day.
+
+The pistachio (*Pistacia vera*) has been grown in the Middle East and Central Asia for more than 3,000 years, and it is one of the few foods that has managed to be both a popular snack and a food widely studied in a cardiometabolic context. In Hebrew it is called "פיסטוק". It stands out among nuts in three ways: it has the **fewest calories per serving**, it provides the **largest number of pieces** per serving, and it contains all nine essential amino acids.
 
 ### Is the pistachio a nut?
 
@@ -19,7 +22,9 @@ Botanically — **no**. The pistachio is the seed of a **drupe**, the same categ
 
 Nutritionally and in the kitchen — **yes**, and it is classed as a nut in every respect. More importantly: **as an allergen it is considered a tree nut**, so anyone allergic to tree nuts should treat it as one. The pistachio belongs to the cashew family (Anacardiaceae) together with cashews and [mango](/en/food/mango/), which is why pistachio and cashew allergies often appear together.
 
-### Nutrition facts (100 grams of raw pistachios)
+### Nutrition facts
+
+Values per 100 grams of raw, unsalted pistachios.
 
 | Nutrient | Amount | % of daily intake |
 |---|---|---|
@@ -43,11 +48,11 @@ Nutritionally and in the kitchen — **yes**, and it is classed as a nut in ever
 ### Benefits
 
 - **The most pieces per serving — a real psychological advantage:** a 30-gram serving of pistachios is about 49 kernels, compared with about 23 almonds or 14 walnut halves. In terms of fullness and satisfaction, eating 49 pieces feels completely different from eating 14 — and that makes a real difference in managing snacks.
-- **Complete protein:** the pistachio is one of the few plant sources that provide all nine essential amino acids in amounts sufficient for adults. With 20 grams of protein per 100 grams, it is one of the most protein-rich nuts.
+- **Protein:** with 20 grams of protein per 100 grams, the pistachio is one of the most protein-rich nuts, and it contains all the essential amino acids. Its protein quality is still lower than that of eggs or milk, and a 30 g serving has only 6 g, so it is an addition rather than a main protein source.
 - **An unusual amount of vitamin B6:** 131% of the daily intake per 100 grams — the highest of all nuts. B6 is essential for amino acid metabolism, making neurotransmitters and immune function.
 - **Lutein and zeaxanthin:** the pistachio is the nut richest in these two carotenoids — they are what give it its greenish color. Both accumulate in the retina and are linked to protection against age-related macular degeneration.
-- **Heart health:** controlled studies found that replacing snacks with pistachios is associated with a drop in LDL and improved endothelial function. The phytosterols in pistachios compete with cholesterol for absorption in the gut.
-- **Low glycemic load and a moderating effect:** pistachios barely raise blood sugar, and studies found that adding them to a high-carbohydrate meal **lowers the glycemic response of the whole meal**.
+- **Heart and blood vessels:** a meta-analysis of 11 randomised trials (506 participants) found that pistachios lowered systolic blood pressure by about 3 mmHg and improved the LDL-to-HDL ratio, with no adverse effect on body weight. [Ghanavati et al., 2020](https://pubmed.ncbi.nlm.nih.gov/32951758/). The phytosterols in pistachios compete with cholesterol for absorption in the gut.
+- **Blood sugar:** pistachios barely raise blood sugar. In a small trial, adding 56 g of pistachios to white bread **lowered the glycemic response of the whole meal** by about a third. [Kendall et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21364607/). In a Spanish crossover trial in 54 people with prediabetes, a diet with 57 g of pistachios a day for four months lowered fasting glucose, insulin and insulin resistance compared with a control diet. [Hernández-Alonso et al., 2014](https://pubmed.ncbi.nlm.nih.gov/25125505/).
 - **Prebiotic fiber:** 10.6 grams of fiber per 100 grams, some of which feeds beneficial gut bacteria.
 
 ### Downsides
@@ -55,7 +60,7 @@ Nutritionally and in the kitchen — **yes**, and it is classed as a nut in ever
 - **Calorie density:** 560 calories per 100 grams. It is very easy to eat handful after handful in front of the TV and reach 400 calories without noticing. This is the main practical downside, and the fix is simple: measure a serving in advance instead of eating from the bag.
 - **Sodium in salted pistachios:** this is the downside that turns a healthy food into a problematic one. Salted pistachios sometimes contain 400–500 mg of sodium per 100 grams, and sometimes much more. Anyone managing blood pressure should choose the unsalted version.
 - **Aflatoxins:** pistachios are among the foods most susceptible to contamination by *Aspergillus* mold, which produces aflatoxins — toxins classified as definite human carcinogens that damage the liver. The risk is well managed in regulated imports, but avoid pistachios that taste musty or bitter, and kernels with visible mold. Store them in a cool, dry place, preferably the fridge.
-- **FODMAP:** pistachios are high in fructans and are considered problematic in irritable bowel syndrome. The tolerated serving is small — only about 15 grams.
+- **FODMAP:** pistachios are high in fructans and are considered problematic in irritable bowel syndrome. Sensitive people should stick to a small serving and test their own tolerance.
 - **Allergy:** a significant allergen, with common cross-reactivity to cashews. Reactions can be severe.
 - **Potassium in kidney disease:** 1,025 mg per 100 grams is a very high amount. Anyone managing kidney failure with a potassium restriction should get advice on the amount.
 - **"Dyed" and over-salted pistachios:** pistachios used to be dyed red to hide blemishes. Today this is rare, but pistachios treated with heavy brine are still common.
@@ -82,12 +87,12 @@ A small advantage of roasting: the heat neutralizes some of the mold and extends
 
 - **To maintain weight:** up to 30 grams a day, **instead of** another snack, not in addition to it.
 - **For athletes or on a high-calorie diet:** 45–60 grams a day is perfectly reasonable.
-- **With irritable bowel:** limit to about 15 grams.
+- **With irritable bowel:** start with a small serving and test tolerance.
 - **With high blood pressure:** no special limit on amount, but only the unsalted version.
 
-**A trick that works — the "pistachio principle":** a study found that people who ate pistachios **in the shell** consumed about 41% fewer calories than those who ate shelled kernels. The shells piling up on the plate give visual feedback on how much was eaten, and the need to crack them slows the pace. It is one of the most effective practical tips for portion control.
+**A trick that works — the "pistachio principle":** in a trial with 118 university staff given in-shell pistachios, those whose empty shells stayed in front of them on the desk ate 216 calories on average, compared with 264 when the shells were cleared every two hours, and fullness was the same. [Kennedy-Hagan et al., 2011](https://pubmed.ncbi.nlm.nih.gov/21704666/). The shells give visual feedback on how much was eaten, and the need to crack them slows the pace.
 
-### Culinary use
+### Practical use
 
 - **As a snack in the shell** — the recommended way, for the reasons above.
 - **Ground for pesto or a crust** for fish and chicken, instead of breadcrumbs.
@@ -97,17 +102,17 @@ A small advantage of roasting: the heat neutralizes some of the mold and extends
 
 ### Summary
 
-The pistachio is one of the most nutritious nuts: 20 grams of protein per 100 grams with a complete amino acid profile, 131% of the daily intake of vitamin B6, an unusual amount of lutein and zeaxanthin for eye health, and an especially low glycemic load. Botanically it is not a nut but the seed of a drupe — but as an allergen it is considered a tree nut in every respect.
+The pistachio is one of the most nutritious nuts: 20 grams of protein per 100 grams, 131% of the daily intake of vitamin B6, an unusual amount of lutein and zeaxanthin for eye health, and an especially low glycemic load. Randomised trials show small reductions in blood pressure and blood sugar. Botanically it is not a nut but the seed of a drupe — but as an allergen it is considered a tree nut in every respect.
 
-The recommended serving is 30 grams a day (about 49 kernels). Two practical recommendations: buy **unsalted** — the sodium, not the roasting, is what makes pistachios a problematic snack; and eat them **in the shell**, which cuts intake by about 41%.
+The recommended serving is 30 grams a day (about 49 kernels). Two practical recommendations: buy **unsalted** — the sodium, not the roasting, is what makes pistachios a problematic snack; and eat them **in the shell**, leaving the shells in sight, which cuts intake.
 
-## Frequently asked questions
+### Frequently asked questions
 
 ### Question: Are pistachios healthy?
-Answer: Yes, very — as long as they are unsalted. They provide complete protein, an unusual amount of vitamin B6 and potassium, fiber, unsaturated fats and lutein for eye health, and clinical studies have linked them to a drop in LDL. The two caveats: high calorie density that calls for measuring a serving, and a very high sodium content in the salted versions.
+Answer: Yes, very — as long as they are unsalted. They provide protein, an unusual amount of vitamin B6 and potassium, fiber, unsaturated fats and lutein for eye health, and randomised trials showed small reductions in blood pressure and fasting blood sugar. The two caveats: high calorie density that calls for measuring a serving, and a very high sodium content in the salted versions.
 
 ### Question: How many pistachios can you eat a day?
-Answer: The standard serving is 30 grams — about 49 shelled kernels, about 160 calories. That is the amount tested in most clinical studies. People with irritable bowel should limit themselves to about 15 grams. An effective tip: eating them in the shell cuts intake by about 41%.
+Answer: The standard serving is 30 grams — about 49 shelled kernels, about 160 calories. That is the amount tested in most clinical studies. People with irritable bowel should start with a small serving. An effective tip: eat them in the shell and leave the shells in sight.
 
 ### Question: Are roasted pistachios healthy?
 Answer: Yes. Dry roasting barely harms the nutritional value — it slightly reduces heat-sensitive antioxidants and improves taste and digestibility. What makes roasted pistachios less healthy is the salt and oil added in the process, not the roasting itself. Dry-roasted unsalted pistachios are an excellent choice.

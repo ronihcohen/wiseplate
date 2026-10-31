@@ -1,10 +1,10 @@
 ---
 title: "Blood Sausage"
-seo_title: "Blood Sausage: The Densest Source of Iron — and Who Absolutely Must Avoid It"
+seo_title: "Blood Sausage: The Densest Iron Source, and Who Must Avoid It"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
-description: "Blood sausage: why it is the densest source of heme iron in food, set against saturated fat, sodium and its classification as processed meat — and who must avoid it completely."
+description: "Blood sausage: the densest food source of heme iron, weighed against saturated fat, sodium and processed-meat risks, and who must avoid it."
 ---
 
 ## Blood Sausage (Black Pudding)
@@ -45,8 +45,8 @@ And two points make it even more significant:
 
 ### Benefits
 
-* **Heme [iron](/en/food/iron/) at an unrivaled density** — as detailed above.
-* **[Vitamin B12](/en/food/supplements/vitamin-b12/):** 40-80% of the daily value per 100 grams.
+* **Heme iron at an unrivaled density** — as detailed above.
+* **Vitamin B12:** 40-80% of the daily value per 100 grams.
 * **Animal protein** with a complete amino acid profile.
 * **[Zinc](/en/food/supplements/zinc/)** in a reasonable amount.
 * **Using the whole animal.** Environmentally and ethically, using blood — which would otherwise be discarded — is a real reduction in waste, and a long-standing tradition in thrifty cuisines.
@@ -55,7 +55,7 @@ And two points make it even more significant:
 ### Downsides and considerations
 
 * **Saturated fat.** 10-14 grams per 100 grams — **50-70% of the recommended daily limit** in one serving. This is the most significant downside.
-* **[Sodium](/en/food/supplements/sodium/).** 650-1,200 mg per 100 grams, about a quarter to half of the daily limit.
+* **Sodium.** 650-1,200 mg per 100 grams, about a quarter to half of the daily limit.
 * **Processed meat.** The World Health Organization classifies processed meat as **carcinogenic to humans (Group 1)** with respect to colorectal cancer. The practical recommendation is to **limit**, not to ban.
 * **Hemochromatosis — a real contraindication.** People with **hereditary iron overload** — a disease more common than you might think in populations of Northern European descent — **must avoid concentrated sources of heme iron.** Excess iron accumulates in the liver, heart and pancreas and causes damage. **Anyone diagnosed with hemochromatosis or with persistently high ferritin should consult a professional.**
 * **Microbial safety.** Blood is an excellent growth medium for bacteria, and blood products require **continuous refrigeration and full cooking**. Some products are sold cooked and need only reheating; others require full cooking. **Read the preparation instructions, don't assume.**
@@ -75,7 +75,7 @@ And two points make it even more significant:
 
 ### Summary
 
-Blood sausage is **the densest source of heme iron in food** — up to 110% of the daily value in 100 grams, in a form absorbed several times better than plant iron, along with [vitamin B12](/en/food/supplements/vitamin-b12/) and protein. The nutritional logic behind the custom of serving it after childbirth or blood loss is entirely real. **But the same serving also provides 50-70% of the daily limit of saturated fat, up to half the sodium limit, and it is considered processed meat.** The practical conclusion: **an occasional dish, not a regular food** — and people with **hemochromatosis or iron overload must avoid it completely.** And for many readers, the question of kashrut is decisive anyway.
+Blood sausage is **the densest source of heme iron in food** — up to 110% of the daily value in 100 grams, in a form absorbed several times better than plant iron, along with vitamin B12 and protein. The nutritional logic behind the custom of serving it after childbirth or blood loss is entirely real. **But the same serving also provides 50-70% of the daily limit of saturated fat, up to half the sodium limit, and it is considered processed meat.** The practical conclusion: **an occasional dish, not a regular food** — and people with **hemochromatosis or iron overload must avoid it completely.** And for many readers, the question of kashrut is decisive anyway.
 
 ### Frequently asked questions
 

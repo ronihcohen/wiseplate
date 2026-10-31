@@ -1,6 +1,6 @@
 ---
 title: "Instant Cup Soup"
-seo_title: "Instant Cup Soup: How Much Sodium It Has, Nutrition Facts and How to Improve It"
+seo_title: "Instant Cup Soup: Sodium, Nutrition Facts and Better Options"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-08-18T09:00:00+03:00
 featured_image: ""

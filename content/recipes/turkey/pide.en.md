@@ -1,6 +1,6 @@
 ---
 title: "Pide"
-seo_title: "Turkish Pide: Recipe for the Boat-Shaped Bread with Cheese or Meat — Calories"
+seo_title: "Turkish Pide Recipe: Boat-Shaped Bread, Cheese or Meat"
 date: 2026-08-23T10:00:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/pide.webp"

@@ -1,6 +1,6 @@
 ---
 title: "Quzi"
-seo_title: "Iraqi Quzi: A Recipe for Lamb Shoulder on Festive Rice — Calories per Serving"
+seo_title: "Iraqi Quzi Recipe: Lamb Shoulder on Festive Rice"
 date: 2026-08-24T02:30:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/iraq/quzi.webp"

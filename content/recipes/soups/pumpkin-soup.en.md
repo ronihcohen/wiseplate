@@ -100,7 +100,7 @@ This is not necessarily a downside. The carotenoids that give pumpkin its color 
 
 ### Summary
 
-Pumpkin soup rests on one technical decision — roast, don't boil — which doubles the depth of flavor and makes much of the cream unnecessary. About 235 calories per bowl in the version with coconut milk, about 170 without it, and a full daily dose of vitamin A in both versions. For more soups see [Soups](/en/recipes/soups/), and for the nutritional values of the vegetable itself — [pumpkin](/en/food/pumpkin/).
+Pumpkin soup rests on one technical decision — roast, don't boil — which doubles the depth of flavor and makes much of the cream unnecessary. About 235 calories per bowl in the version with coconut milk, about 170 without it, and a full daily dose of vitamin A in both versions. For more soups see [Soups](/en/recipes/soups/), and for the nutritional values of the vegetable itself — pumpkin.
 
 ### Frequently asked questions
 
@@ -111,7 +111,7 @@ Answer: About 235 per 300 ml bowl in the version with coconut milk, and about 17
 Answer: Roast it. Water doesn't rise above 100°C, so boiled pumpkin never caramelizes, and it also loses sugars into the liquid. Roasting at 200°C concentrates the sugars and browns the edges, and that is the biggest difference between a decent pumpkin soup and an excellent one.
 
 **Question: How do you thicken pumpkin soup without cream?**
-Answer: Add a starchy vegetable — [sweet potato](/en/food/sweet-potato/), potato or half a cup of red [lentils](/en/food/lentil/) — and blend everything together in a countertop blender rather than with an immersion blender. A countertop blender breaks down the pumpkin fibers better and gives a velvety texture an immersion blender can't reach.
+Answer: Add a starchy vegetable — sweet potato, potato or half a cup of red [lentils](/en/food/lentil/) — and blend everything together in a countertop blender rather than with an immersion blender. A countertop blender breaks down the pumpkin fibers better and gives a velvety texture an immersion blender can't reach.
 
 **Question: Which is better — coconut milk or cream?**
 Answer: Calorie-wise they are fairly similar (full-fat coconut milk about 200 calories per 100 ml, heavy cream about 350). The real difference is in taste and kashrut — coconut milk makes the soup vegan and pareve, and adds a sweet note. To save about 40 calories per serving you can choose light coconut milk.

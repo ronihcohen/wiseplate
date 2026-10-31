@@ -1,6 +1,6 @@
 ---
 title: "Teff Injera"
-seo_title: "Ethiopian Teff Injera: Fermentation, Absit and a Precise Recipe — Calories"
+seo_title: "Ethiopian Teff Injera Recipe: Fermentation and Absit"
 date: 2026-09-19T15:10:00+03:00
 lastmod: 2026-09-19T15:10:00+03:00
 featured_image: "/images/recipes/ethiopia/injera.webp"
@@ -17,7 +17,7 @@ calories: 200
 
 ## Ethiopian Injera from 100% Teff
 
-Injera is a fermented pan bread, soft and porous, made in Ethiopia mainly from teff. This recipe uses natural fermentation and an **absit** step: you cook a little of the batter into a porridge, return it to the bowl and allow a short second fermentation. That gives flexibility and "eyes" without wheat flour.
+Injera is a fermented pan bread, soft and porous, made in Ethiopia mainly from [teff](/en/food/teff/). This recipe uses natural fermentation and an **absit** step: you cook a little of the batter into a porridge, return it to the bowl and allow a short second fermentation. That gives flexibility and "eyes" without wheat flour.
 
 **Working time:** 35 minutes · **Fermentation:** 2–3 days · **Pan cooking:** 35 minutes · **Yield:** 12 pieces, 24 cm across · **Difficulty:** advanced
 
@@ -28,7 +28,7 @@ At 24–26°C (75–79°F) the batter is usually ready within 48 hours; in the I
 ### Ingredients (for 12 injeras)
 
 * 600 grams whole teff flour
-* 50 grams active teff starter (ersho), or active wheat sourdough starter if gluten is not an issue
+* 50 grams active teff starter (ersho), or active wheat [sourdough](/en/food/sourdough/) starter if gluten is not an issue
 * 1.5–1.7 liters filtered water, at room temperature
 * 1 teaspoon salt
 * A little oil for wiping the pan, only if it is not nonstick

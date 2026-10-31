@@ -1,6 +1,6 @@
 ---
 title: "Figs"
-seo_title: "Figs: Nutrition Facts, Fresh vs. Dried, and How Much Sugar There Really Is"
+seo_title: "Figs: Nutrition Facts, Fresh vs. Dried and Sugar Content"
 date: 2025-12-22T11:00:00+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""

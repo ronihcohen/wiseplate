@@ -1,6 +1,6 @@
 ---
 title: "Mushroom Soup"
-seo_title: "Mushroom Soup: A Homemade Cream of Mushroom Recipe — Calories per Bowl"
+seo_title: "Mushroom Soup Recipe: Homemade Cream of Mushroom"
 date: 2026-09-01T09:50:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/soups/mushroom-soup.webp"
@@ -97,7 +97,7 @@ The upside of the mushrooms themselves is not about calories: they are one of th
 
 ### Summary
 
-A good mushroom soup really comes down to two things: real browning of the mushrooms in two batches, and soaking water from dried mushrooms that wasn't poured down the sink. The mushrooms themselves are less than 15% of the calories in the bowl, so anyone who wants a lighter soup should touch the cream, not the amount of mushrooms. For more soups see [Soups](/en/recipes/soups/), and for the nutritional values of the vegetable itself — [mushrooms](/en/food/mushrooms/).
+A good mushroom soup really comes down to two things: real browning of the mushrooms in two batches, and soaking water from dried mushrooms that wasn't poured down the sink. The mushrooms themselves are less than 15% of the calories in the bowl, so anyone who wants a lighter soup should touch the cream, not the amount of mushrooms. For more soups see [Soups](/en/recipes/soups/), and for the nutritional values of the vegetable itself — mushrooms.
 
 ### Frequently asked questions
 

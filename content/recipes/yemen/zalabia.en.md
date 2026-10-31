@@ -17,7 +17,7 @@ calories: 215
 
 ## Yemenite Zalabia
 
-In Israel, zalabia (in Hebrew "זלביה") is sometimes associated with Hanukkah or with sweets, but in Yemenite Jewish families it was also an everyday breakfast: fried yeast dough served hot with tomato, zhug and egg. Powdered sugar is an option, not the only default.
+In Israel, zalabia (in Hebrew "זלביה") is sometimes associated with Hanukkah or with sweets, but in Yemenite Jewish families it was also an everyday breakfast: fried yeast dough served hot with [tomato](/en/food/tomato/), zhug and [egg](/en/food/eggs/). Powdered sugar is an option, not the only default.
 
 **Prep time:** 25 minutes · **Rising:** 30 minutes · **Frying:** 35 minutes · **Yield:** 18 · **Difficulty:** medium
 
@@ -61,7 +61,7 @@ The calculation assumes 120 grams of oil absorbed over the whole batch. A low te
 ### Variations and tips
 
 * To serve savory: grated tomato, [zhug](/en/recipes/yemen/zhug/) and a hard-boiled egg.
-* To serve sweet: a little powdered sugar or honey; these are not included in the calories.
+* To serve sweet: a little powdered sugar or [honey](/en/food/honey/); these are not included in the calories.
 * Zalabia is best right away. Reheat leftovers for 5 minutes at 190 degrees Celsius (375°F), not in the microwave.
 
 ### Summary

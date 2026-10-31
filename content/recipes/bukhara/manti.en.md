@@ -17,7 +17,7 @@ calories: 625
 
 ## Bukharian Manti
 
-Manti are large steamed dumplings, a dish found widely across Central Asia and not an exclusively Jewish invention. In the Bukharian version familiar in Israel, the filling includes chopped meat and onion, sometimes lamb fat, and they are served without dairy products, alongside a tomato or vinegar sauce.
+Manti are large steamed dumplings, a dish found widely across Central Asia and not an exclusively Jewish invention. In the Bukharian version familiar in Israel, the filling includes chopped meat and [onion](/en/food/onion/), sometimes [lamb](/en/food/lamb/) fat, and they are served without dairy products, alongside a [tomato](/en/food/tomato/) or vinegar sauce.
 
 **Prep time:** 75 minutes · **Steaming:** 35–40 minutes · **Yield:** 40, 8 servings · **Difficulty:** advanced
 
@@ -30,7 +30,7 @@ Oil the steaming surfaces and leave space between the dumplings. The water does 
 * 600 grams white flour
 * 2 eggs
 * 260–300 ml water, 2 teaspoons salt
-* 700 grams 15% fat ground beef
+* 700 grams 15% fat ground [beef](/en/food/red-meat/)
 * 100 grams chopped lamb fat, or another 80 grams of beef and 2 tablespoons oil
 * 600 grams finely chopped onion
 * 2 teaspoons cumin, black pepper and salt
@@ -42,7 +42,7 @@ Bamboo baskets or a metal steamer pot stand in for a manti-kaskan. For juicy mea
 
 ### Method
 
-1. Knead the flour, eggs, salt and water for 10 minutes into a firm dough. Cover and rest for 30 minutes.
+1. Knead the flour, [eggs](/en/food/eggs/), salt and water for 10 minutes into a firm dough. Cover and rest for 30 minutes.
 2. Mix the meat, fat, onion and spices and keep cold.
 3. Roll out to 1.5 mm thick and cut 10 cm squares. Place a tablespoon of filling and close the four corners, then pairs of edges.
 4. Oil the baskets, arrange the dumplings with space between them and steam over boiling water for 35–40 minutes.

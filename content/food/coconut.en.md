@@ -1,51 +1,23 @@
 ---
 title: "Coconut"
+seo_title: "Coconut and Coconut Oil: Healthy? Nutrition, MCT and LDL"
 date: 2026-08-10T06:10:00+03:00
+lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "Meat, oil, milk and water — a sober analysis of lauric acid, the MCT myth and the highest saturated fat content in the kitchen."
+description: "Coconut oil is about 87% saturated fat and raises LDL by about 10 mg/dL versus vegetable oils. Meat, oil, milk and water: nutrition, the MCT myth, when to use it."
 ---
 
 ## Coconut
+
+**Coconut oil is not a "superfood": about 87% of it is saturated fat, and in a meta-analysis of 16 trials it raised LDL cholesterol by about 10 mg/dL compared with non-tropical vegetable oils. Coconut meat, by contrast, is rich in fibre, and coconut water is a low-calorie drink with potassium.** Use coconut oil for flavour, not as your everyday cooking oil.
 
 The coconut (*Cocos nucifera*; in Hebrew "קוקוס") is the nut-like fruit of the tropical palm tree, and the products made from it differ from one another so much that there is no point discussing them together. **Coconut meat** is rich in fiber and fat; **coconut oil** is pure fat with almost no other components; **coconut milk** is an emulsion of coconut meat in water; and **coconut water** is a thin, almost fat-free liquid. This article covers each of them separately.
 
 The common denominator — and the source of the controversy — is the fat composition. Coconut contains one of the highest concentrations of saturated fat of any food: about 90% of coconut fat is saturated, more than butter (about 63%) and beef fat (about 50%).
 
-### Lauric acid and the MCT myth
+### Nutrition facts
 
-This is the topic around which almost all coconut marketing is built, and it is worth getting it right.
-
-About 47% of coconut fat is **lauric acid** (C12). By chemical definition it counts as a medium-chain fatty acid (MCT), and that is where the marketing leap comes from: MCT fats are indeed absorbed directly through the portal vein to the liver, used quickly for energy and stored less as fat.
-
-The problem is that lauric acid **does not behave like a classic MCT**. Absorption studies show that about 70-75% of it is absorbed the usual way long-chain fats are — packaged into chylomicrons and transported via the lymphatic system — and not through the shortcut to the liver. The MCT supplements studied for quick energy and ketosis are based on C8 (caprylic) and C10 (capric), which together make up only about 13% of coconut oil.
-
-The practical conclusion: coconut oil is not MCT oil, and the benefits attributed to MCT do not automatically carry over to it.
-
-### Health benefits
-
-* **Dietary fiber in coconut meat:** this is the clearest benefit. 100 grams of fresh coconut meat provide about 9 grams of fiber — a very high amount, mostly insoluble. It contributes to stool bulk, bowel movement and satiety. Coconut flour is also especially rich in fiber.
-
-* **Effect on HDL:** unlike other saturated fats, lauric acid considerably raises HDL ("good cholesterol") as well, not just LDL. As a result, the ratio of total cholesterol to HDL — a risk measure considered more informative than LDL alone — suffers less than might be expected. It is important to note that LDL still rises, and this is the consistent finding in research.
-
-* **Antimicrobial activity in the lab:** monolaurin, a derivative of lauric acid, shows activity against bacteria, fungi and enveloped viruses under lab conditions. Be careful about sweeping conclusions: *in vitro* results do not automatically translate into a clinical effect in the human body, and the evidence for this in humans is thin.
-
-* **Stability at high heat:** the high saturation is exactly what makes coconut oil oxidatively stable. It resists oxidation at cooking temperatures and does not easily produce harmful oxidation products, which makes it a reasonable oil for high-heat frying — a technical advantage, not a nutritional one.
-
-* **[Minerals](/en/food/supplements/manganese/) in coconut meat:** coconut meat is rich in manganese — 100 grams provide more than 70% of the recommended daily intake — as well as [copper](/en/food/supplements/copper/), [iron](/en/food/iron/) and [magnesium](/en/food/supplements/magnesium/).
-
-* **Coconut water as a rehydration drink:** coconut water is low in calories (about 19 per 100 ml) and rich in [potassium](/en/food/supplements/potassium/) — about 250 mg per 100 ml, more than a [banana](/en/food/banana/) per unit of volume. It is relatively low in [sodium](/en/food/supplements/sodium/), so it suits light to moderate activity but less so prolonged exertion, where sodium loss in sweat is significant.
-
-### Downsides and health considerations
-
-* **Coconut oil raises LDL — this is the central finding:** meta-analyses of controlled trials have consistently found that coconut oil significantly raises LDL compared with unsaturated vegetable oils such as [olive oil](/en/food/olive-oil/) or canola. The American Heart Association (AHA) has published an explicit recommendation not to use coconut oil as the main oil in the diet. The marketing claim that coconut oil is a "superfood" is not supported by clinical evidence.
-
-* **Extreme calorie density:** coconut oil provides about 120 calories per tablespoon — like any oil. Dried coconut meat provides about 660 calories per 100 grams, and full-fat coconut milk about 230 calories per 100 ml. These are products that are very easy to overdo.
-
-* **Sweetened desiccated coconut:** most coconut flakes marketed for baking contain considerable added sugar. Distinguish them from natural dried coconut.
-
-* **Allergy:** coconut allergy is relatively rare, but it exists. Some regulatory authorities (including the FDA) classify coconut as a tree nut for labeling purposes, although botanically it is a drupe; most people with tree nut allergies tolerate it well, but consult a professional.
-
-### Nutrition facts (per 100 g / ml)
+Per 100 g or 100 ml, depending on the product. A tablespoon of coconut oil is about 14 g, about 120 calories.
 
 | Product | Calories | Fat | Of which saturated | Fiber | Sugar |
 |---|---|---|---|---|---|
@@ -54,6 +26,40 @@ The practical conclusion: coconut oil is not MCT oil, and the benefits attribute
 | Full-fat coconut milk (canned) | 230 | 24 g | 21 g | 2 g | 3 g |
 | Coconut water | 19 | 0.2 g | 0.2 g | 1 g | 2.6 g |
 
+### Lauric acid and the MCT myth
+
+This is the topic around which almost all coconut marketing is built, and it is worth getting it right.
+
+About 47% of coconut fat is **lauric acid** (C12). By chemical definition it counts as a medium-chain fatty acid (MCT), and that is where the marketing leap comes from: MCT fats are indeed absorbed directly through the portal vein to the liver, used quickly for energy and stored less as fat.
+
+The problem is that lauric acid **does not behave like a classic MCT**. Most of it is absorbed the usual way long-chain fats are — packaged into chylomicrons and transported via the lymphatic system — and not through the shortcut to the liver. The MCT supplements studied for quick energy and ketosis are based on C8 (caprylic) and C10 (capric), which together make up only about 13% of coconut oil.
+
+The practical conclusion: coconut oil is not MCT oil, and the benefits attributed to MCT do not automatically carry over to it.
+
+### Benefits
+
+* **Dietary fiber in coconut meat:** this is the clearest benefit. 100 grams of fresh coconut meat provide about 9 grams of fiber — a very high amount, mostly insoluble. It contributes to stool bulk, bowel movement and satiety. Coconut flour is also especially rich in fiber.
+
+* **Effect on HDL:** unlike other saturated fats, lauric acid considerably raises HDL ("good cholesterol") as well, not just LDL. In a meta-analysis of controlled trials, coconut oil raised HDL by about 4 mg/dL compared with vegetable oils. [Neelakantan et al., 2020](https://pubmed.ncbi.nlm.nih.gov/31928080/). It is important to note that LDL rises more, and this is the consistent finding in research. There is no evidence that a diet-driven rise in HDL reduces heart disease.
+
+* **Antimicrobial activity in the lab:** monolaurin, a derivative of lauric acid, shows activity against bacteria, fungi and enveloped viruses under lab conditions. Be careful about sweeping conclusions: *in vitro* results do not automatically translate into a clinical effect in the human body, and the evidence for this in humans is thin.
+
+* **Stability at high heat:** the high saturation is exactly what makes coconut oil oxidatively stable. It resists oxidation at cooking temperatures and does not easily produce harmful oxidation products, which makes it a reasonable oil for high-heat frying — a technical advantage, not a nutritional one.
+
+* **Minerals in coconut meat:** coconut meat is rich in [manganese](/en/food/supplements/manganese/) — 100 grams provide more than 70% of the recommended daily intake — as well as [copper](/en/food/supplements/copper/), [iron](/en/food/iron/) and [magnesium](/en/food/supplements/magnesium/).
+
+* **Coconut water as a rehydration drink:** coconut water is low in calories (about 19 per 100 ml) and rich in [potassium](/en/food/supplements/potassium/) — about 250 mg per 100 ml, more than a [banana](/en/food/banana/) per unit of volume. It is relatively low in [sodium](/en/food/supplements/sodium/), so it suits light to moderate activity but less so prolonged exertion, where sodium loss in sweat is significant.
+
+### Downsides
+
+* **Coconut oil raises LDL — this is the central finding:** a meta-analysis of 16 controlled trials found that coconut oil raised LDL by about 10.5 mg/dL compared with non-tropical vegetable oils such as [olive oil](/en/food/olive-oil/) or canola, and did not improve blood sugar, inflammation or weight. [Neelakantan et al., 2020](https://pubmed.ncbi.nlm.nih.gov/31928080/). The American Heart Association recommends replacing saturated fat with unsaturated fat, and in that advisory it explicitly advises against using coconut oil. [Sacks et al., 2017](https://pubmed.ncbi.nlm.nih.gov/28620111/). The marketing claim that coconut oil is a "superfood" is not supported by clinical evidence.
+
+* **Extreme calorie density:** coconut oil provides about 120 calories per tablespoon — like any oil. Dried coconut meat provides about 660 calories per 100 grams, and full-fat coconut milk about 230 calories per 100 ml. These are products that are very easy to overdo.
+
+* **Sweetened desiccated coconut:** most coconut flakes marketed for baking contain considerable added sugar. Distinguish them from natural dried coconut.
+
+* **Allergy:** coconut allergy is relatively rare, but it exists. Some regulatory authorities (including the FDA in the past) classified coconut as a tree nut for labeling purposes, although botanically it is a drupe; most people with tree nut allergies tolerate it well, but consult a professional.
+
 ### Practical use
 
 The balanced approach is to treat coconut oil as a **fatty seasoning** rather than a base oil. There are dishes — Thai curry, certain pastries, Asian stir-fries — where its aroma is essential and has no substitute. In those cases using it is entirely justified. What is not justified is replacing [olive oil](/en/food/olive-oil/) with it as your everyday oil, or taking it by the spoonful as a health supplement.
@@ -61,6 +67,10 @@ The balanced approach is to treat coconut oil as a **fatty seasoning** rather th
 Coconut meat and coconut flour are in a different category: thanks to their high fiber content they are a perfectly reasonable addition to the diet, in moderate amounts.
 
 With coconut milk, distinguish between the full-fat canned version (high in fat, for cooked dishes) and "coconut drink" in a carton — a highly diluted product that is mostly water and often contains added sugar and stabilizers.
+
+**See also:** [Avocado](/en/food/avocado/)
+
+**Compare:** [A Scientific Comparison: Olive, Coconut and Avocado Oil](/en/compare/olive-coconut-avocado-oil/)
 
 ### Summary
 

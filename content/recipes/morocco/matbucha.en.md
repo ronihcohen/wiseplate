@@ -1,6 +1,6 @@
 ---
 title: "Matbucha"
-seo_title: "Matbucha: An Authentic Moroccan Recipe for Cooked Tomato and Pepper Salad — Calories"
+seo_title: "Matbucha Recipe: Moroccan Cooked Tomato and Pepper Salad"
 date: 2026-08-24T03:10:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/morocco/matbucha.webp"
@@ -33,7 +33,7 @@ Nutrition gets an unintended bonus here: the lycopene in [tomatoes](/en/food/tom
 
 ### Ingredients (for 8 servings)
 
-* 1 kg very ripe [tomatoes](/en/food/tomato/), peeled and chopped (or grated)
+* 1 kg very ripe tomatoes, peeled and chopped (or grated)
 * 700 grams [red peppers](/en/food/red-pepper/), weighed before roasting and peeling
 * 5-6 cloves [garlic](/en/food/garlic/), sliced
 * 80 ml [olive oil](/en/food/olive-oil/)
@@ -69,7 +69,7 @@ The recommended serving is a small bowl of about 100 grams — about one-eighth 
 
 Here lies the most common calorie mistake around this dish. Matbucha is seen as a "salad," and salad is seen as something you don't count. In practice **about two-thirds of its calories come from the olive oil**: 80 ml of oil is about 640 calories divided among eight servings. The vegetables themselves, before touching the oil, are only about 45 calories per serving.
 
-That doesn't mean the oil is unnecessary — the fat profile of [olive oil](/en/food/olive-oil/) is what the Mediterranean diet rests on, and it is also what enables lycopene absorption. But three spoonfuls of matbucha with a slice of bread are a small meal, not a garnish.
+That doesn't mean the oil is unnecessary — the fat profile of olive oil is what the Mediterranean diet rests on, and it is also what enables lycopene absorption. But three spoonfuls of matbucha with a slice of bread are a small meal, not a garnish.
 
 ### Variations and tips
 
@@ -88,7 +88,7 @@ Matbucha is two spoonfuls of technique: roast the peppers, and give the pot an u
 Answer: A 100-gram small bowl is about 130 calories, of which about 80 come from the olive oil. In the version with 50 ml of oil instead of 80, the serving drops to about 100 calories. The vegetables themselves contribute only about 45 calories per serving.
 
 **Question: What is the difference between matbucha and zaalouk?**
-Answer: The main vegetable. Matbucha is built on [red peppers](/en/food/red-pepper/) and tomatoes, and [zaalouk](/en/recipes/morocco/zaalouk/) on [eggplant](/en/food/eggplant/) and tomatoes. Both cook long in olive oil and are served cold at the same salad table, but the flavor is completely different — matbucha is sweet and spicy, zaalouk smoky and soft.
+Answer: The main vegetable. Matbucha is built on red peppers and tomatoes, and zaalouk on [eggplant](/en/food/eggplant/) and tomatoes. Both cook long in olive oil and are served cold at the same salad table, but the flavor is completely different — matbucha is sweet and spicy, zaalouk smoky and soft.
 
 **Question: Why do you have to peel the peppers and the tomatoes?**
 Answer: The skins of both don't soften in long cooking but roll up into tough, translucent threads in the dish. With the pepper, peeling also comes together with roasting, which is the source of the smoky sweetness — which is why it is the most important step in the recipe.

@@ -17,7 +17,7 @@ calories: 580
 
 ## Pkaila
 
-Pkaila is a signature stew of Tunisian Jews: [spinach](/en/food/spinach/) cooked until it loses its water and fried in oil until very dark, then simmered with white beans and beef. The color is almost black, but the flavor isn't burnt; it is deep, green and slightly sweet.
+Pkaila is a signature stew of Tunisian Jews: [spinach](/en/food/spinach/) cooked until it loses its water and fried in oil until very dark, then simmered with white beans and [beef](/en/food/red-meat/). The color is almost black, but the flavor isn't burnt; it is deep, green and slightly sweet.
 
 **Prep time:** 35 minutes · **Cooking time:** 3.5 hours · **Yield:** 8 servings · **Difficulty:** Medium
 
@@ -44,8 +44,8 @@ Frozen spinach without sauce is a good, easy-to-find substitute; squeeze it unti
 
 1. **Dry the spinach.** Steam the spinach in a wide pot without oil until the liquid evaporates, 20–30 minutes, and let cool slightly.
 2. **Make the pkaila base.** Add 140 ml of the oil and fry over medium-low heat 45–60 minutes, stirring, until the spinach is very dark and crumbly. Don't let it smoke.
-3. **Sear the meat.** In a heavy pot heat the remaining oil, brown the beef cubes and remove. Fry the onion and garlic.
-4. **Bloom the spices.** Add the tomato paste, harissa and spices and fry a minute. Return the meat and add the beans, spinach base and water.
+3. **Sear the meat.** In a heavy pot heat the remaining oil, brown the beef cubes and remove. Fry the [onion](/en/food/onion/) and garlic.
+4. **Bloom the spices.** Add the [tomato](/en/food/tomato/) paste, harissa and spices and fry a minute. Return the meat and add the beans, spinach base and water.
 5. **Cook slowly.** Bring to a boil, partially cover and cook 2.5–3 hours at a low simmer, until the beans and meat are tender. Add hot water as needed.
 6. **Adjust and serve.** Salt only when the beans are almost tender, then cook another 15 minutes. The beef should reach 71°C (160°F) and be completely tender.
 
@@ -59,7 +59,7 @@ Frozen spinach without sauce is a good, easy-to-find substitute; squeeze it unti
 | Fat | About 31 g |
 | Fiber | About 10 g |
 
-All 180 ml of olive oil stays in the stew and was counted. A leaner cut of beef can save about 40 calories per serving.
+All 180 ml of [olive oil](/en/food/olive-oil/) stays in the stew and was counted. A leaner cut of beef can save about 40 calories per serving.
 
 ### Variations and tips
 

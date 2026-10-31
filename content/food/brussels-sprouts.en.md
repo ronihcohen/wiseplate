@@ -1,6 +1,6 @@
 ---
 title: "Brussels Sprouts"
-seo_title: "Brussels Sprouts: Nutrition Facts, and Why They Aren't Bitter Like They Used to Be"
+seo_title: "Brussels Sprouts: Nutrition Facts and Why They're Less Bitter"
 date: 2025-12-22T11:00:00+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
@@ -44,8 +44,8 @@ Anyone who grew up in the 1970s and 80s remembers bitter, sulfurous Brussels spr
 
 ### Benefits
 
-* **An exceptional amount of [vitamin K](/en/food/supplements/vitamin-k/):** 148% of daily intake per 100 grams — blood clotting, and above all directing [calcium](/en/food/supplements/calcium/) to bone rather than to blood vessel walls.
-* **[Vitamin C](/en/food/supplements/vitamin-c/):** 94% of daily intake — more than an [orange](/en/food/orange/) per 100 grams.
+* **An exceptional amount of vitamin K:** 148% of daily intake per 100 grams — blood clotting, and above all directing [calcium](/en/food/supplements/calcium/) to bone rather than to blood vessel walls.
+* **Vitamin C:** 94% of daily intake — more than an [orange](/en/food/orange/) per 100 grams.
 * **High protein for a vegetable:** 3.4 grams per 100 grams, three times as much as [zucchini](/en/food/zucchini/).
 * **Fiber:** 3.8 grams per 100 grams, a mix of soluble and insoluble.
 * **Glucosinolates and isothiocyanates.** As in [broccoli](/en/food/broccoli/), the enzyme **myrosinase** turns them into active compounds when the cell breaks — when cut or chewed. The enzyme is deactivated by heat above 60-70°C, so **cutting and waiting 30-40 minutes before cooking** preserves a large part of the reaction. The compounds are being studied in the context of detoxification and inflammation pathways; the evidence in humans is still early.
@@ -54,11 +54,11 @@ Anyone who grew up in the 1970s and 80s remembers bitter, sulfurous Brussels spr
 
 ### Downsides and considerations
 
-* **[Vitamin K](/en/food/supplements/vitamin-k/) and anticoagulants.** 148% of daily intake per 100 grams is one of the highest amounts in food. **People on Coumadin don't need to avoid them — they need steady, consistent intake** to which the drug dose is calibrated.
+* **Vitamin K and anticoagulants.** 148% of daily intake per 100 grams is one of the highest amounts in food. **People on Coumadin don't need to avoid them — they need steady, consistent intake** to which the drug dose is calibrated.
 * **Gas and bloating.** Raffinose and fructans, which are not digested in the small intestine and are fermented in the colon. Cooking well, cutting in half and increasing the amount gradually reduce the effect.
 * **FODMAP.** A serving of up to about 38 grams (2-3 sprouts) is considered low-FODMAP; beyond that it may trigger symptoms in sensitive people.
 * **Goitrogens and the thyroid.** As with other cruciferous vegetables — the effect is practical only with a combination of existing [iodine](/en/food/supplements/iodine/) deficiency and very large intake of the raw vegetable. Cooking reduces it.
-* **Boiling ruins them.** Both the flavor and the [vitamin C](/en/food/supplements/vitamin-c/), which is water-soluble.
+* **Boiling ruins them.** Both the flavor and the vitamin C, which is water-soluble.
 * **Old varieties or sprouts that are too large** are still more bitter. Small sprouts (2-4 cm) are much sweeter than large ones.
 * **A note on accuracy — not alpha-lipoic acid.** Brussels sprouts contain **alpha-linolenic acid (ALA)**, a plant [omega-3](/en/food/supplements/omega-3/), in a small amount. It is sometimes confused with **alpha-lipoic acid** — an entirely different antioxidant, whose name starts similarly and whose abbreviation is identical. The amount of alpha-lipoic acid in Brussels sprouts is negligible, and claims about improved [insulin](/en/food/supplements/insulin/) sensitivity are attributed to it, not to the vegetable.
 
@@ -69,7 +69,7 @@ Anyone who grew up in the 1970s and 80s remembers bitter, sulfurous Brussels spr
 * **Choose small, firm ones.** 2-4 cm, bright green, with no yellow leaves. Large = more bitter.
 * **Remove only the damaged outer leaves**, and trim a little from the base — no more, or the sprout falls apart.
 * **Combine with acid, fat or sweetness:** lemon, balsamic vinegar, roasted almonds, [honey](/en/food/honey/) or Parmesan — all of these balance any remaining bitterness in the caramelization.
-* **Raw in a salad.** Very thinly sliced sprouts (on a grater) with [lemon](/en/food/lemon/), olive oil and Parmesan — keep the full [vitamin C](/en/food/supplements/vitamin-c/), and the texture is a pleasant surprise.
+* **Raw in a salad.** Very thinly sliced sprouts (on a grater) with [lemon](/en/food/lemon/), olive oil and Parmesan — keep the full vitamin C, and the texture is a pleasant surprise.
 * **Frozen works** for stews, but not for roasting — it releases too much water and doesn't brown.
 * **For FODMAP-sensitive people:** start with 2-3 sprouts and increase gradually.
 

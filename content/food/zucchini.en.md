@@ -1,6 +1,6 @@
 ---
 title: "Zucchini"
-seo_title: "Zucchini: Nutrition Facts, Bitter Zucchini and Cucurbitacins — What You Need to Know"
+seo_title: "Zucchini: Nutrition Facts and Bitter Zucchini (Cucurbitacins)"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""

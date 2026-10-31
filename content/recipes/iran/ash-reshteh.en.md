@@ -1,6 +1,6 @@
 ---
 title: "Ash Reshteh"
-seo_title: "Ash Reshteh: A Persian Noodle and Legume Soup Recipe — Calories per Serving"
+seo_title: "Ash Reshteh Recipe: Persian Noodle and Bean Soup"
 date: 2026-08-24T00:50:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/iran/ash-reshteh.webp"

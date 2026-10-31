@@ -36,6 +36,42 @@
       {{ end }}
     </p>
 
+    {{/* The photo was only in the schema and og:image, so recipe pages showed
+         no dish at all while every competing recipe result leads with one. */}}
+    {{- with .Params.featured_image }}
+    {{- $file := path.Join "static" . }}
+    {{- if fileExists $file }}
+    {{- $img := imageConfig $file }}
+    <figure class="article-hero">
+      <img src="{{ . | relURL }}" alt="{{ $.Title }}" width="{{ $img.Width }}" height="{{ $img.Height }}" fetchpriority="high" decoding="async">
+    </figure>
+    {{- end }}
+    {{- end }}
+
+    {{- if .Params.recipe_yield }}
+    {{- $ingId := "" }}
+    {{- with findRESubmatch `<h[23] id="([^"]+)">\s*(?:מרכיבים|Ingredients)` .Content 1 }}{{ $ingId = index (index . 0) 1 }}{{ end }}
+    <dl class="recipe-facts">
+      {{/* Times are ISO 8601 durations in front matter (PT1H15M) because the
+           Recipe schema needs them that way; spell them out for people. */}}
+      {{- range slice (slice "prep_time" "recipePrep") (slice "cook_time" "recipeCook") (slice "total_time" "recipeTotal") }}
+      {{- $label := index . 1 }}
+      {{- with index $.Params (index . 0) }}
+      {{- $h := replaceRE `^PT(?:(\d+)H)?(?:(\d+)M)?$` "$1" . }}
+      {{- $m := replaceRE `^PT(?:(\d+)H)?(?:(\d+)M)?$` "$2" . }}
+      <div><dt>{{ T $label }}</dt><dd>{{ with $h }}{{ T "durHours" . }}{{ end }}{{ if and $h $m }} {{ end }}{{ with $m }}{{ T "durMinutes" . }}{{ end }}</dd></div>
+      {{- end }}
+      {{- end }}
+      <div><dt>{{ T "recipeYield" }}</dt><dd>{{ .Params.recipe_yield }}</dd></div>
+      {{- with .Params.calories }}
+      <div><dt>{{ T "recipeCaloriesLabel" }}</dt><dd>{{ . }}</dd></div>
+      {{- end }}
+    </dl>
+    {{- with $ingId }}
+    <a class="recipe-jump" href="#{{ . }}">{{ T "jumpToRecipe" }}</a>
+    {{- end }}
+    {{- end }}
+
   </div>
 </div>
 

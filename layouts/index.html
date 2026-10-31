@@ -128,7 +128,8 @@
       <h2 class="section-title">מאמרים אחרונים</h2>
     </div>
     <div class="article-grid">
-      {{ range first 6 .Site.RegularPages }}
+      {{/* Root-level pages (About, editorial policy) are not articles. */}}
+      {{ range first 6 (where .Site.RegularPages "Section" "ne" "") }}
         {{ partial "article-card.html" . }}
       {{ end }}
     </div>

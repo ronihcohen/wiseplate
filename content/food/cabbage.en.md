@@ -1,10 +1,10 @@
 ---
 title: "Cabbage"
-seo_title: "Cabbage: Nutrition Facts, Vitamin K, and When Sauerkraut Really Contains Probiotics"
+seo_title: "Cabbage: Nutrition Facts, Vitamin K and Probiotic Sauerkraut"
 date: 2025-12-22T11:00:00+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
-description: "Cabbage: full nutrition facts, why it's the cheapest source of vitamin K in the supermarket, the difference between white and red cabbage, and when sauerkraut contains live bacteria and when it doesn't."
+description: "Cabbage: nutrition facts, a cheap source of vitamin K, white vs. red cabbage, and when sauerkraut really contains live bacteria."
 ---
 
 ## Cabbage (*Brassica oleracea* var. *capitata*)
@@ -31,7 +31,7 @@ And this page also answers a question many people get wrong: **when sauerkraut r
 | [Potassium](/en/food/supplements/potassium/) | 170 mg (4%) | 243 mg (5%) |
 | Anthocyanins | — | ✔ |
 
-**White or red?** Red cabbage provides almost twice as much [vitamin C](/en/food/supplements/vitamin-c/), plus anthocyanins — the purple pigments that are also antioxidants. White cabbage provides twice as much [vitamin K](/en/food/supplements/vitamin-k/) and more [folate](/en/food/supplements/vitamin-b9/). Both are good; for variety, eat both.
+**White or red?** Red cabbage provides almost twice as much vitamin C, plus anthocyanins — the purple pigments that are also antioxidants. White cabbage provides twice as much vitamin K and more [folate](/en/food/supplements/vitamin-b9/). Both are good; for variety, eat both.
 
 ### Sauerkraut — when it contains live bacteria
 
@@ -45,12 +45,12 @@ How to recognize the real thing:
 * It often says "unpasteurized" or "live cultures."
 * The lid may be slightly bulging — a sign that fermentation is continuing.
 
-Historically, sauerkraut was the reason sailors stopped getting scurvy on long voyages: lactic acid preserves the [vitamin C](/en/food/supplements/vitamin-c/) that in most vegetables would be destroyed in storage.
+Historically, sauerkraut was the reason sailors stopped getting scurvy on long voyages: lactic acid preserves the vitamin C that in most vegetables would be destroyed in storage.
 
 ### Benefits
 
-* **A large amount of [vitamin K](/en/food/supplements/vitamin-k/):** 76 mcg per 100 grams in white cabbage — 63% of daily intake, needed for blood clotting and for directing [calcium](/en/food/supplements/calcium/) to bone rather than to blood vessels.
-* **[Vitamin C](/en/food/supplements/vitamin-c/):** 41% in white and 63% in red — more than an [orange](/en/food/orange/) per 100 grams, at half the calories.
+* **A large amount of vitamin K:** 76 mcg per 100 grams in white cabbage — 63% of daily intake, needed for blood clotting and for directing [calcium](/en/food/supplements/calcium/) to bone rather than to blood vessels.
+* **Vitamin C:** 41% in white and 63% in red — more than an [orange](/en/food/orange/) per 100 grams, at half the calories.
 * **Glucosinolates:** Sulfur compounds from the cruciferous family (in cabbage mainly sinigrin and glucobrassicin), studied in the context of detoxification enzymes and inflammation pathways. The evidence in humans is early.
 * **Fiber:** 2.5 grams per 100 grams with an energy density of just 25 calories.
 * **Fermentation:** In the unpasteurized version — live lactic acid bacteria and fermentation products, along with a reduction in some gas-causing compounds.
@@ -61,7 +61,7 @@ Historically, sauerkraut was the reason sailors stopped getting scurvy on long v
 
 * **Gas and bloating.** Cabbage contains raffinose and fructans that are not broken down in the small intestine and are fermented in the colon. This is the most common complaint about it. Cooking, fermenting or slicing thinly reduces it; increasing the amount gradually also helps.
 * **FODMAP.** White cabbage is considered low-FODMAP in a serving of about 75 grams, and in larger amounts may trigger symptoms. Red cabbage is tolerated in a similar amount.
-* **[Vitamin K](/en/food/supplements/vitamin-k/) and anticoagulants.** 63% of daily intake per 100 grams is a significant amount. People on Coumadin **don't need to avoid** cabbage — they need steady, consistent intake, so the drug dose can be calibrated to it. Sharp fluctuations are the problem.
+* **Vitamin K and anticoagulants.** 63% of daily intake per 100 grams is a significant amount. People on Coumadin **don't need to avoid** cabbage — they need steady, consistent intake, so the drug dose can be calibrated to it. Sharp fluctuations are the problem.
 * **Goitrogens and the thyroid.** As with other cruciferous vegetables — the effect is practical only with a combination of existing [iodine](/en/food/supplements/iodine/) deficiency and very large intake of the raw vegetable. Cooking reduces it.
 * **[Sodium](/en/food/supplements/sodium/) in sauerkraut.** Sauerkraut reaches 600-800 mg of sodium per 100 grams — almost a third of the daily recommendation. An excellent condiment, not a serving.
 * **Loss of vitamin C when boiled.** Vitamin C is water-soluble and heat-sensitive; prolonged boiling draws much of it into the water.
@@ -69,11 +69,11 @@ Historically, sauerkraut was the reason sailors stopped getting scurvy on long v
 
 ### Practical use
 
-* **Eat some of it raw.** A thinly sliced cabbage salad with [lemon](/en/food/lemon/) and [olive oil](/en/food/olive-oil/) keeps all the [vitamin C](/en/food/supplements/vitamin-c/), and also provides the glucosinolates in their active state.
+* **Eat some of it raw.** A thinly sliced cabbage salad with [lemon](/en/food/lemon/) and [olive oil](/en/food/olive-oil/) keeps all the vitamin C, and also provides the glucosinolates in their active state.
 * **Don't boil it for long.** Steam or stir-fry quickly for 4-5 minutes. If you do boil it — keep the water for soup.
 * **Slice thinly.** The thinner the slicing, the softer the cabbage, the better it is digested and the less gas it causes.
 * **Buy sauerkraut from the refrigerator**, with an ingredient list of cabbage and salt only — as detailed above.
-* **Combine with fat:** [Vitamin K](/en/food/supplements/vitamin-k/) is fat-soluble; a tablespoon of olive oil or [tahini](/en/food/tahini/) in the cabbage salad is not a garnish but a condition for absorption.
+* **Combine with fat:** Vitamin K is fat-soluble; a tablespoon of olive oil or [tahini](/en/food/tahini/) in the cabbage salad is not a garnish but a condition for absorption.
 * **Red stays red with acid.** Anthocyanins change color according to pH — a little [lemon](/en/food/lemon/) or vinegar in the salad or the cooking will keep the purple hue instead of turning bluish-gray.
 * **Store it whole.** A whole head of cabbage keeps in the fridge for 3-4 weeks. After cutting — about a week, in an airtight container.
 

@@ -17,7 +17,7 @@ calories: 465
 
 ## Lobio
 
-In Georgian, *lobio* (in Hebrew "לוביו") means beans, and the name covers many versions. This is a thick version of partly mashed red beans with onion, walnuts, cilantro and fenugreek — a vegan meal you can serve hot or at room temperature.
+In Georgian, *lobio* (in Hebrew "לוביו") means beans, and the name covers many versions. This is a thick version of partly mashed red beans with [onion](/en/food/onion/), [walnuts](/en/food/walnuts/), cilantro and fenugreek — a vegan meal you can serve hot or at room temperature.
 
 **Prep time:** 20 minutes · **Soaking:** overnight · **Cooking:** 90 minutes · **Yield:** 6 servings · **Difficulty:** easy
 
@@ -45,7 +45,7 @@ You can use about 1.2 kg of drained canned beans and cook them for 25 minutes wi
 
 1. **Cook the beans.** Drain the soaking water, cover with fresh water and bring to a boil. Simmer gently for 60–90 minutes, until the beans are completely soft. Reserve two cups of the cooking water.
 2. **Fry the onion.** Heat the oil in a pot, add the onion and a pinch of salt and fry for 10–12 minutes until golden.
-3. **Bloom the spices.** Add the garlic, ground coriander, fenugreek and chili and stir for half a minute.
+3. **Bloom the spices.** Add the [garlic](/en/food/garlic/), ground coriander, fenugreek and chili and stir for half a minute.
 4. **Combine.** Add the beans, walnuts and one cup of the cooking water. Mash about a quarter to a third of the beans and cook for 15 minutes. Add liquid as needed.
 5. **Balance.** Turn off the heat, add the cilantro and vinegar, adjust the salt and let the pot stand for 15 minutes before serving.
 

@@ -17,7 +17,7 @@ calories: 570
 
 ## Tunisian Mloukhia
 
-Tunisian mloukhia is different from the Middle Eastern soup of chopped leaves: it uses powder made from dried mloukhia (jute mallow) leaves, mixed with oil and cooked for hours with beef until it becomes a dark green, smooth, thick sauce. The flavor is herbal and deep, and the dish is eaten with bread.
+Tunisian mloukhia is different from the Middle Eastern soup of chopped leaves: it uses powder made from dried mloukhia (jute mallow) leaves, mixed with oil and cooked for hours with [beef](/en/food/red-meat/) until it becomes a dark green, smooth, thick sauce. The flavor is herbal and deep, and the dish is eaten with bread.
 
 **Prep time:** 25 minutes · **Cooking time:** about 5 hours · **Yield:** 8 servings · **Difficulty:** Medium
 
@@ -28,7 +28,7 @@ Powder poured straight into water forms lumps. Stir it into cold oil to make a s
 ### Ingredients (for 8 servings)
 
 * 150 g finely ground mloukhia powder
-* 200 ml olive oil
+* 200 ml [olive oil](/en/food/olive-oil/)
 * 1 kg beef for long cooking, cubed, from Israeli cut 5 or 8 (chuck/shoulder)
 * 1 large onion, chopped, and 8 garlic cloves, crushed
 * 1 tablespoon tomato paste
@@ -45,7 +45,7 @@ Look in a spice shop for "Tunisian mloukhia powder" that is green and smells fre
 1. **Make a paste.** In a heavy, cold pot, whisk the mloukhia powder with 160 ml of the oil until there are no lumps.
 2. **Loosen with water.** Add hot water one cup at a time, whisking. Bring to a very gentle simmer; the mixture tends to foam up.
 3. **Cook the base.** Cook uncovered for 2.5 hours on the lowest heat, stirring from the bottom every 20 minutes. Add water if it sticks.
-4. **Season the meat.** Mix the beef with the onion, garlic, tomato paste, remaining oil and spices. Add to the pot and stir.
+4. **Season the meat.** Mix the beef with the [onion](/en/food/onion/), [garlic](/en/food/garlic/), [tomato](/en/food/tomato/) paste, remaining oil and spices. Add to the pot and stir.
 5. **Cook until glossy.** Cook another 2–2.5 hours, until the beef is tender, the sauce is dark and glossy and a thin layer of oil appears on top. The meat should reach at least 71°C (160°F).
 6. **Adjust.** Salt at the end and remove the hot pepper. If the sauce is too thick, add a little boiling water.
 

@@ -17,7 +17,7 @@ calories: 125
 
 ## Bukharian Chopped Salad
 
-In Bukharian restaurants in Israel, a finely chopped salad of tomato, cucumber, onion and herbs is served alongside oshpelo and meat pastries. It is close to Uzbekistan's achichuk salads and to Israeli salad; the addition of cucumber and oil reflects a common local version, not a sharp historical boundary.
+In Bukharian restaurants in Israel, a finely chopped salad of tomato, cucumber, [onion](/en/food/onion/) and herbs is served alongside oshpelo and meat pastries. It is close to Uzbekistan's achichuk salads and to Israeli salad; the addition of cucumber and oil reflects a common local version, not a sharp historical boundary.
 
 **Prep time:** 20 minutes · **Yield:** 6 servings · **Difficulty:** easy
 
@@ -44,7 +44,7 @@ Small Israeli cucumbers stay crunchy. If you want a version closer to achichuk, 
 1. Chop the tomatoes and cucumbers into small, even cubes.
 2. Slice the onion thinly; for a milder bite, rinse it in cold water and dry it.
 3. Chop the herbs with a sharp knife and mix with the vegetables.
-4. Just before serving, add the oil, lemon, salt, pepper and cumin and mix once.
+4. Just before serving, add the oil, [lemon](/en/food/lemon/), salt, pepper and cumin and mix once.
 5. Serve immediately; a salad that has stood releases liquid but is still safe refrigerated for up to a day.
 
 ### Nutrition facts and calorie estimate

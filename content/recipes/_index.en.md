@@ -1,10 +1,10 @@
 ---
 title: "Recipes"
-seo_title: "Recipes by Cuisine: Traditional Recipes With Nutrition Facts and Calories per Serving"
+seo_title: "Recipes by Cuisine, With Calories per Serving"
 date: 2026-08-23T09:00:00+03:00
 lastmod: 2026-09-19T18:00:00+03:00
 featured_image: "/images/recipes/collections/recipes.webp"
-description: "Traditional recipes from the world's cuisines and classic soup recipes, each with a precise ingredient list, method and a calorie estimate for a recommended serving — so you understand what's on your plate."
+description: "Traditional recipes from world cuisines and classic soups, each with a precise ingredient list, method and calories per serving."
 ---
 
 A recipe is, in the end, a nutrition table written in a different language. The exact same dish can range from 250 to 600 calories depending on the amount of oil, the serving size and whether it is fried or baked — and most recipe sites simply don't say so. This section presents recipes from different cuisines using ingredients familiar in Israel, substitutes for less available ingredients, and a nutritional estimate per serving. The substitutes are listed in each recipe, along with the expected change in flavor or texture.
@@ -89,7 +89,7 @@ Answer: No. Many traditional dishes are built around legumes, vegetables, [olive
 Answer: The structure of the meal. In [Turkish cuisine](/en/recipes/turkey/) the center is bread, grilled dishes and starters, and in [Persian cuisine](/en/recipes/iran/) it is rice and stew that cooks for hours. The balance is different too: Persian leans toward sweet-and-sour using dried lime and pomegranate molasses, and Turkish toward rich-and-tangy using yogurt, sumac and lemon.
 
 **Question: Where are the soup recipes?**
-Answer: In the [soups](/en/recipes/soups/) section, which is organized by type of dish rather than origin — chicken soup, vegetable soup, split pea, pumpkin, mushroom, French onion, minestrone, tomato, miso and tom yum. Soups identified with a particular cuisine appear within it, for example [Turkish lentil soup](/en/recipes/turkey/mercimek-corbasi/) and Moroccan [harira](/en/recipes/morocco/harira/).
+Answer: In the [soups](/en/recipes/soups/) section, which is organized by type of dish rather than origin — chicken soup, vegetable soup, split pea, pumpkin, mushroom, French onion, minestrone, tomato, miso and tom yum. Soups identified with a particular cuisine appear within it, for example Turkish lentil soup and Moroccan [harira](/en/recipes/morocco/harira/).
 
 **Question: How is Moroccan cuisine different from the other three cuisines on the site?**
 Answer: In three ways. The base is [couscous](/en/recipes/morocco/couscous/) — rolled semolina — not rice or bread; the sourness comes from salt-preserving (preserved lemon, olives) rather than tamarind or dried lime; and it is the only one of the four that sprinkles sugar and cinnamon over a main course, as in [pastilla](/en/recipes/morocco/pastilla/). Full details in [Moroccan cuisine](/en/recipes/morocco/).

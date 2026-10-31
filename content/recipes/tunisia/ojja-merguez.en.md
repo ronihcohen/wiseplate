@@ -17,7 +17,7 @@ calories: 630
 
 ## Tunisian Ojja Merguez
 
-Ojja is a quick Tunisian skillet of tomatoes, peppers, harissa, merguez and [eggs](/en/food/eggs/). It resembles shakshuka, but its identity here comes from the merguez sausage and the caraway seasoning; the common Tunisian version doesn't need onion.
+Ojja is a quick Tunisian skillet of [tomatoes](/en/food/tomato/), peppers, harissa, merguez and [eggs](/en/food/eggs/). It resembles shakshuka, but its identity here comes from the merguez sausage and the caraway seasoning; the common Tunisian version doesn't need onion.
 
 **Prep time:** 15 minutes · **Cooking time:** 35 minutes · **Yield:** 4 servings · **Difficulty:** Easy
 
@@ -27,8 +27,8 @@ A sausage browns on the outside before it is safe in the center. Slice it only a
 
 ### Ingredients (for 4 servings)
 
-* 500 g kosher beef or lamb merguez sausages
-* 3 tablespoons olive oil
+* 500 g kosher beef or [lamb](/en/food/lamb/) merguez sausages
+* 3 tablespoons [olive oil](/en/food/olive-oil/)
 * 2 sweet green peppers and 1 hot pepper, sliced
 * 5 garlic cloves, chopped
 * 800 g crushed tomatoes
@@ -39,12 +39,12 @@ A sausage browns on the outside before it is safe in the center. Slice it only a
 
 ### Choosing ingredients and substitutes
 
-Kosher merguez is sold at butcher shops and supermarket chains in Israel, but the fat content varies widely; the label is the accurate source for calories. You can use beef meatballs seasoned with harissa and caraway, but then it's no longer merguez sausage.
+Kosher merguez is sold at butcher shops and supermarket chains in Israel, but the fat content varies widely; the label is the accurate source for calories. You can use [beef](/en/food/red-meat/) meatballs seasoned with harissa and caraway, but then it's no longer merguez sausage.
 
 ### Method
 
 1. **Sear the sausages.** Heat 1 tablespoon of oil, brown the whole merguez for 5 minutes and remove. Cool slightly and slice into pieces.
-2. **Fry the peppers.** Add the remaining oil and the peppers and fry 7 minutes. Add the garlic for half a minute.
+2. **Fry the peppers.** Add the remaining oil and the peppers and fry 7 minutes. Add the [garlic](/en/food/garlic/) for half a minute.
 3. **Reduce the sauce.** Add the tomatoes, tomato paste, harissa and spices. Cook uncovered 12–15 minutes, until the sauce is thick.
 4. **Finish the merguez.** Return the slices and cook 6–8 minutes, to 71°C in the center.
 5. **Add the eggs.** Make six wells, crack in the eggs, cover and cook 5–8 minutes. For at-risk groups, cook until the yolk is firm. Serve without dairy to keep it a kosher meat dish.

@@ -1,74 +1,95 @@
 ---
 title: "Carrot"
+seo_title: "Carrots: Nutrition, Beta-Carotene, Vitamin A and Eyesight"
 date: 2026-04-10T08:00:00+02:00
+lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "A nutritional analysis of the carrot: a rich source of beta-carotene, dietary fiber and a wide range of health benefits."
+description: "A medium carrot has about 25 calories and 500 mcg of vitamin A from beta-carotene. Do carrots improve eyesight, why cooked with oil is better, and orange skin."
 ---
 
 ## Carrot
 
-The carrot (*Daucus carota*; in Hebrew "גזר") is one of the most common vegetables in the world, rich in beta-carotene — the plant form of [vitamin A](/en/food/supplements/vitamin-a/) — which gives it its characteristic orange color. The carrot belongs to the Apiaceae (umbellifer) family, grows easily in a variety of conditions and is available year-round, making it one of the most accessible vegetables with the best "value for money" in nutrition.
+**A medium carrot (about 60 g) provides roughly 25 calories, 1.7 g of fiber and about 500 mcg of vitamin A as beta-carotene, more than half the daily requirement. The body converts beta-carotene into vitamin A as needed, so you cannot reach vitamin A toxicity from carrots. Carrots prevent night blindness caused by deficiency, but they do not improve normal eyesight.**
 
-Botanically, the edible part is the root, which stores sugars and carotenoid pigments. There are varieties in different colors — purple, yellow, white and red — each with a slightly different antioxidant profile.
+The carrot (*Daucus carota*, in Hebrew "גזר") is a root vegetable in the parsley family, cheap and available all year. The orange carrot is one of the richest dietary sources of beta-carotene, the pigment that gives it its color. There are also purple varieties (rich in anthocyanins), yellow ones (lutein) and red ones (lycopene).
 
-### Research-based health benefits
+### Nutrition facts
 
-* **Beta-carotene and eye health:** The body converts beta-carotene into [vitamin A](/en/food/supplements/vitamin-a/), which is essential for vision in dim light, for maintaining the retina and for preventing age-related macular degeneration. 100 grams of carrot contain about 835 mcg of vitamin A equivalents — over 90% of the recommended daily intake.
+Per 100 g of raw carrot, and for a medium carrot (about 60 g). Values are rounded.
 
-* **Lutein and zeaxanthin:** Carotenoids that accumulate in the lens of the eye and in the macula, and are known for their ability to filter harmful radiation and reduce the risk of cataracts.
-
-* **Antioxidants and polyphenols:** Also contains chlorogenic and caffeic acid, [polyphenols](/en/food/polyphenols/) linked to reduced chronic inflammation and cardiovascular risk.
-
-* **Dietary fiber:** A medium carrot provides about 2 grams of dietary fiber — contributing to healthy digestion, satiety and balanced blood sugar levels. Its pectin acts as a prebiotic that feeds beneficial gut bacteria.
-
-* **Heart health:** Epidemiological studies link regular carrot consumption with a drop in LDL and an improved cholesterol profile — possibly due to the pectin, potassium and carotenoids working together.
-
-* **[Vitamin K](/en/food/supplements/vitamin-k/) and [potassium](/en/food/supplements/potassium/):** Contribute to bone health, blood pressure regulation and neuromuscular function.
-
-### Downsides and health considerations
-
-* **Carotenemia:** Excessive intake — for example, drinking several glasses of carrot juice a day — may cause yellowing of the skin (carotenemia). The effect is harmless and reverses when intake is reduced, but it is noticeable.
-
-* **Glycemic index when cooked:** In raw carrot the GI is only about 16; after cooking it rises to around 47-49. For people with blood sugar sensitivity — preferably eat it raw or al dente.
-
-* **Beta-carotene absorption:** Carotenoid absorption improves greatly in the presence of fat — combine carrots with [olive oil](/en/food/olive-oil/), [avocado](/en/food/avocado/) or nuts for optimal absorption.
-
-* **Pesticides:** As a root, the carrot accumulates pesticides from soil water. It is advisable to peel non-organic carrots and wash them well.
-
-### Nutrition facts per 100 grams (raw)
-
-| Component | Amount | % daily intake |
+| Nutrient | Per 100 g | Medium carrot (60 g) |
 |---|---|---|
-| Calories | 41 kcal | — |
-| Beta-carotene | 8,285 mcg | >90% as [vitamin A](/en/food/supplements/vitamin-a/) |
-| [Vitamin K](/en/food/supplements/vitamin-k/) | 13 mcg | ~11% |
-| Fiber | 2.8 g | ~10% |
-| [Potassium](/en/food/supplements/potassium/) | 320 mg | ~7% |
+| Calories | 41 | about 25 |
+| Carbohydrate | 9.6 g | about 5.8 g |
+| of which sugar | 4.7 g | about 2.9 g |
+| Dietary fiber | 2.8 g | about 1.7 g |
+| Protein | 0.9 g | about 0.6 g |
+| [Vitamin A](/en/food/supplements/vitamin-a/) (retinol activity equivalents) | about 835 mcg | about 500 mcg |
+| Beta-carotene | about 8,285 mcg | about 5,000 mcg |
+| [Vitamin K](/en/food/supplements/vitamin-k/) | 13 mcg | about 8 mcg |
+| [Potassium](/en/food/supplements/potassium/) | 320 mg | about 190 mg |
 
-### Culinary and practical use
+The recommended intake of vitamin A is 900 mcg retinol activity equivalents for men and 700 for women. [NIH ODS: Vitamin A](https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/).
 
-The carrot is a versatile vegetable that can be eaten in many ways:
+### Benefits
 
-- **Raw:** sliced into salads, as a snack with [hummus](/en/food/chickpeas/) or [tahini](/en/food/tahini/)
-- **Cooked:** in soups, stews and kugel
-- **Roasted:** in the oven with olive oil and herbs — enhances the sweetness
-- **Juice:** concentrated and effective, but it's best to add green vegetables to balance the sugar
-- **Grated:** in healthy rolls, cakes and pancakes
+* **Vitamin A without the risk of excess.** Beta-carotene from food is converted into vitamin A according to need, and the conversion slows when stores are full. That is why high beta-carotene intake from food does not cause vitamin A toxicity, unlike preformed vitamin A (retinol) in supplements or liver. [NIH ODS: Vitamin A](https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/).
 
-### Frequently asked questions
+* **Eyesight: what is true and what is myth.** Vitamin A is essential for the pigment that allows vision in dim light, and deficiency causes night blindness, a common problem in developing countries. Someone who is not deficient will not improve their eyesight by eating more carrots. The story about British pilots seeing in the dark thanks to carrots in World War II was propaganda.
 
-**Question: Should you eat carrots with the peel?**
-Answer: Yes — the peel contains a higher concentration of polyphenols and potassium. If the carrot is organic, it is best eaten with the peel after thorough washing.
+* **Yellow-orange vegetables and the risk of cancer and heart disease.** In a meta-analysis of cohort studies, eating green-yellow and cruciferous vegetables was associated with a lower risk of cancer, and overall fruit and vegetable intake with a lower risk of heart disease and death. [Aune et al., 2017](https://pubmed.ncbi.nlm.nih.gov/28338764/). That is an observational association for a group of vegetables, not for carrots alone.
 
-**Question: Is cooked carrot less healthy than raw?**
-Answer: Not necessarily — cooking slightly reduces [vitamin C](/en/food/supplements/vitamin-c/) but increases the bioavailability of beta-carotene. Both forms are healthy.
+* **Fiber.** Carrots contain pectin and insoluble fiber. Raw carrots take a lot of chewing and provide volume for few calories.
 
-**Question: How many carrots should you eat a day?**
-Answer: 1-2 medium carrots a day is a reasonable and beneficial amount, with no risk of carotenemia.
+* **A cheap, accessible snack.** Whole carrots or carrot sticks are one of the cheapest and most filling snacks per calorie.
 
-**Question: Are carrots suitable for people with diabetes?**
-Answer: Yes — in raw form. The low GI (16) and fiber content make it a good option even for people managing their blood sugar levels.
+### Downsides
+
+* **Beta-carotene supplements are not carrots.** In the CARET trial, smokers, former smokers and asbestos-exposed workers received 30 mg of beta-carotene a day together with vitamin A. Lung cancer risk rose by 28% and overall mortality by 17%, and the trial was stopped early. [Omenn et al., 1996](https://pubmed.ncbi.nlm.nih.gov/8602180/). This concerns high-dose supplements, not food, but it explains why smokers should not take beta-carotene supplements.
+
+* **Carotenemia (orange skin).** Eating large amounts of carrots or carrot juice over time turns the skin yellow-orange, mainly on the palms and soles. It is harmless and fades when you cut back, and differs from jaundice in that the whites of the eyes do not turn yellow. [NIH ODS: Vitamin A](https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/).
+
+* **Allergy.** In some people allergic to birch pollen, raw carrot causes an itchy mouth. Cooked carrot is usually tolerated.
+
+* **Carrot juice.** A glass of carrot juice contains the beta-carotene of several carrots, but also more sugar and less fiber. As an occasional serving it is fine, not as a replacement for the vegetable.
+
+* **Choking hazard.** Sticks and round slices of raw carrot are a choking hazard for toddlers. For young children, grated or soft-cooked carrot is better.
+
+### Practical use
+
+* **Cooked with fat:** beta-carotene is fat-soluble. Cooking softens the cell walls, and combining carrots with [olive oil](/en/food/olive-oil/), [tahini](/en/food/tahini/) or [avocado](/en/food/avocado/) improves absorption.
+* **Raw too:** raw carrots provide more intact fiber and chewing; there is no need to choose, combine both.
+* **Peel:** you can scrub instead of peeling. Some of the polyphenols sit close to the skin.
+* **Storage:** in the fridge, without the tops (they draw moisture from the root), for up to several weeks.
+* **Ideas:** carrot sticks with [hummus](/en/food/chickpeas/), oven-roasted carrots with cumin, grated carrot salad with lemon and oil.
+* **Baby carrots:** the small peeled carrots sold in bags are regular carrots cut and polished; they are nutritionally similar, just more convenient and more expensive.
 
 ### Summary
 
-The carrot is a cheap, accessible vegetable that is very rich in nutrients. Eating it regularly — raw, cooked or as juice — supports the health of the eyes, the heart and the immune system. Combining it with a healthy fat improves carotenoid absorption and increases its nutritional value.
+The carrot is a cheap, accessible source of beta-carotene: one carrot supplies more than half the daily need for vitamin A, without any risk of toxicity. It does not improve normal eyesight, but it prevents deficiency. Eat carrots raw and also cooked with a little fat, and distinguish between carrots and beta-carotene supplements, which are not recommended for smokers.
+
+### Frequently asked questions
+
+**Question: Do carrots improve eyesight?**
+Answer: Only if you are deficient in vitamin A, which causes night blindness. In someone without a deficiency, more carrots will not improve vision.
+
+**Question: Are cooked or raw carrots better?**
+Answer: For beta-carotene absorption, cooked with a little oil is better. Raw gives more chewing and intact fiber. Both forms are good.
+
+**Question: Why has my skin turned orange?**
+Answer: That is carotenemia from large amounts of carrots or carrot juice. It is harmless and fades. If the whites of your eyes are also yellow, see a doctor.
+
+**Question: Can you get too much vitamin A from carrots?**
+Answer: No. The body converts beta-carotene into vitamin A as needed. Toxicity comes from preformed vitamin A in supplements or liver.
+
+**Question: Are carrots suitable for people with diabetes?**
+Answer: Yes. A medium carrot contains only about 3 g of sugar and about 6 g of carbohydrate, and the glycemic load is low even when cooked.
+
+**Question: Is carrot juice healthy?**
+Answer: It is rich in beta-carotene, but concentrates sugar and loses fiber. A glass now and then is fine; whole carrots are better.
+
+**Question: Can smokers eat carrots?**
+Answer: Yes. The risk found in the CARET trial concerned high-dose beta-carotene supplements, not carrots.
+
+**Question: How many carrots can I eat a day?**
+Answer: There is no set limit for a healthy person. One or two carrots a day is a reasonable amount; very large amounts over time will only tint your skin orange.

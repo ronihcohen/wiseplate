@@ -1,10 +1,10 @@
 ---
 title: "Pumpkin"
-seo_title: "Pumpkin: Nutrition Facts, Beta-Carotene and Why You Must Eat It With Fat"
+seo_title: "Pumpkin: Nutrition Facts, Beta-Carotene and Eating It With Fat"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
-description: "Pumpkin: full nutrition facts, why cooking and fat multiply beta-carotene absorption, the difference between canned pumpkin and pie filling, and what it means when your palms turn orange."
+description: "Pumpkin: nutrition facts, why cooking and fat boost beta-carotene absorption, canned pumpkin vs. pie filling, and why palms can turn orange."
 ---
 
 ## Pumpkin (*Cucurbita* spp.)
@@ -44,7 +44,7 @@ The implication: **pumpkin soup with a tablespoon of olive oil or a little cream
 
 ### Benefits
 
-* **A large amount of [vitamin A](/en/food/supplements/vitamin-a/) for 26 calories:** 47% of the daily value per 100 grams, and 86% in the canned version. Essential for vision in low light, for healthy epithelial tissue and for immune function.
+* **A large amount of vitamin A for 26 calories:** 47% of the daily value per 100 grams, and 86% in the canned version. Essential for vision in low light, for healthy epithelial tissue and for immune function.
 * **Beta-carotene with no toxicity risk:** unlike retinol (vitamin A from animal sources or supplements), the body regulates the conversion, so there is no toxicity.
 * **Very low energy density:** 92% water — filling volume for few calories.
 * **[Potassium](/en/food/supplements/potassium/):** 340 mg per 100 grams — more than a [banana](/en/food/banana/) per 100 grams, at a third of the calories.

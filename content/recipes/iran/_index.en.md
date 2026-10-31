@@ -1,6 +1,6 @@
 ---
 title: "Iranian Cuisine"
-seo_title: "Persian Recipes: 10 Classic Iranian Dishes with Calories per Serving"
+seo_title: "Persian Recipes: 10 Classic Iranian Dishes With Calories"
 date: 2026-08-24T00:00:00+03:00
 lastmod: 2026-09-19T15:00:00+03:00
 featured_image: "/images/recipes/collections/iran.webp"
@@ -44,28 +44,28 @@ Dish names show up in several transliterations — ghormeh or khormeh, fesenjan 
 | Pomegranate molasses | Reduced [pomegranate](/en/food/pomegranate/) concentrate, sweet-and-sour, the base of [fesenjan](/en/recipes/iran/fesenjan/) | Be sure to check it has no added sugar |
 | Saffron | The stigmas of the crocus flower; dissolved in hot water, not thrown dry into the pot | [Turmeric](/en/food/turmeric/) for color only — not for flavor |
 | Zereshk (barberries) | Tart red berries, scattered over rice | Chopped dried cranberries, for a sweeter taste, or leave them out |
-| Dried fenugreek leaves (kasuri methi) | An herb with a strong aroma; defines the identity of [ghormeh sabzi](/en/recipes/iran/ghormeh-sabzi/) | No real substitute — better to skip it |
+| Dried fenugreek leaves (kasuri methi) | An herb with a strong aroma; defines the identity of ghormeh sabzi | No real substitute — better to skip it |
 | Kashk | Fermented, dried whey, salty and tart | Thick [yogurt](/en/food/greek-yogurt/) with lemon juice |
 
 ### Where to start
 
-The easiest way in is [mast-o-khiar](/en/recipes/iran/mast-o-khiar/) — a quarter of an hour of work — followed by [mirza ghasemi](/en/recipes/iran/mirza-ghasemi/) and [kuku sabzi](/en/recipes/iran/kuku-sabzi/), both easy and almost impossible to ruin. The stews ([ghormeh sabzi](/en/recipes/iran/ghormeh-sabzi/), [fesenjan](/en/recipes/iran/fesenjan/), [abgoosht](/en/recipes/iran/abgoosht/)) demand time, not skill. The dishes that really require technique are [chelo kabab koobideh](/en/recipes/iran/chelo-kabab-koobideh/), because the meat tends to fall off the skewer, and [tahchin](/en/recipes/iran/tahchin/), because of the flip.
+The easiest way in is mast-o-khiar — a quarter of an hour of work — followed by [mirza ghasemi](/en/recipes/iran/mirza-ghasemi/) and kuku sabzi, both easy and almost impossible to ruin. The stews (ghormeh sabzi, fesenjan, abgoosht) demand time, not skill. The dishes that really require technique are [chelo kabab koobideh](/en/recipes/iran/chelo-kabab-koobideh/), because the meat tends to fall off the skewer, and [tahchin](/en/recipes/iran/tahchin/), because of the flip.
 
-The two neighboring cuisines on the site are organized differently: [Turkish cuisine](/en/recipes/turkey/) around bread and the grill, and [Iraqi cuisine](/en/recipes/iraq/) around the sourness of tamarind and bread that served as a utensil. A nearly identical ingredient crosses all three — the dried lemon that goes into [ghormeh sabzi](/en/recipes/iran/ghormeh-sabzi/) is the same lemon that goes into Iraqi [tashreeb](/en/recipes/iraq/tashreeb/). The fourth on the site, [Moroccan cuisine](/en/recipes/morocco/), is geographically far from all of them and swaps rice for couscous, but uses the same saffron and the same method of a long stew over low heat.
+The two neighboring cuisines on the site are organized differently: [Turkish cuisine](/en/recipes/turkey/) around bread and the grill, and [Iraqi cuisine](/en/recipes/iraq/) around the sourness of tamarind and bread that served as a utensil. A nearly identical ingredient crosses all three — the dried lemon that goes into ghormeh sabzi is the same lemon that goes into Iraqi [tashreeb](/en/recipes/iraq/tashreeb/). The fourth on the site, [Moroccan cuisine](/en/recipes/morocco/), is geographically far from all of them and swaps rice for couscous, but uses the same saffron and the same method of a long stew over low heat.
 
 ### Frequently asked questions
 
 **Question: What is the national dish of Iran?**
-Answer: Two candidates share the title. [Chelo kabab](/en/recipes/iran/chelo-kabab-koobideh/) — kebab on a bed of saffron rice — is officially considered the national dish, while [ghormeh sabzi](/en/recipes/iran/ghormeh-sabzi/), the herb stew, is the dish most Iranians would choose as representing home.
+Answer: Two candidates share the title. Chelo kabab — kebab on a bed of saffron rice — is officially considered the national dish, while ghormeh sabzi, the herb stew, is the dish most Iranians would choose as representing home.
 
 **Question: Is Persian food spicy?**
 Answer: Hardly. Unlike Indian cuisine or parts of Turkish cuisine, chili pepper hardly appears in it. The complexity comes from a balance between sour and sweet — dried lemon, pomegranate molasses, barberries — and from aromatic spices such as saffron, cardamom and rose water.
 
 **Question: What is the difference between Persian and Turkish cuisine?**
-Answer: The structure. In Persian cuisine the meal is built around rice and a stew that cooks for hours, and in Turkish cuisine around bread, grilled dishes and meze. The balance is different too: Persian leans sweet-and-sour and Turkish leans rich-and-tart. The comparison in practice is in [Turkish cuisine](/en/recipes/turkey/).
+Answer: The structure. In Persian cuisine the meal is built around rice and a stew that cooks for hours, and in Turkish cuisine around bread, grilled dishes and meze. The balance is different too: Persian leans sweet-and-sour and Turkish leans rich-and-tart. The comparison in practice is in Turkish cuisine.
 
 **Question: Which Persian dishes suit vegetarians and vegans?**
-Answer: [Ash reshteh](/en/recipes/iran/ash-reshteh/) is vegan except for the kashk on top, [sholeh zard](/en/recipes/iran/shole-zard/) is fully vegan in the version made with oil, and [mirza ghasemi](/en/recipes/iran/mirza-ghasemi/) and [fesenjan](/en/recipes/iran/fesenjan/) come in traditional versions without animal products.
+Answer: Ash reshteh is vegan except for the kashk on top, sholeh zard is fully vegan in the version made with oil, and mirza ghasemi and fesenjan come in traditional versions without animal products.
 
 **Question: What is tahdig and why is everyone talking about it?**
-Answer: *Tahdig* is the golden, crispy rice crust that forms at the bottom of a Persian rice pot during steaming, and in Iran it is considered the most sought-after part of the meal. A whole dish built around this idea is [tahchin](/en/recipes/iran/tahchin/).
+Answer: *Tahdig* is the golden, crispy rice crust that forms at the bottom of a Persian rice pot during steaming, and in Iran it is considered the most sought-after part of the meal. A whole dish built around this idea is tahchin.

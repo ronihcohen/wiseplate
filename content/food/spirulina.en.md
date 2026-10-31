@@ -1,6 +1,6 @@
 ---
 title: "Spirulina"
-seo_title: "Spirulina: What's Really Proven, Why Its B12 Isn't Absorbed, and What to Check Before You Buy"
+seo_title: "Spirulina: What's Proven, B12 and What to Check Before Buying"
 date: 2025-12-22T11:00:00+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
@@ -32,7 +32,7 @@ On this page: what spirulina really provides in a serving, what is proven and wh
 
 **The numerical conclusion:** a tablespoon of spirulina provides about 3 grams of protein — less than half an egg. It is **not a practical source of protein**, and marketing that touts "60-70% protein" relies on a number nobody consumes.
 
-**What is meaningful in a serving:** [copper](/en/food/supplements/copper/) (34%), riboflavin (14%), [iron](/en/food/iron/) (8%), and **phycocyanin** — the blue pigment that is the truly interesting active ingredient.
+**What is meaningful in a serving:** copper (34%), riboflavin (14%), iron (8%), and **phycocyanin** — the blue pigment that is the truly interesting active ingredient.
 
 ### Vitamin B12 — the most dangerous mistake
 
@@ -64,18 +64,18 @@ This is the most important caveat on this page, and it is a matter of health, no
 
 ### Benefits
 
-* **High micronutrient density for its weight.** [Copper](/en/food/supplements/copper/), riboflavin and [iron](/en/food/iron/) in noticeable amounts even in 5 grams.
+* **High micronutrient density for its weight.** Copper, riboflavin and iron in noticeable amounts even in 5 grams.
 * **Phycocyanin:** a unique antioxidant that is also the source of the blue color. It is also used as a natural food coloring.
 * **Protein with a good profile** — it contains all the essential amino acids, even though the amount in a realistic serving is small.
 * **Reasonable evidence for the lipid profile** — as detailed above.
-* **Plant-based [iron](/en/food/iron/) in a reasonable amount** — 1.4 mg in a 5-gram serving.
+* **Plant-based iron in a reasonable amount** — 1.4 mg in a 5-gram serving.
 * **Low environmental footprint** — grown in water, with no farmland and no animal feed.
 * **An alternative to [moringa powder](/en/food/moringa-powder/)** in the category, with a different mineral profile.
 
 ### Downsides and considerations
 
 * **The gap between marketing and the serving.** Almost every claim about spirulina is framed per 100 grams, an amount nobody consumes.
-* **Pseudo-[vitamin B12](/en/food/supplements/vitamin-b12/)** — as detailed above, the most serious caveat.
+* **Pseudo-vitamin B12** — as detailed above, the most serious caveat.
 * **Microcystins, PKU and autoimmunity** — as detailed above.
 * **Price.** Very expensive relative to the nutritional value it actually provides. The same money spent on spirulina would buy a large quantity of [lentils](/en/food/lentil/), [eggs](/en/food/eggs/) or leafy greens.
 * **Taste and smell.** Strongly earthy and marine, which many people struggle with. Well hidden in a fruit smoothie with [banana](/en/food/banana/).
@@ -86,7 +86,7 @@ This is the most important caveat on this page, and it is a matter of health, no
 
 * **Typical dose:** 1-5 grams a day (half a teaspoon to a level teaspoon). Higher doses have been studied but are not needed.
 * **Choose a brand that publishes tests** for microcystins and heavy metals. This is the most important check in the category.
-* **Don't rely on it for [B12](/en/food/supplements/vitamin-b12/).** Vegans need a dedicated supplement.
+* **Don't rely on it for B12.** Vegans need a dedicated supplement.
 * **Mix it into a smoothie** with [banana](/en/food/banana/), [berries](/en/food/blueberries/) or citrus juice — the tartness and sweetness mask the taste.
 * **With [vitamin C](/en/food/supplements/vitamin-c/)** — improves absorption of its plant-based iron.
 * **Not close to [coffee](/en/food/coffee/) or [tea](/en/food/green-tea/)** — [tannins](/en/food/tannins/) inhibit iron absorption.

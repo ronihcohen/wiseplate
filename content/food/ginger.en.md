@@ -1,10 +1,10 @@
 ---
 title: "Ginger"
-seo_title: "Ginger: Benefits and Downsides — Does It Help With Nausea and Period Pain?"
+seo_title: "Ginger: Benefits, Downsides, Nausea and Period Pain"
 date: 2025-12-22T11:05:00+02:00
 lastmod: 2026-08-20T09:00:00+03:00
 featured_image: ""
-description: "Ginger: what the research really shows about nausea in pregnancy and motion sickness, period pain and joint pain, how many grams a day, and why dried ginger differs from fresh."
+description: "Ginger: what research shows for nausea, motion sickness, period pain and joint pain, how many grams a day, and dried vs. fresh ginger."
 ---
 
 ## Ginger

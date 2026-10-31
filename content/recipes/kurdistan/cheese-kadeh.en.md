@@ -17,7 +17,7 @@ calories: 580
 
 ## Cheese and Chard Kada
 
-The Jews of Kurdistan made cheese kada for Shavuot. FOODISH's chard version is an Israeli chef's adaptation, stated as such here, not a single reconstruction of what every family made.
+The Jews of Kurdistan made [cheese](/en/food/cheese/) kada for Shavuot. FOODISH's chard version is an Israeli chef's adaptation, stated as such here, not a single reconstruction of what every family made.
 
 **Prep:** 45 minutes · **Rising:** 1 hour · **Skillet cooking:** 30 minutes · **Yield:** 20 · **Difficulty:** medium
 
@@ -41,7 +41,7 @@ Tzfatit cheese and feta are available at every chain in Israel and imitate a sal
 ### Method
 
 1. Knead the flour, yeast, sugar, salt, 60 ml of oil and 480 ml of water for 10 minutes; add up to 40 ml of water as needed and let rise for an hour.
-2. Fry the onion and garlic in 30 ml of oil, add the chard and pepper and cook until all the liquid has evaporated. Cool and mix in the cheeses.
+2. Fry the [onion](/en/food/onion/) and [garlic](/en/food/garlic/) in 30 ml of oil, add the chard and pepper and cook until all the liquid has evaporated. Cool and mix in the cheeses.
 3. Divide into 20, fill, seal and flatten.
 4. Cook in the skillet, greasing it gradually with the remaining 10 ml of oil, 3–4 minutes per side until golden and cooked through.
 

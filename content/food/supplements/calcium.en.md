@@ -1,103 +1,101 @@
 ---
 title: "Calcium"
-seo_title: "Calcium: Why a Supplement Is Not Like Calcium From Food — and the Link to Kidney Stones"
+seo_title: "Calcium: Daily Dose, Supplements vs. Food and Kidney Stones"
 date: 2026-02-13T05:56:32+02:00
-lastmod: 2026-09-02T09:00:00+03:00
+lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "Calcium: how much you really need, why absorption from food varies so much, why dietary calcium lowers kidney stone risk while a supplement may raise it, and the debate over calcium supplements and the heart."
+description: "Calcium: 1,000–1,200 mg a day for adults, which foods absorb well (and why not spinach), why food calcium lowers kidney stone risk, and the heart debate."
 ---
 
-Calcium is the most abundant mineral in the body — about 1.2 kg in an adult, and **99% of it is in the skeleton**. The remaining percent, found in the blood and in cells, is responsible for muscle contraction, nerve conduction, blood clotting and hormone secretion.
+## Calcium
 
-**And here is the point that decides everything:** the body keeps blood calcium within a very narrow range. **When intake is low, it simply draws calcium out of bone** — which means a normal blood test **does not indicate** adequate intake or the state of your bones.
+**Calcium is the most abundant mineral in the body, and about 99% of it sits in bones and teeth. Adults aged 19–50 need 1,000 mg a day, women over 51 and everyone over 70 need 1,200 mg, and most people can reach that target from food without a supplement.** In Hebrew it is "סידן". [NIH fact sheet on calcium](https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/).
 
-In recent years another important distinction has been added: **calcium from food and calcium from a supplement do not behave the same way** — not in bone, not in the kidneys, and perhaps not in the blood vessels.
+The remaining 1%, in blood and cells, runs muscle contraction, nerve signalling and blood clotting. The body keeps blood calcium within a very narrow range, and when intake is low it simply draws calcium out of bone. That is why a normal blood test says nothing about whether intake is adequate or how healthy the bones are. Research over the past fifteen years has added another distinction: calcium from food and calcium from a pill do not behave the same way — not in the kidneys, and possibly not in the blood vessels.
 
-### Dosage and sources
+### How much you need a day
 
-| Measure | Value |
-|---|---|
-| Recommended Dietary Allowance (RDA) — adults 19-50 | 1,000 mg |
-| Women 51+ / men 71+ | 1,200 mg |
-| Teenagers 9-18 | 1,300 mg |
-| Tolerable Upper Intake Level (UL) | 2,000-2,500 mg per day |
-
-| Source | Calcium per 100 g | **Absorption rate** |
+| Age | Recommended intake a day (RDA) | Tolerable upper limit a day (UL) |
 |---|---|---|
-| [Milk](/en/food/milk/) / [yogurt](/en/food/greek-yogurt/) | 120-180 mg | ~32% |
-| [Sardines](/en/food/sardines/) with bones | 382 mg | ~27% |
-| Calcium-set [tofu](/en/food/tofu/) | 350 mg | ~31% |
-| [Tahini](/en/food/tahini/) / [sesame](/en/food/sesame-seeds/) | 426 mg | ~21% |
-| [Almonds](/en/food/almonds/) | 269 mg | ~21% |
-| [Kale](/en/food/kale/) | 254 mg | **~50%** |
-| [Spinach](/en/food/spinach/) | 99 mg | **~5%** |
-| Dried [figs](/en/food/figs/) | 162 mg | ~20% |
+| Infants 0–6 months | 200 mg (AI) | 1,000 mg |
+| Infants 7–12 months | 260 mg (AI) | 1,500 mg |
+| 1–3 | 700 mg | 2,500 mg |
+| 4–8 | 1,000 mg | 2,500 mg |
+| 9–18 | 1,300 mg | 3,000 mg |
+| 19–50 | 1,000 mg | 2,500 mg |
+| Men 51–70 | 1,000 mg | 2,000 mg |
+| Women 51–70 | 1,200 mg | 2,000 mg |
+| Over 70 | 1,200 mg | 2,000 mg |
+| Pregnancy and breastfeeding | Same as for age (1,000–1,300 mg) | 2,500–3,000 mg |
 
-**Note the last few rows:** [spinach](/en/food/spinach/) has calcium on paper — but **its oxalates bind it, and only about 5% is absorbed**. In [kale](/en/food/kale/), which is low in oxalates, the absorption rate is about 50% — **the highest of any food.** In practice spinach provides about 5 mg of calcium per 100 g, not 99.
+These are the NIH values. The European Food Safety Authority (EFSA) recommends 950 mg a day for adults from age 25 and sets the upper limit at 2,500 mg — the same order of magnitude.
 
-## Benefits (Pros)
+### Food sources and how much is absorbed
 
-### 1. Bone mass and osteoporosis
-Calcium, together with [vitamin D](/en/food/supplements/vitamin-d/), [vitamin K](/en/food/supplements/vitamin-k/) and protein, is the raw material of the skeleton. **Adequate intake in adolescence and in your 20s sets your "peak bone mass"** — the baseline from which decline begins in later life. This is the period when intake matters most, and precisely when it is low for many people.
+| Source | Calcium per 100 g | Share absorbed |
+|---|---|---|
+| [Milk](/en/food/milk/) / [yogurt](/en/food/greek-yogurt/) | 120–180 mg | about 32% |
+| Canned [sardines](/en/food/sardines/) with bones | 382 mg | — |
+| Calcium-set [tofu](/en/food/tofu/) | about 350 mg (varies by brand) | about 31% |
+| [Tahini](/en/food/tahini/) | 426 mg | about 21% (sesame) |
+| [Almonds](/en/food/almonds/) | 269 mg | about 21% |
+| Raw [kale](/en/food/kale/) | about 250 mg | about 49% |
+| [Broccoli](/en/food/broccoli/) | about 47 mg | about 61% |
+| [Spinach](/en/food/spinach/) | 99 mg | about 5% |
+| Dried [figs](/en/food/figs/) | 162 mg | — |
 
-### 2. Muscle contraction and nerve conduction
-The release of calcium inside the muscle cell is what triggers the contraction mechanism. It is also needed for synaptic transmission and blood clotting.
+The absorption figures come from the calcium bioavailability work of Weaver and Heaney. [Weaver et al., 1999](https://pubmed.ncbi.nlm.nih.gov/10479229/). The practical lesson: low-oxalate brassicas such as kale, broccoli and bok choy are absorbed better than milk, but they hold little calcium per serving. In spinach, oxalate binds most of the calcium, so a 100 g serving delivers only about 5 mg that the body actually takes up.
 
-### 3. Fewer kidney stones — from food
-**This is counterintuitive, and it is well established:** higher **dietary** calcium intake **lowers** the risk of calcium-oxalate stones. The reason: calcium binds oxalate **in the gut** and is excreted in the stool, instead of the oxalate being absorbed and reaching the kidney. **People prone to stones should eat calcium with meals, not avoid it.**
+### Benefits
 
-### 4. Blood pressure and preeclampsia
-Calcium supplementation in pregnancy has been shown to lower the risk of preeclampsia, especially in populations with low intake — one of the World Health Organization's evidence-based recommendations.
+- **Bone mass:** Calcium, together with [vitamin D](/en/food/supplements/vitamin-d/), protein and exercise, is the raw material of the skeleton. Intake during adolescence and the twenties sets "peak bone mass", the starting point from which bone loss begins later in life.
+- **Bone density in older adults — a small effect:** A meta-analysis of 59 randomised trials in people over 50 found that raising calcium intake, from food or supplements, increased bone density by only about 1–2%, with no further gains over time. [Tai et al., 2015](https://pubmed.ncbi.nlm.nih.gov/26420598/). In other words, calcium is a necessary condition for healthy bone, not a treatment for osteoporosis.
+- **Muscle, nerve and clotting:** The release of calcium inside a muscle cell triggers contraction, and calcium is needed for nerve signalling and blood clotting.
+- **Fewer kidney stones — from food:** In a cohort of about 45,000 men, those with the highest dietary calcium intake had roughly a third lower risk of kidney stones than those with the lowest. [Curhan et al., 1993](https://pubmed.ncbi.nlm.nih.gov/8441427/). The reason: calcium binds oxalate in the gut and carries it out in the stool, instead of letting it reach the kidney.
+- **Pre-eclampsia:** A Cochrane review found that at least 1 g of supplemental calcium a day in pregnancy reduced pre-eclampsia, mainly in women whose diet was low in calcium; in women with adequate intake the effect was unclear. [Hofmeyr et al., 2018](https://pubmed.ncbi.nlm.nih.gov/30277579/).
 
-## Downsides and Side Effects (Cons)
+### Downsides and side effects
 
-### 1. Calcium supplements and the heart — the open debate
-Several influential meta-analyses found a link between calcium **supplements** (mainly without [vitamin D](/en/food/supplements/vitamin-d/)) and a **slight increase in the risk of cardiac events**. The finding is methodologically disputed, and not all studies support it.
+- **Supplements and kidney stones:** In the Women's Health Initiative trial, about 36,000 postmenopausal women took 1,000 mg calcium plus 400 IU vitamin D or a placebo. Kidney stone risk rose by 17%, and the reduction in hip fractures was not statistically significant. [Jackson et al., 2006](https://pubmed.ncbi.nlm.nih.gov/16481635/). Hence the rule: if you take a supplement, take it with a meal.
+- **The heart debate:** A meta-analysis of trials found that calcium supplements (without vitamin D) raised the risk of heart attack by about 30%. [Bolland et al., 2010](https://pubmed.ncbi.nlm.nih.gov/20671013/). The finding is disputed and not every later study reproduced it, but no such link has been found for calcium from food. The proposed explanation: a pill produces a sharp spike in blood calcium, and food does not.
+- **Absorption of drugs and minerals:** Calcium reduces the absorption of levothyroxine (for the thyroid), tetracycline and quinolone antibiotics, and bisphosphonates. The usual advice is to separate the supplement from the drug by several hours, as your doctor or pharmacist directs. It also competes with [iron](/en/food/supplements/iron/) and [zinc](/en/food/supplements/zinc/) when they are taken together.
+- **Thiazide diuretics** reduce calcium loss in urine, and combined with high-dose supplements they can push blood calcium too high.
+- **Constipation and bloating:** The common side effect, especially with calcium carbonate.
 
-**What is agreed:** the link **has not been found with dietary calcium**. The proposed explanation: food releases calcium slowly, whereas a 500-1,000 mg supplement creates a **sharp spike in blood calcium**. Hence the common recommendation: **food first, a supplement only to close the gap.**
+### Practical use
 
-### 2. Kidney stones — from a supplement, in the opposite direction
-While dietary calcium **lowers** stone risk, **a calcium supplement taken without a meal may raise it** — it doesn't meet oxalate in the gut, and the excess is excreted in the urine. **If you take a supplement — always with food.**
+- **Food first:** Three servings of dairy, or a mix of calcium-set tofu, sardines, tahini, brassicas and fortified plant drinks, cover most people.
+- **When to supplement:** When the diet falls short (for example vegans who don't use fortified foods), or on a doctor's advice for osteoporosis. The aim is to close the gap, not to add 1,000 mg on top of a diet that already provides enough.
+- **Doses of 500 mg or less:** Absorption is most efficient at 500 mg or less at a time, so larger doses are split.
+- **Carbonate or citrate:** Calcium carbonate (40% calcium) is cheap but needs stomach acid, so take it with food. Calcium citrate (21% calcium) is absorbed without food and suits people on acid-reducing drugs and older adults.
+- **Fortified plant drinks:** Shake before pouring — the calcium settles at the bottom.
 
-### 3. Blocking absorption of minerals and medications
-Calcium competes for absorption with [iron](/en/food/iron/), [zinc](/en/food/supplements/zinc/) and [magnesium](/en/food/supplements/magnesium/). **It also blocks the absorption of important medications** — levothyroxine (for the thyroid), tetracycline and quinolone antibiotics, and bisphosphonates. **Separate them by at least 4 hours.**
+### Summary
 
-### 4. Carbonate vs. citrate
-* **Calcium carbonate** — cheap and concentrated (40% calcium), but **requires stomach acid** and so must be taken with food. **Not suitable for people taking omeprazole and similar drugs.**
-* **Calcium citrate** — more expensive and less concentrated (21%), but **absorbed even without acid**, so it suits older adults and people taking acid blockers.
-
-### 5. The per-dose absorption limit
-**The body efficiently absorbs up to about 500 mg of calcium at a time.** A 1,000 mg supplement in a single dose wastes most of it. **Split it into 500 mg doses.**
-
-### 6. Constipation and bloating
-The most common side effect of calcium supplements, especially carbonate.
-
-## Summary
-
-Calcium is essential for bone, muscle and nerves — **and most people can reach their target from food**: [yogurt](/en/food/greek-yogurt/), [sardines](/en/food/sardines/) with bones, [tahini](/en/food/tahini/), calcium-set [tofu](/en/food/tofu/) and [kale](/en/food/kale/). Three practical points get lost in most discussions: **[spinach](/en/food/spinach/) is not a calcium source** — oxalates block 95% of it, whereas [kale](/en/food/kale/) is 50% absorbed; **calcium from food lowers kidney stone risk**, while a supplement taken without food may raise it; and **it is supplements, not food, that have been linked to doubts about the heart.** If you do take one — **doses of up to 500 mg, with food, and separated from iron and medications.**
+Calcium is essential for bone, muscle and nerves, and most adults need 1,000–1,200 mg a day. From food it comes with advantages a pill does not offer: dietary calcium lowers kidney stone risk and has not been linked to heart risk. Spinach is not a calcium source; brassicas are, though in small amounts per serving. If you do need a supplement: small doses, with meals, spaced away from medications, and only as large as the gap between your diet and the target.
 
 ### Frequently asked questions
 
-**Question: How much calcium do you need per day?**
-Answer: 1,000 mg for adults aged 19-50, 1,200 mg for women over 51 and men over 71, and 1,300 mg for teenagers — the period when peak bone mass is built. The tolerable upper intake level is 2,000-2,500 mg per day.
+**Question: How much calcium do I need a day?**
+Answer: 1,000 mg for adults aged 19–50 and men up to 70, 1,200 mg for women over 51 and everyone over 70, and 1,300 mg for teenagers aged 9–18. The upper limit is 2,500 mg up to age 50 and 2,000 mg after that.
 
 **Question: Is spinach a good source of calcium?**
-Answer: No, and this is one of the most common misleading points in nutrition tables. Spinach contains 99 mg of calcium per 100 g, but its oxalates bind it so that only about 5% is absorbed — about 5 mg in practice. For comparison, in kale, which is low in oxalates, the absorption rate is about 50% — the highest of any food.
+Answer: No. It has 99 mg per 100 g, but oxalate binds it and only about 5% is absorbed. In kale and broccoli, which are low in oxalate, 50–60% is absorbed — more than from milk — but the amount per serving is small.
 
-**Question: Are calcium supplements dangerous for the heart?**
-Answer: The question is open. Several meta-analyses found a link between calcium supplements (mainly without vitamin D) and a slight increase in the risk of cardiac events, but the finding is methodologically disputed and not all studies support it. What is agreed is that the link has not been found with dietary calcium — hence the common recommendation: food first, a supplement only to close the gap.
+**Question: Are calcium supplements bad for the heart?**
+Answer: The question is open. A 2010 meta-analysis found about a 30% higher risk of heart attack with calcium supplements, but the finding is disputed. No such link has been found for calcium from food, so the usual advice is food first and a supplement only to fill a gap.
 
 **Question: Does calcium cause kidney stones?**
-Answer: The opposite of what many people think. Dietary calcium actually lowers the risk of calcium-oxalate stones, because it binds oxalate in the gut and is excreted in the stool instead of the oxalate being absorbed and reaching the kidney. A calcium supplement taken without a meal, on the other hand, may raise the risk. The rule: if you take a supplement — always with food.
+Answer: Calcium from food actually lowers the risk, because it binds oxalate in the gut. Supplements are a different story: in the WHI trial they raised stone risk by 17%. People prone to stones should eat calcium with meals rather than avoid it.
 
 **Question: Carbonate or citrate?**
-Answer: Calcium carbonate is cheap and concentrated (40% calcium) but requires stomach acid, so it must be taken with food and is not suitable for people taking omeprazole and similar drugs. Calcium citrate is more expensive and less concentrated (21%) but is absorbed even without acid, so it suits older adults and anyone taking acid blockers.
+Answer: Carbonate is cheap and concentrated but needs stomach acid, so take it with a meal. Citrate is less concentrated and costs more, but it is absorbed without food and suits people taking acid-reducing drugs.
 
 **Question: Can I take 1,000 mg of calcium at once?**
-Answer: Not efficiently. The body efficiently absorbs up to about 500 mg at a time, so most of a larger dose is wasted. If a high dose is needed, split it into two doses at different times of day — and always with food.
+Answer: Better not. Absorption is most efficient at up to 500 mg at a time, so a larger dose is split into two servings at different times of day, with food.
 
-**Question: Does calcium block the absorption of other things?**
-Answer: Yes. It competes for absorption with iron, zinc and magnesium, and blocks the absorption of important medications — levothyroxine for the thyroid, tetracycline and quinolone antibiotics, and bisphosphonates for bone. The rule is to separate calcium from the medication or other supplement by at least four hours.
+**Question: Which medications does calcium interact with?**
+Answer: Levothyroxine, tetracycline and quinolone antibiotics, and bisphosphonates, whose absorption it reduces; and thiazide diuretics, which raise blood calcium. Ask your pharmacist how far apart to take the supplement and the drug.
 
-**Question: What are the best non-dairy sources of calcium?**
-Answer: Calcium-set tofu (350 mg per 100 g, ~31% absorption), sardines with bones (382 mg), tahini and sesame (426 mg), almonds (269), kale (254 mg with the best absorption — about 50%) and dried figs (162). Fortified plant milks are another option; with these it is important to shake the carton — the calcium settles.
+**Question: What are good non-dairy sources of calcium?**
+Answer: Calcium-set tofu, sardines with bones, tahini, almonds, kale and broccoli, dried figs and fortified plant drinks. On a vegan diet it is worth adding up your actual intake, because without fortified foods 1,000 mg is hard to reach.

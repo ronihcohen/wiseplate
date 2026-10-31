@@ -1,6 +1,6 @@
 ---
 title: "Amba"
-seo_title: "Homemade Amba: A Quick Recipe with Mango and Spices, No Fermentation"
+seo_title: "Homemade Amba Recipe: Quick Mango Pickle, No Fermentation"
 date: 2026-08-24T02:05:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/iraq/amba.webp"
@@ -17,7 +17,7 @@ calories: 30
 
 ## Amba
 
-Amba (in Hebrew "עמבה") is a tangy, spiced [mango](/en/food/mango/) sauce, with turmeric and fenugreek that give it its familiar color and aroma. It goes into a pita with eggplant and egg, alongside fish and in sandwiches. The recipe here is a cooked homemade version: you make it in a pot, cool it and keep it in the refrigerator.
+Amba (in Hebrew "עמבה") is a tangy, spiced [mango](/en/food/mango/) sauce, with turmeric and fenugreek that give it its familiar color and aroma. It goes into a pita with [eggplant](/en/food/eggplant/) and [egg](/en/food/eggs/), alongside fish and in sandwiches. The recipe here is a cooked homemade version: you make it in a pot, cool it and keep it in the refrigerator.
 
 **Prep time:** 15 minutes · **Cooking time:** about 20 minutes · **Total with initial cooling:** about an hour · **Yield:** about 750 grams · **Difficulty:** easy
 

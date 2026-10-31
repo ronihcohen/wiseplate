@@ -1,6 +1,6 @@
 ---
 title: "Frozen Pizza"
-seo_title: "Frozen Pizza: How Much Sodium in a Whole Pizza, and \"Cheese Substitute\" vs. Real Cheese"
+seo_title: "Frozen Pizza: Sodium, Calories and \"Cheese Substitute\""
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
@@ -54,7 +54,7 @@ Identifying it is simple: in the ingredient list, "mozzarella cheese" versus "ch
 
 ### Downsides and considerations
 
-* **[Sodium](/en/food/supplements/sodium/)** — as detailed above, the main downside.
+* **Sodium** — as detailed above, the main downside.
 * **Cheese substitutes made with palm fat** — as detailed above.
 * **White-flour dough.** Only 1.5-2.5 g of fiber per 100 g. A high glycemic index, low satiety relative to calories.
 * **Sugar in the sauce.** Commercial tomato sauce usually contains added sugar, sometimes 4-6 g per 100 g of sauce.

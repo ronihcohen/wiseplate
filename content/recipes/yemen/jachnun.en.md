@@ -1,6 +1,6 @@
 ---
 title: "Yemenite Jachnun"
-seo_title: "Homemade Yemenite Jachnun: An Overnight Recipe and Calories per Roll"
+seo_title: "Homemade Yemenite Jachnun Recipe: Overnight Rolls"
 date: 2026-09-19T12:20:00+03:00
 lastmod: 2026-09-19T12:20:00+03:00
 featured_image: "/images/recipes/yemen/jachnun.webp"
@@ -58,7 +58,7 @@ Bread flour makes stretching easier, but regular Israeli white flour works with 
 | Fat | about 19 grams |
 | Fiber | about 3 grams |
 
-The calculation does not include an [egg](/en/food/eggs/), tomato or zhug. A large egg adds about 75 calories.
+The calculation does not include an [egg](/en/food/eggs/), [tomato](/en/food/tomato/) or zhug. A large egg adds about 75 calories.
 
 ### Variations and tips
 

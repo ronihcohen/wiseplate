@@ -17,7 +17,7 @@ calories: 440
 
 ## Bukharian Goshtgizhda
 
-Goshtgizhda — from the Central Asian word for meat — is a meat and onion pastry, sometimes called samsa or Bukharian sambusak in Israel. The names and shapes overlap between families; here it is a round pocket of yeast dough, gathered closed with pleats and baked.
+Goshtgizhda — from the Central Asian word for meat — is a meat and [onion](/en/food/onion/) pastry, sometimes called samsa or Bukharian sambusak in Israel. The names and shapes overlap between families; here it is a round pocket of yeast dough, gathered closed with pleats and baked.
 
 **Prep time:** 1 hour · **Rising:** 1 hour · **Baking:** 30 minutes · **Yield:** 16 · **Difficulty:** medium
 
@@ -31,7 +31,7 @@ The onion should be chopped, not ground, so it releases liquid during baking. Sa
 * 8 grams dry yeast, 15 grams sugar, 12 grams salt
 * 360–400 ml water
 * 100 ml oil
-* 800 grams beef, chopped or coarsely ground
+* 800 grams [beef](/en/food/red-meat/), chopped or coarsely ground
 * 150 grams chopped lamb fat, or an extra 120 grams of fatty beef
 * 700 grams finely chopped onion
 * 2 teaspoons cumin, black pepper and salt
@@ -39,14 +39,14 @@ The onion should be chopped, not ground, so it releases liquid during baking. Sa
 
 ### Choosing ingredients and substitutes
 
-Chopped shoulder or chuck works. You can skip the lamb fat, but use 20% fat meat so it does not dry out. The name "samsa" is broader and also covers other doughs and shapes across Central Asia.
+Chopped shoulder or chuck works. You can skip the [lamb](/en/food/lamb/) fat, but use 20% fat meat so it does not dry out. The name "samsa" is broader and also covers other doughs and shapes across Central Asia.
 
 ### Method
 
 1. Knead the flour, yeast, sugar, salt, water and 60 ml oil for 10 minutes. Let rise for an hour.
 2. Mix the meat, fat, onion, the rest of the oil and the spices right before filling.
 3. Divide the dough into 16, roll into 15 cm rounds and place about 100 grams of filling on each.
-4. Gather the edges to the center, pleat firmly and place seam side down. Brush with egg and sprinkle with sesame.
+4. Gather the edges to the center, pleat firmly and place seam side down. Brush with [egg](/en/food/eggs/) and sprinkle with [sesame](/en/food/sesame-seeds/).
 5. Bake at 210°C (410°F) for 25–30 minutes. Check a pastry from the center of the pan: the filling should reach 71°C (160°F).
 
 ### Nutrition facts and calorie estimate

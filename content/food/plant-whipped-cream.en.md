@@ -1,10 +1,10 @@
 ---
 title: "Plant-Based Whipped Cream"
-seo_title: "Plant-Based Whipped Cream: Why \"Pareve\" Doesn't Mean Less Saturated Fat"
+seo_title: "Plant-Based Whipped Cream: Saturated Fat and Ingredients"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
-description: "Plant-based whipped cream: full nutrition facts and a comparison with dairy whipped cream, why coconut and palm fat are more saturated than cream, and which alternatives really work."
+description: "Plant-based whipped cream: nutrition facts vs. dairy cream, why coconut and palm fat are more saturated than cream, and alternatives that work."
 ---
 
 ## Plant-Based Whipped Cream

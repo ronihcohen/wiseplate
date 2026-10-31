@@ -57,7 +57,7 @@ Watermelon (in Hebrew "אבטיח") is a fruit of the gourd family made up of ab
 
 * **A reasonable serving:** 200-300 grams (2-3 slices) — about 60-90 calories.
 * **The white rind is edible** and richer in citrulline than the red part. You can grate it into a salad or a smoothie.
-* **The seeds are edible** and provide [magnesium](/en/food/supplements/magnesium/), [zinc](/en/food/supplements/zinc/) and protein — roasted watermelon seeds are a common snack in the Middle East and Africa.
+* **The seeds are edible** and provide magnesium, [zinc](/en/food/supplements/zinc/) and protein — roasted watermelon seeds are a common snack in the Middle East and Africa.
 * **To choose a ripe watermelon:** a yellow-cream spot on the side that rested on the ground (not white), a high weight for its size, and a deep sound when tapped.
 * **Frozen watermelon** retains its lycopene and is great for smoothies.
 

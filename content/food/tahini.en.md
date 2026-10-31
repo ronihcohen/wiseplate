@@ -1,77 +1,99 @@
 ---
 title: "Tahini"
+seo_title: "Tahini: Nutrition Facts, Calcium, Benefits and Downsides"
 date: 2026-04-10T09:00:00+02:00
+lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "A nutritional analysis of tahini: a sesame paste rich in calcium, healthy fats and lignans, with qualities unique to the Middle East."
+description: "Two tablespoons of raw tahini (30 g) have about 180 calories, 5 g of protein, iron and calcium. Whole vs hulled tahini, the research, sesame allergy and Salmonella."
 ---
 
 ## Tahini
 
-Tahini is a paste made from ground [sesame](/en/food/sesame-seeds/) seeds (*Sesamum indicum*) — one of the oldest foods in the world, with documented use in Mesopotamia more than 4,000 years ago. It is a cornerstone of Mediterranean, Levantine and Middle Eastern cooking, and serves as the base for hummus and many sauces and spreads.
+**Tahini is a paste of ground sesame seeds: two tablespoons (30 g) of raw tahini provide about 180 calories, 5 g of protein, 16 g of mostly unsaturated fat, and a good amount of iron, magnesium and calcium. It is a nutritious food but not a medicine: in a meta-analysis, sesame lowered triglycerides but not cholesterol.** Whole-seed tahini is richer in minerals than white (hulled) tahini.
 
-The quality of tahini varies a lot: tahini made from whole, dark seeds is different from tahini made from hulled, white seeds — the dark kind is richer in calcium, vitamins and minerals but more bitter; the white kind is milder and creamier.
+Tahini (in Hebrew "טחינה") is made from lightly roasted, ground [sesame seeds](/en/food/sesame-seeds/) (*Sesamum indicum*), with nothing added. It is a cornerstone of Israeli, Levantine and Middle Eastern cooking and the base of hummus, sauces and halva. In everyday Israeli usage, "tahini" also means the ready sauce, which is raw tahini thinned with water, lemon juice, garlic and salt. Such a sauce has roughly half the calories of raw tahini, depending on how much water goes in.
 
-### Research-based health benefits
+### Nutrition facts
 
-* **A high concentration of [calcium](/en/food/supplements/calcium/):** 2 tablespoons (30 grams) of whole-seed tahini provide about 130-180 mg of calcium — about 13-18% of the daily intake. An excellent source of calcium for vegans and people who avoid [dairy](/en/food/milk/). The calcium in dark tahini has relatively good bioavailability.
+Approximate values for raw tahini. Mineral values, especially calcium, vary greatly between tahini made from hulled seeds (white) and from whole seeds, and from brand to brand. Check the label.
 
-* **Monounsaturated and polyunsaturated fats:** about 70% of the fat in tahini is unsaturated — mainly linoleic acid (omega-6) and oleic acid (monounsaturated). It contributes to a balanced fat profile.
-
-* **Lignans — sesamin and pinoresinol:** antioxidants unique to sesame, studied for anti-cancer and anti-inflammatory activity and for supporting heart health. These lignans may also support estrogen regulation.
-
-* **[Iron](/en/food/iron/):** 2 tablespoons provide about 2.7 mg of iron — about 15% of the daily intake for women. Combining it with [vitamin C](/en/food/supplements/vitamin-c/) (for example, [lemon](/en/food/lemon/)) improves absorption.
-
-* **[Magnesium](/en/food/supplements/magnesium/) and phosphorus:** support bone health, energy production and muscle function.
-
-* **Protein:** about 5 grams per 2 tablespoons, with an amino acid profile that includes methionine — relatively rare in legumes.
-
-* **[Vitamin B1 (thiamine)](/en/food/supplements/vitamin-b1/) and [B6](/en/food/supplements/vitamin-b6/):** support energy metabolism and nerve function.
-
-### Downsides and health considerations
-
-* **Calorie density:** 2 tablespoons contain about 180 calories. It's easy to overdo it — tahini is usually added generously to falafel, salads and so on.
-
-* **A high omega-6:omega-3 ratio:** sesame is rich in omega-6 but has almost no [omega-3](/en/food/supplements/omega-3/). At very high intake it may contribute to a pro-inflammatory imbalance. It's worth balancing with omega-3 sources.
-
-* **Oxalic acid:** it contains a moderate amount of oxalates — be careful if you have kidney stones.
-
-* **Sesame allergy:** sesame is a major allergen that must be declared on food labels (in Israel and the European Union). A severe allergic reaction is possible.
-
-* **Pesticides:** sesame seeds may contain pesticide residues — prefer tahini made from organic seeds.
-
-### Dark vs. white tahini
-
-| Property | Dark tahini (whole seed) | White tahini (hulled) |
+| Nutrient | Per 100 g | Per 2 tablespoons (30 g) |
 |---|---|---|
-| [Calcium](/en/food/supplements/calcium/) | Very high | Moderate |
-| [Iron](/en/food/iron/) | High | Moderate |
-| Lignans | High | Low |
-| Bitterness | Noticeable | Mild |
-| Creaminess | Less | More |
+| Calories | about 595 | about 180 |
+| Protein | about 17 g | about 5 g |
+| Fat | about 54 g | about 16 g |
+| of which saturated | about 7.5 g | about 2.3 g |
+| Carbohydrates | about 21 g | about 6.5 g |
+| Fibre | about 9 g | about 2.8 g |
+| Iron | about 9 mg | about 2.7 mg |
+| Calcium (white) | about 130–430 mg, variable | about 40–130 mg |
+| Calcium (whole seed) | up to about 650 mg, variable | up to about 200 mg |
 
-### Culinary and practical use
+### Benefits
 
-* **Raw tahini:** thinned with water and lemon juice — a classic sauce for shawarma, falafel and vegetable dishes
-* **In hummus:** a base that combines tahini with chickpeas — see the [chickpeas](/en/food/chickpeas/) entry
-* **On green salads:** with balsamic vinegar and garlic — a creamy substitute for cream-based dressing
-* **In desserts:** halva, sesame cakes, tahini cookies with [honey](/en/food/honey/)
-* **In cooking:** a base for sauces for fish and chicken in Middle Eastern cuisine
-* **As a spread on bread:** with honey or jam — a traditional, nourishing breakfast
+- **Unsaturated fat.** About 80% of the fat in tahini is unsaturated, roughly half linoleic acid (omega-6) and half oleic acid. Replacing saturated fat with fats like these is one of the well-established recommendations for heart health.
+- **Blood lipids.** A meta-analysis of ten controlled trials found that sesame and sesame products lowered blood triglycerides, but did not show a reduction in total or LDL cholesterol. [Khalesi et al., 2016](https://pubmed.ncbi.nlm.nih.gov/26758593/). So tahini is best seen as part of a healthy Mediterranean diet, not as a way to lower cholesterol.
+- **[Iron](/en/food/iron/).** Two tablespoons provide about 2.7 mg of iron, about 15% of the daily need of a woman of childbearing age. This is plant iron, which is less well absorbed, so the lemon in tahini sauce, rich in [vitamin C](/en/food/supplements/vitamin-c/), improves its absorption.
+- **[Calcium](/en/food/supplements/calcium/).** Whole-seed tahini is one of the better plant sources of calcium and is useful for vegans and people who avoid [milk](/en/food/milk/). Note that most of the calcium in sesame sits in the hull, and part of it is bound to oxalate and absorbed less well. White tahini contains considerably less calcium.
+- **[Magnesium](/en/food/supplements/magnesium/), phosphorus and copper** in decent amounts, and [vitamin B1](/en/food/supplements/vitamin-b1/).
+- **Protein.** About 5 g in two tablespoons. Sesame protein is rich in methionine and complements legume protein well. Hummus with tahini is a good protein combination for that reason.
+- **Lignans.** Sesame contains distinctive lignans such as sesamin and sesamolin, studied in the lab for their antioxidant activity. Clinical evidence of a real benefit in people is still limited.
 
-### Frequently asked questions
+### Downsides
 
-**Question: What's the difference between roasted and raw tahini?**
-Answer: Tahini from roasted seeds is sweeter and creamier; raw tahini retains more antioxidants and magnesium. Both are healthy.
+- **Sesame allergy.** In Israel it is one of the common allergies in children: in a survey of about 1,900 toddlers in the north of the country, the rate of sesame allergy was 0.93%, similar to cow's milk and egg allergy. [Kessel et al., 2021](https://pubmed.ncbi.nlm.nih.gov/32822919/). In the US the rate is lower, about 0.2% with a convincing diagnosis. [Warren et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31373655/). Reactions can be severe, and sesame is labelled as an allergen.
+- **Salmonella.** Tahini and halva are dry foods, but they have been linked to several Salmonella outbreaks and repeated recalls. The bacterium survives well in a fatty, low-moisture environment. [Health Canada, 2022](https://pubmed.ncbi.nlm.nih.gov/36422369/). It is worth following recall notices, especially for imported products.
+- **Calories.** Two tablespoons of raw tahini are about 180 calories. It is easy to pour it generously over falafel, shawarma and salad and reach 400 calories or more without noticing.
+- **Omega-6 without omega-3.** Sesame contains almost no [omega-3](/en/food/supplements/omega-3/). That is not a reason to avoid it, but omega-3 sources such as fish, walnuts or flax should also be on the menu.
+- **Oxalates.** Whole sesame is relatively high in oxalate. People with calcium oxalate kidney stones should ask about large amounts.
+- **Halva.** Halva is tahini with a lot of sugar, almost half its weight. It is a dessert, not a "healthy tahini product".
 
-**Question: Is tahini a good calcium source for vegans?**
-Answer: Yes — especially dark tahini (whole seeds). Including 2-3 tablespoons a day contributes significantly to daily calcium intake.
+### Whole versus white tahini
 
-**Question: How should you store tahini?**
-Answer: In a sealed jar outside the fridge until opened; after opening — in the fridge to prevent the fat from oxidizing. Oil separation (a top layer) is normal — stir before use.
+| Feature | Whole-seed tahini | White tahini (hulled seeds) |
+|---|---|---|
+| Calcium | much higher | lower |
+| Iron | slightly higher | moderate |
+| Fibre | higher | lower |
+| Oxalate | higher | lower |
+| Taste | more bitter | mild |
+| Texture | less creamy | creamy |
 
-**Question: Is tahini suitable for people with diabetes?**
-Answer: Yes — it has a low GI and is rich in healthy fat that slows carbohydrate absorption. In a controlled amount (2 tablespoons) it does not cause a significant rise in blood sugar.
+### Practical use
+
+- **Tahini sauce.** Raw tahini with cold water, lemon juice, garlic and salt. The lemon improves iron absorption, and the water lowers the calories per spoonful.
+- **Hummus.** Tahini with [chickpeas](/en/food/chickpeas/) combines complementary protein, fibre and unsaturated fat.
+- **On vegetables and fish.** Tahini baked over cauliflower, aubergine or fish adds healthy fat without cream.
+- **At breakfast.** A teaspoon of raw tahini with [honey](/en/food/honey/) or date syrup on wholegrain bread, in moderation because of the sugar.
+- **In baking.** Tahini cookies and sesame cakes. Here tahini is part of a dessert.
+- **Storage.** Oil separating into a top layer is normal; just stir. After opening, keep it somewhere cool or in the fridge to slow oxidation.
+- **How much?** Two tablespoons of raw tahini a day is a reasonable amount for most people.
+
+**See also:** [Sesame Seeds](/en/food/sesame-seeds/), [Peanut Butter](/en/food/peanut-butter/)
 
 ### Summary
 
-Tahini is a unique kitchen ingredient with a rich nutritional profile — an excellent source of calcium, iron and healthy fats. Choosing dark tahini from whole seeds from organic sources provides the most complete nutrient profile.
+Tahini is a nutritious spread with unsaturated fat, protein that complements legumes, iron, magnesium and calcium, mainly in the whole-seed version. Research shows lower triglycerides, not lower cholesterol, so it is a good part of a healthy diet rather than a treatment. The main downsides are sesame allergy, which is common in Israel, calories, and a rare Salmonella risk from contaminated products. Two tablespoons a day, preferably whole-seed tahini, are a good way to enjoy it.
+
+### Frequently asked questions
+
+**Question: How many calories are in a tablespoon of tahini?**
+Answer: A tablespoon of raw tahini (15 g) has about 90 calories. A tablespoon of ready tahini sauce, thinned with water and lemon, has roughly half that.
+
+**Question: Is tahini a good calcium source for vegans?**
+Answer: Yes, especially whole-seed tahini. Some of the calcium is absorbed less well, so it is worth combining it with other sources such as calcium-set tofu and fortified plant drinks.
+
+**Question: What is the difference between whole and white tahini?**
+Answer: Whole tahini is made from seeds with their hull, and has more calcium, fibre and oxalate and a more bitter taste. White tahini from hulled seeds is mild and creamy, and lower in calcium.
+
+**Question: Does tahini lower cholesterol?**
+Answer: That has not been shown. In a meta-analysis of trials, sesame lowered triglycerides, but not total or LDL cholesterol to a significant degree.
+
+**Question: How should tahini be stored?**
+Answer: In a closed jar in a cool place. After opening it is better kept in the fridge to prevent oxidation. Oil separation is normal; stir before use.
+
+**Question: Is tahini suitable for people with diabetes?**
+Answer: Yes. It is low in carbohydrate and barely raises blood sugar. Two tablespoons a day is a reasonable amount. Just do not confuse it with halva, which is mostly sugar.
+
+**Question: When can babies have tahini?**
+Answer: Alongside the introduction of solid foods, usually around six months, in a small, thinned amount. If there is severe eczema or another food allergy, ask a doctor before the first exposure.

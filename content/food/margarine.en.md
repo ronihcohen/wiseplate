@@ -1,6 +1,6 @@
 ---
 title: "Margarine"
-seo_title: "Margarine: Trans Fats, What Changed, and Margarine vs. Butter — the Comparison"
+seo_title: "Margarine: Trans Fats and Margarine vs. Butter"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
@@ -58,7 +58,7 @@ The answer depends on the margarine. In short:
 * **Three times less saturated fat than butter** — 15.9 vs. 51 grams per 100 grams.
 * **Zero dietary cholesterol** (the relevance of dietary cholesterol has diminished in recent years, but it is still a difference).
 * **Plenty of unsaturated fat:** about 39 grams of monounsaturated and 24 grams of polyunsaturated fat per 100 grams.
-* **Fortification with [vitamin A](/en/food/supplements/vitamin-a/) and [vitamin D](/en/food/supplements/vitamin-d/)** — in many countries this is a legal requirement, and margarine is a not-insignificant dietary source of vitamin D.
+* **Fortification with [vitamin A](/en/food/supplements/vitamin-a/) and vitamin D** — in many countries this is a legal requirement, and margarine is a not-insignificant dietary source of vitamin D.
 * **Reduced-fat versions:** half the calories of butter or full-fat margarine.
 * **Pareve and dairy-free** — relevant for kosher observance, milk protein allergy, lactose intolerance and veganism.
 * **Price and shelf life** — low and stable.
@@ -80,12 +80,12 @@ The answer depends on the margarine. In short:
 * **Look for "hydrogenated" in the ingredient list** — and put the product back if it appears.
 * **Prefer [olive oil](/en/food/olive-oil/)** wherever it fits — for light frying, in dressing, on bread. That is the real upgrade, not switching between margarine and butter.
 * **Don't bake with reduced-fat versions.** Their high water content ruins doughs; they are meant for spreading only.
-* **Check for [vitamin D](/en/food/supplements/vitamin-d/) fortification** — present in some products but not all.
+* **Check for vitamin D fortification** — present in some products but not all.
 * **Measure.** A teaspoon of margarine is 35 calories; a generous spread on a slice can be 100.
 
 ### Summary
 
-The margarine that people remember and fear no longer exists: **trans fats have been almost completely removed from it** following a global regulatory shift. Today's margarine contains **a third of the saturated fat of butter** and zero cholesterol, and is usually fortified with vitamin D. Two practical rules sum it all up: **choose a soft tub, not a hard stick** (solidity = saturated fat), and **read which oil comes first on the list** — canola or olive, not palm. And above both: when the context allows, [olive oil](/en/food/olive-oil/) is better than either option.
+The margarine that people remember and fear no longer exists: **trans fats have been almost completely removed from it** following a global regulatory shift. Today's margarine contains **a third of the saturated fat of butter** and zero cholesterol, and is usually fortified with vitamin D. Two practical rules sum it all up: **choose a soft tub, not a hard stick** (solidity = saturated fat), and **read which oil comes first on the list** — canola or olive, not palm. And above both: when the context allows, olive oil is better than either option.
 
 ### Frequently asked questions
 

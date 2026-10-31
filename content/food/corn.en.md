@@ -1,6 +1,6 @@
 ---
 title: "Corn"
-seo_title: "Corn: Nutrition Facts, Nixtamalization, and Why Whole Kernels in Your Stool Are Normal"
+seo_title: "Corn: Nutrition Facts, Nixtamalization and Digestion"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""

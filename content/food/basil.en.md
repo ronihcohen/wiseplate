@@ -4,7 +4,7 @@ seo_title: "Basil: Nutrition Facts, Storage and How It Differs from Tulsi"
 date: 2025-12-22T11:00:00+02:00
 lastmod: 2026-09-03T12:00:00+03:00
 featured_image: ""
-description: "Fresh basil adds flavor with almost no sodium or calories. Nutrition facts per serving, proper storage, making pesto and the important difference between sweet basil and tulsi."
+description: "Fresh basil adds flavor with almost no sodium or calories. Nutrition facts, storage, making pesto, and the difference between sweet basil and tulsi."
 ---
 
 ## Basil (*Ocimum basilicum*)

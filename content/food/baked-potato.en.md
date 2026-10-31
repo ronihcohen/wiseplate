@@ -1,6 +1,6 @@
 ---
 title: "Baked Potato"
-seo_title: "Baked or Boiled Potato: How Many Calories It Has and Full Nutrition Facts"
+seo_title: "Baked or Boiled Potato: Calories and Nutrition Facts"
 date: 2026-08-09T12:00:00+03:00
 lastmod: 2026-08-30T19:30:00+03:00
 featured_image: ""
@@ -47,7 +47,7 @@ This is the most common question about it, so it is worth answering with exact n
 
 ### Research-based health benefits
 
-* **Exceptionally rich in potassium:** a medium potato contains about 926 mg of [potassium](/en/food/supplements/potassium/) — more than a [banana](/en/food/banana/) (about 422 mg) and the vast majority of common foods. Potassium is an essential electrolyte for regulating blood pressure, normal heart function and nerve conduction. A potassium-rich diet is linked in the scientific literature to a lower prevalence of high blood pressure and a reduced risk of stroke.
+* **Exceptionally rich in potassium:** a medium potato contains about 926 mg of potassium — more than a [banana](/en/food/banana/) (about 422 mg) and the vast majority of common foods. Potassium is an essential electrolyte for regulating blood pressure, normal heart function and nerve conduction. A potassium-rich diet is linked in the scientific literature to a lower prevalence of high blood pressure and a reduced risk of stroke.
 
 * **Resistant starch after cooling:** when a potato is cooked and then cooled, some of the regular starch undergoes retrogradation and becomes resistant starch — a kind of prebiotic fiber that is not absorbed in the small intestine but reaches the large intestine intact. There it is fermented by beneficial gut bacteria, producing short-chain fatty acids (SCFA) such as butyrate, and helps maintain a healthy gut lining and prevent inflammatory diseases.
 
@@ -82,6 +82,8 @@ This is the most common question about it, so it is worth answering with exact n
 | Mashed with butter | ~115 | ~85 | 4 grams | Added calories and saturated fat |
 | Deep-fried fries | ~310 | ~75 | 15 grams | High in calories and fat, contains acrylamide |
 | Boiled and cooled | ~87 | ~55 | 0.1 grams | Increased resistant starch |
+
+**Compare:** [A Scientific Comparison: Potato, Sweet Potato and Purple Potato](/en/compare/potato-sweet-purple/)
 
 ### Summary
 

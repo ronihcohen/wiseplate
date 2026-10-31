@@ -2,7 +2,7 @@
 title: "Nutritional Pros and Cons"
 seo_title: "Nutrition Facts of Foods: Benefits, Downsides and Calories"
 lastmod: 2026-09-05T09:00:00+03:00
-description: "Nutrition facts, calories, protein, benefits and downsides of hundreds of foods — a balanced, research-based review that also shows the other side of every food, including the \"healthy\" ones."
+description: "Nutrition facts, calories, protein, benefits and downsides of hundreds of foods: a balanced, research-based review, including the other side of \"healthy\" foods."
 ---
 
 Every food is a package of benefits and downsides, and almost no food is absolutely "healthy" or "unhealthy." This section reviews hundreds of foods using a consistent method: nutrition facts per 100 grams, what the research really shows about the benefits, and the downside most articles skip.
@@ -48,4 +48,4 @@ Answer: No. Every food also carries a downside — an iodine load in seaweed, me
 Answer: Basic processing — grinding, fermenting, pasteurizing, freezing — is usually harmless and sometimes improves the food. Ultra-processed food is made of isolated industrial ingredients that don't exist in a home kitchen, and is designed to be especially rewarding. The details are on the [ultra-processed food](/en/food/ultra-processed-foods/) page.
 
 **Question: How much protein do you need a day?**
-Answer: The basic recommendation is 0.8 grams per kg of body weight, but that's a minimum to prevent deficiency, not an optimum. For athletes, strength trainers and adults over 60, a range of 1.2-2.0 grams per kg is accepted. Especially rich sources: [chicken breast](/en/food/chicken-breast/), [tuna](/en/food/tuna/), [Greek yogurt](/en/food/greek-yogurt/), [lentils](/en/food/lentil/) and [tofu](/en/food/tofu/).
+Answer: The basic recommendation is 0.8 grams per kg of body weight, but that's a minimum to prevent deficiency, not an optimum. For athletes, strength trainers and adults over 60, a range of 1.2-2.0 grams per kg is accepted. Especially rich sources: [chicken breast](/en/food/chicken-breast/), tuna, [Greek yogurt](/en/food/greek-yogurt/), [lentils](/en/food/lentil/) and [tofu](/en/food/tofu/).

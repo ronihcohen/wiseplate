@@ -1,10 +1,10 @@
 ---
 title: "Processed Energy Bars"
-seo_title: "Energy and Protein Bars: How to Read the Label, and When They Are Really Worth It"
+seo_title: "Energy and Protein Bars: How to Read the Label"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
-description: "Energy and protein bars: the difference between the three categories, four numbers to check on every wrapper, why sugar alcohols cause stomach aches, and when a bar is really justified."
+description: "Energy and protein bars: three types, four numbers to check on the wrapper, why sugar alcohols upset the stomach, and when a bar makes sense."
 ---
 
 ## Processed Energy Bars
@@ -95,7 +95,7 @@ There are contexts in which a bar is the right solution, not a compromise:
 
 ### Summary
 
-"Energy bar" is one name for three different products, and most of what is sold at the checkout is **candy in a sports wrapper** — 25-35 grams of sugar per 100 grams and less than 8 grams of protein. The only tool that works is four numbers per 100 grams: **sugar under 10, protein over 20 (in a protein bar), fiber over 6, and a first ingredient that is not sugar.** If you get bloated after a protein bar, the cause is almost always **the sugar alcohols**, led by maltitol. And to be fair: there are contexts in which a bar is the right choice — a long endurance effort, a hike, or a day without a kitchen — and in every other case, [dates](/en/food/dates/) with [almonds](/en/food/almonds/) do the same job at a third of the price.
+"Energy bar" is one name for three different products, and most of what is sold at the checkout is **candy in a sports wrapper** — 25-35 grams of sugar per 100 grams and less than 8 grams of protein. The only tool that works is four numbers per 100 grams: **sugar under 10, protein over 20 (in a protein bar), fiber over 6, and a first ingredient that is not sugar.** If you get bloated after a protein bar, the cause is almost always **the sugar alcohols**, led by maltitol. And to be fair: there are contexts in which a bar is the right choice — a long endurance effort, a hike, or a day without a kitchen — and in every other case, dates with almonds do the same job at a third of the price.
 
 ### Frequently asked questions
 

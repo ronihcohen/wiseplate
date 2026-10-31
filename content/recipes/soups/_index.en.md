@@ -1,6 +1,6 @@
 ---
 title: "Soups"
-seo_title: "Soup Recipes: 10 Classic Soups with Full Recipes and Calories per Bowl"
+seo_title: "Soup Recipes: 10 Classic Soups With Calories per Bowl"
 date: 2026-09-01T09:00:00+03:00
 lastmod: 2026-09-01T09:00:00+03:00
 featured_image: "/images/recipes/collections/soups.webp"
@@ -25,24 +25,24 @@ Each of the ten pages here has a full recipe for a defined number of servings, a
 |---|---|---|
 | [Chicken soup](/en/recipes/soups/chicken-soup/) | Chicken broth with vegetables | about 190 per bowl (350 ml) with meat |
 | [Vegetable soup](/en/recipes/soups/vegetable-soup/) | Homemade vegetable soup | about 150 per bowl (350 ml) |
-| [Split pea soup](/en/recipes/soups/split-pea-soup/) | Legume soup | about 240 per bowl (350 ml) |
+| Split pea soup | Legume soup | about 240 per bowl (350 ml) |
 | [Pumpkin soup](/en/recipes/soups/pumpkin-soup/) | Pureed soup | about 235 per bowl (300 ml) |
 | [Mushroom soup](/en/recipes/soups/mushroom-soup/) | Cream soup | about 200 per bowl (300 ml) |
 | [French onion soup](/en/recipes/soups/french-onion-soup/) | Soup with a bread-and-cheese topping | about 480 per bowl (300 ml, with the topping) |
 | [Minestrone](/en/recipes/soups/minestrone/) | Italian vegetable and bean soup | about 210 per bowl (350 ml) |
 | [Tomato soup](/en/recipes/soups/tomato-soup/) | Pureed soup | about 185 per bowl (300 ml) |
-| [Miso soup](/en/recipes/soups/miso-soup/) | Clear Japanese soup | about 80 per bowl (200 ml) |
+| Miso soup | Clear Japanese soup | about 80 per bowl (200 ml) |
 | [Tom yum goong](/en/recipes/soups/tom-yum-soup/) | Thai hot-and-sour soup | about 160 per bowl (350 ml) |
 
 ### Four families, and the logic of each
 
 **Broth soups.** [Chicken soup](/en/recipes/soups/chicken-soup/) is the clear representative: the flavor is built by slow extraction from bones and vegetables, not by frying. The one rule that matters here is that the soup must not boil — a rolling boil breaks down fat and smashes protein particles into the liquid, and the soup comes out cloudy. The same logic applies to [bone broth](/en/food/bone-broth/) on its own.
 
-**Pureed soups.** [Pumpkin](/en/recipes/soups/pumpkin-soup/), [mushroom](/en/recipes/soups/mushroom-soup/) and [tomato](/en/recipes/soups/tomato-soup/) are built on the same method: extract flavor by caramelizing or roasting, cook, and blend. This is also where the category's big calorie trap lies — cream goes in at the end, when you no longer taste it separately, and doubles the calorie count without changing the serving size.
+**Pureed soups.** Pumpkin, [mushroom](/en/recipes/soups/mushroom-soup/) and tomato are built on the same method: extract flavor by caramelizing or roasting, cook, and blend. This is also where the category's big calorie trap lies — cream goes in at the end, when you no longer taste it separately, and doubles the calorie count without changing the serving size.
 
-**Legume soups.** [Split pea](/en/recipes/soups/split-pea-soup/) and [minestrone](/en/recipes/soups/minestrone/) are the only ones in the category you can eat as a whole meal. They provide plant protein, fiber and [potassium](/en/food/supplements/potassium/) at a low calorie cost, and the same idea recurs in [Turkish lentil soup](/en/recipes/turkey/mercimek-corbasi/) and Moroccan [harira](/en/recipes/morocco/harira/).
+**Legume soups.** Split pea and [minestrone](/en/recipes/soups/minestrone/) are the only ones in the category you can eat as a whole meal. They provide plant protein, fiber and [potassium](/en/food/supplements/potassium/) at a low calorie cost, and the same idea recurs in [Turkish lentil soup](/en/recipes/turkey/mercimek-corbasi/) and Moroccan [harira](/en/recipes/morocco/harira/).
 
-**Clear Asian soups.** [Miso](/en/recipes/soups/miso-soup/) and [tom yum](/en/recipes/soups/tom-yum-soup/) are built on flavor rather than body: fermented soybean paste, lemongrass and galangal, [lime](/en/food/lemon/) and chili. Both are genuinely low in calories — and genuinely high in sodium. That's the deal worth knowing before calling them "diet soups."
+**Clear Asian soups.** Miso and tom yum are built on flavor rather than body: fermented soybean paste, lemongrass and galangal, [lime](/en/food/lemon/) and chili. Both are genuinely low in calories — and genuinely high in sodium. That's the deal worth knowing before calling them "diet soups."
 
 ### Five rules that improve every soup on this page
 
@@ -56,14 +56,14 @@ Each of the ten pages here has a full recipe for a defined number of servings, a
 
 The difference between the two isn't just in flavor. Industrial soup powder is built on salt, flavor enhancers and hydrogenated or refined vegetable fat, and mainly supplies sodium — usually 800-1,200 mg per cup, which is about half the recommended daily limit in one bowl. More on the [instant soup](/en/food/instant-soup/) page and the [ultra-processed foods](/en/food/ultra-processed-foods/) page.
 
-Homemade soup, on the other hand, supplies what the vegetables and legumes themselves carry: [potassium](/en/food/supplements/potassium/), fiber, [vitamin A](/en/food/supplements/vitamin-a/) from carrots and pumpkin, and plant [iron](/en/food/iron/) from the legumes — whose absorption improves when you finish the bowl with a squeeze of [lemon](/en/food/lemon/). That is the practical difference, and it is much bigger than the difference in taste.
+Homemade soup, on the other hand, supplies what the vegetables and legumes themselves carry: [potassium](/en/food/supplements/potassium/), fiber, [vitamin A](/en/food/supplements/vitamin-a/) from carrots and pumpkin, and plant [iron](/en/food/iron/) from the legumes — whose absorption improves when you finish the bowl with a squeeze of lemon. That is the practical difference, and it is much bigger than the difference in taste.
 
 For more recipes by cuisine see [Recipes](/en/recipes/), for the nutritional values of the ingredients themselves see [nutritional pros and cons](/en/food/), and for direct comparisons between similar ingredients — [food comparisons](/en/compare/).
 
 ### Frequently asked questions
 
 **Question: Which soup is lowest in calories?**
-Answer: Of the ten here, [miso soup](/en/recipes/soups/miso-soup/) — about 80 calories per 200 ml bowl. After it comes [tom yum](/en/recipes/soups/tom-yum-soup/) at about 160 calories, which also provides about 24 grams of protein from the shrimp. For both, the caveat isn't calories but sodium: one bowl carries 700-1,200 mg of sodium.
+Answer: Of the ten here, miso soup — about 80 calories per 200 ml bowl. After it comes tom yum at about 160 calories, which also provides about 24 grams of protein from the shrimp. For both, the caveat isn't calories but sodium: one bowl carries 700-1,200 mg of sodium.
 
 **Question: Does soup really help you lose weight?**
 Answer: Not on its own, but it helps through two proven mechanisms. Hot liquid fills volume in the stomach and slows the pace of eating, and a serving of soup before a meal reduces the amount eaten afterward. The condition is that the soup itself isn't loaded with cream and bread — otherwise it adds calories instead of replacing them.
@@ -75,7 +75,7 @@ Answer: 4-5 days for vegetable and legume soups, and 3-4 days for chicken or mea
 Answer: Almost all of them, with two exceptions. Soups with cream or milk tend to separate when thawed, and soups with noodles or rice fall apart completely — freeze these without the carbohydrate and add it fresh when reheating. The usual freezer storage time is 3 months.
 
 **Question: Why does my soup come out cloudy?**
-Answer: Almost always because of a rolling boil instead of a gentle simmer. A hard boil breaks down fat and disperses protein particles in the liquid, and that's what makes it cloudy. The fix is to start with cold water, skim off the foam in the first ten minutes and keep the heat low throughout cooking — details in [chicken soup](/en/recipes/soups/chicken-soup/).
+Answer: Almost always because of a rolling boil instead of a gentle simmer. A hard boil breaks down fat and disperses protein particles in the liquid, and that's what makes it cloudy. The fix is to start with cold water, skim off the foam in the first ten minutes and keep the heat low throughout cooking — details in chicken soup.
 
 **Question: What is the difference between soup and broth?**
 Answer: Broth (*broth* or *stock*) is the liquid itself, cooked for hours from bones and vegetables and strained — it's an ingredient, not a dish. Soup is the finished dish, built on broth or water and containing the solids as well. Details on the broth itself on the [bone broth](/en/food/bone-broth/) page.

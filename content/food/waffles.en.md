@@ -1,6 +1,6 @@
 ---
 title: "Waffles"
-seo_title: "Waffles: How Many Calories Really, Belgian vs. Regular, and How to Make Them Better"
+seo_title: "Waffles: Calories, Belgian vs. Regular and Healthier Versions"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
@@ -57,7 +57,7 @@ On this page: a numerical breakdown of the base versus the toppings, the differe
 * **The toppings, not the waffle** — as described above.
 * **Refined white flour.** 2.5 grams of fiber per 100 grams, and without protein and fat alongside it the glycemic response is fast.
 * **Waffles as breakfast for children.** Nutritionally this is a dessert, and it isn't fundamentally different from [sweetened breakfast cereals](/en/food/sweetened-cereals/) or a [sufganiyah](/en/food/sufganiyah/) — refined carbohydrate with added sugar. The problem isn't a single occasion but regularity.
-* **[Sodium](/en/food/supplements/sodium/) in frozen versions** — as described above.
+* **Sodium in frozen versions** — as described above.
 * **Ready-made mixes.** A bagged "waffle mix" usually contains sugar, vegetable fat, stabilizers and dough improvers, while homemade batter requires five ingredients that are all already in the kitchen.
 * **Saturated fat in commercial versions.** A Liège waffle reaches 10-13 grams of saturated fat per 100 grams — more than half the daily allowance.
 * **Low satiety relative to calories.** Refined flour and sugar — a 700-calorie dish that won't hold you for three hours.
@@ -68,7 +68,7 @@ On this page: a numerical breakdown of the base versus the toppings, the differe
   * **Replace half the flour with ground [oats](/en/food/oatmeal/)** — adds fiber and beta-glucan, and slows the glycemic response.
   * **Add [cottage cheese](/en/food/cottage-cheese/) or [Greek yogurt](/en/food/greek-yogurt/) to the batter** — goes from 7 to 14-16 grams of protein per 100 grams and completely changes satiety.
   * **Leave the sugar out of the batter entirely.** The topping will supply the sweetness anyway.
-* **Swap the topping, don't drop it.** [Greek yogurt](/en/food/greek-yogurt/) instead of whipped cream, fresh fruit or [berries](/en/food/blueberries/) instead of syrup, [peanut butter](/en/food/peanut-butter/) or [tahini](/en/food/tahini/) with [honey](/en/food/honey/) instead of chocolate spread.
+* **Swap the topping, don't drop it.** Greek yogurt instead of whipped cream, fresh fruit or [berries](/en/food/blueberries/) instead of syrup, [peanut butter](/en/food/peanut-butter/) or [tahini](/en/food/tahini/) with [honey](/en/food/honey/) instead of chocolate spread.
 * **A serving: one waffle.** Not two, and not "a waffle and a half because there was batter left."
 * **Freeze ahead.** Make a double batch, freeze between sheets of parchment paper, and heat in the toaster.
 * **Eat it as a meal, not a snack.** A waffle with protein and fruit is breakfast; a waffle on its own at three in the afternoon is a glycemic load.

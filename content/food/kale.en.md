@@ -1,98 +1,97 @@
 ---
 title: "Kale"
+seo_title: "Kale: Nutrition, Absorbable Calcium, Vitamin K and Warfarin"
 date: 2026-08-10T06:45:00+03:00
+lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "An exceptional amount of vitamin K, highly available calcium and sulforaphane — and why its low oxalate content is precisely kale's advantage over spinach."
+description: "Kale: hundreds of mcg of vitamin K and 150 mg of calcium per 100 g, absorbed better than milk calcium. Why warfarin users need a steady intake, thyroid, and prep."
 ---
 
 ## Kale
 
-Kale (*Brassica oleracea* var. *sabellica*; in Hebrew, "קייל") is a leafy vegetable from the cruciferous family — the same family that includes [broccoli](/en/food/broccoli/), [cauliflower](/en/food/cauliflower/) and [cabbage](/en/food/cabbage/). Botanically, it is a cabbage that does not form a head. It is one of the most nutrient-dense vegetables relative to its calories, and its cold hardiness allows it to be grown through most of the year.
+**100 g of raw kale provide roughly 35-50 calories, about 150 mg of calcium, more vitamin C than an orange, and hundreds of micrograms of vitamin K. Unlike spinach, kale is low in oxalate: in a trial about 41% of its calcium was absorbed, versus about 32% from milk. People on warfarin (Coumadin) do not need to avoid kale, but they do need to eat a consistent amount.**
 
-100 grams of raw kale provide only about 49 calories, but also about 390-700 mcg of [vitamin K](/en/food/supplements/vitamin-k/) (hundreds of percent of the daily intake), about 93-120 mg of [vitamin C](/en/food/supplements/vitamin-c/) (more than an [orange](/en/food/orange/)), about 500 mcg retinol equivalents of [vitamin A](/en/food/supplements/vitamin-a/) and about 150 mg of [calcium](/en/food/supplements/calcium/).
+Kale (*Brassica oleracea* var. *sabellica*, in Hebrew "קייל") is a leafy green in the crucifer family, together with [broccoli](/en/food/broccoli/), [cauliflower](/en/food/cauliflower/) and [cabbage](/en/food/cabbage/). Botanically it is a cabbage that does not form a head. In Israel the most common types are curly kale and "dinosaur" kale (lacinato), with darker, smoother leaves.
 
-### The advantage that sets it apart from spinach: oxalates
+### Nutrition facts
 
-This is the most important point for understanding where kale fits in, and it is almost always missing from comparisons.
+Per 100 g of raw kale, and per cup of chopped leaves (about 20 g), a typical salad portion. Different databases give different values, so ranges are shown.
 
-[Spinach](/en/food/spinach/) is considered a "plant source of calcium" — but that is misleading. Spinach is very rich in **oxalates**, acids that bind calcium in the gut to form an insoluble complex. The result: calcium absorption from spinach is only about 5%.
+| Nutrient | Per 100 g | Chopped cup (20 g) |
+|---|---|---|
+| Calories | about 35-49 | about 7-10 |
+| Carbohydrate | about 4.4-8.8 g | about 1-2 g |
+| Dietary fiber | about 3.6-4 g | about 0.8 g |
+| Protein | about 3-4.3 g | about 0.7 g |
+| [Vitamin K](/en/food/supplements/vitamin-k/) | about 390-700 mcg | about 80-140 mcg |
+| [Vitamin C](/en/food/supplements/vitamin-c/) | about 93-120 mg | about 20 mg |
+| [Vitamin A](/en/food/supplements/vitamin-a/) (retinol activity equivalents) | about 500 mcg | about 100 mcg |
+| [Calcium](/en/food/supplements/calcium/) | about 150 mg | about 30 mg |
+| Lutein + zeaxanthin | about 6,000-8,000 mcg | — |
 
-Kale, by contrast, has **low** oxalate content. Calcium absorption from it is estimated at about 50% — higher availability even than that of [milk](/en/food/milk/) (about 32%). In other words, although spinach contains more calcium on paper, kale actually delivers far more available calcium.
+A word on amounts: a cup of chopped raw kale weighs very little. In a pot, a spoonful or two of cooked kale can hold 100 g of fresh leaves or more.
 
-This also explains why the common warnings about oxalates and kidney stones apply to spinach and chard — but less so to kale.
+### Benefits
 
-### Research-based health benefits
+* **Well-absorbed calcium.** [Spinach](/en/food/spinach/) contains a lot of calcium on paper, but its oxalate binds it: in a crossover trial only about 5% of spinach calcium was absorbed, versus about 28% from milk. [Heaney et al., 1988](https://pubmed.ncbi.nlm.nih.gov/3354496/). In low-oxalate kale the picture is reversed: absorption was about 41%, slightly higher than that from milk (about 32%) in the same subjects. [Heaney & Weaver, 1990](https://pubmed.ncbi.nlm.nih.gov/2321572/). You still need a fair amount of kale to match the calcium in a glass of [milk](/en/food/milk/), but it is a genuine plant source.
 
-* **An exceptional amount of [vitamin K](/en/food/supplements/vitamin-k/):** A single serving provides hundreds of percent of the daily intake. Vitamin K1 is essential for blood clotting and for activating osteocalcin — the protein that fixes calcium in bone tissue. The combination of vitamin K with available calcium makes kale one of the best plant foods for bone health.
+* **Vitamin K.** Kale is one of the richest sources of vitamin K1, which is needed for blood clotting and for proteins involved in building bone. A small portion easily exceeds the recommended intake (90 mcg for women, 120 for men). [NIH ODS: Vitamin K](https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/).
 
-* **Sulforaphane and glucosinolates:** Like all crucifers, kale contains glucosinolates. When the plant tissue is damaged — by cutting or chewing — an enzyme called myrosinase converts them into isothiocyanates, chief among them sulforaphane. Sulforaphane is one of the most studied plant compounds in the context of activating the Nrf2 pathway, which switches on phase 2 detoxification enzymes. **An important practical point:** myrosinase is heat-sensitive and is deactivated by prolonged cooking. Brief steaming (3-4 minutes) preserves it; long boiling destroys it almost completely.
+* **Blood lipids: a small study.** In a study of 32 men with high cholesterol, 150 ml of kale juice a day for 12 weeks was associated with a drop of about 10% in LDL and a rise of about 27% in HDL. [Kim et al., 2008](https://pubmed.ncbi.nlm.nih.gov/18548846/). There was no control group, so this is a preliminary finding only.
 
-* **Lutein and zeaxanthin:** Carotenoids that accumulate in the macula of the retina and filter harmful blue light. Kale is one of the densest sources of them, and studies link their intake to a reduced risk of age-related macular degeneration (AMD).
+* **Glucosinolates and sulforaphane.** When a crucifer leaf is cut or chewed, the enzyme myrosinase converts glucosinolates into isothiocyanates such as sulforaphane. These are studied in the lab for activating protective mechanisms in cells. The enzyme is heat-sensitive, so brief steaming preserves it better than long boiling.
 
-* **[Vitamin C](/en/food/supplements/vitamin-c/):** Raw kale contains more vitamin C than an orange per unit of weight. The vitamin is sensitive to heat and water — another reason to prefer it raw or briefly cooked.
+* **Lutein and zeaxanthin.** Kale is one of the densest sources of these carotenoids, which accumulate in the retina. In observational studies high intake has been linked to a lower risk of macular degeneration.
 
-* **Fiber and nutrient density:** About 4 grams of fiber per 100 grams, at only 49 calories. This is one of the best ratios of nutrients to calories in the entire diet.
+* **Crucifers and disease risk.** In a meta-analysis of cohort studies, eating cruciferous vegetables and green leafy vegetables was associated with a lower risk of heart disease and death. [Aune et al., 2017](https://pubmed.ncbi.nlm.nih.gov/28338764/).
 
-* **Polyphenols:** Kaempferol and quercetin, which are linked to anti-inflammatory activity.
+### Downsides
 
-### Downsides and health considerations
+* **Warfarin (Coumadin): the most important point.** Warfarin works against vitamin K, so a sudden change in the amount of kale, in either direction, shifts the INR. The rule is not to avoid it but to keep intake steady from day to day and tell your doctor before a big change in diet. [NIH ODS: Vitamin K](https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/). Newer anticoagulants (such as apixaban and rivaroxaban) do not work through vitamin K and are not affected by it in the same way.
 
-* **Interaction with anticoagulants — the most significant consideration:** The high vitamin K content poses a real problem for people taking warfarin (Coumadin), whose action is based precisely on inhibiting vitamin K. **The rule is not "avoid" but "keep intake consistent"** — a sudden change in amount, in either direction, is what destabilizes INR control. Coordinate with your physician. Note: modern anticoagulants (DOACs such as apixaban and rivaroxaban) are not affected by vitamin K.
+* **The thyroid.** Glucosinolate breakdown products can interfere with iodine uptake by the thyroid ([iodine](/en/food/supplements/iodine/)). This matters mainly with very large amounts of raw kale every day (for example in smoothies) together with iodine deficiency. At normal intakes and with enough iodine there is no concern, and cooking reduces the effect.
 
-* **Goitrogens and the thyroid gland:** Glucosinolates in crucifers may compete with [iodine](/en/food/supplements/iodine/) for uptake into the thyroid. In practice, the risk is relevant only with extreme intake (a large amount of raw kale every day, for example in smoothies) **combined with iodine deficiency**. For anyone who gets enough iodine and eats kale in reasonable amounts, there is no concern. Cooking significantly reduces the goitrogenic activity.
+* **Gas and bloating.** Large amounts of raw kale are hard to digest for some people. Brief steaming helps a great deal.
 
-* **Insoluble fiber and digestion:** A large amount of raw kale can cause gas and bloating, especially in people with a sensitive digestive system. Light steaming softens the fibers and helps a great deal.
+* **Pesticide residues.** Kale sometimes appears on high-residue lists. Wash well between the leaves.
 
-* **Thallium and metals:** Kale, as a cruciferous vegetable, efficiently absorbs minerals from the soil — and so may also accumulate heavy metals in contaminated soils. Reports about this are mostly exaggerated and not based on substantial research, but varying your sources is a good rule anyway.
+* **The thallium myth.** The claim that kale "poisons you with thallium" rested on uncontrolled tests and is unfounded. Eating a variety of vegetables is a good principle anyway.
 
-* **Pesticides:** Kale consistently appears on lists of the vegetables with the highest pesticide residues. Thorough washing or choosing organic is especially relevant here.
+### Practical use
 
-### Nutrition facts per 100 grams (raw)
+* **Massage for salad:** remove the central stem, chop, and massage the leaves by hand with a little [olive oil](/en/food/olive-oil/) and salt for 2-3 minutes. The texture softens and the bitterness fades.
+* **Brief cooking:** steaming or stir-frying for 3-4 minutes keeps most of the vitamin C and the myrosinase activity.
+* **With fat:** vitamins A and K and lutein are fat-soluble; [tahini](/en/food/tahini/) or [avocado](/en/food/avocado/) in the salad improves absorption.
+* **Kale chips:** bake at 150°C with a little oil until the leaves are crisp, not burnt.
+* **In smoothies:** a handful of kale with fruit. Anyone managing INR should use the same amount each time.
+* **With [orange](/en/food/orange/) or lemon:** vitamin C helps absorb the plant iron in the leaves.
+* **Storage:** keep kale unwashed in a bag in the fridge for up to a week; chopped and blanched kale freezes well for soups and stews.
 
-| Nutrient | Amount |
-|---|---|
-| Calories | 49 |
-| Carbohydrates | 8.8 g |
-| Dietary fiber | 3.6 g |
-| Protein | 4.3 g |
-| [Vitamin K](/en/food/supplements/vitamin-k/) | 390-700 mcg |
-| [Vitamin C](/en/food/supplements/vitamin-c/) | 93-120 mg |
-| [Vitamin A](/en/food/supplements/vitamin-a/) (retinol equivalents) | 500 mcg |
-| [Calcium](/en/food/supplements/calcium/) | 150 mg (~50% absorption) |
-| Lutein + zeaxanthin | 8,200 mcg |
-
-### Practical preparation
-
-**Massaging the kale — the key trick for salad:** Raw kale leaves are tough and fibrous. Massaging the leaves by hand with a little [olive oil](/en/food/olive-oil/) and salt for 2-3 minutes mechanically breaks down the cell walls, softens the texture significantly and reduces the bitterness. It is the difference between a kale salad that is hard to eat and a successful one.
-
-**Remove the central stem:** It is tough and bitter. Fold the leaf lengthwise and cut along the stem.
-
-**Cook briefly, not long:** Steaming for 3-4 minutes preserves the myrosinase enzyme (needed to form sulforaphane) and most of the [vitamin C](/en/food/supplements/vitamin-c/). Prolonged boiling leaches water-soluble vitamins into the water and deactivates the enzyme.
-
-**Combine with fat:** Vitamins A and K, as well as lutein, are fat-soluble. A kale salad without oil, [tahini](/en/food/tahini/) or [avocado](/en/food/avocado/) wastes a good part of its value.
-
-**Kale chips:** Bake briefly at 150°C (300°F) with a little oil. High temperatures burn the thin leaves and damage the nutrients.
+**Compare:** [A Scientific Comparison: Spinach, Kale and Chard](/en/compare/spinach-kale-chard/)
 
 ### Summary
 
-Kale justifies a good part of its reputation — not because of vague "energy" but because of a measurable combination: an exceptional amount of vitamin K, calcium with about 50% absorption availability (higher than milk's), lutein for the eyes, and sulforaphane. Its main advantage over spinach is precisely what it does **not** contain — oxalates. Two real caveats: coordinating with a doctor for people taking warfarin, and understanding that long cooking cancels out a good part of the advantage.
+Kale earns part of its reputation through a measurable combination: plenty of vitamin K, calcium that is well absorbed thanks to low oxalate, vitamin C and lutein. It is not a "detox" and not a medicine. Two real caveats: a steady intake and coordination with your doctor for anyone on warfarin, and caution with extreme amounts of raw kale when iodine intake is low.
 
 ### Frequently asked questions
 
-**Question: Kale or spinach — which is better?**
-Answer: It depends on the goal, but for calcium kale is clearly better. Spinach is rich in oxalates that bind calcium, and absorption from it is only about 5%; from low-oxalate kale, absorption is about 50%. Spinach is richer in iron and [folate](/en/food/supplements/vitamin-b9/).
+**Question: Kale or spinach, which is better?**
+Answer: For calcium, kale is clearly better: about 41% of its calcium is absorbed, versus about 5% from spinach. Spinach is richer in [folate](/en/food/supplements/vitamin-b9/). Both are good vegetables.
 
 **Question: Can I eat kale if I take Coumadin?**
-Answer: Yes, but you must keep your intake **consistent** and coordinate with your doctor. The problem is not vitamin K itself but sudden changes in its amount, which destabilize INR control. People taking modern anticoagulants (DOACs) are not affected.
+Answer: Yes, in a consistent amount. The problem is sudden changes in vitamin K intake. Coordinate with your doctor, especially before starting or stopping kale as a regular food.
 
-**Question: Does kale harm the thyroid gland?**
-Answer: In reasonable amounts — no. Its glucosinolates may compete with iodine, but this is relevant only with extreme intake of raw kale combined with iodine deficiency. Cooking significantly reduces the effect.
+**Question: Does kale harm the thyroid?**
+Answer: At normal amounts, no. The concern applies to very large amounts of raw kale together with iodine deficiency. Cooking reduces the effect.
 
 **Question: Is raw or cooked kale better?**
-Answer: Brief steaming (3-4 minutes) is the best balance — it preserves the myrosinase enzyme and most of the vitamin C, and softens the fibers for easier digestion. Long cooking harms both; fully raw is harder to digest.
+Answer: Brief steaming is a good balance: it softens the leaves and keeps most of the vitamin C and the enzyme activity. Long cooking harms both.
 
-**Question: How do you make a kale salad less tough?**
-Answer: Massage the leaves by hand with a little olive oil and salt for 2-3 minutes. The massage breaks down the cell walls, significantly softens the texture and reduces bitterness. It is also worth removing the tough central stem.
+**Question: How do I make kale salad less tough?**
+Answer: Remove the stem, chop finely and massage for 2-3 minutes with a little oil and salt.
 
 **Question: How much vitamin C is in kale?**
-Answer: About 93-120 mg per 100 grams — more than in an orange. The vitamin is sensitive to heat and water, so eating it raw or cooking it briefly preserves it much better than boiling.
+Answer: About 93-120 mg per 100 g raw, more than an orange by weight. Long cooking removes a large part of it.
+
+**Question: Does kale juice lower cholesterol?**
+Answer: A small study without a control group found a fall in LDL and a rise in HDL. That is preliminary; do not treat it as a substitute for treatment.

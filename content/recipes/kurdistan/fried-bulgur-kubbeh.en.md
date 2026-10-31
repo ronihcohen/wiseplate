@@ -40,7 +40,7 @@ If the Israeli bulgur is ground especially fine, start with less water and add m
 ### Method
 
 1. Soak the bulgur for 30 minutes, squeeze it out and knead with the flour, salt and water, added gradually, into a pliable paste.
-2. Fry the onion and beef until dry, season and cool.
+2. Fry the [onion](/en/food/onion/) and [beef](/en/food/red-meat/) until dry, season and cool.
 3. Divide into 24, open each with wet hands, fill and close into a torpedo with no cracks.
 4. Chill for 20 minutes. Fry at 170–175 degrees, 4–5 at a time, for 5–6 minutes until deep golden.
 5. Transfer to a rack and check one piece to make sure the meat is cooked through.

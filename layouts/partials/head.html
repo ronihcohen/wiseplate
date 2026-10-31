@@ -7,9 +7,11 @@
   {{- $seoTitle = printf "%s | %s" (.Params.seo_title | default .Title) .Site.Title -}}
 {{- end -}}
 {{- $desc := partial "page-description.html" . -}}
-{{- $socialImage := "android-chrome-512x512.png" | absURL -}}
+{{- $socialImage := site.Params.default_image | absURL -}}
+{{- $hasOwnImage := false -}}
 {{- with .Params.featured_image -}}
   {{- $socialImage = . | absURL -}}
+  {{- $hasOwnImage = true -}}
 {{- end -}}
 
 <meta charset="UTF-8">
@@ -36,7 +38,7 @@
      site description and list one or two articles that are indexed already.
      "follow" is kept so link equity still reaches those articles. */}}
 {{- $thinTerm := and (eq .Kind "term") (lt (len .RegularPages) (site.Params.min_term_pages | default 5)) -}}
-{{- if $thinTerm }}
+{{- if or $thinTerm (eq .Kind "404") }}
 <meta name="robots" content="noindex, follow">
 {{- else }}
 <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
@@ -58,39 +60,63 @@
 <meta property="og:description" content="{{ $desc }}">
 <meta property="og:url"         content="{{ .Permalink }}">
 <meta property="og:image"       content="{{ $socialImage }}">
+{{- if not $hasOwnImage }}
+<meta property="og:image:width"  content="1200">
+<meta property="og:image:height" content="630">
+{{- end }}
 <meta property="og:image:alt"   content="{{ .Title }}">
 <meta property="og:locale"      content="{{ site.Params.locale }}">
 {{- if gt (len $versions) 1 }}{{ range $versions }}{{ if ne .Lang $.Lang }}
 <meta property="og:locale:alternate" content="{{ .Site.Params.locale }}">
 {{- end }}{{ end }}{{ end }}
 <meta property="og:site_name"   content="{{ .Site.Title }}">
-<meta name="twitter:card"        content="{{ if .Params.featured_image }}summary_large_image{{ else }}summary{{ end }}">
+<meta name="twitter:card"        content="summary_large_image">
 <meta name="twitter:title"       content="{{ $seoTitle }}">
 <meta name="twitter:description" content="{{ $desc }}">
 <meta name="twitter:image"       content="{{ $socialImage }}">
 <meta name="twitter:image:alt"   content="{{ .Title }}">
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&family=Heebo:wght@300;400;500;700&display=swap">
-<link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&family=Heebo:wght@300;400;500;700&display=swap" rel="stylesheet">
+{{/* Fonts are self-hosted (@font-face in style.css). Preload the subset of
+     the page's own script so text paints in the right face on first render. */}}
+{{- $script := cond (eq site.Language.LanguageDirection "rtl") "hebrew" "latin" }}
+<link rel="preload" as="font" type="font/woff2" href="{{ printf "fonts/heebo-%s.woff2" $script | relURL }}" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="{{ printf "fonts/rubik-%s.woff2" $script | relURL }}" crossorigin>
 <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
 
 {{/* ===== Structured data =====
      Built as maps and marshalled once. Emitting raw JSON inside <script> makes
      Hugo apply JS-context escaping to each jsonify'd value, which double-quotes
      every string; safeJS on a single marshalled document avoids that. */}}
-{{- $org := dict "@type" "Organization" "name" .Site.Title "url" .Site.BaseURL "logo" ("android-chrome-512x512.png" | absURL) -}}
+{{/* One Organization for both languages, with a stable @id at the domain root
+     (not site.Home, which is /en/ on the English site). Every block embeds the
+     full node rather than a bare @id reference, because Google reads each page
+     on its own and needs the author/publisher name on that page. */}}
+{{- $root := urls.Parse site.BaseURL -}}
+{{- $rootURL := printf "%s://%s/" $root.Scheme $root.Host -}}
+{{- $logo := dict "@type" "ImageObject" "url" ("android-chrome-512x512.png" | absURL) "width" 512 "height" 512 -}}
+{{- $org := dict
+      "@type"         "Organization"
+      "@id"           (printf "%s#organization" $rootURL)
+      "name"          site.Params.brand
+      "alternateName" site.Params.brand_alt
+      "url"           $rootURL
+      "logo"          $logo -}}
+{{- with site.Params.same_as }}{{ $org = merge $org (dict "sameAs" .) }}{{ end -}}
+{{- $defaultImage := dict "@type" "ImageObject" "url" (site.Params.default_image | absURL) "width" 1200 "height" 630 -}}
 
 {{- if .IsHome -}}
   {{- $ld := dict
         "@context"   "https://schema.org"
         "@type"      "WebSite"
+        "@id"        (printf "%s#website" site.Home.Permalink)
         "name"       .Site.Title
+        "alternateName" (cond (eq .Site.Title site.Params.brand) site.Params.brand_alt site.Params.brand)
         "url"        site.Home.Permalink
         "inLanguage" site.Params.inLanguage
-        "description" $desc -}}
+        "description" $desc
+        "publisher"  $org -}}
 <script type="application/ld+json">{{ $ld | jsonify | safeJS }}</script>
+<script type="application/ld+json">{{ merge (dict "@context" "https://schema.org") $org | jsonify | safeJS }}</script>
 {{- else if and (eq .Kind "page") .Params.recipe_yield -}}
   {{/* Recipe pages carry the machine-readable fields Google needs for a recipe
        result. Ingredients and steps are parsed out of the body rather than
@@ -122,6 +148,9 @@
         {{- $name := replaceRE `^\*\*([^*]+)\*\*.*$` "$1" $raw -}}
         {{- $name = replaceRE $strip "$1" $name -}}
         {{- $name = replaceRE `\*+` "" $name -}}
+        {{/* The bold lead-in ends with its own punctuation ("לשים."), which
+             reads oddly as a step title. */}}
+        {{- $name = replaceRE `[\s.:…]+$` "" $name -}}
         {{- $t := replaceRE `^\*\*[^*]+\*\*[ \t]*` "" $raw -}}
         {{- $t = replaceRE $strip "$1" $t -}}
         {{- $t = replaceRE `\*+` "" $t -}}
@@ -157,9 +186,11 @@
   {{- with .Params.tags }}{{ $ld = merge $ld (dict "keywords" (delimit . ", ")) }}{{ end -}}
 <script type="application/ld+json">{{ $ld | jsonify | safeJS }}</script>
 {{- else if eq .Kind "page" -}}
+  {{/* schema_type lets a page that is not an article (the About page is an
+       AboutPage) keep the same fields under the right type. */}}
   {{- $ld := dict
         "@context"         "https://schema.org"
-        "@type"            "Article"
+        "@type"            (.Params.schema_type | default "Article")
         "headline"         .Title
         "description"      $desc
         "inLanguage"       site.Params.inLanguage
@@ -169,13 +200,17 @@
         "dateModified"     (.Lastmod.Format "2006-01-02T15:04:05Z07:00")
         "wordCount"        .WordCount
         "author"           $org
-        "publisher"        $org -}}
+        "publisher"        $org
+        "image"            (cond $hasOwnImage $socialImage $defaultImage) -}}
+  {{- with .Params.seo_title }}{{ $ld = merge $ld (dict "alternativeHeadline" .) }}{{ end -}}
   {{- with .Params.tags }}{{ $ld = merge $ld (dict "keywords" (delimit . ", ")) }}{{ end -}}
 <script type="application/ld+json">{{ $ld | jsonify | safeJS }}</script>
 {{- else if eq .Kind "section" -}}
   {{/* Match the visible card order in list.html: subsections first, then
        direct articles. A hub with nested content still has useful items. */}}
   {{- $els := slice -}}
+  {{/* The full list ran to ~19 KB of JSON on /food/ for no rich result, so
+       the ItemList below carries the first 50; numberOfItems keeps the count. */}}
   {{- range slice .Sections .RegularPages -}}
     {{- range . -}}
       {{- $els = $els | append (dict "@type" "ListItem" "position" (add (len $els) 1) "url" .Permalink "name" .Title) -}}
@@ -188,10 +223,10 @@
         "description"      $desc
         "inLanguage"       site.Params.inLanguage
         "url"              .Permalink
-        "isPartOf"         (dict "@type" "WebSite" "name" .Site.Title "url" .Site.BaseURL)
+        "isPartOf"         (dict "@type" "WebSite" "@id" (printf "%s#website" site.Home.Permalink) "name" .Site.Title "url" site.Home.Permalink)
         "publisher"        $org
-        "mainEntity"       (dict "@type" "ItemList" "numberOfItems" (len $els) "itemListElement" $els) -}}
-  {{- with .Params.featured_image }}{{ $ld = merge $ld (dict "image" (absURL .)) }}{{ end -}}
+        "image"            (cond $hasOwnImage $socialImage $defaultImage)
+        "mainEntity"       (dict "@type" "ItemList" "numberOfItems" (len $els) "itemListElement" (first 50 $els)) -}}
 <script type="application/ld+json">{{ $ld | jsonify | safeJS }}</script>
 
 {{- end -}}

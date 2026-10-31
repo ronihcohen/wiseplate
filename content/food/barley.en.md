@@ -1,15 +1,33 @@
 ---
 title: "Barley"
+seo_title: "Barley Nutrition: Beta-Glucan, Cholesterol and Blood Sugar"
 date: 2026-08-10T07:00:00+03:00
+lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "The grain with the lowest glycemic index, and a leading source of beta-glucan — the fiber with an approved health claim for lowering cholesterol."
+description: "Barley has the lowest glycemic index of common grains (about 25–30) and beta-glucan that lowers LDL (EFSA: 3 g a day). Nutrition, gluten, pearl vs whole."
 ---
 
 ## Barley
 
-Barley (*Hordeum vulgare*) is one of the first grains domesticated by humans, about 10,000 years ago. In the modern diet it has been pushed aside in favor of wheat and rice and is used mainly to make beer — but nutritionally it is one of the most powerful grains, mainly thanks to one component: **beta-glucan**.
+**Barley is the grain with the lowest glycemic index among common grains (about 25–30 for cooked pearl barley) and a high content of beta-glucan, a soluble fiber that lowers LDL cholesterol; a cup of cooked pearl barley provides about 190 calories and about 6 g of fiber.** It contains gluten, so it is not suitable for people with celiac disease. In Hebrew it is called "שעורה", and pearl barley "גריסים".
 
-100 grams of dry pearl barley provide about 352 calories, 73 grams of carbohydrates, 15.6 grams of dietary fiber and 9.9 grams of protein. After cooking, the volume roughly triples, so a cooked serving provides about 120 calories and 6 grams of fiber per cup.
+Barley (*Hordeum vulgare*) is one of the first grains humans domesticated, about 10,000 years ago. Today it is used mostly for beer and animal feed, and in the kitchen mainly in soups and stews, but nutritionally it is one of the best grains.
+
+### Nutrition facts
+
+| Nutrient | Per 100 g dry pearl barley | Per cup cooked (about 157 g) |
+|---|---|---|
+| Calories | 352 | about 193 |
+| Carbohydrates | 77.7 g | about 44 g |
+| Dietary fiber | 15.6 g | about 6 g |
+| Of which beta-glucan | 3–8 g | about 1.5–2.5 g |
+| Protein | 9.9 g | about 3.5 g |
+| Fat | 1.2 g | about 0.7 g |
+| [Selenium](/en/food/supplements/selenium/) | 37.7 mcg | about 13 mcg |
+| [Magnesium](/en/food/supplements/magnesium/) | 79 mg | about 35 mg |
+| Glycemic index (cooked) | 25–30 | 25–30 |
+
+Values are approximate, based on USDA data. Cooked barley absorbs water and swells to about three times its dry volume.
 
 ### Beta-glucan — the component that carries the load
 
@@ -17,17 +35,17 @@ Beta-glucan is a soluble dietary fiber that forms a viscous solution in the smal
 
 Viscosity is the mechanism. The gel that forms binds bile acids and prevents their reabsorption at the end of the small intestine; the liver has to produce new bile acids, and to do so it draws cholesterol from the blood — and so LDL levels fall. The same viscosity also slows the passage of food and the action of digestive enzymes on starch, hence the effect on blood sugar.
 
-This is one of a small number of food components to have earned an **officially approved health claim**: both the US FDA and the European Food Safety Authority (EFSA) have approved stating that beta-glucan from barley helps lower cholesterol. The threshold set by EFSA is **3 grams of beta-glucan a day** — an amount reached with about a cup of cooked barley.
+This is one of a small number of food components to have earned an **officially approved health claim**: both the US FDA and the European Food Safety Authority (EFSA) have approved stating that beta-glucan from barley helps lower cholesterol. The threshold set by EFSA is **3 grams of beta-glucan a day** [(EFSA: barley beta-glucans, 2011)](https://doi.org/10.2903/j.efsa.2011.2470). A cup of cooked pearl barley provides about 1.5–2.5 g, so reaching the threshold takes about a cup and a half, or combining it with oats.
 
 ### Research-based health benefits
 
-* **Lowering LDL:** meta-analyses of controlled trials show a consistent reduction in total cholesterol and LDL with beta-glucan from barley, without harming HDL.
+* **Lowering LDL:** a meta-analysis of controlled trials found that barley and barley beta-glucan lowered LDL by about 0.27 mmol/L (about 10 mg/dL) compared with control [(AbuMweis et al., 2010)](https://pubmed.ncbi.nlm.nih.gov/20924392/).
 
 * **The lowest glycemic index among grains:** cooked pearl barley has a GI of about 25-30 — dramatically lower than white rice (about 73), white bread (about 75) and even [quinoa](/en/food/quinoa/) (about 53). This is an exceptional figure that makes barley one of the most suitable starchy foods for anyone managing blood sugar.
 
-* **The "second-meal effect":** an interesting finding documented in trials — a barley-based dinner improves the glycemic response to **the next morning's breakfast**. The explanation: the fibers fermented in the large intestine produce short-chain fatty acids that affect [insulin](/en/food/supplements/insulin/) sensitivity for many hours afterward.
+* **The "second-meal effect":** in a controlled trial, an evening meal with barley-kernel bread improved glucose tolerance at **the next morning's breakfast** compared with white bread [(Nilsson et al., 2008)](https://pubmed.ncbi.nlm.nih.gov/18356328/). The likely explanation: the fiber is fermented in the large intestine into short-chain fatty acids that affect [insulin](/en/food/supplements/insulin/) sensitivity for many hours afterwards.
 
-* **Satiety:** viscosity slows gastric emptying. Studies show reduced calorie intake at subsequent meals after a barley-based meal.
+* **Satiety:** viscosity slows gastric emptying, and in the same trial a barley evening meal was linked with greater fullness the next morning.
 
 * **Prebiotics and the microbiome:** beta-glucan and resistant starch reach the large intestine and serve as food for beneficial bacteria, producing butyrate, which supports the cells of the intestinal wall.
 
@@ -53,23 +71,9 @@ Practical conclusion: pearl barley is a perfectly good compromise, not a "refine
 
 * **A sudden increase in fiber:** a sharp switch to a high fiber intake may cause gas and discomfort. Increase gradually and drink water accordingly — soluble fiber needs fluid to work.
 
-### Nutrition facts per 100 grams (pearl barley, dry)
-
-| Nutrient | Amount |
-|---|---|
-| Calories | 352 |
-| Carbohydrates | 77.7 grams |
-| Dietary fiber | 15.6 grams |
-| Of which beta-glucan | 3-8 grams |
-| Protein | 9.9 grams |
-| Fat | 1.2 grams |
-| [Selenium](/en/food/supplements/selenium/) | 37.7 mcg |
-| [Magnesium](/en/food/supplements/magnesium/) | 79 mg |
-| Glycemic index (cooked) | 25-30 |
-
 ### Practical use
 
-**How much for beta-glucan:** a cup of cooked barley a day provides roughly the 3 grams set as the threshold in EFSA's health claim.
+**How much for beta-glucan:** a cup and a half of cooked pearl barley a day, or a cup of barley plus a serving of [oats](/en/food/oatmeal/), provides roughly the 3 grams set as the threshold in EFSA's health claim.
 
 **Cooking:** pearl barley — about 1:3 with water, 25-40 minutes. Whole barley — soak overnight, then about an hour. Both types are excellent for cooking in bulk and storing in the refrigerator for several days.
 
@@ -86,16 +90,19 @@ Barley is one of the most underrated grains. It has two prominent, measurable ad
 ### Frequently asked questions
 
 **Question: Does barley contain gluten?**
-Answer: Yes. Barley contains hordein, a protein in the [gluten](/en/food/gluten/) family, and it is completely off-limits for people with celiac disease and gluten sensitivity. For gluten-free alternatives see [buckwheat](/en/food/buckwheat/) or [quinoa](/en/food/quinoa/).
+Answer: Yes. Barley contains hordein, a protein in the [gluten](/en/food/gluten/) family, and it is completely off-limits for people with celiac disease and gluten sensitivity. For gluten-free alternatives see [buckwheat](/en/food/buckwheat/) or quinoa.
 
 **Question: What is the difference between pearl barley and whole barley?**
 Answer: Pearl barley has been polished and had its bran removed. Unlike other grains, barley is special in that its beta-glucan is spread throughout the whole kernel and not just the outer layer — so pearl barley remains rich in fiber. Whole barley is better for minerals and B vitamins, but requires much longer cooking.
 
 **Question: Does barley really lower cholesterol?**
-Answer: Yes, and this is one of the few health claims officially approved by both the FDA and EFSA. The threshold is 3 grams of beta-glucan a day — about a cup of cooked barley. The mechanism is binding of bile acids in the gut.
+Answer: Yes, moderately. This is one of the few health claims officially approved by both the FDA and EFSA. The threshold is 3 grams of beta-glucan a day, about a cup and a half of cooked pearl barley, and the average LDL drop is about 10 mg/dL. The mechanism is binding of bile acids in the gut.
 
 **Question: Is barley suitable for people with diabetes?**
 Answer: Very much so. Its glycemic index (25-30) is the lowest among common grains, and studies have even shown a "second-meal effect" — an improved glycemic response to the next meal, hours later.
 
 **Question: Do you need to soak barley before cooking?**
 Answer: Whole barley — yes, preferably overnight, both to shorten cooking time and to reduce phytic acid. Pearl barley doesn't need soaking and cooks within 25-40 minutes.
+
+**Question: How many calories are in a cup of cooked barley?**
+Answer: About 190 calories per cup (about 157 g), with about 6 g of fiber and 3.5 g of protein. 100 g of dry pearl barley has about 352 calories.

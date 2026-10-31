@@ -1,6 +1,6 @@
 ---
 title: "Turkish Red Lentil Soup"
-seo_title: "Mercimek Çorbası: An Authentic Turkish Lentil Soup Recipe — Calories per Serving"
+seo_title: "Mercimek Çorbası Recipe: Turkish Lentil Soup"
 date: 2026-08-23T09:10:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/mercimek-corbasi.webp"
@@ -76,7 +76,7 @@ The recommended serving is a bowl of about 300 ml, about one-sixth of the pot.
 | Fat | About 9 g |
 | Sodium | Depends on the salt and stock — about 400-700 mg |
 
-The values are an estimate for the recipe as written. Two tablespoons of butter divided among six servings add about 25 calories per serving; replacing them with [olive oil](/en/food/olive-oil/) barely changes the number but does change the fat profile.
+The values are an estimate for the recipe as written. Two tablespoons of butter divided among six servings add about 25 calories per serving; replacing them with olive oil barely changes the number but does change the fat profile.
 
 Nutritionally this is one of the best-value dishes in Turkish cuisine: about 13 g of protein and 7 g of fiber in 290 calories. The lemon isn't just flavor — its [vitamin C](/en/food/supplements/vitamin-c/) significantly improves absorption of the plant [iron](/en/food/iron/) in the lentils, which on its own is poorly absorbed.
 
@@ -89,7 +89,7 @@ Nutritionally this is one of the best-value dishes in Turkish cuisine: about 13 
 
 ### Summary
 
-Mercimek çorbası is the best entry point to Turkish cuisine: one pot, half an hour, cheap ingredients, and a result that's hard to ruin. Nutritionally it's one of the most balanced soups there is — plant protein, seven grams of fiber and about 290 calories per bowl. More Turkish recipes on the [Turkish cuisine](/en/recipes/turkey/) page, more soups on the [soups](/en/recipes/soups/) page, and for the nutritional values of the legume itself see [lentils](/en/food/lentil/).
+Mercimek çorbası is the best entry point to Turkish cuisine: one pot, half an hour, cheap ingredients, and a result that's hard to ruin. Nutritionally it's one of the most balanced soups there is — plant protein, seven grams of fiber and about 290 calories per bowl. More Turkish recipes on the [Turkish cuisine](/en/recipes/turkey/) page, more soups on the [soups](/en/recipes/soups/) page, and for the nutritional values of the legume itself see lentils.
 
 ### Frequently asked questions
 

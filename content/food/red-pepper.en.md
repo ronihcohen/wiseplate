@@ -1,10 +1,10 @@
 ---
 title: "Red Bell Pepper"
-seo_title: "Red Bell Pepper: Three Times More Vitamin C Than an Orange — and How It Differs From Green"
+seo_title: "Red Bell Pepper: Vitamin C, Nutrition and Red vs. Green"
 date: 2025-12-22T11:35:00+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
-description: "Red bell pepper: full nutrition facts, why it has three times more vitamin C than an orange, how it differs from green bell pepper, and how much of the vitamin survives cooking."
+description: "Red bell pepper: nutrition facts, three times the vitamin C of an orange, red vs. green, and how much vitamin C survives cooking."
 ---
 
 ## Red Bell Pepper (*Capsicum annuum*)
@@ -35,7 +35,7 @@ And a second fact that also surprises many people: **green and red bell peppers 
 The green bell pepper is **an unripe fruit**. When it stays on the plant, it goes on to turn yellow, orange and finally red, and along the way three things happen:
 
 * **The chlorophyll breaks down** and carotenoids build up in its place — mainly **capsanthin**, the red pigment unique to the Capsicum family, alongside beta-carotene, zeaxanthin and lutein.
-* **The [vitamin C](/en/food/supplements/vitamin-c/) content rises** — from 80 mg in green to 128 in red and 183 in yellow.
+* **The vitamin C content rises** — from 80 mg in green to 128 in red and 183 in yellow.
 * **Sugar rises and bitterness falls** — which is why red is sweet and green tastes sharp and bitter.
 
 This is also the reason for the price: the red fruit occupied space on the plant for longer.
@@ -44,7 +44,7 @@ This is also the reason for the price: the red fruit occupied space on the plant
 
 ### Vitamin C and cooking — how much is left
 
-[Vitamin C](/en/food/supplements/vitamin-c/) is the bell pepper's strongest nutrient, and also **the most vulnerable**: water-soluble, heat-sensitive and oxidized by air.
+Vitamin C is the bell pepper's strongest nutrient, and also **the most vulnerable**: water-soluble, heat-sensitive and oxidized by air.
 
 | Preparation | Estimated vitamin C retention |
 |---|---|
@@ -60,7 +60,7 @@ This is also the reason for the price: the red fruit occupied space on the plant
 
 ### Benefits
 
-* **An exceptional amount of [vitamin C](/en/food/supplements/vitamin-c/):** 142% of the daily value per 100 grams in red, and 204% in yellow. Supports [collagen](/en/food/collagen/) production, immune function and the absorption of non-heme [iron](/en/food/iron/).
+* **An exceptional amount of vitamin C:** 142% of the daily value per 100 grams in red, and 204% in yellow. Supports [collagen](/en/food/collagen/) production, immune function and the absorption of non-heme [iron](/en/food/iron/).
 * **Carotenoids:** capsanthin (unique to Capsicum), beta-carotene, zeaxanthin and lutein — the last two accumulate in the macula of the eye.
 * **[Vitamin A](/en/food/supplements/vitamin-a/):** 17% of the daily value in red, compared with only 2% in green.
 * **[Vitamin B6](/en/food/supplements/vitamin-b6/):** 17% — important for amino acid metabolism and neurotransmitter synthesis.
@@ -92,7 +92,7 @@ This is also the reason for the price: the red fruit occupied space on the plant
 
 ### Summary
 
-The red bell pepper is one of the best sources of [vitamin C](/en/food/supplements/vitamin-c/) in the entire vegetable aisle — **142% of the daily value for 31 calories, three times more than an orange** — and alongside it carotenoids, vitamin B6 and vitamin E. Two practical points: **green and red are the same fruit at different stages of ripeness**, and the nutritional difference between them is real (eight times the vitamin A); and **vitamin C is heat-sensitive** — to get it you need to eat some of the bell pepper raw, while the carotenoids are best eaten roasted and with fat.
+The red bell pepper is one of the best sources of vitamin C in the entire vegetable aisle — **142% of the daily value for 31 calories, three times more than an orange** — and alongside it carotenoids, vitamin B6 and vitamin E. Two practical points: **green and red are the same fruit at different stages of ripeness**, and the nutritional difference between them is real (eight times the vitamin A); and **vitamin C is heat-sensitive** — to get it you need to eat some of the bell pepper raw, while the carotenoids are best eaten roasted and with fat.
 
 ### Frequently asked questions
 

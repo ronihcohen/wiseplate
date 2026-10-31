@@ -17,7 +17,7 @@ calories: 595
 
 ## Sega Tibs — Ethiopian Stir-Fried Beef
 
-Tibs is a broad name for cut meat that is fried or stir-fried, from a dry, simple preparation to a juicy version with onion, tomato and peppers. It is sometimes served with [awaze, berbere sauce](/en/recipes/ethiopia/awaze/), on the side. Here kosher beef and spiced oil are used instead of butter, so the dish stays a meat dish without dairy.
+Tibs is a broad name for cut meat that is fried or stir-fried, from a dry, simple preparation to a juicy version with [onion](/en/food/onion/), [tomato](/en/food/tomato/) and peppers. It is sometimes served with [awaze, berbere sauce](/en/recipes/ethiopia/awaze/), on the side. Here kosher beef and spiced oil are used instead of butter, so the dish stays a meat dish without dairy.
 
 **Prep time:** 20 minutes · **Cooking time:** 25 minutes · **Yield:** 5 servings · **Difficulty:** easy
 
@@ -28,7 +28,7 @@ A kilogram of meat cools a home pan. Fry in three batches and return it all at t
 ### Ingredients (for 5 servings)
 
 * 1 kg lean [beef](/en/food/red-meat/) for searing, such as rump (sheitel) or sirloin (sinta), in 2 cm cubes
-* 60 ml canola or olive oil
+* 60 ml canola or [olive oil](/en/food/olive-oil/)
 * 400 grams sliced onion
 * 2 green bell peppers and one hot chili, sliced
 * 300 grams chopped tomatoes, drained of excess juice
@@ -45,7 +45,7 @@ A quick dish needs a cut suited to searing, not shoulder for long cooking. "Goul
 
 1. **Dry the meat.** Pat it dry thoroughly and salt it just before frying.
 2. **Sear.** Heat a heavy pan until very hot with half the oil. Sear in three batches for 2–3 minutes, until browned, and transfer to a plate.
-3. **Fry the vegetables.** Add the rest of the oil, the onion and peppers for 7 minutes. Add the garlic, ginger and berbere for half a minute.
+3. **Fry the vegetables.** Add the rest of the oil, the onion and peppers for 7 minutes. Add the [garlic](/en/food/garlic/), [ginger](/en/food/ginger/) and berbere for half a minute.
 4. **Finish quickly.** Add the tomatoes for 3 minutes, return the meat and stir-fry for 2–4 minutes. For safety, aim for 63°C (145°F) with a 3-minute rest for a whole cut that was cubed in a clean kitchen; if you prefer well done, go to 71°C (160°F).
 5. **Serve.** Add the korarima and serve immediately on injera so it doesn't keep cooking.
 

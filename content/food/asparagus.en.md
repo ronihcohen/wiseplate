@@ -1,10 +1,10 @@
 ---
 title: "Asparagus"
-seo_title: "Asparagus: Nutrition Facts, Urine Smell — and the Truth Most People Miss"
+seo_title: "Asparagus: Nutrition Facts and Why It Makes Urine Smell"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
-description: "Asparagus: full nutrition facts, why the urine smell is really a question of who can smell it, the difference between green and white, and who needs to be careful because of purines."
+description: "Asparagus: nutrition facts, why the urine smell depends on who can smell it, green vs. white asparagus, and who should be careful because of purines."
 ---
 
 ## Asparagus (*Asparagus officinalis*)
@@ -53,8 +53,8 @@ This is **specific anosmia** — smell blindness to a particular compound, linke
 
 ### Benefits
 
-* **[Vitamin K](/en/food/supplements/vitamin-k/):** 35% of the daily value per 100 grams — for blood clotting and for directing [calcium](/en/food/supplements/calcium/) to bone.
-* **[Folate](/en/food/supplements/vitamin-b9/):** 13% — significant during the reproductive years and pregnancy.
+* **Vitamin K:** 35% of the daily value per 100 grams — for blood clotting and for directing [calcium](/en/food/supplements/calcium/) to bone.
+* **Folate:** 13% — significant during the reproductive years and pregnancy.
 * **High protein for a vegetable** — 2.2 grams in 20 calories.
 * **Inulin and prebiotics.** Asparagus is rich in **inulin**, a soluble fiber that is not digested in the small intestine and serves as **food for beneficial gut bacteria** — mainly bifidobacteria. It is one of the best prebiotic sources among vegetables.
 * **Glutathione and saponins.** Asparagus stands out for its glutathione content and contains saponins (mainly protodioscin) that are being studied for anti-inflammatory effects.
@@ -65,7 +65,7 @@ This is **specific anosmia** — smell blindness to a particular compound, linke
 ### Downsides and considerations
 
 * **Purines and gout.** Asparagus is considered a **moderately high purine** vegetable and traditionally appears on restriction lists for people with gout. **The important caveat:** recent studies found that **plant purines do not raise the risk of gout attacks** the way purines from meat, seafood and alcohol do. People with active gout should get advice, but there is no justification for blanket avoidance.
-* **[Vitamin K](/en/food/supplements/vitamin-k/) and anticoagulants.** 35% per 100 grams is a significant amount. People taking Coumadin (warfarin) need **steady, consistent intake**, not avoidance.
+* **Vitamin K and anticoagulants.** 35% per 100 grams is a significant amount. People taking Coumadin (warfarin) need **steady, consistent intake**, not avoidance.
 * **FODMAPs.** The inulin and fructans that make it an excellent prebiotic are also what cause gas and bloating in sensitive people. **Asparagus is considered high-FODMAP** and is restricted in the elimination phase of the diet.
 * **The urine smell** — as described above. Bothersome, not harmful.
 * **Price and seasonality.** One of the more expensive vegetables, with a short season (spring). Out of season it is usually imported and especially expensive.
@@ -78,7 +78,7 @@ This is **specific anosmia** — smell blindness to a particular compound, linke
 * **Don't cut — snap.** Hold the shoot at both ends and bend it; it snaps on its own exactly at the border between the woody and the tender part.
 * **Roast at 220°C (428°F)** with [olive oil](/en/food/olive-oil/) and salt, 10-12 minutes. Caramelization brings out a sweetness that boiling misses.
 * **Or steam for 3-5 minutes** — no more. Overcooked asparagus turns limp and gray.
-* **Always with fat.** [Vitamin K](/en/food/supplements/vitamin-k/), [vitamin E](/en/food/supplements/vitamin-e/) and the carotenoids are all fat-soluble.
+* **Always with fat.** Vitamin K, [vitamin E](/en/food/supplements/vitamin-e/) and the carotenoids are all fat-soluble.
 * **Peel only white asparagus.** Green asparagus needs no peeling, except for especially thick shoots.
 * **Don't throw away the woody ends** — they are excellent for vegetable stock.
 * **Raw in a salad** — thin shoots, sliced thinly on the diagonal, with [lemon](/en/food/lemon/) and [olive oil](/en/food/olive-oil/). Preserves all the folate and vitamin C.

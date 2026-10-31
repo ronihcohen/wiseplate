@@ -1,6 +1,6 @@
 ---
 title: "Iraqi Bamia"
-seo_title: "Iraqi Bamia: A Recipe for Okra Stew with Meat and Lemon — Calories per Serving"
+seo_title: "Iraqi Bamia Recipe: Okra Stew With Meat and Lemon"
 date: 2026-08-24T02:25:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/iraq/bamia.webp"
@@ -35,11 +35,11 @@ Nutritionally, those very mucilaginous compounds are soluble dietary fiber — t
 
 ### Ingredients (for 6 servings)
 
-* 800 grams small fresh [okra](/en/food/okra/) (or frozen)
+* 800 grams small fresh okra (or frozen)
 * 600 grams [lamb](/en/food/lamb/), cubed or on the bone
 * 1 large [onion](/en/food/onion/), chopped
 * 6 [garlic](/en/food/garlic/) cloves — some left whole
-* 4 grated [tomatoes](/en/food/tomato/) + 2 tablespoons tomato paste
+* 4 grated tomatoes + 2 tablespoons tomato paste
 * Juice of 1.5 [lemons](/en/food/lemon/), or diluted tamarind concentrate as per the note below
 * 1 teaspoon [turmeric](/en/food/turmeric/), 1 teaspoon baharat, salt and pepper
 * 4 tablespoons oil
@@ -75,7 +75,7 @@ The recommended serving is one sixth of the pot — about 350 grams of stew — 
 
 With 180 grams of white [rice](/en/food/rice/), as the dish is actually served, the plate reaches about 630 calories.
 
-[Okra](/en/food/okra/) itself is one of the lowest-calorie vegetables — about 33 calories per 100 grams — and yet it provides soluble fiber, [vitamin K](/en/food/supplements/vitamin-k/), [folate](/en/food/supplements/vitamin-b9/) and [magnesium](/en/food/supplements/magnesium/). In practice, this means the roughly 130 grams of okra in each serving add volume and fiber at a cost of only about 45 calories.
+Okra itself is one of the lowest-calorie vegetables — about 33 calories per 100 grams — and yet it provides soluble fiber, [vitamin K](/en/food/supplements/vitamin-k/), [folate](/en/food/supplements/vitamin-b9/) and [magnesium](/en/food/supplements/magnesium/). In practice, this means the roughly 130 grams of okra in each serving add volume and fiber at a cost of only about 45 calories.
 
 As with most meat stews, saturated fat is the side that calls for consideration. Using lean lamb shoulder or beef instead of fatty cuts brings the serving down to about 330 calories, and if you cook a day ahead you can remove the layer of fat that solidifies on top.
 
@@ -102,7 +102,7 @@ Answer: Three things together — don't cut into the pod but remove only the cap
 Answer: For a stew — yes, and sometimes even better, because it releases less sliminess. The only condition is not to thaw it: put it frozen directly into the pan for searing, otherwise it releases water and softens too much.
 
 **Question: What is so healthy about okra?**
-Answer: It is very low in calories (about 33 per 100 grams) and yet provides soluble fiber, vitamin K, folate and magnesium. Its soluble fiber is exactly the compounds responsible for the sliminess — what is considered a culinary drawback is the nutritional advantage. Details on the [okra](/en/food/okra/) page.
+Answer: It is very low in calories (about 33 per 100 grams) and yet provides soluble fiber, vitamin K, folate and magnesium. Its soluble fiber is exactly the compounds responsible for the sliminess — what is considered a culinary drawback is the nutritional advantage. Details on the okra page.
 
 **Question: Can you make bamia without meat?**
 Answer: Yes. Double the amount of okra, add cooked chickpeas for protein, and cook for only 30 minutes instead of an hour and a half. In Iraq this version is also eaten cold, at room temperature, alongside bread.

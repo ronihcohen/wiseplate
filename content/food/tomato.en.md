@@ -1,40 +1,96 @@
 ---
 title: "Tomato"
+seo_title: "Tomato Nutrition: Lycopene, Paste vs. Fresh, and Heartburn"
 date: 2025-12-22T08:21:28+02:00
+lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "A major source of lycopene — its availability rises with cooking and fat, alongside considerations of acidity and blood clotting."
+description: "A medium tomato has about 22 calories and 17 mg of vitamin C. Why lycopene is absorbed 2.5x better from paste with oil, lycopene and prostate cancer, and heartburn."
 ---
 
 ## Tomato
 
-The tomato is a fruit (and is sometimes treated nutritionally as a vegetable) rich in nutrients and in bioactive compounds that are the subject of extensive research. Below is a balanced scientific review of the main benefits and downsides of eating tomatoes.
+**A medium tomato (about 120 g) provides roughly 22 calories, 1.5 g of fiber, about 17 mg of vitamin C and about 3 mg of lycopene. Lycopene is absorbed better from cooked tomato products with fat: in a trial, tomato paste with oil produced blood lycopene levels 2.5 times higher than fresh tomatoes. The link between lycopene and prostate cancer is observational and not clear-cut.**
+
+The tomato (*Solanum lycopersicum*, in Hebrew "עגבנייה") is botanically a fruit of the nightshade family and nutritionally a vegetable. It is the main source of lycopene in the Western diet, the red carotenoid that gives it its color. In Israel the tomato is the base of Israeli salad, shakshuka and tomato sauce, so most people eat it both fresh and cooked.
+
+### Nutrition facts
+
+Per 100 g of raw red tomato, and for a medium tomato (about 120 g). Values are rounded; lycopene content varies a lot with variety and ripeness.
+
+| Nutrient | Per 100 g | Medium tomato (120 g) |
+|---|---|---|
+| Calories | 18 | about 22 |
+| Carbohydrate | 3.9 g | about 4.7 g |
+| of which sugar | 2.6 g | about 3.2 g |
+| Dietary fiber | 1.2 g | about 1.5 g |
+| Protein | 0.9 g | about 1.1 g |
+| [Vitamin C](/en/food/supplements/vitamin-c/) | 13.7 mg | about 17 mg |
+| [Potassium](/en/food/supplements/potassium/) | 237 mg | about 285 mg |
+| [Vitamin K](/en/food/supplements/vitamin-k/) | 7.9 mcg | about 9.5 mcg |
+| [Folate](/en/food/supplements/vitamin-b9/) | 15 mcg | about 18 mcg |
+| Lycopene | about 2.5 mg | about 3 mg |
+
+Tomato paste is far more concentrated: roughly 4-5 mg of lycopene per tablespoon.
 
 ### Benefits
-- Powerful antioxidants: tomatoes are a good source of lycopene, a potent carotenoid linked to a reduced risk of heart disease and some types of cancer, especially prostate cancer. Lycopene levels are higher in cooked products (sauce, paste) than in fresh tomatoes, and its absorption improves in the presence of dietary fat.
-- Vitamins and minerals: tomatoes contain [vitamin C](/en/food/supplements/vitamin-c/), [vitamin K](/en/food/supplements/vitamin-k/), [folic acid](/en/food/supplements/vitamin-b9/) and [potassium](/en/food/supplements/potassium/). These support the immune system, blood clotting and blood pressure regulation.
-- Dietary fiber and low calories: tomatoes provide dietary fiber that contributes to satiety and gut health, while their calories are low — a useful trait for weight management.
-- Cardiometabolic effects: evidence from observational studies and trials supports an association between regular consumption of tomato products and improvements in blood lipid profile and blood pressure, probably through antioxidant activity and suppression of chronic inflammation.
-- Skin and eye function: the vitamins and antioxidants in tomatoes contribute to protection against oxidative damage in the skin and to supporting eye health.
 
-### Downsides and risks
-- Acidity and worsening of reflux/heartburn: tomatoes are relatively acidic, and in cases of gastroesophageal reflux or a sensitive stomach they may worsen symptoms.
-- Nightshade sensitivity: tomatoes belong to the nightshade family, and some people with autoimmune or inflammatory sensitivities report worsening symptoms after eating them; solid evidence so far is limited and conflicting.
-- Fungicide and pesticide residues: intensive cultivation of tomatoes may lead to pesticide residues; choosing organic tomatoes or washing them well reduces this risk.
-- Drug interactions and clotting: tomatoes contain [vitamin K](/en/food/supplements/vitamin-k/) at moderate levels — a sudden change in the amount eaten can affect anticoagulant therapy such as warfarin in sensitive patients. In these cases, monitor and consult a doctor.
-- Rare allergies and sensitivity: allergic reactions to tomatoes are rare but documented, including skin and throat reactions; people with multiple food allergies should be careful.
+* **Lycopene, and why cooking and fat matter.** Lycopene is fat-soluble and locked inside the tomato's cell walls. In a trial, the same dose of lycopene (23 mg) was given once from fresh tomatoes and once from tomato paste, both times with 15 g of corn oil. The paste produced a 2.5-fold higher peak of lycopene in the blood and a 3.8-fold larger area under the curve. [Gärtner et al., 1997](https://pubmed.ncbi.nlm.nih.gov/9209178/). In practice, tomato sauce with [olive oil](/en/food/olive-oil/) is a better source of lycopene than fresh tomato alone.
 
-### Important biological mechanisms
-- Antioxidant activity: lycopene, together with [vitamin C](/en/food/supplements/vitamin-c/) and other carotenoids, reduces oxidative stress and affects inflammatory pathways and apoptosis processes in malignant cells.
-- Lycopene absorption: the lycopene molecule is fat-soluble — heat and fat increase its bioavailability; brief cooking and eating it together with oil improve bioavailability.
+* **Lycopene and prostate cancer: an association, not proof.** A meta-analysis of 26 observational studies (about 563,000 participants) found a trend toward lower prostate cancer risk with higher lycopene intake, reaching significance only in some analyses, and a clearer association with higher blood lycopene levels. [Chen et al., 2015](https://pubmed.ncbi.nlm.nih.gov/26287411/). These are observational studies; they do not show that tomatoes or lycopene supplements prevent cancer.
 
-### Practical findings and evidence-based recommendations
-- Frequent, long-term consumption of tomatoes and tomato products is associated with cardiometabolic benefits; it is best to include both fresh and cooked tomatoes in a varied diet.
-- For people with reflux or sensitivity to acidity — assess your personal response and limit intake if needed.
-- For people taking anticoagulants or with special medical conditions — consult a doctor before making big changes in intake of foods rich in vitamins that affect clotting.
-- Improving lycopene absorption: prepare cooked tomatoes (sauce, soup) with a little oil ([olive oil](/en/food/olive-oil/)) to boost the health benefit.
+* **Vitamin C and potassium.** A medium tomato supplies about a fifth of the recommended intake of vitamin C and a good amount of potassium, for under 25 calories.
 
-### Limitations of knowledge and research
-Although observational evidence and clinical trials support the benefits of lycopene and tomato products, it is hard to fully separate the effect of tomatoes from the overall dietary pattern. In addition, exact doses and long-term effects are being studied across various populations — and long-term controlled studies are needed for direct comparison.
+* **Part of a vegetable-rich diet.** In a meta-analysis of cohort studies, every extra 200 g a day of fruit and vegetables was associated with a lower risk of heart disease, stroke and death. [Aune et al., 2017](https://pubmed.ncbi.nlm.nih.gov/28338764/). Tomatoes are among the easiest vegetables to add to almost any meal.
+
+* **Volume for few calories.** About 94% water and 18 calories per 100 g. A big tomato salad is a filling dish with few calories.
+
+### Downsides
+
+* **Heartburn and reflux.** Tomatoes, and especially tomato sauce, are acidic, and in some people with reflux they worsen symptoms. This is individual; if you notice a link, cut back mainly on concentrated sauces.
+
+* **Processed products.** Ketchup and ready-made sauces often contain added sugar and salt. Plain tomato paste or crushed tomatoes with no additives are better.
+
+* **Vitamin K and warfarin.** The amount in tomatoes is low and not a practical problem. People on warfarin need consistency mainly with leafy greens.
+
+* **Allergy.** Rare but real; sometimes an itchy mouth in people sensitive to pollen, or a rash around the mouth in children from the acidity.
+
+* **"Nightshades and inflammation".** Some people report worse joint pain after nightshade vegetables. There is no good research evidence for this; anyone who suspects a link can test their own response.
+
+* **Green leaves and stems.** The leaves and stems of the tomato plant contain alkaloids (tomatine) and are not for eating. Cooked green tomatoes in normal amounts, as in pickles or fried, are considered safe.
+
+### Practical use
+
+* **Cooked with oil:** shakshuka, tomato sauce or tomato soup with olive oil are the most effective ways to get lycopene.
+* **Fresh too:** fresh tomato gives more vitamin C, which is heat-sensitive. Combine both forms.
+* **Storage:** ripe tomatoes keep at room temperature for a few days; the fridge harms flavor and texture. Very ripe ones can go into the fridge and come out before eating.
+* **Paste in the pantry:** a tin of paste or crushed tomatoes is a cheap way to get lycopene all year.
+* **Cherry tomatoes:** similar values, sometimes sweeter; handy as a snack.
+* **Dried tomatoes:** concentrated in lycopene and flavor, but also in salt if salted; choose ones without added salt or rinse them.
+* **Canned vs. fresh in cooking:** good-quality canned tomatoes are picked ripe and often have more lycopene and flavor than pale out-of-season fresh tomatoes, so they are a sensible base for winter sauces.
 
 ### Summary
-The tomato is a dietary component with a positive health profile — a source of lycopene, vitamins and fiber that support heart health, a certain reduction in the risk of chronic disease and improved skin health. On the other hand, pay attention to its acidity and to individual sensitivities, consider the risk of pesticide residues and coordinate with drug therapy when needed. Varied, gentle consumption under suitable cooking conditions (to raise the bioavailability of lycopene) provides the best nutritional effect.
+
+The tomato is a low-calorie vegetable with vitamin C, potassium and lycopene. The key practical point: lycopene is absorbed better from tomato products cooked with fat. The link with prostate cancer is observational and does not justify supplements. People with heartburn can limit acidic sauces, and everyone else can enjoy tomatoes in any form.
+
+### Frequently asked questions
+
+**Question: How many calories are in a tomato?**
+Answer: About 18 calories per 100 g, so roughly 22 for a medium tomato. One cherry tomato provides about 3 calories.
+
+**Question: Are cooked tomatoes healthier than fresh?**
+Answer: For lycopene, yes: in a trial, paste with oil produced blood lycopene levels 2.5 times higher. For vitamin C, fresh is better. Combine both.
+
+**Question: Do tomatoes protect against prostate cancer?**
+Answer: Observational studies found a link between higher lycopene intake and lower risk, but the association is inconsistent and there is no proof that it is causal.
+
+**Question: Do tomatoes cause heartburn?**
+Answer: In some people with reflux, yes, mainly concentrated sauces. The response is individual.
+
+**Question: Is it harmful to eat cucumber and tomato together?**
+Answer: No. There is no basis for the claim that the combination cancels vitamins. Israeli salad is a good combination.
+
+**Question: Is ketchup a good source of lycopene?**
+Answer: It contains lycopene, but also sugar and salt. Plain tomato paste or homemade sauce is better.
+
+**Question: Should tomatoes be kept in the fridge?**
+Answer: Ripe tomatoes keep their flavor better at room temperature for a few days. In the fridge they last longer but lose flavor.

@@ -29,7 +29,7 @@ What sets kleicha apart from most holiday cookies in the region is that its clas
 
 This changes the nutritional profile in an interesting way. The sugar in dates is natural sugar in a fiber matrix — about 7 grams of fiber per 100 grams of dates — so it is absorbed more slowly than free sugar, and it comes along with [potassium](/en/food/supplements/potassium/), [magnesium](/en/food/supplements/magnesium/) and [polyphenols](/en/food/polyphenols/). That does not make kleicha a health food: the dough itself is rich in butter or oil, and it remains a cookie. But compared with [baklava](/en/recipes/turkey/baklava/) soaked in sugar syrup or [sholeh zard](/en/recipes/iran/shole-zard/) with 27 grams of added sugar per serving, the difference is real.
 
-More on dates themselves — including why they are calorie-dense despite their benefits — on the [dates](/en/food/dates/) page.
+More on dates themselves — including why they are calorie-dense despite their benefits — on the dates page.
 
 ### Ingredients (for about 40 cookies)
 
@@ -44,7 +44,7 @@ More on dates themselves — including why they are calorie-dense despite their 
 * 1/2 teaspoon salt
 
 **For the date filling:**
-* 500 grams good-quality [date](/en/food/dates/) paste
+* 500 grams good-quality date paste
 * 2 tablespoons butter or oil
 * 1 teaspoon cardamom, 1/2 teaspoon [cinnamon](/en/food/cinnamon/), a pinch of nutmeg
 
@@ -102,7 +102,7 @@ Kleicha is a holiday cookie sweetened mostly with fruit rather than sugar: date 
 Answer: Two cookies (about 70 grams) are about 250 calories with about 18 grams of sugar, most of it from the dates rather than added sugar. The walnut-filled version, which contains white sugar, comes to about 280 calories for the same amount.
 
 **Question: Is kleicha healthier than other cookies?**
-Answer: It is sweetened mostly with fruit, so its sugar comes in a fiber matrix along with potassium and magnesium. Still, the dough is rich in butter, and it is still a cookie — the difference compared with syrup-soaked desserts like [baklava](/en/recipes/turkey/baklava/) is real, but it doesn't make it an everyday food.
+Answer: It is sweetened mostly with fruit, so its sugar comes in a fiber matrix along with potassium and magnesium. Still, the dough is rich in butter, and it is still a cookie — the difference compared with syrup-soaked desserts like baklava is real, but it doesn't make it an everyday food.
 
 **Question: Why did my kleicha come out hard?**
 Answer: Two common reasons — kneading too long, which develops gluten in a dough that is meant to stay crumbly, and baking too long. Kleicha should come out of the oven only lightly golden; it sets as it cools.

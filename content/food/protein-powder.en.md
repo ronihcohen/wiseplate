@@ -1,5 +1,6 @@
 ---
 title: "Protein Powders"
+seo_title: "Protein Powders: Types, Sources Compared, Benefits and Downsides"
 date: 2025-12-31T20:51:27+02:00
 featured_image: ""
 description: "A scientific review of the composition of protein powders, their physiological benefits and the health aspects to take into account."
@@ -39,8 +40,8 @@ When blood amino acid levels rise quickly (hyperaminoacidemia), the cell switche
 
 | Protein type | Source | Absorption rate | Unique properties |
 | --- | --- | --- | --- |
-| **Whey ([cheese](/en/food/cheese/) whey)** | [Milk](/en/food/milk/) | Very fast | Rich in BCAAs, raises insulin levels (anabolic), excellent after training. |
-| **Casein** | [Milk](/en/food/milk/) | Slow (up to 7 hours) | Coagulates (clots) in the stomach, releases amino acids gradually, prevents protein breakdown (anti-catabolic). |
+| **Whey ([cheese](/en/food/cheese/) whey)** | Milk | Very fast | Rich in BCAAs, raises insulin levels (anabolic), excellent after training. |
+| **Casein** | Milk | Slow (up to 7 hours) | Coagulates (clots) in the stomach, releases amino acids gradually, prevents protein breakdown (anti-catabolic). |
 | **Soy** | Plant | Medium | A complete plant protein, contains isoflavones, has a minor effect on the lipid profile. |
 | **[Pea](/en/food/peas/)** | Plant | Medium | Hypoallergenic, rich in arginine, suitable for vegans and the lactose-sensitive. |
 
@@ -66,7 +67,7 @@ Protein powder is a highly effective aid that allows nutritional flexibility. It
 Answer: No. What matters is total daily protein, not its source. Powder is a convenience tool that helps you reach the target (1.6-2.2 grams per kg for strength trainees) when it is hard to do from whole food. If you reach the target from [chicken breast](/en/food/chicken-breast/), [eggs](/en/food/eggs/), [Greek yogurt](/en/food/greek-yogurt/) and [legumes](/en/food/lentil/), you will gain nothing from adding powder.
 
 **Question: What is the difference between whey protein and casein?**
-Answer: The absorption rate. [Whey](/en/food/supplements/whey-protein/) is absorbed quickly and produces a sharp peak in muscle protein synthesis, which is why it is common around training. Casein clots in the stomach and releases amino acids over hours, which is why it is common before bed. The practical difference in long-term results is smaller than the marketing suggests.
+Answer: The absorption rate. Whey is absorbed quickly and produces a sharp peak in muscle protein synthesis, which is why it is common around training. Casein clots in the stomach and releases amino acids over hours, which is why it is common before bed. The practical difference in long-term results is smaller than the marketing suggests.
 
 **Question: Is plant-based protein powder as good as whey?**
 Answer: Almost. Pea or rice protein on its own is low in one or more amino acids, but **a blend of pea and rice** completes the profile and comes very close to whey. Soy protein is a complete protein in its own right. The real gap is in leucine content, which tends to be lower — which justifies a slightly larger serving.

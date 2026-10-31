@@ -17,7 +17,7 @@ calories: 445
 
 ## Badrijani Nigvzit
 
-The name means eggplant with walnuts: soft strips of [eggplant](/en/food/eggplant/) wrap a tangy paste of walnuts, garlic, cilantro and spices. It is a classic dish of the Georgian table, vegan and pareve, served at room temperature.
+The name means eggplant with [walnuts](/en/food/walnuts/): soft strips of [eggplant](/en/food/eggplant/) wrap a tangy paste of walnuts, [garlic](/en/food/garlic/), cilantro and spices. It is a classic dish of the Georgian table, vegan and pareve, served at room temperature.
 
 **Prep time:** 35 minutes · **Cooking:** 30 minutes · **Rest:** 15 minutes · **Yield:** 8 starter servings · **Difficulty:** medium
 
@@ -41,13 +41,13 @@ Slice lengthwise 5–6 mm thick. A thick slice cracks when rolled and a very thi
 
 ### Choosing ingredients and substitutes
 
-Walnuts should smell sweet and nutty, not like old paint. You can bake instead of frying: brush with 80 ml oil and bake at 220°C (430°F) for 18–22 minutes, turning once. Pomegranate out of season is optional; a few herbs add color.
+Walnuts should smell sweet and nutty, not like old paint. You can bake instead of frying: brush with 80 ml oil and bake at 220°C (430°F) for 18–22 minutes, turning once. [Pomegranate](/en/food/pomegranate/) out of season is optional; a few herbs add color.
 
 ### Method
 
 1. **Slice and salt.** Cut lengthwise, salt lightly and leave for 20 minutes. Blot well with paper.
 2. **Fry or bake.** Shallow-fry until soft and golden and transfer to a rack, or bake as directed above. The eggplant must bend without tearing.
-3. **Grind the filling.** Pulse the walnuts, garlic, onion, spices and cilantro. Add the vinegar and water gradually until you get a thick, spreadable paste. Salt.
+3. **Grind the filling.** Pulse the walnuts, garlic, [onion](/en/food/onion/), spices and cilantro. Add the vinegar and water gradually until you get a thick, spreadable paste. Salt.
 4. **Fill.** Place a flat spoonful at the wide end of each slice and roll up without pressing the filling out.
 5. **Let the flavors develop.** Arrange, cover and leave for at least 15 minutes. Scatter the pomegranate before serving.
 

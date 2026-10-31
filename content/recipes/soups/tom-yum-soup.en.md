@@ -1,6 +1,6 @@
 ---
 title: "Tom Yum Goong"
-seo_title: "Tom Yum: A Homemade Thai-Style Hot and Sour Soup Recipe — Calories per Bowl"
+seo_title: "Tom Yum Recipe: Thai-Style Hot and Sour Soup"
 date: 2026-09-01T10:40:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/soups/tom-yum-soup.webp"
@@ -95,7 +95,7 @@ And here is the other side, which is the sodium. Three tablespoons of fish sauce
 
 ### Summary
 
-Tom yum goong is a soup of balance between four tastes — sour, salty, spicy and sweet — and of two timings: the aromatics at the start, the lime and the shrimp at the end. Nutritionally it stands out for the better with about 24 grams of protein in about 160 calories, and for the worse in sodium, which reaches about half the daily limit in one bowl. For more soups see [Soups](/en/recipes/soups/), and for the nutritional values of the main ingredient — [shrimp](/en/food/shrimp/).
+Tom yum goong is a soup of balance between four tastes — sour, salty, spicy and sweet — and of two timings: the aromatics at the start, the lime and the shrimp at the end. Nutritionally it stands out for the better with about 24 grams of protein in about 160 calories, and for the worse in sodium, which reaches about half the daily limit in one bowl. For more soups see [Soups](/en/recipes/soups/), and for the nutritional values of the main ingredient — shrimp.
 
 ### Frequently asked questions
 

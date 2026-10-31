@@ -1,94 +1,97 @@
 ---
 title: "Iodine"
-seo_title: "Iodine: Why Israel Actually Has a Deficiency — Desalinated Water and Non-Iodized Salt"
+seo_title: "Iodine: Daily Needs, Pregnancy and Deficiency in Israel"
 date: 2026-02-13T05:56:32+02:00
-lastmod: 2026-09-02T09:00:00+03:00
+lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "Iodine: its role in the thyroid gland, why Israel is an unusual case with high deficiency rates, why kelp is dangerous, and why pregnancy is the critical period."
+description: "Iodine: 150 mcg a day for adults, 220 in pregnancy. Why Israel's national survey found deficiency in children and pregnant women, food sources, kelp risks."
 ---
 
-Iodine is the only element whose entire role in the body comes down to one thing: **it is the raw material for thyroid hormones.** T4 contains four iodine atoms and T3 contains three — and without them, nothing gets made.
+## Iodine
 
-And because thyroid hormones regulate the metabolic rate of every cell in the body, and above all **brain development in the fetus and the infant**, iodine deficiency is **the world's leading cause of preventable cognitive impairment**.
+**Iodine is a mineral the body needs to make thyroid hormones. Adults need 150 micrograms a day, pregnant women 220 and breastfeeding women 290. In Israel, where salt iodisation is not mandatory and most drinking water is desalinated, the national survey found iodine deficiency in schoolchildren and in most pregnant women.** In Hebrew it is "יוד". [NIH fact sheet on iodine](https://ods.od.nih.gov/factsheets/Iodine-HealthProfessional/).
 
-**And Israel has a unique problem here worth knowing about:** in many countries, table salt is iodized as a public health policy. **Israel has no mandatory iodization**, and at the same time a large share of drinking water is **desalinated water** — and desalination removes its natural iodine. A national survey in Israel found high rates of iodine deficiency, including among pregnant women.
+The hormone T4 carries four iodine atoms and T3 carries three; without iodine they cannot be made. These hormones set the pace of metabolism and, above all, guide brain development in the foetus and infant — which is why iodine deficiency is the world's leading preventable cause of impaired cognitive development.
 
-### Dosage and sources
+### How much you need a day
 
-| Measure | Value |
-|---|---|
-| Recommended Dietary Allowance (RDA) — adults | 150 mcg |
-| **Pregnancy** | **220 mcg** |
-| **Breastfeeding** | **290 mcg** |
-| Tolerable Upper Intake Level (UL) | 1,100 mcg per day |
+| Age | Recommended intake a day (RDA) | Tolerable upper limit a day (UL) |
+|---|---|---|
+| Infants 0–6 months | 110 mcg (AI) | Not set |
+| Infants 7–12 months | 130 mcg (AI) | Not set |
+| 1–3 | 90 mcg | 200 mcg |
+| 4–8 | 90 mcg | 300 mcg |
+| 9–13 | 120 mcg | 600 mcg |
+| 14–18 | 150 mcg | 900 mcg |
+| 19+ | 150 mcg | 1,100 mcg |
+| Pregnancy | 220 mcg | 900–1,100 mcg |
+| Breastfeeding | 290 mcg | 900–1,100 mcg |
 
-| Source | Iodine per serving |
-|---|---|
-| **Kelp [seaweed](/en/food/seaweed/) (1 g dried)** | **1,000-8,000 mcg** — varies by orders of magnitude |
-| Nori (one sheet) | 16-43 mcg |
-| Iodized salt (1/4 teaspoon) | ~70 mcg |
-| Cod (100 g) | 100-170 mcg |
-| [Milk](/en/food/milk/) (cup) | 50-100 mcg |
-| [Yogurt](/en/food/greek-yogurt/) (170 g) | 75 mcg |
-| One [egg](/en/food/eggs/) | 24 mcg |
+### Food sources
 
-## Benefits (Pros)
+| Source | Serving | Iodine |
+|---|---|---|
+| Baked cod | 85 g | about 150 mcg |
+| Greek [yogurt](/en/food/greek-yogurt/) | 1 cup | about 100 mcg (varies) |
+| Israeli [milk](/en/food/milk/) | 1 cup (240 ml) | about 50 mcg |
+| Iodised salt | ¼ teaspoon | about 70–80 mcg |
+| [Egg](/en/food/eggs/) | 1 large | about 25–30 mcg |
+| Nori [seaweed](/en/food/seaweed/) | 1 sheet | tens of mcg, highly variable |
+| Kelp / kelp supplement | 1 g | hundreds to thousands of mcg |
 
-### 1. Producing thyroid hormones
-This is its only, decisive role. Thyroid hormones regulate metabolic rate, body temperature, heart rate, mood and digestive function. **Iodine deficiency causes hypothyroidism and goiter** — the gland swells in an attempt to capture more iodine from the blood.
+Israeli milk is relatively rich in iodine (about 22 mcg per 100 g), but because dairy intake is low, it supplies the average adult with only about 22% of the daily need. [Ovadia et al., 2018](https://pubmed.ncbi.nlm.nih.gov/29855255/).
 
-### 2. Fetal brain development — the most critical of all
-In the first trimester of pregnancy, the fetus depends entirely on the mother's thyroid hormones. **Maternal iodine deficiency during this period damages brain development irreversibly.** In severe cases the result is **cretinism**; in milder cases — a measurable drop in IQ and cognitive function, with no outward sign. **This is why most health organizations recommend an iodine supplement for pregnant and breastfeeding women.**
+### The situation in Israel
 
-### 3. Cognitive function in children
-Studies in iodine-poor populations have shown measurable improvement in children's cognitive function after supplementation — one of the strongest findings in public health nutrition.
+In the first national iodine survey (2016), about 1,000 schoolchildren and about 1,000 pregnant women gave urine samples. The median was 83 mcg per litre in children and 61 in pregnant women — below the World Health Organization's adequate range, with 85% of the pregnant women falling below it. [Ovadia et al., 2017](https://pubmed.ncbi.nlm.nih.gov/28657479/). The Ministry of Health recommends iodised salt and an iodine supplement in pregnancy, but in a study at Barzilai Medical Center only 4% of pregnant women used iodised salt and 52% took a supplement with iodine. [Rosen et al., 2020](https://pubmed.ncbi.nlm.nih.gov/32223752/).
 
-### 4. Breast tissue health
-Breast tissue concentrates iodine using the same transporter (NIS) as the thyroid. There are research hypotheses about a link between iodine status and breast tissue health, but **the evidence is preliminary and does not justify supplementing for this reason.**
+### Benefits
 
-## Downsides and Side Effects (Cons)
+- **Making thyroid hormones:** This is iodine's one decisive job. In deficiency, the gland struggles to make hormones and enlarges (goitre) as it tries to trap more iodine.
+- **Foetal brain development:** In early pregnancy the foetus depends on the mother's thyroid hormones. In the British ALSPAC study, children of women with low iodine in the first trimester were more likely to score in the lowest quarter for verbal IQ and reading at ages 8–9 — even in a country with only mild deficiency. [Bath et al., 2013](https://pubmed.ncbi.nlm.nih.gov/23706508/).
+- **Breastfed babies:** Iodine passes into breast milk, which is why the need is higher during breastfeeding than in pregnancy.
 
-### 1. Kelp — the most common danger
-**Seaweed supplements and kelp powders are the most common source of iodine poisoning.** The iodine content of kelp varies by orders of magnitude between products and even between batches, and a single product can supply **dozens of times the daily intake** — far above the UL. Cases of iodine-induced hyperthyroidism and hypothyroidism have been described. **Anyone who wants to add iodine needs a supplement with a defined dose (potassium iodide), not seaweed.**
+### Downsides and side effects
 
-### 2. The Wolff-Chaikoff effect — excess that causes the same problem
-Too much iodine **temporarily suppresses thyroid hormone production**. In a healthy person the gland "escapes" the suppression within days; **in someone with Hashimoto's, Graves' disease or another thyroid disease, this mechanism may fail** and cause prolonged hypothyroidism. **Excess iodine is almost as dangerous to a diseased thyroid as deficiency.**
+- **Kelp and seaweed supplements:** Iodine content in kelp varies by orders of magnitude between products, and a single serving can exceed the upper limit several times over. Cases of both underactive and overactive thyroid have been described from such products. Anyone who needs iodine should take a supplement with a defined dose (potassium iodide).
+- **Too much iodine:** A large dose temporarily shuts down thyroid hormone production (the Wolff–Chaikoff effect). In a healthy person the gland escapes within days, but in Hashimoto's, Graves' disease or nodular goitre this escape can fail, leading to an under- or overactive thyroid.
+- **Autoimmune disease:** A rapid shift from deficiency to excess has been linked to more autoimmune thyroiditis. Anyone with thyroid disease or positive thyroid antibodies should ask their doctor before supplementing.
+- **Medications:** Iodine supplements combined with thyroid drugs, lithium or amiodarone (which itself contains a large amount of iodine) can disturb thyroid function.
+- **Goitrogens:** Brassicas ([cabbage](/en/food/cabbage/), [broccoli](/en/food/broccoli/), [cauliflower](/en/food/cauliflower/)) and soy slightly interfere with iodine uptake, but this matters only when there is already a deficiency and intake of them is very high.
 
-### 3. Worsening autoimmune disease
-Iodine supplementation in a population that isn't deficient has been linked in several studies to an increase in autoimmune thyroiditis. **Anyone with positive TPO antibodies should consult a professional before supplementing.**
+### Practical use
 
-### 4. Goitrogens — a caveat in proportion
-Cruciferous vegetables ([cabbage](/en/food/cabbage/), [broccoli](/en/food/broccoli/), [cauliflower](/en/food/cauliflower/)) and soy contain compounds that interfere with iodine uptake. **The effect is significant only in combination with existing iodine deficiency and very large intake of the raw vegetables.** For someone with normal iodine intake, this is not a practical consideration.
+- **Iodised salt:** If you use salt, prefer iodised — without using more of it. In Israel, check the label.
+- **Dairy, sea fish and eggs** are the main dietary sources.
+- **Pregnancy and breastfeeding:** Many guidelines recommend a supplement with about 150 mcg iodine, starting when planning a pregnancy. Check that your prenatal vitamin contains iodine — not all do.
+- **"Iodine allergy" does not exist:** A reaction to contrast dye or a [shellfish](/en/food/shrimp/) allergy is not a reaction to iodine, and is no reason to avoid iodised salt.
 
-### 5. Allergy — a clarification
-"Iodine allergy" does not exist as an entity. Allergy to iodine-containing contrast media or to [seafood](/en/food/shrimp/) is unrelated to dietary iodine, and is no reason to avoid iodized salt.
+### Summary
 
-## Summary
-
-Iodine does one thing — it makes thyroid hormones — but that one thing sets the metabolic rate of every cell in the body and the brain development of the fetus. **In Israel, the combination of non-iodized salt and desalinated drinking water creates an unusual situation for a developed country**, so it is worth thinking about iodine actively: **iodized salt, sea fish, dairy products and eggs.** For pregnant and breastfeeding women — **consult about a supplement**; this is the period in which the gap cannot be fixed after the fact. And never through **kelp**, whose dose is unpredictable and dangerous.
+Iodine is essential for making thyroid hormones and for brain development in the foetus. In Israel, with no mandatory iodisation and with desalinated water, the national survey found deficiency in children and pregnant women. The practical fix: iodised salt (without adding more salt), dairy, sea fish and eggs, and in pregnancy and breastfeeding a supplement with iodine. Never kelp supplements, whose dose is unpredictable.
 
 ### Frequently asked questions
 
-**Question: How much iodine do you need per day?**
-Answer: 150 mcg for adults, 220 mcg in pregnancy and 290 mcg when breastfeeding, with a tolerable upper intake level of 1,100 mcg. The gap between the need in pregnancy and the usual need is significant, so this is the period when it's worth actively checking the issue with a doctor.
+**Question: How much iodine do I need a day?**
+Answer: 150 micrograms for adults, 220 in pregnancy and 290 while breastfeeding. The adult upper limit is 1,100 micrograms a day.
 
 **Question: Why is there iodine deficiency in Israel?**
-Answer: Because of two factors that meet. Israel has no mandatory iodization of table salt, unlike many developed countries where it is public health policy. At the same time, a large share of drinking water is desalinated, and desalination removes its natural iodine. A national survey found high rates of deficiency, including among pregnant women.
+Answer: Israel does not require salt iodisation, and most drinking water is desalinated and therefore low in iodine. On top of that, dairy intake is low. In the 2016 national survey, 85% of pregnant women were below the World Health Organization's adequate range.
+
+**Question: Do I need an iodine supplement in pregnancy?**
+Answer: The Israeli Ministry of Health recommends iodised salt and an iodine supplement in pregnancy, and many guidelines advise about 150 mcg a day from planning a pregnancy until the end of breastfeeding. Women with thyroid disease should coordinate this with their doctor.
 
 **Question: Is kelp a good source of iodine?**
-Answer: No, it is dangerous. The iodine content of kelp varies by orders of magnitude between products and between batches, and a single product can supply dozens of times the daily intake — far above the tolerable upper intake level. Cases of iodine-induced hyperthyroidism and hypothyroidism have been described. Anyone who needs iodine should take a supplement with a defined dose, such as potassium iodide.
+Answer: No. Its iodine content varies by orders of magnitude, and one serving can exceed the upper limit several times over and disturb thyroid function. Anyone who needs iodine should take a supplement with a defined dose.
 
 **Question: Is too much iodine dangerous?**
-Answer: Yes, in a way that surprises many people. Excess causes the Wolff-Chaikoff effect — a temporary suppression of thyroid hormone production. In a healthy person the gland recovers within days, but in someone with Hashimoto's, Graves' disease or another thyroid disease the mechanism may fail and cause prolonged hypothyroidism.
+Answer: Yes, especially for people with thyroid disease. Excess temporarily shuts down hormone production, and in Hashimoto's or Graves' disease the gland may fail to recover, leading to an under- or overactive thyroid.
 
 **Question: Which foods are rich in iodine?**
-Answer: Sea fish (cod provides 100-170 mcg per 100 g), dairy products (a cup of milk 50-100 mcg, yogurt 75), eggs (24 mcg each) and nori (16-43 mcg per sheet). A quarter teaspoon of iodized salt provides about 70 mcg. In Israel, where salt is not iodized by default, it's worth checking the package.
+Answer: Sea fish such as cod, yogurt and milk, eggs and iodised salt. Israeli milk provides about 50 mcg per cup.
 
-**Question: Do cruciferous vegetables harm the thyroid?**
-Answer: Almost never. Cabbage, broccoli, cauliflower and soy contain goitrogens that interfere with iodine uptake, but the effect is significant only in combination with existing iodine deficiency and very large intake of the raw vegetables. Cooking reduces it, and for someone with normal iodine intake it is not a practical consideration.
+**Question: Do brassicas harm the thyroid?**
+Answer: Almost never. They slightly interfere with iodine uptake, and this matters only when there is already a deficiency and intake is very high. Cooking reduces the effect further.
 
-**Question: Does "iodine allergy" exist?**
-Answer: Not as a medical entity. Allergy to iodine-containing contrast media is a reaction to the agent itself, not to iodine, and seafood allergy is to the proteins in it. Neither is a reason to avoid iodized salt, fish or dairy products.
-
-**Question: When is it most important to make sure you get enough iodine?**
-Answer: In pregnancy, especially the first trimester. The fetus depends entirely on the mother's thyroid hormones, and deficiency during this period damages brain development irreversibly — from cretinism in severe cases to a measurable decline in cognitive function in milder ones, with no outward sign. That is the reason for the common recommendation of a supplement during pregnancy and breastfeeding.
+**Question: When is iodine intake most important?**
+Answer: When planning a pregnancy, during pregnancy — especially the first trimester — and while breastfeeding. Deficiency in this period can affect the baby's brain development even when it is mild.

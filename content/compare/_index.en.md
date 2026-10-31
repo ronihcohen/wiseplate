@@ -1,8 +1,8 @@
 ---
 title: "Food Comparisons"
-seo_title: "Food Comparisons: What's Really Healthier — Research-Based Comparisons"
+seo_title: "Food Comparisons: Which Is Really Healthier?"
 lastmod: 2026-08-18T09:00:00+03:00
-description: "Which rice is healthiest? What's the difference between red and green lentils? Head-to-head comparisons of similar foods — nutrition facts side by side, with a practical conclusion."
+description: "Which rice is healthiest? Red or green lentils? Head-to-head comparisons of similar foods, with nutrition facts side by side and a practical conclusion."
 ---
 
 The question "which is healthier" is almost always asked between foods from the same family — which rice, which lentil, which oil, which sugar. This section puts the options side by side in a single table and ends with a practical conclusion, not with "they're both good."
@@ -30,10 +30,10 @@ The question "which is healthier" is almost always asked between foods from the 
 ### Frequently asked questions
 
 **Question: Which rice is the healthiest?**
-Answer: Wild rice and brown rice, thanks to their fiber, magnesium and lower glycemic load than white rice. The caveat is arsenic, which accumulates in the bran and is therefore actually higher in brown rice — rinsing before cooking and cooking in plenty of water reduce it. The details are in the [comparison of white, brown and wild rice](/en/compare/white-brown-wild-rice/).
+Answer: Wild rice and brown rice, thanks to their fiber, magnesium and lower glycemic load than white rice. The caveat is arsenic, which accumulates in the bran and is therefore actually higher in brown rice — rinsing before cooking and cooking in plenty of water reduce it. The details are in the comparison of white, brown and wild rice.
 
 **Question: What is the difference between red and green lentils?**
-Answer: Red lentils are lentils that have been hulled, so they cook quickly, break down into a soft texture and contain less fiber. Green and black lentils keep their skin, and with it more fiber and polyphenols, and stay whole when cooked. The details are in the [lentil comparison](/en/compare/red-green-black-lentils/).
+Answer: Red lentils are lentils that have been hulled, so they cook quickly, break down into a soft texture and contain less fiber. Green and black lentils keep their skin, and with it more fiber and polyphenols, and stay whole when cooked. The details are in the lentil comparison.
 
 **Question: Is Himalayan salt healthier than table salt?**
 Answer: Not meaningfully. The extra minerals in it are present in tiny amounts that don't contribute to daily intake. What's more, iodized table salt provides iodine — an essential nutrient that most sea and Himalayan salts don't contain.

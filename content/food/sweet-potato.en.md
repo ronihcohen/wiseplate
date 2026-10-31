@@ -1,103 +1,107 @@
 ---
 title: "Sweet Potato"
+seo_title: "Sweet Potato: Nutrition, Vitamin A, Glycemic Index by Cooking"
 date: 2026-08-10T06:30:00+03:00
+lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "The densest source of beta-carotene in the diet — and why the cooking method changes the sweet potato's glycemic index from 46 to 94."
+description: "Baked sweet potato: 90 calories and a full day's vitamin A per 100 g. In a study, boiled had a glycemic index of 41-50 and baked 82-94. Why, and how to cook it."
 ---
 
 ## Sweet Potato
 
-The sweet potato (*Ipomoea batatas*) is a storage root from the morning glory family — and despite its name and similar uses, it is not a relative of the [potato](/en/food/baked-potato/), which belongs to the nightshade family. It is one of the world's most important crops for food security, and in its orange varieties it is one of the densest sources of pro-[vitamin A](/en/food/supplements/vitamin-a/) in the entire human diet.
+**100 g of orange sweet potato baked in its skin provide about 90 calories, 21 g of carbohydrate, 3.3 g of fiber and about 960 mcg of vitamin A from beta-carotene, more than the whole recommended daily intake. The cooking method changes the effect on blood sugar: in a study, boiled sweet potato had a glycemic index of 41-50, and baked sweet potato 82-94.**
 
-100 grams of baked sweet potato provide about 90 calories, 21 grams of carbohydrates, 3.3 grams of fiber and an exceptional amount of beta-carotene — more than 11,000 mcg, which translates to about 960 mcg of retinol activity equivalents, more than 100% of the recommended daily intake in a single serving.
+The sweet potato (*Ipomoea batatas*, in Hebrew "בטטה") is a storage root in the morning glory family and, despite its name, is not related to the [potato](/en/food/baked-potato/), which belongs to the nightshade family. The orange variety is one of the densest sources of beta-carotene in the diet; there are also purple varieties (rich in anthocyanins) and white ones (starchier and low in both).
 
-### The cooking method determines the glycemic effect
+### Nutrition facts
 
-This is the most important practical fact about sweet potatoes, and it is almost unknown:
+Per 100 g of orange sweet potato baked in its skin, and for a medium sweet potato (about 150 g). Values are rounded.
 
-| Preparation method | Estimated glycemic index |
+| Nutrient | Per 100 g | Medium sweet potato (150 g) |
+|---|---|---|
+| Calories | 90 | about 135 |
+| Carbohydrate | 20.7 g | about 31 g |
+| of which sugar | 6.5 g | about 10 g |
+| Dietary fiber | 3.3 g | about 5 g |
+| Protein | 2 g | about 3 g |
+| Fat | 0.15 g | about 0.2 g |
+| [Vitamin A](/en/food/supplements/vitamin-a/) (retinol activity equivalents) | about 960 mcg | about 1,440 mcg |
+| Beta-carotene | about 11,500 mcg | about 17,000 mcg |
+| [Vitamin C](/en/food/supplements/vitamin-c/) | 19.6 mg | about 29 mg |
+| [Potassium](/en/food/supplements/potassium/) | 475 mg | about 710 mg |
+| [Manganese](/en/food/supplements/manganese/) | about 0.5 mg | about 0.75 mg |
+
+### Cooking method and glycemic index
+
+A study in Jamaica tested ten sweet potato varieties prepared four ways, in ten healthy volunteers. [Bahado-Singh et al., 2011](https://pubmed.ncbi.nlm.nih.gov/22132322/):
+
+| Preparation | Measured glycemic index |
 |---|---|
-| Boiled in water (30 min) | 46 (low) |
-| Fried | 76 (high) |
-| Baked in the oven (45 min) | 94 (very high) |
+| Boiled | 41-50 (low) |
+| Roasted | 79-93 (high) |
+| Baked | 82-94 (high) |
 
-The explanation: sweet potatoes contain the enzyme beta-amylase, which under moderate, prolonged heat breaks starch down into the sugar maltose — this is also the mechanism that makes baked sweet potato so sweet. Long baking gives the enzyme time to work, and it also gelatinizes the starch and speeds up its breakdown in the gut. Boiling in water inactivates the enzyme quickly and preserves starch.
+The accepted explanation: sweet potatoes contain an enzyme (beta-amylase) that, under moderate, prolonged heat, breaks starch down into maltose; that is why baked sweet potato tastes so sweet. Long baking also gelatinizes the starch and makes it easier to digest in the gut. In boiling, the enzyme has less time to work. The study was small and used local varieties, but the direction is consistent: people managing blood sugar should prefer boiled or steamed sweet potato to baked.
 
-The practical conclusion: **boiled or steamed sweet potato is far better suited than baked sweet potato for people managing their blood sugar**. Cooling after cooking adds another advantage — it creates resistant starch (retrograded starch), which acts as dietary fiber and feeds gut bacteria.
+### Benefits
 
-### Research-based health benefits
+* **Vitamin A without the risk of excess.** The body converts beta-carotene into vitamin A according to need, so eating plenty of sweet potato does not cause vitamin A toxicity, unlike preformed vitamin A in supplements. [NIH ODS: Vitamin A](https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/).
 
-* **Beta-carotene and [vitamin A](/en/food/supplements/vitamin-a/):** one serving covers the full daily intake. Vitamin A is essential for vision in low light, for the integrity of epithelial tissues (skin, mucous membranes) and for immune function. Unlike vitamin A supplements, which can build up to toxic levels, the body converts beta-carotene to vitamin A **only as needed** — so this plant source is safe even at high intake.
+* **Evidence from a controlled trial.** In a trial in South Africa, children aged 5-10 received 125 g of boiled, mashed orange sweet potato every school day (53 days), versus white sweet potato with no beta-carotene. In the orange group, liver vitamin A stores improved. [van Jaarsveld et al., 2005](https://pubmed.ncbi.nlm.nih.gov/15883432/). That is why orange sweet potato features in programs to prevent vitamin A deficiency in Africa.
 
-* **Public health importance:** orange sweet potato is at the heart of nutritional intervention programs in Africa and Asia to prevent vitamin A deficiency — the leading cause of preventable blindness in children. Biofortified varieties (OFSP) have shown proven effectiveness in improving vitamin A status in the target populations.
+* **Potassium.** 100 g of baked sweet potato supply about 475 mg of potassium, more than a [banana](/en/food/banana/) by weight. Adequate potassium intake is associated with lower blood pressure. [NIH ODS: Potassium](https://ods.od.nih.gov/factsheets/Potassium-HealthProfessional/).
 
-* **Dietary fiber:** 3.3 grams per 100 grams, about half of it soluble. The skin contains a good share of it — peeling cuts the fiber content by about a third.
+* **Fiber.** About 5 g in a medium sweet potato, much of it in and just under the skin.
 
-* **[Potassium](/en/food/supplements/potassium/):** about 475 mg per 100 grams — more than a [banana](/en/food/banana/) — which helps regulate blood pressure and balance [sodium](/en/food/supplements/sodium/) intake.
+* **Vitamin C and manganese.** A medium sweet potato supplies about a third of the recommended vitamin C and about a third of the manganese.
 
-* **Anthocyanins in purple varieties:** purple sweet potato contains anthocyanins instead of beta-carotene, at concentrations that rival those of [blueberries](/en/food/blueberries/). It is being studied for anti-inflammatory activity and cognitive function.
+### Downsides
 
-* **[Vitamin C](/en/food/supplements/vitamin-c/) and manganese:** 100 grams provide about 20 mg of vitamin C and about 25% of the daily intake of [manganese](/en/food/supplements/manganese/).
+* **It is a carbohydrate source, not a "free vegetable".** A medium sweet potato has about 31 g of carbohydrate, several times more than [broccoli](/en/food/broccoli/) for the same amount. On a carbohydrate-restricted diet, treat it like rice or potato.
 
-### Downsides and health considerations
+* **[Deep-fried sweet potato fries](/en/food/deep-fried-sweet-potato-fries/) are not sweet potato.** Deep-frying adds a lot of fat and calories and creates acrylamide. The sweet potato's healthy image does not survive the fryer.
 
-* **Carbohydrate load:** sweet potato is a starchy vegetable, not a leafy one. 100 grams contain 21 grams of carbohydrates — five times as much as [broccoli](/en/food/broccoli/). On a carb-restricted diet, treat it as a carbohydrate source, not a "free vegetable."
+* **Oxalates.** Sweet potatoes contain a moderate amount of oxalate; that matters for people prone to [calcium](/en/food/supplements/calcium/) oxalate stones. Boiling in water removes some of it.
 
-* **[Deep-fried sweet potato fries](/en/food/deep-fried-sweet-potato-fries/) are not sweet potato:** deep frying adds a lot of fat, dramatically raises the calorie density and produces acrylamide. The sweet potato's healthy image doesn't survive the fryer.
+* **Carotenemia.** Eating a lot of sweet potato and carrots over time can tint the skin orange, mainly on the palms. It is harmless and fades, and differs from jaundice in that the whites of the eyes stay white.
 
-* **Oxalates:** sweet potatoes contain a moderate-to-high amount of oxalates, a consideration for people prone to [calcium](/en/food/supplements/calcium/) oxalate kidney stones. Boiling in water reduces the content.
+* **Potassium in kidney disease.** Anyone on a potassium restriction needs to count sweet potato too.
 
-* **Carotenoderma:** very high, sustained intake can give the skin an orange tint, mainly on the palms and soles. It is completely harmless and fades when you cut back — and it is not like jaundice, in which the whites of the eyes also turn yellow.
+### Practical use
 
-* **Beta-carotene needs fat to be absorbed:** carotenoid absorption depends on the presence of fat in the meal. Studies have shown that adding about 3-5 grams of fat ([olive oil](/en/food/olive-oil/), tahini, [avocado](/en/food/avocado/)) significantly increases beta-carotene absorption. A "diet" sweet potato without a drop of fat wastes most of its value.
+* **For blood sugar control:** boil or steam instead of baking. Cooking ahead and chilling forms a little extra resistant starch.
+* **With fat:** beta-carotene is fat-soluble. A drizzle of [olive oil](/en/food/olive-oil/), a spoonful of tahini or some [avocado](/en/food/avocado/) on the side improves absorption.
+* **With the skin:** a good scrub is enough; the skin adds fiber.
+* **In stews:** sweet potato cubes in a legume stew or soup add natural sweetness.
+* **Choosing a variety:** orange for beta-carotene, purple for anthocyanins.
+* **Storage:** in a cool, dry, dark place, not the fridge, which harms the flavor and texture of uncooked sweet potato.
+* **Batch cooking:** boil or steam several sweet potatoes at once; they keep in the fridge for 3-4 days and reheat well for quick lunches.
 
-### Nutrition facts per 100 grams (baked with the skin)
-
-| Nutrient | Amount |
-|---|---|
-| Calories | 90 |
-| Carbohydrates | 20.7 grams |
-| Of which sugars | 6.5 grams |
-| Dietary fiber | 3.3 grams |
-| Protein | 2 grams |
-| Fat | 0.15 grams |
-| [Vitamin A](/en/food/supplements/vitamin-a/) (retinol activity equivalents) | 961 mcg (>100%) |
-| Beta-carotene | 11,509 mcg |
-| [Vitamin C](/en/food/supplements/vitamin-c/) | 19.6 mg |
-| [Potassium](/en/food/supplements/potassium/) | 475 mg |
-
-### Best preparation
-
-**For blood sugar control:** boil or steam, don't bake. Cool after cooking (and even eat it cold or reheated) to create resistant starch.
-
-**For beta-carotene absorption:** always combine with a source of fat — a drizzle of [olive oil](/en/food/olive-oil/), a spoonful of tahini or [avocado](/en/food/avocado/) on the side.
-
-**To preserve nutrients:** eat it with the skin. The skin contains a good share of the fiber and polyphenols. A good scrub is enough.
-
-**For a middle-ground roast:** baking at a high temperature for a relatively short time activates beta-amylase less than slow, prolonged baking — so it sweetens less and raises the GI less.
-
-**Choosing between varieties:** orange — for beta-carotene; purple — for anthocyanins; white — starchier and low in both.
+**Compare:** [A Scientific Comparison: Potato, Sweet Potato and Purple Potato](/en/compare/potato-sweet-purple/)
 
 ### Summary
 
-Sweet potato is one of the densest and cheapest sources of provitamin A, and also a good source of fiber and potassium. The point almost always missing from the discussion about it is that its glycemic index ranges from 46 to 94 depending on how it is prepared — in other words, the question of how you cook it matters no less than the question of whether to eat it. Boiling or steaming, combining it with fat and eating it with the skin make it an excellent food; deep frying cancels most of the advantage.
+The sweet potato is a cheap source of beta-carotene, potassium and fiber, and one serving covers the entire daily need for vitamin A. How you cook it matters almost as much as whether you eat it: boiling gives a much lower glycemic index than baking. Boiling or steaming, a little fat and the skin make it a good food; deep-frying cancels most of the benefit.
 
 ### Frequently asked questions
 
+**Question: How many calories are in a sweet potato?**
+Answer: About 90 calories per 100 g of baked sweet potato, so roughly 135 for a medium one. Boiled has a little less, about 76 per 100 g.
+
 **Question: Is sweet potato healthier than potato?**
-Answer: In beta-carotene — by a huge margin in favor of sweet potato, which provides more than 100% of the daily intake of vitamin A versus zero in potato. On other measures (potassium, vitamin C, protein) they are fairly similar. Boiled and cooled potato is even richer in resistant starch.
+Answer: For vitamin A, definitely: potatoes have almost none. In calories, potassium and protein they are similar. Both are good carbohydrate sources when boiled or baked rather than fried.
 
 **Question: Is sweet potato suitable for people with diabetes?**
-Answer: Yes, if it is **boiled or steamed** rather than baked. The glycemic index of boiled sweet potato is about 46 (low) compared with about 94 for baked — a dramatic difference that comes from the activity of the beta-amylase enzyme during slow baking.
+Answer: Yes, in a measured portion and when boiled or steamed. In the study, boiled sweet potato had a low glycemic index and baked a high one.
 
-**Question: Why is baked sweet potato so sweet?**
-Answer: Thanks to the enzyme beta-amylase, which under moderate, prolonged heat breaks starch down into the sugar maltose. The slower and longer the baking, the sweeter it gets — and the higher its glycemic index.
+**Question: Why is baked sweet potato sweeter?**
+Answer: An enzyme in the sweet potato breaks starch into maltose during slow baking. That makes it sweeter and raises blood sugar faster.
 
-**Question: Should you peel sweet potatoes?**
-Answer: Better not to. The skin contains a good share of the fiber and polyphenols; peeling cuts the fiber content by about a third. A good scrub is enough.
+**Question: Can you get too much vitamin A from sweet potato?**
+Answer: No. The body converts beta-carotene as needed. At most your skin may take on a temporary orange tint.
 
-**Question: Why have my palms turned yellow?**
-Answer: Carotenoderma — a buildup of beta-carotene in the fat layer beneath the skin. It is completely harmless and fades when you cut back. Unlike jaundice, the whites of the eyes stay white.
+**Question: Can you eat the skin?**
+Answer: Yes. Wash and scrub it well; the skin adds fiber.
 
-**Question: Do you have to eat sweet potato with fat?**
-Answer: It's highly recommended. Beta-carotene is fat-soluble, and its absorption rises significantly with 3-5 grams of fat in the meal. A spoonful of tahini, a drizzle of olive oil or avocado on the side changes how much of the vitamin the body actually takes in.
+**Question: Are sweet potato fries healthier than regular fries?**
+Answer: Not meaningfully. Both are fried and high in fat. Oven-baked sweet potato with a little oil is a better alternative.

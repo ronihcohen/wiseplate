@@ -1,6 +1,6 @@
 ---
 title: "Chocolate-Coated Cookies"
-seo_title: "Chocolate-Coated Cookies: How Many Calories and How Much Sugar, and What's in the Coating"
+seo_title: "Chocolate-Coated Cookies: Calories, Sugar and the Coating"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-08-18T09:00:00+03:00
 featured_image: ""

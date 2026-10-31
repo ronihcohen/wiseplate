@@ -1,10 +1,10 @@
 ---
 title: "Beta-Alanine for Athletes"
-seo_title: "Beta-Alanine: Who It Helps, Dosage, Tingling and Performance Gains"
+seo_title: "Beta-Alanine: Who It Helps, Dosage and Tingling"
 date: 2026-09-08T09:00:00+03:00
 lastmod: 2026-09-08T09:00:00+03:00
 featured_image: ""
-description: "Beta-alanine may help with certain high-intensity efforts. A guide to its mechanism of action, how long to take it, studied doses, tingling and assessing the real-world benefit."
+description: "Beta-alanine for high-intensity efforts: how it works, how long to take it, studied doses, the tingling, and the real-world benefit."
 ---
 
 ## Beta-Alanine: Matching the Type of Effort Matters More Than the Tingling
@@ -55,6 +55,8 @@ It's also worth watching out for similar names: beta-alanine is not a BCAA suppl
 Check how much beta-alanine is actually in a serving. If only the weight of a blend containing several substances is listed, you can't tell from it whether the product provides the studied amount. Compare the price per planned day of use, not just the price per pack. Competitive athletes are advised to also check certification for the specific batch; independent testing reduces the risk of prohibited substances but does not eliminate it. [AIS guidelines on batches](https://www.ausport.gov.au/ais/nutrition/supplements/athlete-resources).
 
 Choose a test that recurs in your training plan and is related to your goal. Record the result before the period of use and at its end, along with changes in your plan and in the test conditions. If you changed your diet, caffeine and training load at the same time, you won't be able to tell with confidence which factor contributed. Even the absence of a clear improvement is useful information when deciding whether the expense is justified.
+
+**See also:** [Combining Supplements: What Works Together, What Interferes, and When to Take Them](/en/food/supplements/supplement-stack/), [Running Heart Rate Zones: How to Calculate Them and Why Most Runs Should Be Easy](/en/run/running-zones/)
 
 ### Frequently asked questions
 

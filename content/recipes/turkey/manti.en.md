@@ -1,6 +1,6 @@
 ---
 title: "Manti"
-seo_title: "Manti: A Recipe for Turkish Meat Dumplings in Yogurt Sauce — Calories per Serving"
+seo_title: "Manti Recipe: Turkish Meat Dumplings in Yogurt Sauce"
 date: 2026-08-23T10:10:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/manti.webp"

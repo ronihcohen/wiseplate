@@ -1,6 +1,6 @@
 ---
 title: "Mast-o-Khiar"
-seo_title: "Mast-o-Khiar: A Persian Recipe for Yogurt with Cucumber and Walnuts — Calories"
+seo_title: "Mast-o-Khiar Recipe: Persian Yogurt With Cucumber"
 date: 2026-08-24T01:30:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/iran/mast-o-khiar.webp"
@@ -78,7 +78,7 @@ What makes the dish worthwhile is the context in which it is eaten: it is almost
 
 ### Summary
 
-Mast-o-khiar is the Persian take on an idea the whole region shares, and the addition of walnuts and raisins turns it from a dip into a small dish in its own right. About 220 calories per small bowl with 12 grams of protein and about 16% of the daily calcium — the smartest addition to a meal of meat and rice. The Turkish version, lighter and runnier, is [cacık](/en/recipes/turkey/cacik/). More recipes in [Persian cuisine](/en/recipes/iran/).
+Mast-o-khiar is the Persian take on an idea the whole region shares, and the addition of walnuts and raisins turns it from a dip into a small dish in its own right. About 220 calories per small bowl with 12 grams of protein and about 16% of the daily calcium — the smartest addition to a meal of meat and rice. The Turkish version, lighter and runnier, is cacık. More recipes in [Persian cuisine](/en/recipes/iran/).
 
 ### Frequently asked questions
 
@@ -86,7 +86,7 @@ Mast-o-khiar is the Persian take on an idea the whole region shares, and the add
 Answer: A 150-gram small bowl with Greek yogurt is about 220 calories, with about 12 grams of protein and about 160 mg of calcium. Without the raisins and with 3% yogurt, the dish drops to about 150 calories.
 
 **Question: What is the difference between mast-o-khiar, cacık and tzatziki?**
-Answer: Persian mast-o-khiar is thick and contains walnuts and raisins, and often has no garlic at all. Turkish [cacık](/en/recipes/turkey/cacik/) is thinned with water to a runny texture, and Greek tzatziki is thick and based on strained yogurt with garlic, without sweet additions.
+Answer: Persian mast-o-khiar is thick and contains walnuts and raisins, and often has no garlic at all. Turkish cacık is thinned with water to a runny texture, and Greek tzatziki is thick and based on strained yogurt with garlic, without sweet additions.
 
 **Question: Why does the dish come out watery?**
 Answer: The cucumber was not salted and squeezed. Cucumber is about 95% water, and the salt in the yogurt gradually draws it out. Salting for 10 minutes in a sieve and squeezing by hand solves this completely.

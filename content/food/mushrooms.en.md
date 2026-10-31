@@ -29,7 +29,7 @@ They are also extremely low in calories — 22 calories per 100 grams — while 
 | [Copper](/en/food/supplements/copper/) | 0.32 mg | 36% |
 | [Potassium](/en/food/supplements/potassium/) | 318 mg | 7% |
 | [Vitamin D](/en/food/supplements/vitamin-d/) | 0.2 mcg (regular) | 1% |
-| [Vitamin D](/en/food/supplements/vitamin-d/) | 10-25 mcg (UV-exposed) | **50%-125%** |
+| Vitamin D | 10-25 mcg (UV-exposed) | **50%-125%** |
 
 ### The vitamin D trick — and a fact you can use at home
 
@@ -69,7 +69,7 @@ Mushrooms contain **ergosterol**, a molecule that is the fungal counterpart of t
 
 ### Summary
 
-Mushrooms provide riboflavin, copper, selenium and beta-glucans for just 22 calories per 100 grams, and they are the only meaningful plant source of [vitamin D](/en/food/supplements/vitamin-d/) — but only if they have been exposed to UV, which you can do at home in half an hour in the sun. They are almost entirely safe when commercially grown and cooked; the only risk worth taking seriously is foraging wild mushrooms without expert identification.
+Mushrooms provide riboflavin, copper, selenium and beta-glucans for just 22 calories per 100 grams, and they are the only meaningful plant source of vitamin D — but only if they have been exposed to UV, which you can do at home in half an hour in the sun. They are almost entirely safe when commercially grown and cooked; the only risk worth taking seriously is foraging wild mushrooms without expert identification.
 
 ### Frequently asked questions
 

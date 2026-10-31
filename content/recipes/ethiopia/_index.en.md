@@ -40,7 +40,7 @@ The shared base is sour [injera](/en/recipes/ethiopia/injera/), on which stews a
 | Ingredient | What to buy | Note |
 |---|---|---|
 | Teff flour | Light or dark whole teff from an Ethiopian or health food shop | 100% teff is naturally gluten-free; check for cross-contamination |
-| [Berbere](/en/recipes/ethiopia/awaze/) | A ready-made Ethiopian blend | Heat and salt vary greatly; start with half |
+| Berbere | A ready-made Ethiopian blend | Heat and salt vary greatly; start with half |
 | Shiro | Spiced shiro powder or chickpea flour | Spiced powder is saltier; the recipe explains how to adjust |
 | Korarima | Ethiopian cardamom from a specialty shop | If unavailable: a little black cardamom with cinnamon and allspice |
 | Niter kibbeh | Spiced clarified butter | In meat dishes, use a pareve spiced oil, not butter |
@@ -53,10 +53,10 @@ The calculation for each stew does not include injera unless stated otherwise; a
 ### Frequently asked questions
 
 **Question: Is all Ethiopian food spicy?**
-Answer: No. Misir and doro wat are usually spicy, but atkilt, gomen and dabo are mild. You can reduce the [berbere](/en/recipes/ethiopia/awaze/) without giving up garlic, ginger and korarima.
+Answer: No. Misir and doro wat are usually spicy, but atkilt, gomen and dabo are mild. You can reduce the berbere without giving up garlic, ginger and korarima.
 
 **Question: Where can I buy teff and berbere in Israel?**
-Answer: In Ethiopian food shops, spice shops and health food chains; some supermarkets have a dedicated shelf. Check the date and that the package is sealed, because whole teff flour spoils relatively quickly. You can [make awaze from berbere in five minutes](/en/recipes/ethiopia/awaze/).
+Answer: In Ethiopian food shops, spice shops and health food chains; some supermarkets have a dedicated shelf. Check the date and that the package is sealed, because whole teff flour spoils relatively quickly. You can make awaze from berbere in five minutes.
 
 **Question: Are all the recipes from Ethiopian Jews?**
 Answer: No. Doro wat and dabo are well documented on the Ethiopian Jewish table. Other dishes belong to the wider Ethiopian cuisine, and the pages note a regional or religious origin when it is known.

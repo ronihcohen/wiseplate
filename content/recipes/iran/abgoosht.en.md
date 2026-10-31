@@ -1,6 +1,6 @@
 ---
 title: "Abgoosht (Dizi)"
-seo_title: "Abgoosht: A Persian Recipe for Meat and Chickpea Stew in Two Courses — Calories"
+seo_title: "Abgoosht Recipe: Persian Meat and Chickpea Stew"
 date: 2026-08-24T01:20:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/iran/abgoosht.webp"

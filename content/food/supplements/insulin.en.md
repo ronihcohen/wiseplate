@@ -1,46 +1,85 @@
 ---
 title: "Insulin"
+seo_title: "Insulin and Insulin Resistance: How It Works and What Helps"
 date: 2026-08-09T12:00:00+03:00
+lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "The hormone that runs the body's energy economy: how insulin works, what insulin resistance is, and which foods and compounds affect it."
+description: "Insulin: how it moves sugar into cells, what insulin resistance is and why it starts years before diabetes, and what helps — weight loss, exercise, sleep."
 ---
 
-Insulin is a protein hormone secreted by the beta cells of the pancreas, and its main job is to move glucose (sugar) from the bloodstream into the cells. You can think of it as a "key" that opens the door to muscle, liver and fat cells. Without it, sugar stays in the blood and never reaches its destination — a state that, in the long run, damages blood vessels, nerves and kidneys.
+## Insulin
 
-### How does it work?
-After a meal, especially one rich in carbohydrates, blood glucose levels rise. The pancreas detects the rise and secretes insulin, which causes:
-1.  **Glucose uptake into cells:** insulin signals GLUT4 transporters to move to the membrane of muscle and fat cells, and glucose enters through them.
-2.  **Energy storage:** excess glucose is stored in the liver and muscles as glycogen, and beyond that capacity it is converted to fat.
-3.  **Halting fat breakdown:** as long as insulin levels are high, the body is in "storage" mode and suppresses fat breakdown (lipolysis).
+**Insulin is a hormone the pancreas releases after a meal, and its job is to move sugar (glucose) from the blood into muscle, liver and fat cells. Insulin resistance — when cells respond to it less — develops silently for years before type 2 diabetes, and the proven ways to improve it are weight loss, exercise and enough sleep, not supplements.** In Hebrew it is "אינסולין".
 
-### Insulin Resistance
-When cells are exposed to high insulin levels again and again — mainly due to chronic intake of [sugar](/en/food/sugar-industry-tactics/) and refined carbohydrates, excess belly fat and physical inactivity — they become "deaf" to the signal. The pancreas compensates by secreting more insulin, creating a cycle: more insulin → less sensitivity → even more insulin. This is the stage that precedes prediabetes and type 2 diabetes, and it is also linked to fatty liver (NAFLD) and metabolic syndrome.
+Insulin is not a dietary supplement. This page is about the hormone itself and how it relates to diet; insulin as a medicine is prescription-only and dosed by a doctor, and anyone treated with it should not change their treatment without medical advice.
 
-### What improves insulin sensitivity?
-*   **Physical activity:** muscles take up glucose even without insulin during exercise — this is the most effective tool.
-*   **[Cinnamon](/en/food/cinnamon/):** slows stomach emptying and inhibits carbohydrate-digesting enzymes.
-*   **[EGCG](/en/food/egcg/) and [green tea](/en/food/green-tea/):** inhibit enzymes that break down carbohydrates and increase GLUT4 translocation.
-*   **[Berberine](/en/food/supplements/berberine/):** activates the enzyme AMPK, and has been studied as having an effect similar to metformin.
-*   **[Magnesium](/en/food/supplements/magnesium/):** deficiency has been linked to reduced insulin sensitivity.
-*   **[Lentils](/en/food/lentil/) and low-glycemic-index foods:** produce a gentler glycemic response.
+### How it works
 
-### What harms insulin sensitivity?
-*   **High-fructose [corn syrup](/en/food/corn-syrup/) and sweetened drinks:** directly feed fat synthesis in the liver.
-*   **Refined carbohydrates and industrial sweets:** cause sharp, repeated spikes.
-*   **Lack of sleep and chronic stress:** cortisol raises blood glucose and weakens insulin's action.
+After a meal, especially one with carbohydrates, blood sugar rises. The beta cells of the pancreas sense the rise and release insulin, which does three main things:
 
----
+1. **Moves glucose into cells:** In muscle and fat, insulin brings GLUT4 transporters up to the cell surface, and glucose enters through them.
+2. **Stores energy:** Surplus glucose is stored as glycogen in the liver and muscles, and the liver stops making glucose of its own.
+3. **Slows fat breakdown:** While insulin is high, the breakdown of stored fat slows down.
 
-### Frequently asked questions about insulin
+Protein also triggers insulin release, [whey protein](/en/food/supplements/whey-protein/) in particular; insulin pushes amino acids into muscle and supports muscle building. At the same time protein triggers glucagon, which keeps blood sugar from dropping sharply.
 
-**Question: Do only people with diabetes need to care about insulin?**
-Answer: **No.** Insulin resistance develops many years before diabetes is diagnosed, usually without symptoms. Measures such as fasting insulin and HOMA-IR can reveal the problem early, while it is still easy to reverse the trend.
+### Insulin resistance
+
+In insulin resistance, muscle and liver respond less to the hormone. The pancreas compensates by releasing more, so for years blood sugar stays normal while insulin runs high. When the pancreas can no longer keep up, sugar rises — first to prediabetes, then to type 2 diabetes.
+
+The process is slow and silent. In the Whitehall II study, which followed more than 6,500 British civil servants, insulin sensitivity fell steeply over about five years before diabetes was diagnosed, and fasting glucose shot up only in the last three. [Tabák et al., 2009](https://pubmed.ncbi.nlm.nih.gov/19515410/).
+
+The main drivers: excess body fat, especially around the belly and in the liver; physical inactivity; genetics and age; short sleep; and a diet heavy in sugary drinks and ultra-processed food, which makes it easy to overeat and to build up liver fat. Insulin resistance is also tied to fatty liver disease and the metabolic syndrome.
+
+### What improves insulin sensitivity
+
+- **Weight loss and activity — the proven tool:** In the Diabetes Prevention Program (DPP), people with prediabetes who joined a programme aiming for 7% weight loss and 150 minutes of activity a week cut their risk of developing diabetes by 58% — more than the drug metformin, which cut it by 31%. [Knowler et al., 2002](https://pubmed.ncbi.nlm.nih.gov/11832527/).
+- **Exercise:** Working muscle takes up glucose even without insulin, and insulin sensitivity stays better for hours to days after a session. Even a short walk after a meal blunts the rise in blood sugar.
+- **Sleep:** In a controlled trial, one week of 5 hours' sleep a night reduced insulin sensitivity in healthy young men by 11–20%. [Buxton et al., 2010](https://pubmed.ncbi.nlm.nih.gov/20585000/).
+- **How the meal is built:** Fibre, legumes such as [lentils](/en/food/lentil/), whole grains and protein slow the rise in blood sugar after a meal compared with refined carbohydrates.
+
+### Supplements and "blood sugar" foods — what the evidence says
+
+- **[Cinnamon](/en/food/cinnamon/):** In a meta-analysis of 10 trials in people with diabetes, cinnamon lowered fasting glucose slightly but did not change HbA1c, the long-term measure that guides treatment. [Allen et al., 2013](https://pubmed.ncbi.nlm.nih.gov/24019277/).
+- **[Berberine](/en/food/supplements/berberine/):** A meta-analysis found it lowers blood sugar in people with diabetes, but the trials were of low quality and mostly from China. [Dong et al., 2012](https://pubmed.ncbi.nlm.nih.gov/23118793/). It also interacts with many drugs, so it should not be combined with diabetes medication without a doctor.
+- **[Magnesium](/en/food/supplements/magnesium/):** Low levels are linked to insulin resistance, and people who are deficient benefit from correcting it. A supplement for someone who isn't deficient does not replace the tools above.
+- **[Green tea](/en/food/green-tea/) and [EGCG](/en/food/egcg/):** The effect on blood sugar in trials is small and inconsistent.
+
+None of these is a substitute for medication, and anyone on glucose-lowering drugs should check with their doctor before adding them, because of the risk of low blood sugar.
+
+### What worsens insulin sensitivity
+
+- **Sugary drinks and high-fructose [corn syrup](/en/food/corn-syrup/):** Liquid calories are easy to overconsume, and large amounts of fructose increase fat production in the liver.
+- **Large amounts of refined carbohydrates and [sugar](/en/food/sugar-industry-tactics/)**, especially when they lead to weight gain.
+- **Long hours of sitting, short sleep and chronic stress:** Cortisol raises blood sugar and weakens insulin's action.
+- **Certain medicines**, such as steroids, raise blood sugar — any change to them is made only with the doctor.
+
+### Practical use
+
+- **Tests:** Fasting glucose and HbA1c are the routine tests for diagnosing prediabetes and diabetes. Fasting insulin and the HOMA-IR index give a sense of resistance, but they have no uniform cut-off across labs.
+- **Signs worth checking for:** A large waist, fatty liver, high triglycerides, past gestational diabetes or diabetes in the family.
+- **Habits that work:** Moderate weight loss if you carry extra weight, at least 150 minutes of activity a week including strength training, 7 hours of sleep, and few sugary drinks.
+
+### Summary
+
+Insulin is the hormone that moves sugar into cells and runs energy storage. Insulin resistance develops for years before diabetes, without symptoms, so it pays to catch it early. The proven tools to improve it are not supplements but weight loss, exercise and sleep — in the DPP trial they cut diabetes risk by more than half. Cinnamon, berberine and similar products have small effects at best and do not replace treatment.
+
+### Frequently asked questions
+
+**Question: Is insulin only relevant to people with diabetes?**
+Answer: No. Insulin resistance develops years before diabetes is diagnosed, usually without symptoms. In the Whitehall II study, insulin sensitivity fell steeply about five years before diagnosis — a window in which lifestyle change works especially well.
+
+**Question: What is the most effective way to improve insulin sensitivity?**
+Answer: Losing weight if you have excess, and regular exercise. In the DPP trial, about 7% weight loss and 150 minutes of activity a week cut diabetes risk by 58%. Enough sleep matters too.
 
 **Question: Do artificial sweeteners raise insulin?**
-Answer: This is a contested question. Some studies point to a "cephalic insulin response" — an initial release triggered by the sweet taste itself, even without sugar — but the effect varies greatly between people. More on the [artificial sweeteners](/en/food/artificial-sweeteners-trap/) page.
+Answer: The evidence is inconsistent. Some studies described a small insulin release in response to sweet taste, others found none, and the effect varies between people. More on the [artificial sweeteners](/en/food/artificial-sweeteners-trap/) page.
 
-**Question: If insulin stores fat, should you avoid it entirely?**
-Answer: **No, and you couldn't anyway.** Insulin is an essential hormone: it is what brings glucose and amino acids into muscle and enables building and recovery. The goal is not "zero insulin" but **good sensitivity** — meaning the body does the same work with as little of the hormone as possible.
+**Question: If insulin stores fat, should I avoid it altogether?**
+Answer: No, and you can't. Insulin is essential: it moves glucose and amino acids into muscle and makes building and recovery possible. The goal is good sensitivity — the body doing the same job with less hormone — not "zero insulin".
 
 **Question: Does protein raise insulin?**
-Answer: **Yes, protein raises insulin too** ([whey](/en/food/supplements/whey-protein/) in particular), but together with another hormone — glucagon — that balances the response. So the rise after protein does not translate into fat storage the way the rise from simple sugar does.
+Answer: Yes, whey protein especially. But protein also triggers glucagon, which balances the response, and the rise does not harm insulin sensitivity. It is part of how protein supports muscle building.
+
+**Question: Can cinnamon or berberine replace diabetes medication?**
+Answer: No. Cinnamon lowered fasting glucose slightly but not HbA1c, and berberine was tested in low-quality trials and interacts with drugs. Anyone on diabetes medication should talk to their doctor before adding either.

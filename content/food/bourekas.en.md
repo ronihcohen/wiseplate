@@ -1,6 +1,6 @@
 ---
 title: "Bourekas"
-seo_title: "Bourekas: How Many Calories Really, and What the Shape Reveals About the Filling"
+seo_title: "Bourekas: How Many Calories, and What the Shape Tells You"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""

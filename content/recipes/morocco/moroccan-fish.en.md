@@ -1,6 +1,6 @@
 ---
 title: "Moroccan Fish"
-seo_title: "Moroccan Fish: A Recipe for Fish in Red Pepper and Cilantro Sauce — Calories per Serving"
+seo_title: "Moroccan Fish Recipe: Red Pepper and Cilantro Sauce"
 date: 2026-08-24T04:10:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/morocco/moroccan-fish.webp"
@@ -76,7 +76,7 @@ The recommended serving is about 200 grams of fish with sauce — a quarter of t
 
 This is the dish with the best protein-to-calorie ratio on this page: 42 grams of protein in 390 calories, with almost no carbohydrates. The fish itself contributes only about 210 calories per serving; the olive oil contributes about 135, and the vegetables the rest.
 
-There is also a gain that doesn't show up in the table. The sauce is [tomatoes](/en/food/tomato/) and [red peppers](/en/food/red-pepper/) cooked in olive oil — exactly the conditions that raise the bioavailability of lycopene and [beta-carotene](/en/food/supplements/vitamin-a/), both fat-soluble carotenoids. Red pepper also provides a very large amount of [vitamin C](/en/food/supplements/vitamin-c/), although some of it is destroyed during the long cooking.
+There is also a gain that doesn't show up in the table. The sauce is tomatoes and red peppers cooked in olive oil — exactly the conditions that raise the bioavailability of lycopene and [beta-carotene](/en/food/supplements/vitamin-a/), both fat-soluble carotenoids. Red pepper also provides a very large amount of [vitamin C](/en/food/supplements/vitamin-c/), although some of it is destroyed during the long cooking.
 
 As for [omega-3](/en/food/supplements/omega-3/): white fish like sea bream and cod provide only a modest amount compared with [salmon](/en/food/salmon/), [mackerel](/en/food/mackerel/) or [sardines](/en/food/sardines/). Anyone who wants this dish mainly for omega-3 should make it with salmon fillet, at a cost of about 120 extra calories per serving.
 
@@ -84,7 +84,7 @@ As for [omega-3](/en/food/supplements/omega-3/): white fish like sea bream and c
 
 * **Less oil:** 40 ml instead of 60 cuts about 45 calories per serving. The sauce comes out less glossy; the flavor is almost identical.
 * **With [chickpeas](/en/food/chickpeas/):** Add a drained can to the sauce 10 minutes before the fish. Adds about 100 calories and 4 grams of fiber per serving, and turns it into a main course.
-* **Salmon instead of white fish:** About 510 calories per serving, but several times the [omega-3](/en/food/supplements/omega-3/). The cooking time shortens by about 2 minutes.
+* **Salmon instead of white fish:** About 510 calories per serving, but several times the omega-3. The cooking time shortens by about 2 minutes.
 * **Making ahead:** The dish improves on the second day and keeps in the fridge for 3 days. **Don't freeze it** — the fish loses its texture completely when thawed.
 * **Too salty:** Add a cut-up potato and cook for 15 minutes before adding the fish.
 
@@ -101,7 +101,7 @@ Answer: A serving of about 200 grams of fish with sauce is about 390 calories, w
 Answer: Chraime is a Tripolitan-Libyan dish built on a **hot** pepper sauce and a little tomato, and the fish in it is usually lightly fried first and served hot. Moroccan fish is built on sweet red peppers, tomato and a large amount of cilantro, its heat is moderate, and it is eaten cold or lukewarm.
 
 **Question: Which fish is best for this recipe?**
-Answer: A white fish with firm flesh that doesn't fall apart during cooking — sea bream, grouper, sea bass or cod. Thick slices are better than thin fillets, which cook too fast. Oily fish like [salmon](/en/food/salmon/) work too, give more [omega-3](/en/food/supplements/omega-3/), and need about 2 minutes less.
+Answer: A white fish with firm flesh that doesn't fall apart during cooking — sea bream, grouper, sea bass or cod. Thick slices are better than thin fillets, which cook too fast. Oily fish like [salmon](/en/food/salmon/) work too, give more omega-3, and need about 2 minutes less.
 
 **Question: Why did the fish come out dry and crumbly?**
 Answer: Almost always overcooking. A white fish fillet 2-3 cm thick needs 10-12 minutes **at most** in gently bubbling sauce, and no more. The sign it's done is that the flesh flakes easily at the tip of a fork but is still opaque in the center. The fish keeps cooking even after the heat is turned off.

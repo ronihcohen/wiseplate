@@ -1,70 +1,90 @@
 ---
 title: "Nutritional Yeast"
+seo_title: "Nutritional Yeast: Nutrition, B12, Protein and vs Brewer's Yeast"
 date: 2026-02-19T09:45:00+02:00
+lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "A comprehensive review of nutritional yeast: wonder flakes with a cheesy taste that are a dense source of complete protein and the B-vitamin complex, including added B12."
+description: "Nutritional yeast: about 5 g protein in 2 tablespoons, plus B12 if fortified. How it differs from brewer's yeast, B12 for vegans, and who should limit it."
 ---
 
-## Introduction: Nutritional Yeast
+## Nutritional Yeast
 
-Nutritional yeast — in Hebrew "שמרי תזונה", though it is very often mistakenly called "שמרי בירה" ("brewer's yeast") — consists of dry, yellowish flakes produced from a specific strain of baker's and brewer's yeast, *Saccharomyces cerevisiae*. Unlike the live yeast used to raise dough or ferment alcohol, nutritional yeast is deactivated (neutralized by heat) at the end of its growth on a rich medium of molasses from sugar cane or [beets](/en/food/beets/).
+**Nutritional yeast is flakes of deactivated yeast with a cheesy, umami taste. Two tablespoons (about 10 grams) provide about 35-40 calories, about 5 grams of complete protein and about 2 grams of fiber, and the fortified version also provides enough vitamin B12 to cover the daily requirement. Without fortification it contains no meaningful B12, so vegans need to check the label.**
 
-At the end of the growing process, the yeast is harvested, pasteurized, washed and heat-dried until it becomes flakes or a fine powder. Pasteurization ensures that the yeast is dead (it loses its ability to grow in the body), so it will never cause microbiological fungal infections (such as candida) in those who eat it. The real magic of nutritional yeast lies, on the one hand, in its flavor profile — it boasts a very umami, nutty, cheesy taste reminiscent of deep Parmesan cheese. On the other hand, it is one of the densest and most impressive sources in the world of complete protein and B vitamins, which has made it a key ingredient in vegan kitchens and a common nutritional supplement for athletes of all kinds.
+Nutritional yeast (in Hebrew "שמרי תזונה", often called "שמרי בירה") is a culture of *Saccharomyces cerevisiae* — the same species as baker's yeast — grown on molasses from sugar cane or [beets](/en/food/beets/), then killed with heat, washed and dried into flakes or powder. The yeast is not alive, so it does not raise dough and cannot multiply in the body.
 
-**An important distinction:** in Israel it is commonly called by the familiar name "brewer's yeast," but true brewer's yeast is a byproduct of the beer industry and is characterized by a very bitter, unpleasant taste. "Nutritional yeast" is grown specially and specifically as a whole, tasty food.
+**Nutritional yeast vs brewer's yeast:** in Israel people often call it "brewer's yeast," but these are two different products. Brewer's yeast is a by-product of beer making and tastes bitter; nutritional yeast is grown specifically as a food and tastes rounded and cheesy. Their nutritional makeup is similar, but vitamin fortification varies between products.
 
-## A Rich Nutritional Profile — the Density of Yellow Gold
+### Nutrition facts
 
-Very few natural foods provide such an impressive concentration of key nutrients in such small servings. Two tablespoons of fortified nutritional yeast, weighing only about 10 grams, contain a powerful nutritional cluster:
+Approximate values. The B vitamins, and B12 in particular, depend almost entirely on fortification, so they vary widely between brands:
 
-- **High-quality, complete protein:** a double amount (5 to 8 grams of protein depending on the type) with fast availability. The yeast contains all 9 essential amino acids that the body cannot make on its own.
-- **Functional carbohydrates:** about 3-5 grams of carbohydrate, a substantial part of which is a special dietary fiber called beta-glucan (*Beta-Glucan*).
-- **The B-vitamin complex (fortified power):**
-    - **Vitamin B12 (cobalamin):** most manufacturers fortify the flakes with B12. One serving will contain up to 400% or more of the recommended daily intake — a world-changing advantage for vegetarians and vegans.
-    - **Thiamine (B1), riboflavin (B2), niacin (B3) and folic acid (B9):** servings that contain more than 100% of the daily intake of vitamins directly responsible for intracellular energy metabolism and physical health.
-- **Critical minerals:** a very good source of easily digested [iron](/en/food/iron/), [magnesium](/en/food/supplements/magnesium/), [zinc](/en/food/supplements/zinc/), which is important for the immune system, and [selenium](/en/food/supplements/selenium/) — a trace element that is very scarce in Israel's soils and critical for antioxidant protection and thyroid regulation.
+| Nutrient | Per 100 g | Per 2 tablespoons (about 10 g) |
+|---|---|---|
+| Calories | about 350-400 | about 35-40 |
+| Protein | about 45-50 g | about 5 g |
+| Carbohydrates (fiber) | about 35 g (about 20 g) | about 3.5 g (about 2 g) |
+| Fat | about 5 g | about 0.5 g |
+| [Vitamin B12](/en/food/supplements/vitamin-b12/) (fortified) | varies widely | roughly 2-10 mcg |
+| [Vitamin B1](/en/food/supplements/vitamin-b1/), B2, B6, niacin | high (mostly from fortification) | often over 100% of the daily value |
+| [Zinc](/en/food/supplements/zinc/) | about 15-20 mg | about 1.5-2 mg |
+| [Sodium](/en/food/supplements/sodium/) | low | about 5 mg |
 
-## Nutritional and Health Benefits of Nutritional Yeast
+Most of the fiber is beta-glucans and mannans from the yeast cell wall. Yeast protein contains all the essential amino acids, but in the amounts people actually eat — a tablespoon or two — it is a protein top-up, not a main source.
 
-### Excellent protein supplementation for vegetarians and vegans
-Almost half of the total weight of the yeast flakes is clean, concentrated protein with a full amino acid profile. Because this protein is highly available and comes without any cholesterol or saturated fat (as in meat or in the casein of standard dairy products), adding a tablespoon or two to a meal that lacks protein easily upgrades its profile and turns it into a tool for building muscle, supporting body tissues and a quick building block for vegetarians, children and athletes.
+### Benefits
 
-### A double antioxidant and immune support (Glutathione & Beta-Glucan)
-Beyond the vitamins, the yeast contains very impressive amounts of two powerful antioxidants: glutathione and selenomethionine. Glutathione is often described as the "master antioxidant," and it protects DNA molecules from breakdown, with considerable help from the mineral selenium in excreting heavy metals and detoxifying the liver.
-At the same time, the dietary fibers that make up the yeast cell wall, known as beta-glucans (also common in medicinal [mushrooms](/en/food/mushrooms/) and [oats](/en/food/oatmeal/)), directly and continuously "communicate with" and "train" our white blood cells (leukocytes) to stay alert, creating an active, rapid immune response against invaders.
+* **Vitamin B12 for vegans — in the fortified version:** B12 occurs naturally almost only in animal foods, and vegans need a fortified source or a supplement. [NIH ODS — Vitamin B12](https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/). In a study of people on a mostly raw vegan diet, many showed signs of B12 deficiency, and fortified nutritional yeast, like B12 tablets, improved the metabolic marker of deficiency (urinary MMA). [Donaldson, 2000](https://pubmed.ncbi.nlm.nih.gov/11146329/). B12 is sensitive to light, so store the yeast in an opaque, closed container. If you rely on it as your only source, make sure the product is fortified and check your B12 levels from time to time.
 
-### Filling the gaps behind energy exhaustion — (a broad B-vitamin complex)
-The link that connects the biological breakdown of carbohydrates to the energy molecule in the cell's mitochondria (ATP) relies on a massive, continuous presence of the various B vitamins. Deficiencies in one or more of them (especially B12, B6 and B1, known culprits of extreme fatigue) create a constant feeling of heaviness in the body, anxiety or "brain fog." Including nutritional yeast prominently every day is one of the natural, effective ways to eliminate these deficiencies through normal digestion and to keep up steady alertness.
+* **Cheesy flavor without dairy:** nutritional yeast gives an umami, cheesy taste to popcorn, pasta, roasted vegetables and vegan "cheeses," at about 20 calories per tablespoon and with no saturated fat or cholesterol.
 
-### Reducing skin sensitivity and improving metabolism (Hair, Skin & Nails)
-The huge dose of B vitamins — especially niacin and riboflavin (and biotin in variable amounts) — protects the integrity of epidermal cells to an unprecedented degree and creates a very stable foundation that reduces skin inflammation (such as stubborn acne or scalp redness). It is an accessible solution for strengthening the keratin of hair roots, adding shine, and for the health of weak nails.
+* **Protein and fiber in a small volume:** two tablespoons add about 5 grams of complete protein and about 2 grams of fiber — a useful addition to a plant-based diet.
 
-## Side Effects and Warnings You Should Know
+* **B vitamins and zinc:** fortified products provide large amounts of B1, B2, B6 and niacin, as well as zinc — which matters for vegans, whose zinc absorption is lower.
 
-Overall, nutritional yeast is considered very safe for most of the population, but two exceptional downsides are worth pointing out:
-- **Synthetically fortified vitamins:** most industrial nutritional yeasts in the West are "synthetically fortified" with added B vitamins (fortified). Some people have a genetic sensitivity to synthetic folic acid or to certain added compounds (for example, the MTHFR mutation), which impairs its absorption and promotes stress on the body. You can look for "unfortified" yeast, which contains only the natural B vitamins — though unfortunately it does not include active B12.
-- **A warning for people with severe inflammatory bowel disease and/or gout:** nutritional yeast does not cause "candida" infections, because it is completely dead and sterilized. On the other hand, there is some evidence that in active Crohn's disease or colitis it may sometimes irritate the gut and trigger a reaction across the intestinal barrier. The yeast is also very rich in purine derivatives, which promote the buildup of uric acid, so people who suffer from gout and crystal-induced joint inflammation are advised to be careful with it.
+* **Beta-glucan — evidence from supplements, not from nutritional yeast:** a systematic review of trials of beta-glucan supplements from mushrooms and yeast found that some of them reduced the incidence and symptoms of colds, but the results were not consistent. [Vlassopoulou et al., 2021](https://pubmed.ncbi.nlm.nih.gov/33876798/). Those trials used concentrated extracts, and it is not known whether a spoonful of nutritional yeast has a similar effect.
 
-## Culinary Use and Fitting It Into Your Diet: "The Flakes Are Cheesy Magic"
+### Downsides
 
-Forget the bitter brewer's yeast of the past. Today, nutritional yeast is a flavor bomb that tastes just like aged cheddar or Parmesan — only in a completely vegan version packed with protein and B vitamins. In the kitchen, the flakes provide a fragrant gold that can upgrade any menu:
+* **Not every product is fortified:** unfortified nutritional yeast contains little or no B12. This is the most common mistake among vegans — check the label.
 
-- **The magic of Bragg:** I sprinkle Bragg flakes (the brand with the richest, cheesiest flavor on iHerb, and fully kosher) directly on keto pizzas, savory pies and trays of oven-roasted vegetables — everything takes on a powerful cheesy flavor (with minimum calories and maximum protein).
-- **Amazing creaminess for sauces:** it dissolves easily and is very soft, acting as a binding element that thickens salad dressings and "cheese" sauces. Mixed into sauces and [almond](/en/food/almonds/) butters, it gives them amazing creaminess and a flavor you can't recreate any other way. An ingredient you simply can't do without.
-- **In salty homemade popcorn:** the perfect addition to popcorn. Add a spoonful of good coconut oil, sprinkle the flakes on top with salt, and everything gets coated in warm umami that melts on contact.
-- **Making cashew "cheeses" and tofu bases:** blending it smooth with half-soaked cashews, half a teaspoon of salt, lemon and water produces the world's best winning vegan version of ricotta or cheddar.
+* **Crohn's disease:** some people with Crohn's disease have antibodies to *Saccharomyces cerevisiae* (ASCA). In a small trial of 19 people with stable Crohn's disease, a period of taking baker's yeast capsules was linked to slightly higher disease activity than a period with no yeast in the diet. [Barclay et al., 1992](https://pubmed.ncbi.nlm.nih.gov/1502481/). The evidence is limited, but people with Crohn's who notice a flare can try cutting back.
 
-## Summary
+* **Purines and gout:** yeast is rich in purines, which the body breaks down into uric acid. High purine intake has been linked to a higher risk of recurrent gout attacks, although the strongest link was for purines from animal sources. [Zhang et al., 2012](https://pubmed.ncbi.nlm.nih.gov/22648933/). People with gout should keep amounts small.
 
-Nutritional yeast has risen from an ascetic vegan food to a well-known, effective nutritional powerhouse among New Age enthusiasts, nutritionists and the global bodybuilding community — for good reason. It is a fast and incredibly tasty way to top up daily protein that does not come from animals; it is at the forefront of available B-vitamin compounds that are essential for energy and fighting fatigue (with the possibility of adding valuable B12); and it provides extra support for antioxidant activity in white blood cells and the liver. It is a rare cheese substitute that solves difficult nutritional problems simply by sprinkling gold over hot, savory dishes.
+* **Added folic acid:** many fortified products contain folic acid. The upper limit for folic acid from fortified foods and supplements combined is 1,000 mcg a day for adults — relevant if you also take a supplement and eat large amounts. [NIH ODS — Folate](https://ods.od.nih.gov/factsheets/Folate-HealthProfessional/).
 
-## Frequently asked questions
+* **Yeast sensitivity:** yeast allergy is rare but exists. As for candida — nutritional yeast is deactivated and does not cause fungal infections.
 
-### Question: Wouldn't it be better to just take a B-complex vitamin tablet instead?
-Answer: While a tablet supplement may contain a concentrated amount of vitamins, the nutrients in the yeast's natural form have absorption advantages. The body handles them together with the protein complex (the active amino acids) and the beta-glucans, which support optimal absorption. In addition, its deep, buttery flavor turns it from a bland synthetic product into a festive addition to healthy home cooking.
+### Practical use
 
-### Question: Does nutritional yeast encourage fungal growth in the body, such as candida?
-Answer: No! This is one of the most widespread mistakes and myths. Nutritional yeast is not alive because of the industrial conditions — it has undergone deactivation and prolonged pasteurization (at over 90 degrees (194°F) before being flaked). It can no longer ferment, cannot multiply in the digestive tract and will never cause fungal infections in our bodies, as is sometimes suggested.
+* **How much:** 1-2 tablespoons a day. You don't need more than that to get the B12 from a fortified product.
+* **Popcorn and pasta:** sprinkle over popcorn with a little oil and salt, or over pasta instead of Parmesan.
+* **Vegan "cheese" sauce:** blend soaked cashews with nutritional yeast, lemon juice, garlic, a little salt and water until smooth.
+* **Vegetables and stews:** sprinkle over roasted vegetables, add to soup, mashed potatoes or scrambled eggs, and combine with crumbled [tofu](/en/food/tofu/).
+* **Dressings:** a tablespoon of nutritional yeast in a vinaigrette or tahini sauce thickens it and adds depth.
+* **Storage:** in a closed, opaque, dry container — about a year. Light breaks down some of the B12 and B2.
 
-### Question: Why does this yeast come in several colors/forms — flakes and powder? Dark or pale, which is better?
-Answer: Nutritional yeast usually comes as large flakes or as a floury powder. Both are equally nutritious and come from the same fermentation. In terms of use: smoothie recipes and heavy salad dressings do better with the powder. Flakes add extra crunch and a look reminiscent of shavings of aged Parmesan on hot pasta dishes and elegant pastries. The rule of thumb is that a brighter color usually reflects a heavier load of added synthetic vitamins, whereas a darker, reddish hue usually indicates a natural, traditional product that has not been chemically fortified.
+### Summary
+
+Nutritional yeast is a tasty, useful seasoning, especially in vegan cooking: it adds a cheesy flavor, a little protein and fiber, and in the fortified version a reliable source of B12. It has no proven immune or "detox" properties, and the benefits attributed to beta-glucan come from concentrated extracts. Vegans should choose a fortified product and check their B12 levels, and people with gout and some people with Crohn's disease should stick to small amounts.
+
+### Frequently asked questions
+
+**Question: What is the difference between nutritional yeast and brewer's yeast?**
+Answer: Both are deactivated yeast of the same species, but brewer's yeast is a by-product of beer making and tastes bitter, while nutritional yeast is grown specifically as food and tastes cheesy. In Israel the name "brewer's yeast" is often used for both.
+
+**Question: Is nutritional yeast enough as a B12 source for vegans?**
+Answer: Only if it is fortified with B12 and eaten regularly. Check the amount on the label, keep it away from light and check your blood B12 levels from time to time. Many people prefer a B12 supplement as a backup.
+
+**Question: Does nutritional yeast cause candida?**
+Answer: No. The yeast is killed with heat and cannot multiply in the body, so it does not cause fungal infections.
+
+**Question: Isn't it better to just take a B12 supplement?**
+Answer: A supplement is the safest and cheapest way to guarantee B12. Fortified nutritional yeast can also supply it, with the bonus of flavor, protein and fiber. There is no evidence that the B12 in yeast is absorbed better.
+
+**Question: How much nutritional yeast can you eat a day?**
+Answer: 1-2 tablespoons a day is a common amount. People with gout and people with Crohn's disease who react to yeast should eat less.
+
+**Question: Flakes or powder — which is better?**
+Answer: The nutrition is the same. Flakes are good for sprinkling over dishes, and powder dissolves better in sauces and shakes. What matters is whether the product is fortified, not its form.

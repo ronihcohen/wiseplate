@@ -1,6 +1,6 @@
 ---
 title: "Tashreeb"
-seo_title: "Tashreeb: An Iraqi Recipe for Stew Over Bread — Calories per Serving"
+seo_title: "Tashreeb Recipe: Iraqi Stew Over Bread"
 date: 2026-08-24T02:35:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/iraq/tashreeb.webp"
@@ -86,7 +86,7 @@ The point that needs attention is the bread: 60 grams of dry white bread is abou
 
 ### Summary
 
-Tashreeb is a bean and lamb stew served over dry bread, and its whole logic is that the bread soaks up the liquid and becomes part of the dish. About 620 calories per serving with 31 grams of protein and 10 grams of fiber — one of the most filling dishes in the category. The bread used for it is [samoon](/en/recipes/iraq/samoon/), and the Iranian dish built on the same idea is [abgoosht](/en/recipes/iran/abgoosht/). More recipes in [Iraqi cuisine](/en/recipes/iraq/).
+Tashreeb is a bean and lamb stew served over dry bread, and its whole logic is that the bread soaks up the liquid and becomes part of the dish. About 620 calories per serving with 31 grams of protein and 10 grams of fiber — one of the most filling dishes in the category. The bread used for it is samoon, and the Iranian dish built on the same idea is [abgoosht](/en/recipes/iran/abgoosht/). More recipes in [Iraqi cuisine](/en/recipes/iraq/).
 
 ### Frequently asked questions
 
@@ -94,10 +94,10 @@ Tashreeb is a bean and lamb stew served over dry bread, and its whole logic is t
 Answer: One-sixth of the pot — a bowl with about 60 grams of dry bread and about 500 ml of stew — is about 620 calories, with about 31 grams of protein and 10 grams of fiber. The bread alone accounts for about 165 of them, so it is the variable that affects the number most.
 
 **Question: Which bread is suitable for tashreeb?**
-Answer: Dry bread from yesterday — Iraqi [samoon](/en/recipes/iraq/samoon/), laffa or thick pita. Fresh bread absorbs too quickly and falls apart into mush. You can dry slices in the oven at 150 degrees for 10 minutes and use them.
+Answer: Dry bread from yesterday — Iraqi samoon, laffa or thick pita. Fresh bread absorbs too quickly and falls apart into mush. You can dry slices in the oven at 150 degrees for 10 minutes and use them.
 
 **Question: What is the difference between tashreeb and fatteh or tilit?**
-Answer: The idea is the same — bread that soaks up hot liquid — and the difference is in the liquid and the region. Iraqi tashreeb is based on a bean or bamia stew with meat; Iranian *tilit* on [abgoosht](/en/recipes/iran/abgoosht/) broth; and Levantine *fatteh* is served with [yogurt](/en/food/greek-yogurt/) and chickpeas and sometimes cold.
+Answer: The idea is the same — bread that soaks up hot liquid — and the difference is in the liquid and the region. Iraqi tashreeb is based on a bean or bamia stew with meat; Iranian *tilit* on abgoosht broth; and Levantine *fatteh* is served with [yogurt](/en/food/greek-yogurt/) and chickpeas and sometimes cold.
 
 **Question: Can you make tashreeb ahead of time?**
 Answer: The stew — yes, and it even improves on the second day. The assembly with the bread is done only at the moment of serving: a bowl assembled in advance turns into a uniform mush within a quarter of an hour.

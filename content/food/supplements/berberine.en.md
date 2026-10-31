@@ -1,10 +1,10 @@
 ---
 title: "Berberine: Blood Sugar, Weight Loss and Sport"
-seo_title: "Berberine for Athletes: What Is Known About Weight Loss, Blood Sugar and Risks"
+seo_title: "Berberine: Weight Loss, Blood Sugar, Dosage and Risks"
 date: 2026-01-23T09:45:00+02:00
 lastmod: 2026-09-08T09:00:00+03:00
 featured_image: ""
-description: "Berberine is getting attention for cutting and blood sugar. What do the studies show, including a 2026 trial, and why is it not a substitute for medication or a proven performance supplement?"
+description: "Berberine for blood sugar and weight loss: what the studies show, including a 2026 trial, and why it's no substitute for medication."
 ---
 
 ## Berberine: Between Research Interest and Promises of a Cut
@@ -53,6 +53,8 @@ The ANSES opinion notes risks including lowered blood sugar and blood pressure, 
 | Changing body composition | Was a change in fat measured, and not just in weight or a lab marker? |
 | Treating high blood sugar | What is the diagnosis, which medications are being taken and what is the follow-up plan? |
 | Buying a combination product | Are the formulation and dose the same as in the cited study? |
+
+**See also:** [Combining Supplements: What Works Together, What Interferes, and When to Take Them](/en/food/supplements/supplement-stack/)
 
 ### Frequently asked questions
 

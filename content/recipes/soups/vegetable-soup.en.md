@@ -1,6 +1,6 @@
 ---
 title: "Vegetable Soup"
-seo_title: "Vegetable Soup: A Hearty Homemade Recipe Without Soup Powder — Calories per Bowl"
+seo_title: "Vegetable Soup Recipe Without Soup Powder"
 date: 2026-09-01T09:20:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/soups/vegetable-soup.webp"
@@ -108,7 +108,7 @@ Answer: About 150 per 350 ml bowl in this recipe, including about 5 grams of fib
 Answer: Usually because all the vegetables went into the water together without a frying stage. Eight to ten minutes of caramelizing onion, carrot and celery in oil before adding liquid is the biggest difference between a tasty vegetable soup and a bland one.
 
 **Question: Can you make vegetable soup without soup powder?**
-Answer: Yes, and that is exactly the point of this recipe. The powder's role is filled by caramelizing the vegetables, tomato paste, and a teaspoon of [miso](/en/food/miso/) or dried mushrooms for anyone who wants extra depth. Industrial soup powder mainly adds sodium — usually 800-1,200 mg per cup.
+Answer: Yes, and that is exactly the point of this recipe. The powder's role is filled by caramelizing the vegetables, tomato paste, and a teaspoon of miso or dried mushrooms for anyone who wants extra depth. Industrial soup powder mainly adds sodium — usually 800-1,200 mg per cup.
 
 **Question: When does each vegetable go into the pot?**
 Answer: Root vegetables and starchy vegetables at the start, because they need 25-30 minutes; green and delicate vegetables like [zucchini](/en/food/zucchini/) and green beans — only in the last 8-10 minutes. Long cooking makes them too soft and fades their color.

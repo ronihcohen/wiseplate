@@ -2,28 +2,33 @@
 title: "Vitamin C (Ascorbic Acid)"
 seo_title: "Vitamin C: Daily Dose, Sources, Supplements and Side Effects"
 date: 2026-02-13T05:56:32+02:00
-lastmod: 2026-09-03T12:00:00+03:00
+lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "How much vitamin C you need per day, which foods provide it, what it does for colds and iron absorption, and what the upper limit and the risks of supplements are."
+description: "Vitamin C: 75 mg a day for women, 90 for men, upper limit 2,000 mg. What Cochrane found on colds, plus iron absorption, kidney stones and who needs a pill."
 ---
 
-## Vitamin C (Ascorbic Acid)
+## Vitamin C
 
-Vitamin C is a water-soluble vitamin and an antioxidant. The body needs it to produce [collagen](/en/food/collagen/), heal wounds, make carnitine and neurotransmitters, and keep the immune system working. Humans cannot make it, so we must get it from food or a supplement.
+**Adults need 75 mg of vitamin C a day (women) or 90 mg (men), an amount a red pepper, an orange or a kiwi supplies on its own. The upper limit is 2,000 mg a day. A regular supplement slightly shortens colds but, for most people, does not prevent them.** [NIH fact sheet on vitamin C](https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/) In Hebrew it is "ויטמין C".
+
+Vitamin C (ascorbic acid) is a water-soluble vitamin and an antioxidant. The body needs it to produce [collagen](/en/food/collagen/), heal wounds, make carnitine and neurotransmitters, and keep the immune system working. Humans cannot make it, so we must get it from food or a supplement.
 
 "Water-soluble" doesn't mean you can take any amount without risk. The body regulates absorption and excretes some of the excess in the urine, and at high doses digestive side effects become more common.
 
 ### How much you need per day
 
-| Group | Recommended daily intake |
-|---|---:|
-| Women aged 19+ | 75 mg |
-| Men aged 19+ | 90 mg |
-| Pregnancy | 85 mg |
-| Breastfeeding | 120 mg |
-| Smokers | An extra 35 mg |
+| Age | Recommended per day | Upper limit per day |
+|---|---|---|
+| Infants 0–12 months | 40–50 mg | not set |
+| 1–3 | 15 mg | 400 mg |
+| 4–8 | 25 mg | 650 mg |
+| 9–13 | 45 mg | 1,200 mg |
+| 14–18 | boys 75, girls 65 mg | 1,800 mg |
+| 19 and over | men 90, women 75 mg | 2,000 mg |
+| Pregnancy (19+) | 85 mg | 2,000 mg |
+| Breastfeeding (19+) | 120 mg | 2,000 mg |
 
-The upper limit for adults is **2,000 mg per day** from all sources. It is not a target but the level above which the risk of side effects increases. The recommendations for children are lower and depend on age.
+Smokers need an extra 35 mg a day. The upper limit covers all sources; it is not a target but the level above which the risk of side effects, mainly diarrhea and stomach upset, rises. [NIH ODS — vitamin C](https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/)
 
 ### Dietary sources
 
@@ -46,7 +51,7 @@ A diet that includes fruits and vegetables every day usually meets the requireme
 
 ### Colds: prevention or shortening
 
-For most of the population, taking vitamin C regularly does not prevent colds. It may slightly shorten the illness or slightly reduce its severity. Starting a supplement only after symptoms appear has not shown a consistent benefit. In people exposed to extreme physical exertion and cold, such as marathon runners in harsh conditions, some studies found a lower incidence.
+A Cochrane review pooling dozens of controlled trials (doses of 200 mg or more) found that for most of the population, taking vitamin C regularly does not prevent colds. It shortened them by about 8% in adults and 14% in children — around half a day for an average cold. Starting a supplement only after symptoms appear has not shown a consistent benefit. In people under extreme physical stress — marathon runners, skiers and soldiers training in the cold — the number of colds fell by about half. [Hemilä & Chalker, Cochrane 2013](https://pubmed.ncbi.nlm.nih.gov/23440782/)
 
 Vitamin C is not a treatment for flu, COVID or a bacterial infection, and a high dose is no substitute for vaccination or medical treatment.
 
@@ -60,14 +65,17 @@ Fatigue is not a specific sign of vitamin C deficiency. A diagnosis of deficienc
 
 Plain ascorbic acid is the most studied and cheapest form. There is no clear evidence that liposomal, "natural" or Ester-C versions give a clinical advantage for most people. A dose of 100–200 mg is well absorbed; as the dose goes up, the absorption rate goes down.
 
-High doses can cause diarrhea, nausea and abdominal cramps. There is concern about increased urinary oxalate and kidney stones, mainly in people who are prone to them or have kidney disease, although the studies are not consistent. In hemochromatosis or iron overload conditions, boosting iron absorption can be harmful. Vitamin C may also affect certain lab tests and cancer treatments, so it's important to report a high-dose supplement.
+High doses can cause diarrhea, nausea and abdominal cramps. There is concern about increased urinary oxalate and kidney stones: in a Swedish study following about 23,000 men, regular vitamin C supplement use was linked to roughly double the risk of kidney stones. [Thomas et al., 2013](https://pubmed.ncbi.nlm.nih.gov/23381591/) It is an observational study, but people who have had kidney stones are better off skipping high-dose supplements. In hemochromatosis or iron overload conditions, boosting iron absorption can be harmful. Vitamin C may also affect certain lab tests (such as some glucose meters) and cancer treatments, so it's important to tell your doctor about a high-dose supplement. [NIH ODS — vitamin C](https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/)
 
 ### Practical use
 
 * Eat at least one fruit or vegetable rich in vitamin C every day, preferably several kinds over the week.
 * To improve absorption of plant iron, add a fresh source of vitamin C to the same meal.
 * There's no need to "load up" on grams before a flight, a workout or the winter. If you choose a supplement, a moderate dose is usually enough.
+* If you take a supplement anyway: 100–250 mg a day is enough; beyond that most of it is not absorbed and is excreted in the urine.
 * Store powder and tablets in a dry, dark place. A solution or cut fruit loses vitamin C faster when exposed to air, light and heat.
+
+**See also:** [Vitamin E (Tocopherol)](/en/food/supplements/vitamin-e/) · [Combining Supplements: What Works Together, What Interferes, and When to Take Them](/en/food/supplements/supplement-stack/)
 
 ### Summary
 

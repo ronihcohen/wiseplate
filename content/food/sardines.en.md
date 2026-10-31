@@ -4,7 +4,7 @@ seo_title: "Sardines: Nutrition Facts, Omega-3, Calcium and Mercury"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-08-18T09:00:00+03:00
 featured_image: ""
-description: "Sardines: full nutrition facts, how much omega-3 and calcium they contain, why their mercury is especially low, and the downsides — sodium, purines and choosing between oil and water."
+description: "Sardines: nutrition facts, omega-3 and calcium, why their mercury is low, and the downsides: sodium, purines and oil vs. water."
 ---
 
 ## Sardines
@@ -32,9 +32,9 @@ The reason for their special status is biological: the sardine is a small fish t
 
 ### Calcium — the standout figure
 
-382 mg of [calcium](/en/food/supplements/calcium/) per 100 grams is more than a glass of [milk](/en/food/milk/) (about 300 mg), and that is an unusual figure for an animal food that is not a dairy product.
+382 mg of calcium per 100 grams is more than a glass of [milk](/en/food/milk/) (about 300 mg), and that is an unusual figure for an animal food that is not a dairy product.
 
-The source is **the small bones**, which soften completely during canning and are eaten with the fish without being noticed. This is calcium with good bioavailability, accompanied by [vitamin D](/en/food/supplements/vitamin-d/) and [vitamin K](/en/food/supplements/vitamin-k/), which are needed to direct it to bone — a combination that is hard to find in a single food.
+The source is **the small bones**, which soften completely during canning and are eaten with the fish without being noticed. This is calcium with good bioavailability, accompanied by vitamin D and [vitamin K](/en/food/supplements/vitamin-k/), which are needed to direct it to bone — a combination that is hard to find in a single food.
 
 **The practical takeaway:** boneless sardines lose this key advantage almost entirely. It is worth choosing the whole version.
 
@@ -43,7 +43,7 @@ The source is **the small bones**, which soften completely during canning and ar
 * **Omega-3 in amounts that rival salmon:** 1,400-1,500 mg per 100 grams, about one third to two thirds of [salmon](/en/food/salmon/) — and five times more than canned light [tuna](/en/food/tuna/). One can covers the weekly recommendation.
 * **Among the lowest mercury levels measured:** about 0.013 ppm, almost ten times less than light tuna. Sardines are considered safe for frequent consumption, including during pregnancy — and thanks to their DHA they are even recommended.
 * **Complete protein:** 24.6 grams per 100 grams.
-* **A surplus of [vitamin B12](/en/food/supplements/vitamin-b12/):** 370% of the Daily Value per 100 grams.
+* **A surplus of vitamin B12:** 370% of the Daily Value per 100 grams.
 * **[Selenium](/en/food/supplements/selenium/):** almost 100% of the Daily Value. Selenium also plays a role in binding mercury and reducing its availability.
 * **Sustainability:** sardines are among the most sustainable fish. They reproduce quickly, are caught with targeted nets with little bycatch, and their stocks are stable in most regions.
 * **Price and shelf life:** unbeatable. A can costs a few shekels and needs no refrigeration.
@@ -52,7 +52,7 @@ The source is **the small bones**, which soften completely during canning and ar
 
 * **Purines and gout:** this is the most significant downside. Sardines are among the most purine-rich foods there are (over 400 mg per 100 grams), and they appear explicitly on the list of foods to avoid with active gout or high uric acid.
 * **[Sodium](/en/food/supplements/sodium/):** 505 mg per 100 grams. Reduced-sodium versions exist, and draining and rinsing removes some of it.
-* **Oil vs. water — not like tuna.** With [tuna](/en/food/tuna/) the rule is simple: water is better. With sardines it is more complicated. Good-quality [olive oil](/en/food/olive-oil/) does no harm, but **soybean or sunflower oil adds omega-6 and worsens the ratio**, and also draws away some of the fish's omega-3 when you drain it. The recommended order: in water or [tomato](/en/food/tomato/) sauce, then in olive oil, and only last in another vegetable oil.
+* **Oil vs. water — not like tuna.** With tuna the rule is simple: water is better. With sardines it is more complicated. Good-quality [olive oil](/en/food/olive-oil/) does no harm, but **soybean or sunflower oil adds omega-6 and worsens the ratio**, and also draws away some of the fish's omega-3 when you drain it. The recommended order: in water or [tomato](/en/food/tomato/) sauce, then in olive oil, and only last in another vegetable oil.
 * **Strong taste and smell:** the main practical obstacle for most people. [Lemon](/en/food/lemon/), vinegar, red [onion](/en/food/onion/) or mustard tone it down considerably.
 * **Histamine:** like all mackerel-type and sardine-family fish, they can develop histamine if not chilled properly before canning. Histamine is heat-stable and is not destroyed by cooking.
 * **Fish allergy** and Anisakis sensitivity.

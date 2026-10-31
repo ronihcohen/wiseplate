@@ -17,7 +17,7 @@ calories: 1150
 
 ## Adjaruli Khachapuri
 
-The khachapuri of the Adjara region is an open dough boat filled with cheese, with an egg and butter added to its center at the end of baking. It looks like a meal for one, but a boat this size is very rich and is often shared. You tear off the rims and dip them into the mix of cheese, yolk and butter.
+The khachapuri of the Adjara region is an open dough boat filled with [cheese](/en/food/cheese/), with an [egg](/en/food/eggs/) and butter added to its center at the end of baking. It looks like a meal for one, but a boat this size is very rich and is often shared. You tear off the rims and dip them into the mix of cheese, yolk and butter.
 
 **Prep time:** 30 minutes · **Rising:** about 75 minutes · **Baking:** 15–18 minutes · **Yield:** 4 large boats · **Difficulty:** medium
 
@@ -30,7 +30,7 @@ Imeretian cheese and sulguni are not available in every Israeli supermarket. Low
 * 500 grams bread flour or white flour
 * 7 grams dry yeast, 12 grams sugar and 10 grams salt
 * 320 ml lukewarm water
-* 2 tablespoons olive oil
+* 2 tablespoons [olive oil](/en/food/olive-oil/)
 * 400 grams grated low-moisture mozzarella
 * 200 grams crumbled 16% feta
 * 150 grams 5% ricotta

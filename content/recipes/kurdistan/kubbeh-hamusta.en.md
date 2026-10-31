@@ -17,7 +17,7 @@ calories: 590
 
 ## Kubbeh Hamusta
 
-Hamusta is a sour green kubbeh soup that in Israel is identified with the Jewish-Kurdish cooking of Jerusalem. There are versions with rice and wild plants; here it is an easy-to-find semolina shell and a soup of chard, celery and zucchini suited to an Israeli kitchen.
+Hamusta is a sour green kubbeh soup that in Israel is identified with the Jewish-Kurdish cooking of Jerusalem. There are versions with rice and wild plants; here it is an easy-to-find semolina shell and a soup of chard, [celery](/en/food/celery/) and [zucchini](/en/food/zucchini/) suited to an Israeli kitchen.
 
 **Prep time:** 1 hour · **Cooking:** 75 minutes · **Yield:** 24 kubbeh, 8 servings · **Difficulty:** challenging
 
@@ -36,14 +36,14 @@ Semolina keeps drinking water as it rests, so don't fix a dry dough right away. 
 
 ### Choosing ingredients and substitutes
 
-Chard is an accessible substitute for the seasonal greens and wild arum (luf) documented in some versions; this is an explicit Israeli adaptation. You can fill with siska made from cooked, shredded shoulder meat. Don't replace all the lemon with citric acid.
+Chard is an accessible substitute for the seasonal greens and wild arum (luf) documented in some versions; this is an explicit Israeli adaptation. You can fill with siska made from cooked, shredded shoulder meat. Don't replace all the [lemon](/en/food/lemon/) with citric acid.
 
 ### Method
 
-1. Fry the onion in two tablespoons of oil, add the beef and break it up until browned; season and cool completely.
+1. Fry the [onion](/en/food/onion/) in two tablespoons of oil, add the [beef](/en/food/red-meat/) and break it up until browned; season and cool completely.
 2. Mix the semolina, salt and 420 ml of water, wait 20 minutes and add water by the tablespoon until the dough is soft and doesn't crack.
 3. Form 24 balls, open each in a wet palm, fill with a spoonful of meat and close into a thick disc.
-4. In a wide pot, fry the onion, celery, garlic and zucchini in the rest of the oil. Add the chard and water and cook for 20 minutes.
+4. In a wide pot, fry the onion, celery, [garlic](/en/food/garlic/) and zucchini in the rest of the oil. Add the chard and water and cook for 20 minutes.
 5. Add the lemon juice and salt, bring to a simmer and slide in the frozen or chilled kubbeh in batches. Cook for 40–45 minutes without stirring with a spoon; shake the pot.
 6. Check one: the shell is soft and the meat has reached 71 degrees Celsius. Balance the lemon and salt.
 

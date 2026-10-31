@@ -1,6 +1,6 @@
 ---
 title: "Dafina"
-seo_title: "Moroccan Hamin (S'hina/Dafina): A Shabbat Recipe — Calories per Serving"
+seo_title: "Moroccan Dafina (S'hina) Recipe: Shabbat Hamin"
 date: 2026-08-24T04:00:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/morocco/dafina.webp"
@@ -42,12 +42,12 @@ What happens in the pot overnight is not just "more of the same." At 90-100 degr
 * Salt
 
 **For the layers:**
-* 300 grams dried [chickpeas](/en/food/chickpeas/), soaked overnight
+* 300 grams dried chickpeas, soaked overnight
 * 300 grams whole wheat berries (or [rice](/en/food/rice/) — see the note below), in a loosely tied cloth bag
 * 6 medium [potatoes](/en/food/baked-potato/) (about 900 grams), whole and peeled
-* 2 [sweet potatoes](/en/food/sweet-potato/) (about 400 grams), cut into large chunks
+* 2 sweet potatoes (about 400 grams), cut into large chunks
 * 8 [eggs](/en/food/eggs/) in their shells, washed
-* 4-6 pitted [dates](/en/food/dates/)
+* 4-6 pitted dates
 * 1 tablespoon [honey](/en/food/honey/) or silan (see [the honey, silan and maple comparison](/en/compare/honey-silan-maple/))
 * Boiling water to cover
 
@@ -80,7 +80,7 @@ The recommended serving is one-eighth of the pot — about 125 grams of meat, on
 
 This is the heaviest dish on this page, and it was built that way on purpose — as the single meal of a whole day. Two-thirds of the calories come from the combination of meat and starch: the meat alone contributes about 310 calories per serving, the wheat about 130 and the potato about 87.
 
-On the other hand, there is a side here that almost no other meat dish offers: **15 grams of fiber per serving**, more than half the daily recommendation, from the [chickpeas](/en/food/chickpeas/), the whole wheat berries and the root vegetables — alongside a significant amount of [iron](/en/food/iron/) and [zinc](/en/food/supplements/zinc/) from the meat and [potassium](/en/food/supplements/potassium/) from the vegetables. The effective way to bring the number down is not to give up a component but to change the proportions: 700 grams of meat instead of a kilo, and one tablespoon less oil, bring the serving down to about 740 calories. A double serving — a quarter of the pot — is about 1,700 calories, and that is the more common mistake.
+On the other hand, there is a side here that almost no other meat dish offers: **15 grams of fiber per serving**, more than half the daily recommendation, from the chickpeas, the whole wheat berries and the root vegetables — alongside a significant amount of [iron](/en/food/iron/) and [zinc](/en/food/supplements/zinc/) from the meat and [potassium](/en/food/supplements/potassium/) from the vegetables. The effective way to bring the number down is not to give up a component but to change the proportions: 700 grams of meat instead of a kilo, and one tablespoon less oil, bring the serving down to about 740 calories. A double serving — a quarter of the pot — is about 1,700 calories, and that is the more common mistake.
 
 ### Variations and tips
 
@@ -91,7 +91,7 @@ On the other hand, there is a side here that almost no other meat dish offers: *
 
 ### Summary
 
-Dafina is defined by time: 12-16 hours that turn tough meat tender, chickpeas creamy and eggs brown. At about 850 calories per serving it is a day's single meal rather than a dish on a menu, but its 15 grams of fiber and 43 grams of protein are a ratio most meat dishes never reach. The only two things that can ruin it are too high a flame and lifting the lid partway through. The equivalent Shabbat dish on the site is Iraqi [tbit](/en/recipes/iraq/tbit/); more recipes in [Moroccan cuisine](/en/recipes/morocco/).
+Dafina is defined by time: 12-16 hours that turn tough meat tender, chickpeas creamy and eggs brown. At about 850 calories per serving it is a day's single meal rather than a dish on a menu, but its 15 grams of fiber and 43 grams of protein are a ratio most meat dishes never reach. The only two things that can ruin it are too high a flame and lifting the lid partway through. The equivalent Shabbat dish on the site is Iraqi tbit; more recipes in [Moroccan cuisine](/en/recipes/morocco/).
 
 ### Frequently asked questions
 
@@ -99,7 +99,7 @@ Dafina is defined by time: 12-16 hours that turn tough meat tender, chickpeas cr
 Answer: A serving of one-eighth of the pot is about 850 calories, with about 43 grams of protein and 15 grams of fiber. In the skinless chicken version the serving drops to about 700 calories, while chicken with skin saves almost nothing. A double serving — a quarter of the pot, and the amount many people actually take — reaches about 1,700 calories.
 
 **Question: What is the difference between dafina and cholent (hamin)?**
-Answer: The same idea, three communities. Ashkenazi cholent is built on beans and barley and tastes salty and rich; Moroccan dafina is built on chickpeas, wheat, root vegetables and [dates](/en/food/dates/), and tastes slightly sweet, spiced with cinnamon and allspice; and Iraqi [tbit](/en/recipes/iraq/tbit/) is built around chicken stuffed with rice. The brown eggs are common to all three.
+Answer: The same idea, three communities. Ashkenazi cholent is built on beans and barley and tastes salty and rich; Moroccan dafina is built on chickpeas, wheat, root vegetables and dates, and tastes slightly sweet, spiced with cinnamon and allspice; and Iraqi tbit is built around chicken stuffed with rice. The brown eggs are common to all three.
 
 **Question: Why do the eggs turn brown in dafina?**
 Answer: During long cooking, iron from the yolk and sulfur from the white react with each other, and the brown color forms gradually from the outside in. At the same time, flavors and color from the sauce seep into the egg through the porous shell. After 12 hours the texture changes too — the white becomes creamy instead of rubbery.

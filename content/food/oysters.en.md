@@ -1,6 +1,6 @@
 ---
 title: "Oysters"
-seo_title: "Oysters: The World's Richest Source of Zinc — Nutrition Facts and Vibrio Risks"
+seo_title: "Oysters: The Richest Zinc Source, Nutrition and Vibrio Risk"
 date: 2025-12-22T11:00:00+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
@@ -64,9 +64,9 @@ Oysters are traditionally eaten **raw and alive**, and that is where most of the
 ### Benefits
 
 * **The world's most powerful source of zinc** — as detailed above.
-* **[Vitamin B12](/en/food/supplements/vitamin-b12/):** 667% of the daily value per 100 grams — essential for nerve function, DNA synthesis and the formation of red blood cells.
-* **[Selenium](/en/food/supplements/selenium/) and [copper](/en/food/supplements/copper/)** in very high amounts.
-* **Heme [iron](/en/food/iron/):** 5.1 mg per 100 grams in a form that is absorbed much better than plant iron.
+* **Vitamin B12:** 667% of the daily value per 100 grams — essential for nerve function, DNA synthesis and the formation of red blood cells.
+* **Selenium and copper** in very high amounts.
+* **Heme iron:** 5.1 mg per 100 grams in a form that is absorbed much better than plant iron.
 * **High-quality protein in few calories:** 9.5 grams of protein for 81 calories.
 * **[Omega-3](/en/food/supplements/omega-3/):** about 0.7 grams of EPA and DHA per 100 grams — less than [salmon](/en/food/salmon/) or [sardines](/en/food/sardines/), but a real contribution.
 * **[Vitamin D](/en/food/supplements/vitamin-d/):** 40% of the daily value — rare in food.
@@ -76,7 +76,7 @@ Oysters are traditionally eaten **raw and alive**, and that is where most of the
 
 * **Vibrio and norovirus when eaten raw** — as detailed above, the most significant downside.
 * **Heavy metals.** The same filtering mechanism also concentrates cadmium and, to a lesser extent, lead. Regulated sources and countries with monitoring reduce the risk, but it still justifies moderate rather than daily consumption.
-* **Excess zinc.** High, chronic zinc intake (above 40 mg per day from all sources) interferes with [copper](/en/food/supplements/copper/) absorption and can cause copper deficiency. **A 100-gram serving of oysters exceeds the daily value several times over**, so anyone who eats oysters frequently **does not also need a zinc supplement**.
+* **Excess zinc.** High, chronic zinc intake (above 40 mg per day from all sources) interferes with copper absorption and can cause copper deficiency. **A 100-gram serving of oysters exceeds the daily value several times over**, so anyone who eats oysters frequently **does not also need a zinc supplement**.
 * **Shellfish allergy.** A common allergy, sometimes severe, and usually lifelong. An allergy to mollusks is not the same as an allergy to crustaceans (shrimp, crabs) — you can be allergic to one and not the other.
 * **[Sodium](/en/food/supplements/sodium/).** An oyster is served in its own seawater; its sodium content is significant.
 * **Price and availability.** An expensive product, available in Israel mainly in restaurants and specialty stores.
@@ -88,8 +88,8 @@ Oysters are traditionally eaten **raw and alive**, and that is where most of the
 * **Store refrigerated, flat side down**, covered with a damp towel, not in a sealed bag and not in fresh water — the oyster is alive and needs air.
 * **Eat within two days** of purchase, and make sure of a regulated source with documented origin.
 * **Cook them for anyone in a risk group.** Steam until they open plus another 3-5 minutes, or grill — 63°C (145°F) inside.
-* **Making the most of the [iron](/en/food/iron/):** oysters with [lemon](/en/food/lemon/) are not just tradition — the [vitamin C](/en/food/supplements/vitamin-c/) improves iron absorption.
-* **Don't take them together with a [zinc](/en/food/supplements/zinc/) supplement** — the supplement is unnecessary and may be harmful.
+* **Making the most of the iron:** oysters with [lemon](/en/food/lemon/) are not just tradition — the [vitamin C](/en/food/supplements/vitamin-c/) improves iron absorption.
+* **Don't take them together with a zinc supplement** — the supplement is unnecessary and may be harmful.
 * **A reasonable serving:** 6-12 oysters (85-170 grams), and not every day.
 * **Avoid eating them raw in summer** — following the logic of the "R months."
 

@@ -1,6 +1,6 @@
 ---
 title: "Kuku Sabzi"
-seo_title: "Kuku Sabzi: A Persian Recipe for Baked Herb Frittata — Calories per Serving"
+seo_title: "Kuku Sabzi Recipe: Persian Baked Herb Frittata"
 date: 2026-08-24T01:00:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/iran/kuku-sabzi.webp"

@@ -1,115 +1,112 @@
 ---
-title: "Running Heart Rate Zones: The Secret to Endurance and Better Performance"
+title: "Running Heart Rate Zones: How to Calculate Them and Why Most Runs Should Be Easy"
+seo_title: "Heart Rate Zones for Running: How to Calculate Zone 2"
 date: 2026-02-13T11:00:00+02:00
-featured_image: "/images/run_zones.png"
-description: "A comprehensive guide to heart rate zones, why running in Zone 2 is the real magic, and how to train properly to keep improving over time."
+lastmod: 2026-10-30T09:00:00+02:00
+featured_image: ""
+description: "The five running heart rate zones, how to calculate them (220 minus age, 208 minus 0.7 × age, Karvonen) and why about 80% of training should be easy."
 ---
 
-## Running by Heart Rate: The Key to Continuous Improvement
+## Running Heart Rate Zones
 
-Many runners, beginners and experienced alike, tend to fall into the "faster is better" trap. We head out for a run, feel good, and pick up the pace until we're breathing hard. But the body's physiology teaches us a different lesson: to run faster over time, you need to learn to run slowly.
+**Heart rate zones divide running intensity into five levels based on a percentage of your maximum heart rate, and studies of endurance athletes show that about 80% of their training is done at low intensity (zones 1–2) and about 20% at high intensity.** For most recreational runners that means running more slowly than feels natural on most runs, and saving hard efforts for one or two sessions a week. In Hebrew they are called "אזורי דופק".
 
-Training by heart rate zones is the most effective method for managing training load, improving aerobic fitness and preventing injuries.
+Training by heart rate is not the only way — you can also train by pace or by perceived effort — but it gives an objective measure that prevents the most common mistake: running every run "moderately hard".
 
-### What are heart rate zones? (The 5 Zones)
+### The five zones
 
-Exercise intensity is commonly divided into 5 zones, usually based on percentages of maximum heart rate (Max HR) or of lactate threshold heart rate (LTHR).
+| Zone | % of max heart rate | How it feels | Main purpose |
+| --- | --- | --- | --- |
+| 1 — Recovery | 50–60% | Very easy, almost brisk walking | Warm-up, cool-down, recovery days |
+| 2 — Easy aerobic | 60–70% | You can hold a full conversation | Building the aerobic base, most weekly volume |
+| 3 — Moderate aerobic | 70–80% | Short sentences, deeper breathing | Marathon pace for many runners |
+| 4 — Threshold | 80–90% | Hard, single words only | Raising the threshold, 10K–half-marathon pace |
+| 5 — Maximal | 90–100% | All-out, a few minutes at most | VO2max and speed |
 
-#### Zone 1: Active recovery (50-60% of max heart rate)
-*   **Feel:** Very easy, completely normal breathing. A run that feels almost like brisk walking.
-*   **Goal:** Warming up, cooling down, and moving blood to the muscles without creating additional fatigue.
+Different watches and apps use slightly different boundaries, and some calculate from heart rate reserve or threshold heart rate. What matters is to use the same method consistently.
 
-#### Zone 2: Easy aerobic / "the base" (60-70% of max heart rate)
-*   **Feel:** Conversational pace. You can hold a full conversation with no difficulty breathing at all.
-*   **Goal:** Building an aerobic base, improving metabolic efficiency (fat burning), and improving mitochondrial density. **This is the most important zone for long-distance runners.**
+### Why most runs should be easy
 
-#### Zone 3: Moderate aerobic / "the gray zone" (70-80% of max heart rate)
-*   **Feel:** Noticeable effort; breathing is deeper but rhythmic. It's harder to speak in long sentences.
-*   **Goal:** Improving muscular endurance. *Warning:* Too much training in this zone (junk miles) tires the body without delivering the benefits of Zone 2 or the speed gains of the higher zones.
+A review of the training of national- and international-level endurance athletes found that they converge on a similar split: about 80% of sessions at low intensity and about 20% at high intensity, such as intervals. In already well-trained athletes, adding more high-intensity work showed no convincing long-term advantage. [Seiler 2010, Int J Sports Physiol Perform](https://pubmed.ncbi.nlm.nih.gov/20861519/)
 
-#### Zone 4: Anaerobic threshold (80-90% of max heart rate)
-*   **Feel:** Hard. Heavy breathing, muscles start to "burn". You can only say a few words.
-*   **Goal:** Raising the lactate threshold, improving speed and endurance at high paces.
+In a 9-week trial in well-trained endurance athletes, "polarised" training — lots of easy volume plus a little very intense work — improved maximal oxygen uptake and time to exhaustion more than training focused on threshold work, high intensity alone or high volume alone. [Stöggl 2014, Front Physiol](https://pubmed.ncbi.nlm.nih.gov/24550842/)
 
-#### Zone 5: Maximal effort (90-100% of max heart rate)
-*   **Feel:** Sprinting, "leaving everything out there". Possible for only a very short time (seconds to a few minutes).
-*   **Goal:** Improving explosive power and top speed.
+**What easy running does:** endurance training increases the number of mitochondria and capillaries in muscle and improves the ability to use fat as fuel. Easy running lets you build that volume without accumulating fatigue, and leaves energy for the quality sessions.
 
----
+**The "grey zone":** steady running in zone 3 is not bad, but if every run is done there, it is tiring enough to hurt your hard sessions without being intense enough to improve speed.
 
-### The magic of Zone 2: why run slowly?
+### How to calculate your zones
 
-In the world of professional running (and advanced amateur running too), it is accepted that **80% of weekly volume should be done in Zone 2**. It sounds counterintuitive, but the physiological benefits are enormous:
+**1. Age-based maximum heart rate**
+* The classic formula: 220 minus your age.
+* A more accurate formula for adults: 208 minus 0.7 × age, derived from a meta-analysis of about 18,700 people and validated in the lab. For a 50-year-old: 220 − 50 = 170, compared with 208 − 35 = 173. [Tanaka 2001, J Am Coll Cardiol](https://pubmed.ncbi.nlm.nih.gov/11153730/)
+* The drawback: individual variation is large. Some people's true maximum is 10 or more beats higher or lower than the formula.
 
-1.  **Mitochondrial efficiency:** The mitochondria are the cell's "power plant". Training in Zone 2 increases the number of mitochondria and their efficiency, which lets the muscles produce more energy for longer.
-2.  **Using fat as an energy source:** At low intensity, the body learns to tap fat stores (which are almost unlimited) instead of glycogen (carbohydrates, whose supply is limited). An efficient runner is one who can "burn fat" at high paces.
-3.  **Fast recovery:** Because the load on the nervous system and muscles is low, you can run relatively large distances in Zone 2 and recover quickly for the next quality workout.
-4.  **Lactate clearance:** Surprisingly, to improve the body's ability to clear lactic acid (lactate), you need to train the slow-twitch fibers (Type I) that work mainly in Zone 2. These fibers "eat" the lactate produced by the fast-twitch fibers.
+**2. The Karvonen method (heart rate reserve)**
+This method, first described in the 1950s by the Finnish physiologist Martti Karvonen, also takes resting heart rate into account. [Karvonen 1957, Ann Med Exp Biol Fenn](https://pubmed.ncbi.nlm.nih.gov/13470504/)
+1. Measure your resting heart rate in the morning, before getting up (e.g. 50).
+2. Estimate your maximum heart rate (e.g. 185).
+3. Heart rate reserve = 185 − 50 = 135.
+4. Target for 70%: 135 × 0.70 + 50 = about 145.
 
-### How do I calculate my zones?
+**3. A field test**
+More accurate than a formula: after a thorough warm-up, run 3–4 minutes with a gradual build to a maximal effort, and take the highest heart rate recorded with a chest strap. This is suitable only for healthy, trained people; anyone with heart problems or risk factors needs a doctor's approval first.
 
-The most accurate way is a lab test (lactate thresholds and maximal oxygen uptake). For most runners, however, estimation formulas are enough to start with:
+**4. The talk test**
+If you can speak in full sentences, you are in zone 2. If you need to stop for breath mid-sentence, you have moved into zone 3. It is a simple tool that works even without a watch.
 
-#### 1. The max heart rate formula (less accurate)
-The classic formula: `220 minus age`.
-*   Zone 2 = 60-70% of the result.
-*   *Drawback:* It doesn't account for current fitness or individual genetic tendencies (some people have a max heart rate higher/lower than average).
+### Measuring heart rate: watch or strap
 
-#### 2. The Karvonen formula (more accurate)
-Takes resting heart rate (resting HR) into account.
-1.  Measure your resting heart rate in the morning (for example: 50).
-2.  Estimate your max heart rate (for example: 185).
-3.  Heart rate reserve (HRR) = max heart rate minus resting heart rate (185-50 = 135).
-4.  Calculate Zone 2 (for example 70%): `(135 * 0.70) + 50 = 144.5`.
+In a study that compared optical heart rate monitors with an ECG on a treadmill, an exercise bike and an elliptical trainer, the chest strap (Polar H7) was almost identical to the ECG, and the Apple Watch was the most accurate of the wrist devices. On the treadmill nearly all devices performed well; on the elliptical with arm movement none of the devices was accurate. [Gillinov 2017, Med Sci Sports Exerc](https://pubmed.ncbi.nlm.nih.gov/28709155/)
 
-#### 3. The talk test (the most practical)
-If you can talk in full paragraphs, sing a song to yourself, or comfortably breathe only through your nose — you're in Zone 2. If you start panting and need to take a breath in the middle of a sentence — you've moved into Zone 3.
+* **Optical watch:** convenient and good enough for easy and long runs. Less accurate with rapid changes, such as short intervals.
+* **Chest strap:** responds faster and more accurately; recommended for quality sessions and field tests.
+* **Cardiac drift:** on long runs and in heat, heart rate creeps up even at a steady pace. This is normal; slow down a little to stay in the zone.
 
----
+More on running with a watch: [Running with the Apple Watch and Advanced Navigation](/en/run/running_apple_watch_gpx/)
 
-### Tips for putting it into practice (how not to get bored)
+### Nutrition by intensity
 
-1.  **Ego is the enemy:** At first, running in Zone 2 will feel painfully slow. You might even need to walk the uphills to keep your heart rate low. That's fine! It's a necessary stage in building the base.
-2.  **Build gradually:** Don't try to run every day. Combine easy runs with rest days.
-3.  **Listen to podcasts:** Zone 2 runs are a great time to listen to enriching content, because the mind is free and not under the stress of high effort.
-4.  **Consistency beats intensity:** It's better to run 4 times a week in Zone 2 than to run once at full power and be laid up with pain for three days.
+* **Zones 1–2:** the body relies more on fat. On an easy run of up to about an hour, no special fuelling is needed; water is enough. Day to day, fats such as [avocado](/en/food/avocado/), [olive oil](/en/food/olive-oil/) and [walnuts](/en/food/walnuts/) are part of a balanced diet.
+* **Zones 3–5:** the body relies more on glycogen (carbohydrate). Before a quality session or race, eat readily available carbohydrate such as a [banana](/en/food/banana/) or [dates](/en/food/dates/). In efforts longer than about 90 minutes, carbohydrate during the run helps. [Processed energy bars](/en/food/processed-energy-bars/) are not a must.
+* **After a hard session:** protein such as [eggs](/en/food/eggs/) or [tofu](/en/food/tofu/) alongside carbohydrate.
 
-### Monitoring and measurement tools (how do we measure what we can't see?)
+### A sample week (roughly 80/20)
 
-To train precisely by zones, subjective feel (RPE) is an excellent tool, but technology can give us more objective and precise feedback.
+* **Sunday — zone 2:** easy run, 45–60 minutes.
+* **Tuesday — quality session:** warm-up, 5 × 3 minutes in zone 4 with 2 minutes' rest, cool-down.
+* **Thursday — zones 1–2:** easy run, 30–40 minutes.
+* **Friday/Saturday — long run in zone 2:** 60–90 minutes or more, depending on your goal.
 
-1.  **Heart rate watches (optical heart rate):** Watches such as the Apple Watch, Garmin and Suunto use optical sensors. They are very convenient, but sometimes less accurate during short interval workouts or when there is a lot of sweat.
-    *   For more on combining technology with training: [Running with the Apple Watch and advanced navigation](/en/run/running_apple_watch_gpx/)
-2.  **Chest straps:** Considered the "gold standard" (such as the Polar H10). They measure the heart's electrical activity (ECG) and respond faster to changes in heart rate. Recommended for anyone who wants precision in quality workouts.
+### Common mistakes
 
-### Nutrition by zone (fuel for the engine)
-
-The body's energy demands change dramatically between the different zones. Understanding what the body uses in each zone will help us fuel correctly and avoid "hitting the wall" (bonking).
-
-*   **Zones 1-2 (the realm of fat):** At low intensity, the body relies mainly on fat oxidation.
-    *   **What to eat:** There's no need for aggressive carb-loading before easy runs. An everyday diet rich in healthy fats supports this. It's a good idea to include [avocado](/en/food/avocado/), [olive oil](/en/food/olive-oil/) and [walnuts](/en/food/walnuts/) in your daily menu.
-    *   **During the run:** On runs of up to 90 minutes in Zone 2, water and electrolytes are usually perfectly sufficient.
-
-*   **Zones 3-4-5 (the realm of carbohydrates):** As intensity rises, the body shifts to burning glycogen (sugar), because it is a faster (but limited) energy source.
-    *   **What to eat:** Before a quality workout or race, you must fill your glycogen stores. Excellent sources are [bananas](/en/food/banana/) and [dates](/en/food/dates/), natural "energy bombs" that are absorbed quickly.
-    *   **During the run:** In intense efforts of over an hour, it's worth taking in readily available carbohydrates. Beware of [processed energy bars](/en/food/processed-energy-bars/) that contain undesirable ingredients, and prefer dried fruit or quality gels.
-    *   Don't forget recovery! After an intense workout, include quality protein such as [eggs](/en/food/eggs/) or [tofu](/en/food/tofu/) to rebuild muscle.
-
-### Sample training protocols
-
-How do you fit the theory into a weekly schedule? Here's an example of a balanced week (the 80/20 principle):
-
-*   **Sunday (Zone 2):** An easy, comfortable run, 45-60 minutes.
-*   **Tuesday (quality workout - Zone 4/5):** Warm-up, then intervals (for example: 5 repeats of 3 minutes in Zone 4 with 2 minutes of rest), cool-down.
-*   **Thursday (Zone 2):** A very easy run or a recovery session (Zone 1), 30-40 minutes.
-*   **Friday/Saturday (the long run - Zone 2):** The most important run of the week. 60-90 minutes (or more, depending on your goal) at a fully conversational pace. Try to keep your heart rate low even on the hills!
-
-Run slow so you can run fast!
+* **Running easy runs too fast:** the most common mistake. At first zone 2 will feel very slow, and sometimes you will need to walk the hills.
+* **Chasing the number at any cost:** in heat, when tired or after a bad night, heart rate runs higher. Feel and the talk test complement the watch.
+* **Relying on a formula for precise intervals:** if hard sessions matter to you, set your maximum or threshold heart rate with a test.
 
 ### Further reading
 
-* [Running shoes](/en/run/runway/) — what cushioning really does, and its biomechanical cost.
-* [Running underwear](/en/run/run_shorts/) — the base layer and preventing chafing on long runs.
-* [Running with the Apple Watch and advanced navigation](/en/run/running_apple_watch_gpx/) — real-world heart rate measurement and trail navigation.
+* [Running Shoes](/en/run/runway/) — what cushioning really does, and what research says about injuries.
+* [Running Underwear](/en/run/run_shorts/) — the base layer and preventing chafing on long runs.
 * [Sodium](/en/food/supplements/sodium/) and [potassium](/en/food/supplements/potassium/) — the electrolytes lost in sweat.
 * [Caffeine](/en/food/supplements/caffeine/) and [creatine](/en/food/supplements/creatine/) — the supplements with the strongest evidence for performance.
+
+### Frequently asked questions
+
+**Question: What is zone 2 in running?**
+Answer: An easy intensity, roughly 60–70% of maximum heart rate, at which you can hold a full conversation. It is the zone for most of your weekly volume.
+
+**Question: How do I calculate my maximum heart rate?**
+Answer: The classic formula is 220 minus your age; a more accurate formula for adults is 208 minus 0.7 × age. Both have large individual error, and a field test with a chest strap is more accurate.
+
+**Question: Why is my heart rate high even on slow runs?**
+Answer: This is very common at the start. Heat, fatigue, caffeine and lack of sleep all raise heart rate. After a few months of easy running, your pace at the same heart rate improves.
+
+**Question: How much of my training should be easy?**
+Answer: Successful endurance athletes train about 80% at low intensity and about 20% at high intensity. For a recreational runner who runs 3–4 times a week, that usually means one quality session and the rest easy.
+
+**Question: Is a wrist watch accurate enough for heart rate?**
+Answer: For steady, easy runs, usually yes. For short intervals and fast changes of pace, a chest strap is more accurate.
+
+**Question: What is the difference between % of max heart rate and the Karvonen method?**
+Answer: The Karvonen method takes a percentage of heart rate reserve (max minus resting) and adds resting heart rate back, so it adjusts the zones to your fitness. It gives slightly higher numbers in the lower zones.

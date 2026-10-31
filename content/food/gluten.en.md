@@ -1,12 +1,15 @@
 ---
 title: "Gluten"
-seo_title: "Gluten: What It Is, Which Foods Contain Gluten and Who Really Needs to Avoid It"
+seo_title: "Gluten: What It Is, Which Foods Have It, Who Should Avoid It"
 date: 2026-09-02T04:00:00+03:00
+lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "What gluten is and which foods contain it, the difference between celiac disease, wheat allergy and gluten sensitivity, what the 20 ppm label means, and whether gluten-free is healthier."
+description: "What gluten is and which foods contain it, celiac vs. wheat allergy vs. gluten sensitivity, what the 20 ppm label means, and whether gluten-free is healthier."
 ---
 
 ## Gluten
+
+**Gluten is the protein network of wheat, rye and barley, and only people with celiac disease (about 1% of the population), a wheat allergy or a diagnosed sensitivity need to avoid it; in healthy people there is no evidence that a gluten-free diet helps, and processed gluten-free products are often less nutritious.** Someone with celiac disease must avoid even crumbs: the safe threshold is under 10 mg of gluten a day.
 
 **Gluten** — from the Latin *gluten*, "glue" — is the name of a protein network that forms when wheat, rye or barley flour meets water. It is this network that turns a mix of flour and water into a dough that can be stretched, it traps the carbon dioxide bubbles that yeast produces, and it is what gives bread an airy texture instead of a crumbly one. (In Hebrew it is "גלוטן"; two grain names that trip up Hebrew speakers in particular, "כוסמין" (spelt) and "כוסמת" (buckwheat), are covered below.)
 
@@ -94,7 +97,7 @@ This is where most of the public confusion arises. "Gluten sensitivity" is not o
 
 This is **neither an allergy nor a sensitivity** but a true autoimmune disease. In genetically predisposed people (carriers of the HLA-DQ2 or HLA-DQ8 genes), gliadin peptides cross the intestinal wall, are chemically modified by the enzyme tissue transglutaminase, and trigger an immune response that attacks the lining of **the small intestine itself**. The result is flattening of the villi (villous atrophy) — the tiny projections through which most nutrients are absorbed, and whose flattening dramatically reduces the absorptive surface.
 
-* **Prevalence:** global meta-analyses find a prevalence of about 1.4% by blood tests and about 0.7% by biopsy-confirmed diagnosis. In Israel, estimates hover around 1%.
+* **Prevalence:** prevalence in the general population ranges from 0.5% to 2%, about 1% on average [(Catassi et al., Lancet 2022)](https://pubmed.ncbi.nlm.nih.gov/35691302/). In Israel, estimates hover around 1%.
 * **Genetics is not destiny:** about 30-40% of the population carry the genes, but only a tiny fraction of them will develop the disease. The value of the genetic test is mainly **negative** — a negative result almost completely rules out the diagnosis.
 * **The symptoms aren't only in the gut:** alongside diarrhea, bloating and abdominal pain, the disease often presents with symptoms outside the gut: [iron](/en/food/iron/)-deficiency anemia that does not respond to treatment, chronic fatigue, osteoporosis, stunted growth in children, recurrent mouth ulcers, fertility problems and neurological symptoms.
 * **Dermatitis herpetiformis:** a skin presentation of the same disease — a very itchy, blistering rash, mainly on the elbows, knees and buttocks. It appears in about 10-15% of people with celiac disease and also responds to avoiding gluten.
@@ -112,15 +115,15 @@ It also has a variant that is especially relevant to athletes: **WDEIA** (wheat-
 
 People who report bloating, gas, abdominal pain, fatigue or "brain fog" after eating wheat products, but whose celiac and allergy tests are negative. The phenomenon is real — but research in recent years suggests that in most cases **gluten is not the main culprit**:
 
-* **Fructans:** wheat is one of the main sources of fructans — carbohydrates from the FODMAP family that are fermented in the large intestine and produce gas. In an important trial published in Gastroenterology, people who described themselves as gluten-sensitive received gluten, fructans or placebo in a crossover design: **the fructans caused significantly more symptoms, and gluten was no different from placebo.**
+* **Fructans:** wheat is one of the main sources of fructans — carbohydrates from the FODMAP family that are fermented in the large intestine and produce gas. In a double-blind trial published in Gastroenterology, 59 people who described themselves as gluten-sensitive received gluten, fructans or placebo in a crossover design: **the fructans caused more symptoms and bloating than gluten, and gluten was no different from placebo** [(Skodje et al., 2018)](https://pubmed.ncbi.nlm.nih.gov/29102613/).
 * **ATIs — amylase/trypsin inhibitors:** a group of natural defense proteins in wheat that has been shown to activate an innate immune response through the TLR4 receptor. They are another leading candidate.
-* **The nocebo effect:** in double-blind studies, a substantial share of participants report symptoms even when they received placebo. Expecting a symptom produces it.
+* **The nocebo effect:** in double-blind studies, a substantial share of participants report symptoms even when they received placebo. In a multicenter trial that separated expectation from actual gluten, symptoms were highest when people expected gluten and also got it, and in those who expected gluten but got placebo, symptoms were not significantly different [(de Graaf et al., 2024)](https://pubmed.ncbi.nlm.nih.gov/38040019/). Expecting a symptom produces part of it.
 
 **The practical meaning:** if you feel better on a wheat-free diet — the improvement is real and there is no reason to doubt it. But it is worth knowing that the avoidance you need may be **more moderate and more targeted** than it seems: sometimes it is enough to cut down on fructans, choose long-fermented [sourdough bread](/en/food/sourdough/), or reduce the portion — without having to avoid every last crumb. In any case, celiac disease should be ruled out **before** you start.
 
 ### How much gluten is too much
 
-For a person with celiac disease, "no gluten" is not a figure of speech. A classic dosing study showed that eating 50 mg of gluten a day for three months already caused measurable damage to the intestinal lining, whereas 10 mg a day did not — which established the practical threshold of **less than 10 mg a day**.
+For a person with celiac disease, "no gluten" is not a figure of speech. A double-blind dosing study showed that eating 50 mg of gluten a day for three months already caused measurable damage to the intestinal lining, whereas 10 mg a day did not on average, although one patient in that group had a relapse [(Catassi et al., 2007)](https://pubmed.ncbi.nlm.nih.gov/17209192/). That established the practical threshold of **less than 10 mg a day**.
 
 The "gluten-free" label is derived from this too: the international Codex Alimentarius standard and regulations in the US and the European Union define it as less than **20 parts per million (ppm)**, i.e. 20 mg of gluten per kg of food. The math is simple: someone who eats half a kilo a day of a food sitting exactly at the threshold would consume 10 mg — exactly the safety limit.
 
@@ -158,10 +161,11 @@ This list accounts for most "accidental exposures" in people with celiac disease
 * **Less iron and B vitamins:** in many countries wheat flour is fortified with iron and folic acid. Rice, potato and tapioca flours are usually not fortified, which creates a gap.
 * **A higher glycemic index:** most "gluten-free" products are built on rice, corn and tapioca starches — refined starches that are absorbed quickly.
 * **Less fiber and harm to the microbiome:** cutting down on whole grains lowers intake of fiber and fructans, both of which feed beneficial gut bacteria.
-* **Arsenic:** a gluten-free diet relies heavily on rice. An American study found higher urinary arsenic levels among people avoiding gluten.
+* **Arsenic and heavy metals:** a gluten-free diet relies heavily on rice. In US national health survey data, people avoiding gluten had more arsenic in their urine and more mercury and lead in their blood [(Raehsler et al., 2018)](https://pubmed.ncbi.nlm.nih.gov/28223206/).
+* **Heart:** in a cohort study of more than 100,000 health professionals, gluten intake was not linked with heart disease risk, but avoiding gluten may mean eating fewer whole grains, which are protective [(Lebwohl et al., BMJ 2017)](https://pubmed.ncbi.nlm.nih.gov/28465308/).
 * **Price:** market studies in various countries find that gluten-free products cost on average 2-3 times as much as their counterparts.
 
-**And in sports?** This is one of the most common myths in athletics: in a survey of more than 900 non-celiac athletes, about 41% reported avoiding gluten at least half the time, mainly out of a belief that it reduces inflammation and improves performance. A double-blind crossover trial that tested the claim among competitive cyclists found **no difference at all** in performance, digestive symptoms, inflammatory markers or overall well-being between a week with gluten and a week without it. For endurance athletes, available carbohydrates are an asset — and cutting out major carbohydrate sources without a medical reason may actually make it harder to fill glycogen stores.
+**And in sports?** This is one of the most common myths in athletics: in a survey of more than 900 non-celiac athletes, about 41% reported avoiding gluten at least half the time, mainly out of a belief that it reduces inflammation and improves performance. A double-blind crossover trial that tested the claim among competitive cyclists found **no difference at all** [(Lis et al., 2015)](https://pubmed.ncbi.nlm.nih.gov/25970665/) in performance, digestive symptoms, inflammatory markers or overall well-being between a week with gluten and a week without it. For endurance athletes, available carbohydrates are an asset — and cutting out major carbohydrate sources without a medical reason may actually make it harder to fill glycogen stores.
 
 ### Myths versus evidence
 
@@ -176,11 +180,11 @@ This list accounts for most "accidental exposures" in people with celiac disease
 
 **If you have been diagnosed:** avoidance is absolute and lifelong. Look for an explicit "gluten-free" label or the crossed-grain symbol, not just the absence of wheat in the ingredient list. In a shared kitchen — a separate toaster, a separate colander, and spreads in a personal jar. In Israel, it is worth checking with your health fund (kupat holim) whether it contributes toward the cost of gluten-free food.
 
-**If you feel unwell after bread but don't have celiac disease:** before giving up a whole category, try to isolate the cause. Switching to long-fermented [sourdough bread](/en/food/sourdough/), to [rye bread](/en/food/rye-bread/), or reducing the portion solves the problem for many people — a good sign that fructans, not gluten, were to blame.
+**If you feel unwell after bread but don't have celiac disease:** before giving up a whole category, try to isolate the cause. Switching to long-fermented sourdough bread, to [rye bread](/en/food/rye-bread/), or reducing the portion solves the problem for many people — a good sign that fructans, not gluten, were to blame.
 
-**If you avoid gluten by choice:** build your menu around naturally gluten-free foods — [quinoa](/en/food/quinoa/), [buckwheat](/en/food/buckwheat/), brown [rice](/en/food/rice/), [legumes](/en/food/lentil/), potatoes, vegetables and fruit — and not around processed "gluten-free" products, which are usually processed food with less fiber and more sugar.
+**If you avoid gluten by choice:** build your menu around naturally gluten-free foods — [quinoa](/en/food/quinoa/), buckwheat, brown [rice](/en/food/rice/), legumes, potatoes, vegetables and fruit — and not around processed "gluten-free" products, which are usually processed food with less fiber and more sugar.
 
-**For vegetarians and vegans:** seitan is a dense, convenient protein source, but its protein is low in lysine. Combine it in the same meal with [legumes](/en/food/lentil/) or [soy](/en/food/tofu/) to complete the amino acid profile.
+**For vegetarians and vegans:** seitan is a dense, convenient protein source, but its protein is low in lysine. Combine it in the same meal with legumes or [soy](/en/food/tofu/) to complete the amino acid profile.
 
 ### Summary
 
@@ -206,14 +210,8 @@ Answer: No, and this is a common mistake that complicates diagnosis. Both the bl
 **Question: How much gluten is dangerous for a person with celiac disease?**
 Answer: The accepted threshold is less than 10 mg a day. A slice of bread contains about 2,000-3,000 mg, so even a single crumb reaches the order of magnitude of the threshold. That is why the "gluten-free" label is defined as less than 20 parts per million, and why cross-contamination in the kitchen is a medical matter and not excessive fussiness.
 
-**Question: Do oats contain gluten?**
-Answer: Not by nature — their protein is called avenin, and most people with celiac disease tolerate it well. The problem is widespread cross-contamination in the fields, at harvest and in processing alongside wheat, so people with celiac disease must choose a product explicitly labeled "gluten-free." A small minority also react to avenin itself, so it is advisable to introduce oats gradually and with monitoring.
-
 **Question: Does a gluten-free diet help you lose weight?**
 Answer: Not because of removing gluten as such. People who lose weight after switching usually do so because they gave up bread, pastries and processed products and started cooking more. Processed "gluten-free" products are usually not low in calories — they often contain more fat and sugar and less fiber than the original product.
-
-**Question: Is sourdough bread safe for people with celiac disease?**
-Answer: No. Long fermentation breaks down some of the gluten and some of the fructans, so sourdough bread is better tolerated by some people with non-celiac sensitivity — but the gluten left in it is very far from the safe threshold for people with celiac disease.
 
 **Question: Does avoiding gluten improve sports performance?**
 Answer: No, in people who don't have celiac disease. A double-blind crossover trial among competitive cyclists found no difference in performance, digestive symptoms or inflammatory markers between a week with gluten and a week without it. Removing major carbohydrate sources without a medical reason may actually make it harder to fill glycogen stores.

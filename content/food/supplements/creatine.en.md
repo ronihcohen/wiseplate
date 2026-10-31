@@ -60,6 +60,8 @@ Choose in advance a measure tied to your goal: reps at a fixed load, progress in
 
 Athletes subject to drug testing should choose a product whose batch has been independently tested and verify the batch number. Such testing reduces the risk of contamination but does not eliminate it. [AIS guidance on choosing supplements](https://www.ausport.gov.au/ais/nutrition/supplements/athlete-resources).
 
+**See also:** [Combining Supplements: What Works Together, What Interferes, and When to Take Them](/en/food/supplements/supplement-stack/)
+
 ### Frequently asked questions
 
 **Question: Do you need to take creatine on rest days too?**

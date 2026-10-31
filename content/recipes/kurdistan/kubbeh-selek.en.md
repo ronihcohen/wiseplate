@@ -17,7 +17,7 @@ calories: 580
 
 ## Kubbeh Selek
 
-Kubbeh selek (beet kubbeh) is loved in Kurdish and Iraqi Jewish communities and in Israeli restaurants. There's no point erasing the overlap: the version here is a home-style Israeli one, with the same semolina shell and meat filling as hamusta but a completely different soup.
+Kubbeh selek ([beet](/en/food/beets/) kubbeh) is loved in Kurdish and Iraqi Jewish communities and in Israeli restaurants. There's no point erasing the overlap: the version here is a home-style Israeli one, with the same semolina shell and meat filling as hamusta but a completely different soup.
 
 **Prep time:** 1 hour · **Cooking:** 70 minutes · **Yield:** 24 kubbeh · **Difficulty:** challenging
 
@@ -35,13 +35,13 @@ A combination of grated beet and wedges gives two textures: the grated beet part
 
 ### Choosing ingredients and substitutes
 
-Fresh beets give good color and flavor; vacuum-packed cooked beets go in only after 20 minutes because they are already soft. The sugar isn't meant to turn the soup into dessert but to balance the lemon and beets.
+Fresh beets give good color and flavor; vacuum-packed cooked beets go in only after 20 minutes because they are already soft. The sugar isn't meant to turn the soup into dessert but to balance the [lemon](/en/food/lemon/) and beets.
 
 ### Method
 
-1. Make and cool a beef and onion filling and make semolina dough as for [hamusta](/en/recipes/kurdistan/kubbeh-hamusta/).
+1. Make and cool a [beef](/en/food/red-meat/) and [onion](/en/food/onion/) filling and make semolina dough as for [hamusta](/en/recipes/kurdistan/kubbeh-hamusta/).
 2. Form 24 sealed kubbeh and chill or freeze for 20 minutes.
-3. Fry the onion and celery in oil, add the beets, water, lemon juice, sugar and salt and cook for 25 minutes.
+3. Fry the onion and [celery](/en/food/celery/) in oil, add the beets, water, lemon juice, sugar and salt and cook for 25 minutes.
 4. Taste: the liquid should be slightly tangier than desired because the kubbeh will mellow it.
 5. Add the kubbeh one at a time and cook at a gentle simmer for 40 minutes. Shake the pot instead of stirring.
 6. Check one kubbeh for cooked meat and a soft shell, and let stand for 15 minutes before serving.

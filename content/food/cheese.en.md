@@ -1,35 +1,41 @@
 ---
 title: "Cheese"
+seo_title: "Cheese Nutrition: Sodium, Calcium and Is Cheese Bad for Your Heart?"
 date: 2026-08-10T06:05:00+03:00
+lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "A concentrated source of protein, calcium and vitamin K2 — and why the saturated fat paradox in cheese is largely explained by the food matrix."
+description: "Hard cheese: about 400 kcal, 25 g protein and 700 mg calcium per 100 g. What studies say about cheese and heart health, sodium by type, and which to choose."
 ---
 
 ## Cheese
 
-Cheese (in Hebrew "גבינה") is concentrated, preserved [milk](/en/food/milk/). The production process — acidification, coagulation with an enzyme (rennet) or acid, draining the whey and sometimes aging — removes most of the water and leaves behind protein, fat and minerals in a concentration several times higher. Making a kilogram of hard cheese takes about 10 liters of milk, hence its nutrient density.
+**Cheese is concentrated milk: 30 grams of hard yellow cheese provide about 7.5 grams of protein and about 215 mg of calcium, but also about 120 calories and about 190 mg of sodium. Meta-analyses of cohort studies do not link moderate cheese intake to more heart disease, so the main practical downsides are the salt and the calorie density.**
 
-The term "cheese" describes a remarkably broad category, and the differences within it are bigger than the differences between entire food categories. 100 grams of hard yellow cheese provide about 400 calories, 25 grams of protein and 33 grams of fat; 100 grams of 5% white cheese provide about 100 calories and 11 grams of protein. Any sweeping statement about "cheese" — positive or negative — misses this gap.
+Cheese (in Hebrew "גבינה") is concentrated, preserved [milk](/en/food/milk/). The production process — acidification, coagulation with an enzyme (rennet) or acid, draining the whey and sometimes aging — removes most of the water and leaves behind protein, fat and minerals in a concentration several times higher. Making a kilogram of hard cheese takes about 10 liters of milk, hence its nutrient density.
 
 On the dessert side, the same full-fat cheese is the base for [sugar-rich cheesecake](/en/food/sugary-cheesecake/) — a dish whose nutritional profile is completely different from that of the cheese itself.
 
-### Research-based health benefits
+### Nutrition facts
+
+The term "cheese" describes a remarkably broad category, and the differences within it are bigger than the differences between entire food categories. 100 grams of hard yellow cheese provide about 400 calories, 25 grams of protein and 33 grams of fat; 100 grams of 5% white cheese provide about 100 calories and 11 grams of protein. Any sweeping statement about "cheese" — positive or negative — misses this gap. The type-by-type table appears [further down](#comparing-types-of-cheese-per-100-grams); a typical serving is 30 grams of hard cheese (about two thin slices) or 100 grams of fresh cheese.
+
+### Benefits
 
 * **High biological value protein:** Milk protein provides all nine essential amino acids and is especially rich in leucine, the amino acid that activates the mTOR pathway responsible for muscle protein synthesis. Aged cheeses contain 25-35 grams of protein per 100 grams — a concentration comparable to meat.
 
-* **Highly available [calcium](/en/food/supplements/calcium/):** 100 grams of yellow cheese provide about 700-900 mg of calcium — close to the entire recommended daily intake. The calcium in cheese is well absorbed because it is bound to casein (as casein phosphate), and is accompanied by protein and lactose that aid absorption. This is significantly better bioavailability than calcium from high-oxalate plant sources such as [spinach](/en/food/spinach/).
+* **Highly available [calcium](/en/food/supplements/calcium/):** 100 grams of yellow cheese provide about 700-900 mg of calcium — close to the entire recommended daily intake. The calcium in cheese is well absorbed because it is bound to casein (as casein phosphate), and is accompanied by protein and lactose that aid absorption. This is significantly better bioavailability than calcium from high-oxalate plant sources such as [spinach](/en/food/spinach/). [NIH ODS — Calcium](https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/).
 
-* **[Vitamin K2](/en/food/supplements/vitamin-k/) in fermented cheeses:** Aged cheeses, especially those that have undergone bacterial fermentation (Gouda, Edam, Brie), contain menaquinone — the K2 form of the vitamin. Its role is to activate the protein osteocalcin, which fixes calcium in bone tissue, and the protein MGP, which inhibits calcium deposition in artery walls. In other words, K2 helps direct calcium to bone rather than to the arteries.
+* **[Vitamin K2](/en/food/supplements/vitamin-k/) in fermented cheeses:** Aged cheeses, especially those that have undergone bacterial fermentation (Gouda, Edam, Brie), contain menaquinone — the K2 form of the vitamin. Its role is to activate the protein osteocalcin, which fixes calcium in bone tissue, and the protein MGP, which inhibits calcium deposition in artery walls. That is the mechanism; there are no trials showing that cheese itself reduces fractures or arterial calcification. [NIH ODS — Vitamin K](https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/).
 
-* **The food matrix — why saturated fat in cheese behaves differently:** This is the most interesting finding in current research on dairy products. Based on its saturated fat content alone, cheese should raise cardiovascular risk. In practice, meta-analyses of cohort studies show no such association, and some even show a moderate inverse association. The accepted explanation is the **food matrix**: the fat in cheese is trapped in a protein-calcium structure, and some of it binds to calcium to form insoluble soaps excreted in the stool. Trials show that cheese raises LDL less than an equal amount of butter. This is an active area of research and not a closed question, but it illustrates why analyzing food by a single component is misleading.
+* **The food matrix — why saturated fat in cheese behaves differently:** This is the most interesting finding in current research on dairy products. Based on its saturated fat content alone, cheese should raise cardiovascular risk. In practice, meta-analyses of cohort studies show no such association, and some even show a moderate inverse association: in a meta-analysis of 15 cohort studies, high cheese intake was linked to about a 10% lower risk of cardiovascular disease, with the largest reduction at around 40 grams a day. This is an observational association, not proof of cause. [Chen et al., 2017](https://pubmed.ncbi.nlm.nih.gov/27517544/). The accepted explanation is the **food matrix**: the fat in cheese is trapped in a protein-calcium structure, and some of it binds to calcium to form insoluble soaps excreted in the stool. In controlled trials, hard cheese lowered LDL by about 6.5% compared with the same amount of fat from butter. [de Goede et al., 2015](https://pubmed.ncbi.nlm.nih.gov/26011901/). This is an active area of research and not a closed question, but it illustrates why analyzing food by a single component is misleading.
 
-* **Probiotics in certain cheeses:** Aged cheeses that were not pasteurized after production (Gouda, aged cheddar, blue cheeses) may contain live cultures that survived aging and reach the gut.
+* **Probiotics in certain cheeses:** Aged cheeses that were not pasteurized after production (Gouda, aged cheddar, blue cheeses) may contain live cultures that survived aging. The amount varies widely between products, and no trials show a specific clinical benefit from cheese as a probiotic source.
 
 * **Low lactose in hard cheeses:** Most of the lactose drains off with the whey, and the remainder breaks down during aging. In aged hard cheeses (Parmesan, cheddar, Gouda) the lactose content is negligible — usually less than 0.1 grams per 100 grams — and most people with lactose intolerance eat them without symptoms.
 
-### Downsides and health considerations
+### Downsides
 
-* **[Sodium](/en/food/supplements/sodium/) — the main downside:** Salt is not an additive in cheese but part of the process — it controls bacterial activity, draws out liquid and preserves. The result is that many cheeses are high in sodium: feta and brined cheeses contain 1,100-1,500 mg per 100 grams, and yellow cheeses about 600-800 mg. For people with high blood pressure this is the most significant consideration, usually more than the fat.
+* **[Sodium](/en/food/supplements/sodium/) — the main downside:** Salt is not an additive in cheese but part of the process — it controls bacterial activity, draws out liquid and preserves. The result is that many cheeses are high in sodium: feta and brined cheeses contain 1,100-1,500 mg per 100 grams, and yellow cheeses about 600-800 mg. For people with high blood pressure this is the most significant consideration, usually more than the fat. High salt intake is also linked to a higher risk of stomach cancer in cohort studies. [D'Elia et al., 2012](https://pubmed.ncbi.nlm.nih.gov/22296873/).
 
 * **Calorie density:** Hard cheese provides about 400 calories per 100 grams. A few slices on a sandwich add hundreds of calories almost without registering as a "serving." It is a food that is very easy to eat more of than planned.
 
@@ -39,7 +45,7 @@ On the dessert side, the same full-fat cheese is the base for [sugar-rich cheese
 
 * **Tyramine and migraine:** Aged cheeses are rich in tyramine, a biogenic amine formed when protein breaks down. In some people it is a migraine trigger, and it is genuinely dangerous for people taking MAOI drugs.
 
-* **Listeria in pregnancy:** Soft cheeses made from unpasteurized milk may carry Listeria, a bacterium that is especially dangerous in pregnancy. Pregnant women are advised to avoid soft cheeses made from raw milk and to prefer hard or pasteurized cheeses.
+* **Listeria in pregnancy:** Soft cheeses made from unpasteurized milk may carry Listeria, a bacterium that is especially dangerous in pregnancy. Pregnant women are advised to avoid soft cheeses made from raw milk and to prefer hard or pasteurized cheeses. [Madjunkov et al., 2017](https://pubmed.ncbi.nlm.nih.gov/28536811/).
 
 ### Comparing types of cheese (per 100 grams)
 
@@ -54,15 +60,19 @@ On the dessert side, the same full-fat cheese is the base for [sugar-rich cheese
 | [Cottage cheese](/en/food/cottage-cheese/) 5% | 98 | 11 g | 4.3 g | 83 mg | 364 mg |
 | Labneh 5% | 100 | 11 g | 5 g | 100 mg | 300 mg |
 
-### How to choose
+### Practical use
 
 The choice depends on the goal, not on abstract "healthiness." For **protein at a low calorie cost** — [cottage cheese](/en/food/cottage-cheese/), white cheese and ricotta offer the best protein-to-calorie ratio. For **calcium** — hard cheeses are better by a wide margin. For people restricted in **sodium** — ricotta, cream cheese and fresh cheeses are low in salt, while feta and brined cheeses are the worst. For people with **lactose intolerance** — aged hard cheeses.
 
 A practical tip: a strongly flavored cheese (Parmesan, blue cheese, aged cheddar) delivers a significant flavor effect in a small amount. Using a tablespoon of grated Parmesan instead of slices of yellow cheese cuts calories and sodium without giving up flavor.
 
+Another tip: if you watch your sodium, soak feta or Bulgarian-style brined cheese in cold water for an hour or two before serving — some of the salt leaches into the water.
+
+**See also:** [Bourekas](/en/food/bourekas/)
+
 ### Summary
 
-Cheese is an excellent source of protein, [calcium](/en/food/supplements/calcium/) and [vitamin K2](/en/food/supplements/vitamin-k/), and current research paints a more complex and more lenient picture of its saturated fat than was once believed. The most significant practical downside is actually the [sodium](/en/food/supplements/sodium/), followed by the calorie density. Choosing between different types matters more than the question of whether to eat cheese at all.
+Cheese is an excellent source of protein, calcium and [vitamin K2](/en/food/supplements/vitamin-k/), and current research paints a more complex and more lenient picture of its saturated fat than was once believed. The most significant practical downside is actually the sodium, followed by the calorie density. Choosing between different types matters more than the question of whether to eat cheese at all: 30-60 grams a day, favoring lower-salt cheeses, fits well into a balanced diet.
 
 ### Frequently asked questions
 

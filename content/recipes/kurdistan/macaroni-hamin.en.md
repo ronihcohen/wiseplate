@@ -23,14 +23,14 @@ Macaroni hamin (a slow-cooked Shabbat stew) appears in various family traditions
 
 ### Half-cooked pasta keeps going in the oven
 
-The macaroni goes into the pot while it is still firm in the center, because it absorbs the chicken and onion juices overnight. Thin or fully cooked pasta will turn to mush. The combination of eggs, potatoes and overnight time is the choice of this home version, and so it isn't attributed to a single printed source.
+The macaroni goes into the pot while it is still firm in the center, because it absorbs the chicken and [onion](/en/food/onion/) juices overnight. Thin or fully cooked pasta will turn to mush. The combination of [eggs](/en/food/eggs/), potatoes and overnight time is the choice of this home version, and so it isn't attributed to a single printed source.
 
 ### Ingredients
 
 * 800 grams thick macaroni, cooked for half the time and drained
 * 1.5 kg chicken legs, 1 kg potatoes
 * 8 clean, whole, uncracked eggs in their shells
-* 80 ml oil, 3 onions, paprika, turmeric, salt and pepper
+* 80 ml oil, 3 onions, paprika, [turmeric](/en/food/turmeric/), salt and pepper
 * 750 ml hot water
 
 ### Choosing ingredients and substitutes

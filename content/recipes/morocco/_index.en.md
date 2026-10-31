@@ -4,7 +4,7 @@ seo_title: "Moroccan Recipes: 10 Classic Dishes with Calories per Serving"
 date: 2026-08-24T02:55:00+03:00
 lastmod: 2026-09-19T15:00:00+03:00
 featured_image: "/images/recipes/collections/morocco.webp"
-description: "Ten authentic Moroccan recipes — couscous, tagine, harira, pastilla, dafina, matbucha, zaalouk, chebakia and more — each with ingredients, method and a calorie estimate per serving."
+description: "Ten authentic Moroccan recipes, including couscous, tagine, harira, pastilla, dafina and matbucha, each with ingredients, method and calories per serving."
 ---
 
 Moroccan cuisine sits at the western edge of the Arab world, and most of what makes it distinctive stems from exactly that location. Three layers have piled up in it, one on top of the other: the Berber base, which gave it couscous and tagine; the Arab-Andalusian layer, which after the expulsion from Spain brought with it the combination of meat with sugar and cinnamon and the [pastilla](/en/recipes/morocco/pastilla/) pastry; and the layer of spices that came by caravan across the Sahara — saffron, [ginger](/en/food/ginger/), [turmeric](/en/food/turmeric/) and pepper.
@@ -31,11 +31,11 @@ Some of the dishes on this page are familiar to Israelis not through Morocco but
 ### What characterizes Moroccan cuisine nutritionally
 
 * **Legumes in place of some of the meat.** In [harira](/en/recipes/morocco/harira/), 250 grams of meat is divided among ten servings, and most of the protein comes from [lentils](/en/food/lentil/) and [chickpeas](/en/food/chickpeas/). The result is 12 grams of protein and 5 grams of fiber in under 300 calories.
-* **[Olive oil](/en/food/olive-oil/) is the ingredient that sets the calories in the salads.** In [matbucha](/en/recipes/morocco/matbucha/) and [zaalouk](/en/recipes/morocco/zaalouk/), about two-thirds of the calories come from the oil, not the vegetables. The fat profile is excellent, but "salad" here is not a dish you don't count.
+* **[Olive oil](/en/food/olive-oil/) is the ingredient that sets the calories in the salads.** In matbucha and [zaalouk](/en/recipes/morocco/zaalouk/), about two-thirds of the calories come from the oil, not the vegetables. The fat profile is excellent, but "salad" here is not a dish you don't count.
 * **Vegetables cooked in oil — and that's an advantage you don't see in the table.** Lycopene from [tomatoes](/en/food/tomato/) and beta-carotene from [red peppers](/en/food/red-pepper/) are fat-soluble carotenoids, and their bioavailability rises when they cook for a long time in olive oil. Almost every dish on this page meets that condition.
 * **High sodium, from a surprising source.** Not from the salt you add but from what has already been preserved in it: preserved lemons, olives and fermented butter (*smen*). A [tagine](/en/recipes/morocco/tagine-djaj/) reaches 900-1,300 mg of [sodium](/en/food/supplements/sodium/) per serving before a single grain of salt has been added.
-* **Chicken skin is the one ingredient that decides a whole dish.** In [tagine](/en/recipes/morocco/tagine-djaj/) it is the difference between 620 and 370 calories per serving — about a fifth of the weight of the edible meat, and about half of its calories.
-* **Sweetness inside savory dishes.** [Dates](/en/food/dates/) in [dafina](/en/recipes/morocco/dafina/), sugar on [pastilla](/en/recipes/morocco/pastilla/), raisins in *tfaya*. Their calorie contribution is smaller than it seems — the layer of sugar on the pastilla is only about 27 calories per serving.
+* **Chicken skin is the one ingredient that decides a whole dish.** In tagine it is the difference between 620 and 370 calories per serving — about a fifth of the weight of the edible meat, and about half of its calories.
+* **Sweetness inside savory dishes.** [Dates](/en/food/dates/) in dafina, sugar on pastilla, raisins in *tfaya*. Their calorie contribution is smaller than it seems — the layer of sugar on the pastilla is only about 27 calories per serving.
 * **The desserts are sweetened with [honey](/en/food/honey/) and fried.** [Chebakia](/en/recipes/morocco/chebakia/) absorbs more calories from the frying oil than from the honey itself — about 45 versus about 30 per piece. The traditional solution, as in Turkey, is one piece alongside bitter tea.
 
 ### Six ingredients that unlock this cuisine
@@ -46,30 +46,30 @@ Some of the dishes on this page are familiar to Israelis not through Morocco but
 | Preserved lemon | Lemon preserved in salt for a month; the peel is what matters | Lemon zest + coarse salt, in a small amount |
 | Saffron | The color and aroma of *mqualli* sauce | Turmeric gives color only, not aroma |
 | *harissa* | A hot pepper paste — served on the side, not added to the pot | Commercial Tunisian harissa, or zhug |
-| Orange blossom water | Aroma in desserts; the heart of the flavor of [chebakia](/en/recipes/morocco/chebakia/) | Can be left out, or use a little orange zest for a different flavor |
+| Orange blossom water | Aroma in desserts; the heart of the flavor of chebakia | Can be left out, or use a little orange zest for a different flavor |
 | *smen* | Fermented, salted butter with a very sharp flavor | Regular butter + a pinch of salt |
 
 Two of them — *ras el hanout* and preserved lemon — appear in most of the dishes on this page, and both are now sold in most spice shops in Israel.
 
 ### Where to start
 
-The easiest entry point is [matbucha](/en/recipes/morocco/matbucha/) or [zaalouk](/en/recipes/morocco/zaalouk/) — both require mainly time over low heat rather than skill — followed by [Moroccan fish](/en/recipes/morocco/moroccan-fish/) and [harira](/en/recipes/morocco/harira/). [Tagine](/en/recipes/morocco/tagine-djaj/) looks complicated and isn't: it is mostly an hour over low heat. The dishes that really take practice are [pastilla](/en/recipes/morocco/pastilla/), because of assembling the pastry sheets, [chebakia](/en/recipes/morocco/chebakia/), because of folding the lattice, and [couscous](/en/recipes/morocco/couscous/) — not because it is hard, but because of the three steamings.
+The easiest entry point is matbucha or zaalouk — both require mainly time over low heat rather than skill — followed by Moroccan fish and harira. Tagine looks complicated and isn't: it is mostly an hour over low heat. The dishes that really take practice are pastilla, because of assembling the pastry sheets, chebakia, because of folding the lattice, and couscous — not because it is hard, but because of the three steamings.
 
-Alongside this cuisine, it's worth looking at the three eastern cuisines on the site: [Turkish cuisine](/en/recipes/turkey/), [Persian cuisine](/en/recipes/iran/) and [Iraqi cuisine](/en/recipes/iraq/). The comparison is most illuminating in pairs of parallel dishes — [dafina](/en/recipes/morocco/dafina/) versus [t'bit](/en/recipes/iraq/tbit/), two Shabbat dishes born of the same constraint; [harira](/en/recipes/morocco/harira/) versus [Turkish lentil soup](/en/recipes/turkey/mercimek-corbasi/) and [ash reshteh](/en/recipes/iran/ash-reshteh/); and [zaalouk](/en/recipes/morocco/zaalouk/) versus [mirza ghasemi](/en/recipes/iran/mirza-ghasemi/) and [imam bayildi](/en/recipes/turkey/imam-bayildi/) — three different ways of handling the same eggplant.
+Alongside this cuisine, it's worth looking at the three eastern cuisines on the site: [Turkish cuisine](/en/recipes/turkey/), [Persian cuisine](/en/recipes/iran/) and [Iraqi cuisine](/en/recipes/iraq/). The comparison is most illuminating in pairs of parallel dishes — dafina versus [t'bit](/en/recipes/iraq/tbit/), two Shabbat dishes born of the same constraint; harira versus [Turkish lentil soup](/en/recipes/turkey/mercimek-corbasi/) and [ash reshteh](/en/recipes/iran/ash-reshteh/); and zaalouk versus [mirza ghasemi](/en/recipes/iran/mirza-ghasemi/) and [imam bayildi](/en/recipes/turkey/imam-bayildi/) — three different ways of handling the same eggplant.
 
 ### Frequently asked questions
 
 **Question: What is Morocco's national dish?**
-Answer: [Couscous](/en/recipes/morocco/couscous/). It is the Friday dish in every Moroccan home, and in 2020 it was also inscribed on UNESCO's list of intangible cultural heritage — together with Algeria, Tunisia and Mauritania. The other candidate is [tagine](/en/recipes/morocco/tagine-djaj/), which is actually the name of a vessel rather than a dish.
+Answer: Couscous. It is the Friday dish in every Moroccan home, and in 2020 it was also inscribed on UNESCO's list of intangible cultural heritage — together with Algeria, Tunisia and Mauritania. The other candidate is tagine, which is actually the name of a vessel rather than a dish.
 
 **Question: Is Moroccan cuisine healthy?**
-Answer: For the most part, yes. It is built on vegetables cooked in olive oil, legumes, fish and relatively small amounts of meat relative to the number of servings. Its three weak points are high [sodium](/en/food/supplements/sodium/) from salt preserving, calorie-dense holiday dishes like [dafina](/en/recipes/morocco/dafina/) and [pastilla](/en/recipes/morocco/pastilla/), and desserts fried and soaked in honey.
+Answer: For the most part, yes. It is built on vegetables cooked in olive oil, legumes, fish and relatively small amounts of meat relative to the number of servings. Its three weak points are high [sodium](/en/food/supplements/sodium/) from salt preserving, calorie-dense holiday dishes like dafina and pastilla, and desserts fried and soaked in honey.
 
 **Question: What is the difference between Moroccan cuisine and Turkish, Persian and Iraqi cuisines?**
-Answer: The base and the acidity. In Morocco the base is [couscous](/en/recipes/morocco/couscous/) and the acidity comes from salt preserving (preserved lemon, olives); [in Iran](/en/recipes/iran/) the base is rice and the acidity comes from dried lime and pomegranate molasses; [in Iraq](/en/recipes/iraq/) bread serves as the eating utensil and the acidity comes from tamarind; and [in Turkey](/en/recipes/turkey/) the center is bread, the grill and meze. Moroccan cuisine is also the only one of the four that sprinkles sugar on a main course.
+Answer: The base and the acidity. In Morocco the base is couscous and the acidity comes from salt preserving (preserved lemon, olives); in Iran the base is rice and the acidity comes from dried lime and pomegranate molasses; in Iraq bread serves as the eating utensil and the acidity comes from tamarind; and [in Turkey](/en/recipes/turkey/) the center is bread, the grill and meze. Moroccan cuisine is also the only one of the four that sprinkles sugar on a main course.
 
 **Question: Which Moroccan dishes are suitable for vegetarians and vegans?**
-Answer: [Matbucha](/en/recipes/morocco/matbucha/) and [zaalouk](/en/recipes/morocco/zaalouk/) are vegan in their original form, with no adaptation at all. [Harira](/en/recipes/morocco/harira/) and [couscous](/en/recipes/morocco/couscous/) come in traditional meatless versions, in which [chickpeas](/en/food/chickpeas/) replace the meat, and [msemen](/en/recipes/morocco/msemen/) is vegan when you skip the butter in the folding.
+Answer: Matbucha and zaalouk are vegan in their original form, with no adaptation at all. Harira and couscous come in traditional meatless versions, in which [chickpeas](/en/food/chickpeas/) replace the meat, and [msemen](/en/recipes/morocco/msemen/) is vegan when you skip the butter in the folding.
 
 **Question: What is ras el hanout and how is it different from baharat?**
 Answer: *Ras el hanout* — literally "head of the shop" — is every spice shop's flagship blend, so its composition varies from shop to shop and counts between 12 and 30 spices. It is aromatic and sweetish, based on cinnamon, cardamom, cloves, ginger, turmeric and dried roses, and is barely hot. Levantine or Iraqi baharat is narrower, based on allspice and cumin, and less floral.

@@ -1,10 +1,10 @@
 ---
 title: "Spinach"
-seo_title: "Spinach: Oxalates, Iron That Isn't Absorbed, and What Brief Cooking Really Does"
+seo_title: "Spinach: Oxalates, Iron Absorption and Cooking"
 date: 2025-12-22T11:20:00+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
-description: "Spinach: full nutrition facts, why its iron is barely absorbed, what to do about oxalates, and who should be careful — including people on Coumadin (warfarin) and those prone to kidney stones."
+description: "Spinach: nutrition facts, why its iron is barely absorbed, oxalates, and who should be careful, including people on warfarin or prone to kidney stones."
 ---
 
 ## Spinach (*Spinacia oleracea*)
@@ -44,11 +44,11 @@ Spinach contains 2.7 mg of [iron](/en/food/iron/) per 100 grams, which sounds pr
 
 **As for the popular story** that a decimal point misplaced in the 19th century created the spinach myth — that story itself is disputed, and later historical research found no basis for it. What is true and relevant: **spinach is not a practical source of iron.** Anyone who needs iron will find it in [red meat](/en/food/red-meat/), in [lentils](/en/food/lentil/) with [vitamin C](/en/food/supplements/vitamin-c/), or in a supplement — not in a spinach salad.
 
-**What does help:** [vitamin C](/en/food/supplements/vitamin-c/) in the same meal significantly increases the absorption of non-heme iron. [Lemon](/en/food/lemon/) juice on spinach is not just about flavor.
+**What does help:** vitamin C in the same meal significantly increases the absorption of non-heme iron. [Lemon](/en/food/lemon/) juice on spinach is not just about flavor.
 
 ### Oxalates — what they are, who should care, and what helps
 
-**Oxalic acid** is a plant compound that binds divalent minerals — mainly [calcium](/en/food/supplements/calcium/), [iron](/en/food/iron/) and [magnesium](/en/food/supplements/magnesium/) — to form insoluble salts. Spinach is one of the most oxalate-rich foods: about 750 mg per 100 grams.
+**Oxalic acid** is a plant compound that binds divalent minerals — mainly [calcium](/en/food/supplements/calcium/), iron and [magnesium](/en/food/supplements/magnesium/) — to form insoluble salts. Spinach is one of the most oxalate-rich foods: about 750 mg per 100 grams.
 
 Two consequences:
 
@@ -59,18 +59,18 @@ Two consequences:
 
 ### Benefits
 
-* **[Vitamin K](/en/food/supplements/vitamin-k/) in an exceptional amount:** 403% of the Daily Value per 100 grams. Essential for clotting, and for directing [calcium](/en/food/supplements/calcium/) to bone rather than to the walls of blood vessels.
+* **Vitamin K in an exceptional amount:** 403% of the Daily Value per 100 grams. Essential for clotting, and for directing [calcium](/en/food/supplements/calcium/) to bone rather than to the walls of blood vessels.
 * **Lutein and zeaxanthin:** 12,200 mcg per 100 grams — one of the highest sources in food. These carotenoids accumulate in the macula and filter blue light; in observational studies their intake is linked to a lower risk of age-related macular degeneration.
-* **[Folate](/en/food/supplements/vitamin-b9/):** 49% of the Daily Value — very significant during pregnancy and the childbearing years.
-* **[Vitamin A](/en/food/supplements/vitamin-a/)** as beta-carotene: 52%.
+* **Folate:** 49% of the Daily Value — very significant during pregnancy and the childbearing years.
+* **Vitamin A** as beta-carotene: 52%.
 * **Natural nitrates.** Spinach is rich in nitrate, which the body converts to nitrite and nitric oxide (NO). This pathway has been studied in the context of blood vessel dilation, blood pressure and mechanical efficiency in endurance exercise — the area where [beets](/en/food/beets/) are better known, but spinach is just as rich in nitrate.
-* **[Magnesium](/en/food/supplements/magnesium/):** 19% of the Daily Value.
+* **Magnesium:** 19% of the Daily Value.
 * **Very low energy density:** 23 calories per 100 grams.
 
 ### Downsides and considerations
 
 * **Oxalates** — as detailed above: calcium that isn't absorbed, iron that isn't absorbed, and a consideration with kidney stones.
-* **[Vitamin K](/en/food/supplements/vitamin-k/) and anticoagulants.** 403% per 100 grams is about the highest amount in any food. **People taking Coumadin (warfarin) don't need to avoid spinach — they need steady, consistent intake**, so that the drug dose is calibrated to it. A sudden bowl of spinach after a month without is the problem, not the spinach.
+* **Vitamin K and anticoagulants.** 403% per 100 grams is about the highest amount in any food. **People taking Coumadin (warfarin) don't need to avoid spinach — they need steady, consistent intake**, so that the drug dose is calibrated to it. A sudden bowl of spinach after a month without is the problem, not the spinach.
 * **Dramatic shrinking when cooked.** 500 grams of fresh spinach shrink to about 100 grams cooked. This changes the serving calculation in both directions — it's easy to eat a huge dose of vitamin K without noticing.
 * **Nitrate and infants.** Infants under three months old are not usually given high-nitrate vegetables, because of the risk of methemoglobinemia. This is not a consideration for older children and adults.
 * **Canned spinach** contains added [sodium](/en/food/supplements/sodium/) and loses vitamin C.
@@ -79,10 +79,10 @@ Two consequences:
 
 ### Practical use
 
-* **Eat it both raw and cooked.** Raw — to preserve [vitamin C](/en/food/supplements/vitamin-c/) and folate. Cooked — fewer oxalates and a more concentrated amount of [vitamin A](/en/food/supplements/vitamin-a/) and lutein.
-* **Always with fat.** [Vitamin K](/en/food/supplements/vitamin-k/), [vitamin A](/en/food/supplements/vitamin-a/), lutein and zeaxanthin are all fat-soluble. [Olive oil](/en/food/olive-oil/), [avocado](/en/food/avocado/) or [walnuts](/en/food/walnuts/) in the salad significantly increase absorption.
-* **With [vitamin C](/en/food/supplements/vitamin-c/)** — [lemon](/en/food/lemon/), [red bell pepper](/en/food/red-pepper/), [tomato](/en/food/tomato/) — to improve iron absorption.
-* **With a source of [calcium](/en/food/supplements/calcium/)** — [yogurt](/en/food/greek-yogurt/), cheese or [tahini](/en/food/tahini/) — so that the oxalate binds in the gut and not in the kidney. This is especially critical for people prone to kidney stones.
+* **Eat it both raw and cooked.** Raw — to preserve vitamin C and folate. Cooked — fewer oxalates and a more concentrated amount of vitamin A and lutein.
+* **Always with fat.** Vitamin K, vitamin A, lutein and zeaxanthin are all fat-soluble. [Olive oil](/en/food/olive-oil/), [avocado](/en/food/avocado/) or [walnuts](/en/food/walnuts/) in the salad significantly increase absorption.
+* **With vitamin C** — [lemon](/en/food/lemon/), [red bell pepper](/en/food/red-pepper/), [tomato](/en/food/tomato/) — to improve iron absorption.
+* **With a source of calcium** — [yogurt](/en/food/greek-yogurt/), cheese or [tahini](/en/food/tahini/) — so that the oxalate binds in the gut and not in the kidney. This is especially critical for people prone to kidney stones.
 * **Boil and discard** if oxalates are a consideration — 30-87% of them pass into the water.
 * **Don't cook it in iron or aluminum pans** for a long time — spinach oxidizes and darkens, and the metallic taste intensifies.
 * **Vary your greens:** [kale](/en/food/kale/), Swiss chard, arugula and lettuce — different profiles, and some have much lower oxalates. See [the spinach, kale and chard comparison](/en/compare/spinach-kale-chard/).

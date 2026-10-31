@@ -1,6 +1,6 @@
 ---
 title: "Nokidess"
-seo_title: "Tripolitan Nokidess: Semolina Dumplings with Chicken — Recipe and Calories"
+seo_title: "Tripolitan Nokidess Recipe: Semolina Dumplings, Chicken"
 date: 2026-09-19T11:20:00+03:00
 lastmod: 2026-09-19T14:45:00+03:00
 featured_image: "/images/recipes/tripoli/nokidess.webp"

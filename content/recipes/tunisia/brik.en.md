@@ -17,7 +17,7 @@ calories: 320
 
 ## Tunisian Brik
 
-Brik is a thin malsouka sheet wrapped around an [egg](/en/food/eggs/), tuna and potato that goes straight into the oil. In Israel, a round cigar pastry sheet is the convenient substitute: it is thin, doesn't tear easily and folds into a half-moon. The secret is to have the filling and the pan ready before you crack the egg.
+Brik is a thin malsouka sheet wrapped around an [egg](/en/food/eggs/), [tuna](/en/food/tuna/) and potato that goes straight into the oil. In Israel, a round cigar pastry sheet is the convenient substitute: it is thin, doesn't tear easily and folds into a half-moon. The secret is to have the filling and the pan ready before you crack the egg.
 
 **Prep time:** 25 minutes · **Frying time:** 20 minutes · **Yield:** 8 pieces · **Difficulty:** Medium
 
@@ -47,7 +47,7 @@ Frozen cigar sheets are available in Israeli supermarket chains; thaw them in th
 2. **Arrange the filling.** Lay a sheet on a plate, put one-eighth of the filling on one half and make a wide well.
 3. **Crack the egg.** Crack an egg into a small bowl, slide it into the well and wet the edges of the sheet with water.
 4. **Fold and fry.** Fold into a half-moon and slide into the oil. Fry 60–90 seconds per side for a soft egg, or 2 minutes per side for a well-done egg.
-5. **Drain and serve.** Transfer to a rack and serve immediately with lemon. For children, pregnant women, older adults or people who are immunocompromised, cook until the yolk is firm; the safe target for egg is 71°C (160°F).
+5. **Drain and serve.** Transfer to a rack and serve immediately with [lemon](/en/food/lemon/). For children, pregnant women, older adults or people who are immunocompromised, cook until the yolk is firm; the safe target for egg is 71°C (160°F).
 
 ### Nutrition facts and calorie estimate
 

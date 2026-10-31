@@ -1,6 +1,6 @@
 ---
 title: "Fast-Food Hamburgers"
-seo_title: "Fast-Food Burgers: How Many Calories, How Much Sodium, and How to Order Smart"
+seo_title: "Fast-Food Burgers: Calories, Sodium and How to Order Smart"
 date: 2025-12-22T08:21:28+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
@@ -54,7 +54,7 @@ By comparison: skipping the fries saves 340 calories, but that is a real sacrifi
 
 ### Downsides and considerations
 
-* **[Sodium](/en/food/supplements/sodium/).** The most prominent downside. One meal reaches 90% or more of the recommended daily limit. High sodium intake is directly linked to high blood pressure.
+* **Sodium.** The most prominent downside. One meal reaches 90% or more of the recommended daily limit. High sodium intake is directly linked to high blood pressure.
 * **High energy density and low satiety.** The combination of refined flour, fat and sugar produces many calories that are not correspondingly filling. There is almost no fiber in the meal.
 * **Saturated fat.** A double burger supplies about 70% of the recommended daily allowance; a large meal exceeds 100%.
 * **The bun.** Refined white flour with added sugar — no fiber and no significant micronutrients.
@@ -76,7 +76,7 @@ By comparison: skipping the fries saves 340 calories, but that is a real sacrifi
 
 ### Summary
 
-The beef patty in a hamburger is not the problem — it is a good source of protein, heme iron, zinc and B12, and it is not "processed meat." The problem is **the meal as a whole**: about 1,100 calories, about 90% of the recommended daily limit for [sodium](/en/food/supplements/sodium/), and almost zero fiber. The single practical recommendation that changes the most is also the easiest: **swap the soda for water.** That saves 210 calories and 53 g of sugar without giving up a single bite. And above all — frequency is the parameter that matters, not the individual meal.
+The beef patty in a hamburger is not the problem — it is a good source of protein, heme iron, zinc and B12, and it is not "processed meat." The problem is **the meal as a whole**: about 1,100 calories, about 90% of the recommended daily limit for sodium, and almost zero fiber. The single practical recommendation that changes the most is also the easiest: **swap the soda for water.** That saves 210 calories and 53 g of sugar without giving up a single bite. And above all — frequency is the parameter that matters, not the individual meal.
 
 ### Frequently asked questions
 

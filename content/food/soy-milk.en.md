@@ -1,15 +1,21 @@
 ---
 title: "Soy Milk"
+seo_title: "Soy Milk Nutrition: Protein, Hormones and Is Soy Milk Healthy?"
 date: 2026-08-10T07:25:00+03:00
+lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "The only milk alternative that matches cow's milk in protein — and what the meta-analyses really say about isoflavones and hormones in men."
+description: "Soy milk has 3.3 g protein per 100 ml, like cow's milk. What meta-analyses say about soy and male hormones, breast cancer and thyroid, and which to buy."
 ---
 
 ## Soy Milk
 
+**Soy milk is the only plant-based milk that matches cow's milk in protein: about 3.3 grams of complete protein per 100 ml, or about 8 grams per glass. Meta-analyses of controlled trials found that soy does not affect sex hormones in men, and the choice that really matters is a product fortified with calcium and B12 and without added sugar.**
+
 Soy milk (in Hebrew, "חלב סויה") is made by soaking soybeans, grinding them with water and straining out the solids. Of all the plant-based milk alternatives it is **the only one that comes close to cow's [milk](/en/food/milk/) in the quantity and quality of its protein** — a fact that makes it especially relevant in vegan diets and in children's menus.
 
-100 ml of unsweetened soy milk provides about 33-45 calories, 3.3 grams of protein, 1.8 grams of fat and about 1 gram of carbohydrates. For comparison, [almond milk](/en/food/almond-milk/) provides only about 0.5-1 gram of protein — a gap of three to seven times.
+### Nutrition facts
+
+100 ml of unsweetened soy milk provides about 33-45 calories, 3.3 grams of protein, 1.8 grams of fat and about 1 gram of carbohydrates. For comparison, [almond milk](/en/food/almond-milk/) provides only about 0.5-1 gram of protein — a gap of three to seven times. A 240 ml glass of fortified soy milk provides about 80-100 calories, about 8 grams of protein and about 290 mg of added calcium. A comparison table with other alternatives appears further down.
 
 ### Protein — the distinguishing advantage
 
@@ -25,31 +31,31 @@ This is the topic around which most of the anxiety about soy is concentrated, so
 
 Soy contains **isoflavones** (genistein, daidzein) — phytoestrogens that bind to estrogen receptors. It is important to understand the structure: they bind mainly to the **beta** receptor rather than the alpha receptor, and with a strength thousands of times lower than human estrogen. The receptors serve different functions, so the effect is not "weak estrogen" but an entirely different activity profile.
 
-**In men:** a meta-analysis that reviewed dozens of controlled trials found no effect on testosterone levels, estrogen or sperm quality from soy consumption in dietary amounts. The isolated cases reported in the literature involved extremely high consumption — on the order of 12-20 servings a day — and are not relevant to normal consumption. **The claim that soy "feminizes" men is not supported by the evidence.**
+**In men:** a meta-analysis of 41 clinical studies found no effect of soy protein or isoflavones on total or free testosterone, estrogen or SHBG. [Reed et al., 2021](https://pubmed.ncbi.nlm.nih.gov/33383165/). The isolated cases reported in the literature involved extreme intakes of liters a day and are not relevant to normal consumption. **The claim that soy "feminizes" men is not supported by the evidence.**
 
-**Breast cancer:** cohort studies, mainly in Asian populations with high soy consumption from childhood, link soy consumption to a **reduced** risk. In women with an existing diagnosis, follow-up studies showed better survival or a neutral effect. The leading organizations — the American Cancer Society and the World Cancer Research Fund — do not recommend avoiding soy, including for breast cancer survivors.
+**Breast cancer:** cohort studies, mainly in Asian populations with high soy consumption from childhood, link soy consumption to a **reduced** risk. In women with an existing diagnosis, follow-up studies showed better survival or a neutral effect: in the Shanghai cohort of about 5,000 breast cancer survivors, the quarter who ate the most soy protein had about a 30% lower risk of death and recurrence, including among women taking tamoxifen. [Shu et al., 2009](https://pubmed.ncbi.nlm.nih.gov/19996398/). The leading organizations — the American Cancer Society and the World Cancer Research Fund — do not recommend avoiding soy, including for breast cancer survivors.
 
 **The thyroid:** in people with normal function and adequate [iodine](/en/food/supplements/iodine/) intake, soy has no effect. In people with hypothyroidism, soy may interfere with the absorption of the **drug** thyroxine — so the recommendation is to separate taking the medication and consuming soy by at least 4 hours.
 
-### Health benefits
+### Benefits
 
 * **Complete protein in a meaningful amount:** as detailed above — the main advantage.
 
-* **Fat profile:** soy milk contains mostly unsaturated fat, and no cholesterol. The FDA approved a health claim that 25 grams of soy protein a day, as part of a diet low in saturated fat, may reduce the risk of heart disease. The claim is somewhat disputed but still in effect.
+* **Fat profile:** soy milk contains mostly unsaturated fat, and no cholesterol. In a meta-analysis of the 46 trials the FDA reviewed, about 25 grams of soy protein a day lowered LDL by about 3-4% — a real but modest effect. [Blanco Mejia et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31006811/).
 
-* **Fortification:** fortified products provide [calcium](/en/food/supplements/calcium/) (usually 120 mg per 100 ml, equivalent to cow's milk), [vitamin B12](/en/food/supplements/vitamin-b12/) and [vitamin D](/en/food/supplements/vitamin-d/) — the three most critical nutrients in a vegan diet. **This is the most important practical consideration when choosing**: unfortified soy milk misses most of the benefit.
+* **Fortification:** fortified products provide [calcium](/en/food/supplements/calcium/) (usually 120 mg per 100 ml, equivalent to cow's milk), [vitamin B12](/en/food/supplements/vitamin-b12/) and [vitamin D](/en/food/supplements/vitamin-d/) — the three most critical nutrients in a vegan diet. In an absorption study, calcium from soy milk fortified with calcium carbonate was absorbed as well as calcium from cow's milk. [Zhao et al., 2005](https://pubmed.ncbi.nlm.nih.gov/16177199/). **This is the most important practical consideration when choosing**: unfortified soy milk misses most of the benefit.
 
 * **Lactose-free:** completely suitable for lactose intolerance, which is the most common condition in the world's population.
 
 * **Environmental impact:** the carbon footprint and water use of soy milk are significantly lower than those of cow's milk. A distinction should be made between soy for human food, usually grown on a small scale, and soy for the animal-feed industry — which is responsible for the vast majority of deforestation attributed to soy.
 
-### Downsides and health considerations
+### Downsides
 
 * **Soy allergy:** one of the leading allergens, especially in children. It is more common than allergy to most nuts and requires complete avoidance.
 
 * **Added sugar:** versions marketed as "regular" or "vanilla flavored" usually contain 3-6 grams of sugar per 100 ml. Look explicitly for **"no sugar"** or "unsweetened".
 
-* **Dependence on fortification:** unlike cow's [milk](/en/food/milk/), where the calcium is natural, in soy milk it is added — and tends to settle at the bottom of the carton. **Shake well before every pour**, otherwise you get considerably less of the calcium on the label.
+* **Dependence on fortification:** unlike cow's milk, where the calcium is natural, in soy milk it is added — and tends to settle at the bottom of the carton. **Shake well before every pour**, otherwise you get considerably less of the calcium on the label.
 
 * **Phytate:** somewhat reduces the absorption of [iron](/en/food/iron/) and [zinc](/en/food/supplements/zinc/).
 
@@ -63,7 +69,7 @@ Soy contains **isoflavones** (genistein, daidzein) — phytoestrogens that bind 
 
 | Drink | Calories | Protein | Fat | [Calcium](/en/food/supplements/calcium/) (fortified) |
 |---|---|---|---|---|
-| Cow's [milk](/en/food/milk/) 3% | 61 | 3.3 g | 3.3 g | 120 mg |
+| Cow's milk 3% | 61 | 3.3 g | 3.3 g | 120 mg |
 | Soy milk | 33-45 | 3.3 g | 1.8 g | 120 mg |
 | Oat milk | 45-50 | 1 g | 1.5 g | 120 mg |
 | [Almond milk](/en/food/almond-milk/) | 13-20 | 0.5 g | 1.1 g | 120 mg |
@@ -71,7 +77,7 @@ Soy contains **isoflavones** (genistein, daidzein) — phytoestrogens that bind 
 
 ### Practical use
 
-**What to look for on the label:** "no sugar" or "unsweetened"; fortification with [calcium](/en/food/supplements/calcium/), [vitamin B12](/en/food/supplements/vitamin-b12/) and [vitamin D](/en/food/supplements/vitamin-d/); and a high soy percentage (a short ingredient list).
+**What to look for on the label:** "no sugar" or "unsweetened"; fortification with calcium, [vitamin B12](/en/food/supplements/vitamin-b12/) and [vitamin D](/en/food/supplements/vitamin-d/); and a high soy percentage (a short ingredient list).
 
 **Shake well:** the added calcium settles. This is the simplest action that changes how much calcium you actually get.
 
@@ -79,14 +85,16 @@ Soy contains **isoflavones** (genistein, daidzein) — phytoestrogens that bind 
 
 **In cooking and baking:** substitutes almost 1:1 for cow's milk. The beany taste is more noticeable in delicate dishes.
 
+**Compare:** [A Scientific Comparison: Soy, Almond and Oat Milk](/en/compare/soy-almond-oat-milk/)
+
 ### Summary
 
-Soy milk is the only milk alternative that comes within a small gap of cow's [milk](/en/food/milk/) in protein quantity and quality, and therefore the only one considered a genuinely reasonable nutritional substitute. The fear of isoflavones is not supported by the evidence — meta-analyses find no effect on hormones in men, and the evidence on breast cancer leans toward protective or neutral. The two choices that matter in practice: pick a product that is **fortified and sugar-free**, and shake the carton before pouring.
+Soy milk is the only milk alternative that comes within a small gap of cow's milk in protein quantity and quality, and therefore the only one considered a genuinely reasonable nutritional substitute. The fear of isoflavones is not supported by the evidence — meta-analyses find no effect on hormones in men, and the evidence on breast cancer leans toward protective or neutral. The two choices that matter in practice: pick a product that is **fortified and sugar-free**, and shake the carton before pouring.
 
 ### Frequently asked questions
 
 **Question: Does soy affect hormones in men?**
-Answer: No, according to the evidence. Meta-analyses of dozens of controlled trials found no effect on testosterone, estrogen or sperm quality in dietary amounts. The exceptional cases in the literature involved consumption of 12-20 servings a day.
+Answer: No, according to the evidence. A meta-analysis of 41 clinical studies found no effect on testosterone, estrogen or SHBG. The exceptional cases in the literature involved extreme intakes of liters a day.
 
 **Question: Which milk alternative is most similar to cow's milk?**
 Answer: Soy milk, by a wide margin. It is the only one providing about 3.3 grams of protein per 100 ml — the same as cow's milk — and with complete protein quality. Almond milk provides less than a gram.
@@ -101,4 +109,4 @@ Answer: Fortified, sugar-free soy milk is considered an acceptable substitute fo
 Answer: Soy protein curdles with heat and acidity. Add the milk to the coffee rather than the other way around, wait for the drink to cool slightly, or choose a "barista" version containing stabilizers.
 
 **Question: Do you have to choose fortified?**
-Answer: Yes, if it is replacing cow's milk. Unfortified soy milk lacks [calcium](/en/food/supplements/calcium/), [B12](/en/food/supplements/vitamin-b12/) and [vitamin D](/en/food/supplements/vitamin-d/) — exactly the critical nutrients in a vegan diet. And shaking matters, because the added calcium settles.
+Answer: Yes, if it is replacing cow's milk. Unfortified soy milk lacks calcium, B12 and vitamin D — exactly the critical nutrients in a vegan diet. And shaking matters, because the added calcium settles.

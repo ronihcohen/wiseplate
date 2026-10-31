@@ -23,7 +23,7 @@ Kada is a flat, stuffed Kurdish bread. The meat version is documented by FOODISH
 
 ### Close a ball, and only then flatten
 
-Kada isn't a thin dumpling but a stuffed skillet bread. Wrap the filling in a ball of dough, pinch the seam, and only after a short rest flatten it gently from the center outward. This way the meat spreads to the edges without tearing them. The filling must be cold and dry; liquid from the onion creates steam and opens the seam in the skillet.
+Kada isn't a thin dumpling but a stuffed skillet bread. Wrap the filling in a ball of dough, pinch the seam, and only after a short rest flatten it gently from the center outward. This way the meat spreads to the edges without tearing them. The filling must be cold and dry; liquid from the [onion](/en/food/onion/) creates steam and opens the seam in the skillet.
 
 ### Ingredients
 
@@ -33,7 +33,7 @@ Kada isn't a thin dumpling but a stuffed skillet bread. Wrap the filling in a ba
 
 ### Choosing ingredients and substitutes
 
-A more traditional siska filling is possible; ground beef is an accessible adaptation. Don't serve it with yogurt as you would dairy kada.
+A more traditional siska filling is possible; ground [beef](/en/food/red-meat/) is an accessible adaptation. Don't serve it with yogurt as you would dairy kada.
 
 For ground meat, choose 15% fat: leaner meat dries out in the skillet and fattier meat wets the seam. For the siska route, cook beef shoulder until tender, shred it and fry briefly with onion until the liquid disappears. It's longer work but gives a deep, fibrous filling that is identified with many Kurdish homes in Israel. Baharat is optional; black pepper and salt are enough for a simple filling.
 

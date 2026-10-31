@@ -17,13 +17,13 @@ calories: 500
 
 ## Tunisian Msoki for Passover
 
-Msoki is the spring stew Tunisian Jews make for the Seder night: lamb, green and bitter vegetables, artichokes, fava beans and matzah that soaks up the liquid at the end. There is no single list of vegetables; the idea is seasonal abundance, not the precision of any one vegetable.
+Msoki is the spring stew Tunisian Jews make for the Seder night: lamb, green and bitter vegetables, [artichokes](/en/food/artichoke/), fava beans and matzah that soaks up the liquid at the end. There is no single list of vegetables; the idea is seasonal abundance, not the precision of any one vegetable.
 
 **Prep time:** 45 minutes · **Cooking time:** 150 minutes · **Yield:** 10 servings · **Difficulty:** Medium
 
 ### Add the vegetables according to how long they take to soften
 
-The lamb and fava beans go in first; peas, spinach and herbs go in late. If everything goes in together, the tender vegetables disappear before the meat softens.
+The lamb and fava beans go in first; [peas](/en/food/peas/), [spinach](/en/food/spinach/) and herbs go in late. If everything goes in together, the tender vegetables disappear before the meat softens.
 
 ### Ingredients (for 10 servings)
 
@@ -47,7 +47,7 @@ Israeli frozen vegetables work well and save work. You can replace the lamb with
 ### Method
 
 1. **Brown the lamb.** Heat the oil in a large pot and brown the meat in three batches. Remove to a plate.
-2. **Build the base.** Fry the leeks and onion 8 minutes, then add the garlic, harissa and spices for half a minute.
+2. **Build the base.** Fry the leeks and [onion](/en/food/onion/) 8 minutes, then add the [garlic](/en/food/garlic/), harissa and spices for half a minute.
 3. **Start cooking.** Return the meat and add the carrots, turnips, celery, cabbage and water. Bring to a boil and skim the foam.
 4. **Cook slowly.** Partially cover and cook 75 minutes at a gentle simmer.
 5. **Add the spring vegetables.** Add the artichokes and fava beans for 35 minutes; add the peas, spinach and herbs for the last 15 minutes. The lamb should reach at least 71°C (160°F) and be tender.

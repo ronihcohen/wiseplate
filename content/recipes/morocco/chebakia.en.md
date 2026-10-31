@@ -1,6 +1,6 @@
 ---
 title: "Chebakia"
-seo_title: "Chebakia: A Recipe for Moroccan Honey Cookies — Calories per Cookie"
+seo_title: "Chebakia Recipe: Moroccan Honey Sesame Cookies"
 date: 2026-08-24T04:30:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/morocco/chebakia.webp"
@@ -49,9 +49,9 @@ The technical detail that determines the result is a temperature difference. The
 
 **For frying and dipping:**
 * Oil for deep-frying (about 200 grams absorbed in total)
-* 500-700 grams [honey](/en/food/honey/) (about 350 grams absorbed)
+* 500-700 grams honey (about 350 grams absorbed)
 * 2 tablespoons orange blossom water
-* 50 grams toasted [sesame seeds](/en/food/sesame-seeds/), for rolling
+* 50 grams toasted sesame seeds, for rolling
 
 ### Choosing ingredients and substitutes
 
@@ -106,7 +106,7 @@ Answer: A cookie of about 35 grams is about 165 calories and contains about 7 gr
 Answer: Hot honey is thinner and quickly penetrates the pockets formed in the cookie during frying, and sets there as it cools. Room-temperature honey coats only the outside, and the result is sticky outside and dry inside. It's important not to boil the honey — above 70 degrees it turns bitter.
 
 **Question: What is the difference between chebakia and baklava?**
-Answer: Almost everything. Chebakia is a kneaded dough that is slit, threaded, deep-fried and dipped in **hot** honey; [baklava](/en/recipes/turkey/baklava/) is phyllo sheets with nuts, baked in the oven and soaked in **cold** sugar syrup.
+Answer: Almost everything. Chebakia is a kneaded dough that is slit, threaded, deep-fried and dipped in **hot** honey; baklava is phyllo sheets with nuts, baked in the oven and soaked in **cold** sugar syrup.
 
 **Question: The chebakia came out greasy — what went wrong?**
 Answer: The oil was too cold. At a low temperature the dough spends a long time in the oil and has time to absorb a lot of it before an outer crust forms. The right temperature is about 160 degrees, and the sign is that the dough starts bubbling as soon as it goes in and turns golden within 4-5 minutes.

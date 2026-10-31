@@ -1,69 +1,109 @@
 ---
 title: "Coffee"
+seo_title: "Coffee: Benefits, Downsides, How Many Cups a Day, Filtered or Not"
 date: 2026-04-10T09:00:00+02:00
+lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "A scientific analysis of coffee, the most consumed drink in the world — research on antioxidants, cognitive performance, risks and how to drink it right."
+description: "How many cups of coffee a day is healthy? Up to 3–4 (400 mg caffeine), 200 mg in pregnancy. What studies found, and why filtered is better for cholesterol."
 ---
 
 ## Coffee
 
-Coffee (*Coffea arabica*, *Coffea robusta*; in Hebrew "קפה") is the most consumed hot drink in the world, and one of the most studied foods in the history of nutrition science. With thousands of studies published in recent decades, the picture that emerges is complex — coffee has both significant health benefits and risks that depend on the amount, the type and the individual response.
+**For most healthy adults, 3–4 cups of coffee a day (up to about 400 mg of caffeine) is a safe amount, and in studies it has been linked with a lower risk of death and heart disease; paper-filtered coffee is better than unfiltered coffee (Turkish, French press, boiled), which raises LDL cholesterol.** In pregnancy the advice is up to 200 mg of caffeine a day, about one to two cups. In Hebrew it is called "קפה".
 
-Coffee beans contain hundreds of compounds — [caffeine](/en/food/supplements/caffeine/), chlorogenic acids, diterpenes (cafestol and kahweol), trigonelline and more — that work together to create a complex bioactive profile.
+Coffee is brewed from the roasted beans of the coffee plant, mainly the arabica and robusta species. Besides [caffeine](/en/food/supplements/caffeine/), the beans contain chlorogenic acids (a type of [polyphenol](/en/food/polyphenols/)), diterpenes called cafestol and kahweol, trigonelline and hundreds of other compounds. Coffee is one of the most studied foods, and most of the data come from observational studies, which show associations rather than proving cause and effect.
 
-### Research-based health benefits
+### Nutrition facts and caffeine content
 
-* **A leading source of antioxidants in the Western diet:** dietary studies in the US and Europe found that coffee (not fruits or vegetables) is the largest source of antioxidants in the average diet — because of the large amount consumed. Chlorogenic acids are the main [polyphenols](/en/food/polyphenols/), with anti-inflammatory activity and glucose regulation.
+Black coffee has almost no calories. What matters is caffeine, which varies a lot with the beans, the grind and the brewing method. The figures below are rough estimates:
 
-* **Cognitive performance and alertness:** caffeine blocks adenosine receptors in the brain — the main mechanism that creates sleepiness. The result: improved concentration, reaction time, alertness and mood. A noticeable effect at 100-200 mg of caffeine (1-2 cups).
-
-* **Physical performance:** caffeine is recognized and approved as an ergogenic aid (a sports performance enhancer) by international sports bodies — it increases the release of fat for energy and reduces perceived exertion relative to output.
-
-* **Preventing chronic disease (epidemiology):** large studies (including PREDIMED and the Nurses' Health Study) found a link between moderate coffee consumption (3-4 cups a day) and a lower risk of type 2 diabetes, Parkinson's disease, Alzheimer's, liver cirrhosis and certain types of cancer.
-
-* **Liver function:** coffee — even decaf — is linked to a lower risk of liver cirrhosis, liver cancer and elevated liver enzyme levels. Possibly because of chlorogenic acids and other compounds.
-
-* **Long-term brain function:** regular consumption is linked to a lower risk of Parkinson's and Alzheimer's — possibly because of the neuroprotective effect of caffeine and antioxidants.
-
-### Downsides and health considerations
-
-* **Anxiety and jitteriness:** a high dose (over 400 mg of caffeine a day = 4+ cups) causes anxiety, jitteriness, palpitations and sleep disturbances. The sensitivity threshold is individual and influenced by genetics (the CYP1A2 polymorphism).
-
-* **Dependence and withdrawal symptoms:** caffeine creates a mild physiological dependence. Stopping suddenly causes headaches, fatigue and irritability — usually for 1-3 days.
-
-* **Effect on sleep:** caffeine has a half-life of 5-6 hours — a cup of coffee at 15:00 is still active at 21:00. For people sensitive to sleep disruption — not recommended after 12:00.
-
-* **Blood pressure:** a sharp short-term rise in blood pressure after drinking. People with uncontrolled high blood pressure should cut back.
-
-* **Iron absorption:** coffee (like tea) reduces the absorption of non-heme [iron](/en/food/iron/). Don't drink it close to iron-rich meals.
-
-* **Pregnancy:** health organizations recommend not exceeding 200 mg of caffeine a day during pregnancy (one cup is the safest).
-
-* **Kahweol and cafestol:** diterpenes that raise LDL — found in unfiltered coffee (French press, espresso). A paper filter removes them effectively. Drinking paper-filtered coffee is better for your cholesterol profile.
-
-### Filtered vs. unfiltered coffee
-
-| Type | Kahweol/cafestol | Caffeine | Recommended for |
+| Drink | Serving | Caffeine (approx.) | Calories |
 |---|---|---|---|
-| Paper-filtered coffee | Low | Medium | Most people |
-| Espresso | Medium | High per volume | Small amounts |
-| French press | High | High | Not for people with high LDL |
-| Decaf | Low | Low | Pregnancy, blood pressure |
+| Filter coffee | cup, 240 ml | 80–120 mg | about 2 |
+| Espresso | shot, 30 ml | 60–75 mg | about 1 |
+| Turkish coffee | small cup, 2 teaspoons | 60–100 mg | about 2 |
+| Instant coffee | cup, 1 teaspoon | 50–90 mg | about 4 |
+| Decaf | cup | 2–15 mg | about 2 |
+| Cappuccino / latte | cup with 150 ml milk | 60–130 mg | 70–130 |
+
+A cup of coffee also provides about 100 mg of [potassium](/en/food/supplements/potassium/) and a little niacin. The calories come from milk, sugar and syrups.
+
+### How many cups of coffee a day?
+
+EFSA, the European Food Safety Authority, concluded that up to 400 mg of caffeine a day raises no safety concern for healthy adults, and up to 200 mg a day in pregnancy [(EFSA: safety of caffeine, 2015)](https://doi.org/10.2903/j.efsa.2015.4102). A large systematic review reached the same conclusions [(Wikoff et al., 2017)](https://pubmed.ncbi.nlm.nih.gov/28438661/).
+
+An umbrella review in the BMJ, which pooled 201 meta-analyses of observational studies, found the lowest risk of death from any cause, of cardiovascular death and of cardiovascular disease at 3–4 cups a day compared with none (a relative risk of about 0.83 for all-cause death) [(Poole et al., BMJ 2017)](https://pubmed.ncbi.nlm.nih.gov/29167102/). Beyond that, the benefit did not grow.
+
+In practice: 3–4 ordinary cups of filter coffee (about 300–400 mg) is a sensible upper limit. If you are sensitive to caffeine, or have anxiety, palpitations or insomnia, you will feel better with less.
+
+### Benefits
+
+**Alertness and concentration.** Caffeine blocks adenosine receptors in the brain, which signal tiredness. 75–200 mg (one or two cups) improves alertness, reaction time and focus, especially when you are tired.
+
+**Sports performance.** Caffeine is one of the few supplements with strong research support for improving endurance performance. Doses for sport are covered on the caffeine page linked at the bottom.
+
+**Links with lower disease risk.** In the umbrella review, coffee was more often associated with benefit than harm: a lower risk of type 2 diabetes, liver disease (including cirrhosis and liver cancer), Parkinson's disease and some cancers [(Poole et al., BMJ 2017)](https://pubmed.ncbi.nlm.nih.gov/29167102/). Most of these associations also showed up for decaf, which suggests that compounds other than caffeine are involved. These are observational studies, so it cannot be ruled out that coffee drinkers differ in other ways.
+
+**Antioxidants.** Because of how much of it people drink, coffee is one of the largest sources of polyphenols in the Western diet.
+
+### Downsides
+
+**Unfiltered coffee raises cholesterol.** The diterpenes cafestol and kahweol raise LDL. A paper filter traps almost all of them, but they reach the cup in boiled coffee, Turkish coffee and French press, and in moderate amounts in espresso. A meta-analysis of 14 trials found that unfiltered coffee raises total and LDL cholesterol, while filtered coffee has very little effect [(Jee et al., 2001)](https://pubmed.ncbi.nlm.nih.gov/11207153/).
+
+**Sleep.** Caffeine stays in the body for many hours. In a controlled trial, 400 mg of caffeine taken 6 hours before bedtime still disrupted sleep significantly [(Drake et al., 2013)](https://pubmed.ncbi.nlm.nih.gov/24235903/). If you sleep badly, finish your coffee by midday.
+
+**Pregnancy.** In the umbrella review, high intake during pregnancy was associated with low birth weight, preterm birth and pregnancy loss. That is why the advice is to stay under 200 mg a day.
+
+**Anxiety, heart rate and blood pressure.** High doses cause jitteriness, tremor and palpitations. Caffeine raises blood pressure for a short time, so people with uncontrolled high blood pressure should discuss their intake with their doctor. Sensitivity varies a great deal between people, partly because of genetic differences in how fast the liver breaks caffeine down.
+
+**Dependence and withdrawal.** Stopping suddenly after regular use causes headache, tiredness and irritability for a day to a few days. Cutting down gradually prevents most of it.
+
+**Iron absorption.** Coffee drunk with a meal reduces absorption of plant [iron](/en/food/iron/). If you are iron deficient, keep coffee an hour away from meals.
+
+**Heartburn.** Coffee can worsen heartburn and reflux in some people, decaf included.
+
+### Filtered vs unfiltered coffee
+
+| Brewing method | Cafestol and kahweol | Effect on LDL |
+|---|---|---|
+| Paper filter | almost none | negligible |
+| Instant | little | negligible |
+| Espresso | moderate (per small shot) | small at usual amounts |
+| French press | high | raises it |
+| Turkish / boiled coffee | high | raises it |
+
+In a Norwegian study that followed about half a million people for some 20 years, filtered coffee was associated with lower mortality than no coffee, while the association for unfiltered coffee was weaker; in men over 60, unfiltered coffee was linked with a slightly higher risk of cardiovascular death [(Tverdal et al., 2020)](https://pubmed.ncbi.nlm.nih.gov/32320635/). If your LDL is high and you drink several cups of Turkish coffee or French press a day, switching to filter coffee is an easy change.
+
+### Practical use
+
+- **Amount:** up to 3–4 cups of filter coffee a day; one to two in pregnancy.
+- **Timing:** have the last cup at least 6 hours before bed.
+- **Brewing:** if your LDL is high, choose paper-filtered or instant coffee.
+- **Add-ons:** sugar, syrups and whipped cream turn coffee into a high-calorie drink. A reasonable amount of [milk](/en/food/milk/) is fine.
+- **Medication:** some drugs (certain antibiotics, thyroid medication, some psychiatric drugs) interact with caffeine or with absorption. Ask your pharmacist.
+
+**See also:** [Caffeine for Athletes](/en/food/supplements/caffeine/) · [A Scientific Comparison: Green, Black and White Tea](/en/compare/green-black-white-tea/)
+
+### Summary
+
+For most adults coffee is a safe drink that studies link with a lower risk of death, diabetes and liver disease, with the benefit peaking around 3–4 cups a day. Paper-filtered coffee is the better choice for cholesterol, and it is worth stopping in the afternoon. In pregnancy, or with anxiety, sleep problems or uncontrolled blood pressure, less is better.
 
 ### Frequently asked questions
 
 **Question: How many cups of coffee a day are healthy?**
-Answer: 3-4 cups (≈300-400 mg of caffeine) — according to most studies, the optimal range. Beyond that, the benefits don't grow, and the risks rise.
+Answer: Up to 3–4 cups of filter coffee (about 400 mg of caffeine) for a healthy adult. In studies, that amount was linked with the lowest risk of death; beyond it, the benefit does not grow and side effects increase.
 
-**Question: Is black coffee (without milk and sugar) better?**
-Answer: Nutritionally — yes. Adding sugar and full-fat [milk](/en/food/milk/) adds calories and reduces some of the bioactive effects. Black coffee is optimal.
+**Question: Does Turkish or French press coffee raise cholesterol?**
+Answer: Yes, to some degree. Neither is filtered, so the diterpenes cafestol and kahweol reach the cup and raise LDL. One cup a day is probably negligible; several cups a day with a high LDL is a reason to switch to filter coffee.
 
-**Question: Is decaf coffee healthy too?**
-Answer: Yes — most of the liver benefits and the Parkinson's link also apply to decaf coffee, which suggests that the polyphenols (not the caffeine) are responsible for some of the effects.
+**Question: How much coffee is safe in pregnancy?**
+Answer: Up to 200 mg of caffeine a day, about one to two cups of filter coffee or two shots of espresso. Count tea, cola and chocolate too.
 
-**Question: Does coffee cause bone loss?**
-Answer: Extremely excessive intake is slightly linked to lower bone density. In moderate amounts (3-4 cups) with a diet rich in [calcium](/en/food/supplements/calcium/) — the risk is negligible.
+**Question: Is decaf coffee healthy?**
+Answer: Yes. Most of the positive associations, for example with liver disease and diabetes, were also seen with decaf, and it does not disturb sleep. It can still worsen heartburn.
 
-### Summary
+**Question: Does coffee dehydrate you?**
+Answer: Not at usual amounts. Caffeine has a mild diuretic effect, but in regular drinkers the fluid in the cup makes up for it, and coffee counts toward daily fluid intake.
 
-Coffee in moderate amounts (3-4 cups a day, black or with a little milk, paper-filtered) is a drink with research-backed health benefits for most of the adult population. Be careful during pregnancy and with sleep problems, blood pressure and caffeine sensitivity.
+**Question: Is coffee bad for your bones?**
+Answer: The umbrella review found a small association between coffee and fractures in women but not in men. At moderate intake with enough [calcium](/en/food/supplements/calcium/), the risk is low.

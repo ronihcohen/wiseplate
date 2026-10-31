@@ -20,6 +20,16 @@
           <li><a href="{{ "/run/" | relLangURL }}">{{ T "navRun" }}</a></li>
         </ul>
       </nav>
+      <nav aria-label="{{ T "footerAbout" }}">
+        <p class="footer-nav-title">{{ T "footerAbout" }}</p>
+        <ul class="footer-nav-links">
+          <li><a href="{{ "/about/" | relLangURL }}">{{ T "navAbout" }}</a></li>
+          <li><a href="{{ "/editorial-policy/" | relLangURL }}">{{ T "navEditorial" }}</a></li>
+          {{- with site.Params.youtube }}
+          <li><a href="{{ . }}" rel="me noopener">{{ T "navYouTube" }}</a></li>
+          {{- end }}
+        </ul>
+      </nav>
     </div>
     <aside class="footer-disclaimer" role="note" aria-labelledby="footer-disclaimer-title">
       <p class="footer-disclaimer-title" id="footer-disclaimer-title">

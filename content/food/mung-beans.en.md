@@ -1,6 +1,6 @@
 ---
 title: "Mung Beans"
-seo_title: "Mung Beans: The Legume That Cooks Without Soaking — and Sprout Safety"
+seo_title: "Mung Beans: Nutrition, Cooking Without Soaking, Sprouts"
 date: 2025-12-22T11:00:00+02:00
 lastmod: 2026-09-02T09:00:00+03:00
 featured_image: ""
@@ -50,7 +50,7 @@ Mung beans are better tolerated than most legumes for three reasons:
 Sprouting mung beans is one of the simplest nutritional steps you can take in the kitchen: soak overnight, rinse twice a day, and after 2-4 days you have sprouts.
 
 What happens in the process:
-* **[Vitamin C](/en/food/supplements/vitamin-c/) rises dramatically** — from about 1 mg to 13 mg per 100 grams. The plant produces it as it germinates.
+* **Vitamin C rises dramatically** — from about 1 mg to 13 mg per 100 grams. The plant produces it as it germinates.
 * **[Vitamin K](/en/food/supplements/vitamin-k/) rises** — from 2.7 to 33 mcg.
 * **Phytate drops.** Phytase enzymes are activated and break down some of the phytic acid — meaning **[iron](/en/food/iron/), [zinc](/en/food/supplements/zinc/) and [magnesium](/en/food/supplements/magnesium/) become more available**.
 * **Oligosaccharides drop** — less gas.
@@ -72,10 +72,10 @@ Raw sprouts are **one of the foods most often involved in foodborne illness outb
 
 * **Plant protein:** 7 grams per 100 grams cooked, 23.9 grams dry. An amino acid profile rich in lysine and relatively low in methionine — complementing grains.
 * **Fiber:** 7.6 grams per 100 grams cooked — 27% of the daily intake in one serving.
-* **[Folate](/en/food/supplements/vitamin-b9/):** 40% of the daily intake — as detailed above.
+* **Folate:** 40% of the daily intake — as detailed above.
 * **Relatively easy to digest for a legume** — as detailed above.
 * **No soaking and quick cooking:** 25-30 minutes. A big practical advantage.
-* **[Potassium](/en/food/supplements/potassium/), [magnesium](/en/food/supplements/magnesium/) and fiber** — a combination linked in studies to improved blood pressure.
+* **[Potassium](/en/food/supplements/potassium/), magnesium and fiber** — a combination linked in studies to improved blood pressure.
 * **A low glycemic index.** Around 25-35 — among the lowest of legumes.
 * **Vitexin and isovitexin:** flavones being studied as antioxidants.
 * **Price and shelf life** — very cheap, and keeps for years dry.
@@ -94,7 +94,7 @@ Raw sprouts are **one of the foods most often involved in foodborne illness outb
 
 * **No soaking.** Rinse, and cook in a 1:3 ratio with water for 25-30 minutes until soft. Soak only if you want to cut it to 15 minutes.
 * **Add salt at the end.** Salt at the start of cooking toughens the skin and lengthens the time.
-* **With [vitamin C](/en/food/supplements/vitamin-c/)** — [lemon](/en/food/lemon/), [tomato](/en/food/tomato/) or [bell pepper](/en/food/red-pepper/) — to improve absorption of non-heme [iron](/en/food/iron/).
+* **With vitamin C** — [lemon](/en/food/lemon/), [tomato](/en/food/tomato/) or [bell pepper](/en/food/red-pepper/) — to improve absorption of non-heme iron.
 * **Combine with a grain:** mung beans with [rice](/en/food/rice/) is a traditional combination (kitchari) that completes the amino acid profile.
 * **Sprout at home:** soak overnight, rinse twice a day, drain completely, 2-4 days. Use only seeds intended for sprouting.
 * **Stir-fry the sprouts** for 60-90 seconds in a hot pan — neutralizes most of the microbial risk and keeps them crunchy.
@@ -104,7 +104,7 @@ Raw sprouts are **one of the foods most often involved in foodborne illness outb
 
 ### Summary
 
-Mung beans are the legume with the lowest barriers: **no soaking, 25-30 minutes of cooking, and less gas than any other legume** — with 7 grams of protein, 7.6 grams of fiber and 40% of the daily intake of folate per 100 grams cooked. For anyone who gave up on legumes because of discomfort, this is the right entry point. Sprouting changes them fundamentally — more [vitamin C](/en/food/supplements/vitamin-c/), less phytate, less gas — but **raw sprouts are a food with microbial risk**, and pregnant women, children, older adults and immunocompromised people should eat them cooked only.
+Mung beans are the legume with the lowest barriers: **no soaking, 25-30 minutes of cooking, and less gas than any other legume** — with 7 grams of protein, 7.6 grams of fiber and 40% of the daily intake of folate per 100 grams cooked. For anyone who gave up on legumes because of discomfort, this is the right entry point. Sprouting changes them fundamentally — more vitamin C, less phytate, less gas — but **raw sprouts are a food with microbial risk**, and pregnant women, children, older adults and immunocompromised people should eat them cooked only.
 
 ### Frequently asked questions
 

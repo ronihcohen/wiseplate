@@ -1,6 +1,6 @@
 ---
 title: "Chicken Tagine with Preserved Lemon and Olives"
-seo_title: "Moroccan Chicken Tagine with Preserved Lemon and Olives — Calories per Serving"
+seo_title: "Chicken Tagine Recipe With Preserved Lemon and Olives"
 date: 2026-08-24T03:50:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/morocco/tagine-djaj.webp"
@@ -75,7 +75,7 @@ The recommended serving is a quarter of the pot — about 215 grams of edible ch
 
 Two numbers in the table deserve attention. The first is **fat**, and the vast majority of it comes from the chicken skin: the skin is about a fifth of the weight of the edible meat, but it is five times as dense as the meat itself. Removing it **before** cooking brings the serving down to about 370 calories and the fat to about 18 grams, without touching the serving size — a difference of about 250 calories, the biggest difference a single component makes in any recipe on this page. On the other hand, the skin is also what gives the sauce its body, so a reasonable compromise is to cook with it and remove it before eating — that way some of the fat has already melted into the sauce, and the serving lands roughly in the middle.
 
-The second is **sodium**. [Preserved lemon](/en/food/lemon/) and green olives are both salt-cured products, and together they bring the dish to a high sodium level before a single grain of salt has been added. Anyone watching their [sodium intake](/en/food/supplements/sodium/) should simply add no salt at all to this dish, and rinse the olives in water before using them.
+The second is **sodium**. Preserved lemon and green olives are both salt-cured products, and together they bring the dish to a high sodium level before a single grain of salt has been added. Anyone watching their [sodium intake](/en/food/supplements/sodium/) should simply add no salt at all to this dish, and rinse the olives in water before using them.
 
 Beyond these, 44 grams of protein and only 12 grams of carbohydrates make the dish naturally suitable for a low-carb diet — until the bread arrives to soak up the sauce and adds about 150-250 calories.
 
@@ -100,7 +100,7 @@ Answer: A serving of a quarter of the pot — about 215 grams of edible chicken 
 Answer: Yes. A heavy cast-iron pot with a heavy lid gives a very close result, because it distributes heat slowly and seals well. What is lost is the condensation loop of the conical lid, so it is worth adding about 50 ml more liquid and cooking over an especially low flame.
 
 **Question: What is the difference between mqualli and mhammer?**
-Answer: Two basic sauces in Moroccan cuisine. *Mqualli* is the yellow-golden sauce based on saffron, [ginger](/en/food/ginger/) and [turmeric](/en/food/turmeric/), and it is the one in this recipe. *Mhammer* is the red sauce based on paprika, cumin and sometimes tomatoes, and it is more common in meat tagines.
+Answer: Two basic sauces in Moroccan cuisine. *Mqualli* is the yellow-golden sauce based on saffron, ginger and turmeric, and it is the one in this recipe. *Mhammer* is the red sauce based on paprika, cumin and sometimes tomatoes, and it is more common in meat tagines.
 
 **Question: Why is the preserved lemon added only at the end?**
 Answer: Preserved lemon peel cooked for a whole hour breaks down and releases bitterness into the sauce. Fifteen minutes is enough for it to release aroma and saltiness without the bitterness. For the same reason, mainly the peel is used rather than the flesh of the lemon, which is the softer and sourer of the two.

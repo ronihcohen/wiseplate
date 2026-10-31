@@ -17,7 +17,7 @@ calories: 560
 
 ## Chakhokhbili
 
-The dish's name was originally linked to pheasant, but today it is usually made from chicken. The pieces cook in plenty of onion and tomatoes, and the herbs go in at two stages to give both depth and a fresh aroma. No broth is needed: the chicken, onion and tomatoes make the sauce.
+The dish's name was originally linked to pheasant, but today it is usually made from chicken. The pieces cook in plenty of [onion](/en/food/onion/) and [tomatoes](/en/food/tomato/), and the herbs go in at two stages to give both depth and a fresh aroma. No broth is needed: the chicken, onion and tomatoes make the sauce.
 
 **Prep time:** 20 minutes · **Cooking time:** 55 minutes · **Yield:** 6 servings · **Difficulty:** easy
 
@@ -45,7 +45,7 @@ In winter, good-quality canned tomatoes will give a better result than mealy tom
 ### Method
 
 1. **Brown.** Pat the chicken dry and salt it. Heat a wide pot with the oil and brown in batches for 3–4 minutes on each side. Remove.
-2. **Soften the onion.** In the same pot, fry the onion for 10 minutes, until soft and lightly golden. Add the garlic and spices for half a minute.
+2. **Soften the onion.** In the same pot, fry the onion for 10 minutes, until soft and lightly golden. Add the [garlic](/en/food/garlic/) and spices for half a minute.
 3. **Reduce the tomatoes.** Add the tomatoes and cook uncovered for 10 minutes, until the sauce is no longer watery.
 4. **Cook the chicken.** Return the pieces and half the herbs, partially cover and cook at a gentle simmer for 25–35 minutes, until 74°C (165°F) in the thickest part.
 5. **Finish.** Uncover and reduce if needed. Add the vinegar and the rest of the herbs, taste and let stand 10 minutes.
@@ -60,7 +60,7 @@ In winter, good-quality canned tomatoes will give a better result than mealy tom
 | Fat | about 30 grams |
 | Fiber | about 5 grams |
 
-Bread or rice is not included. Using skin-on thighs can add about 100 calories per serving; chicken breast lowers the fat but dries out faster.
+Bread or rice is not included. Using skin-on thighs can add about 100 calories per serving; [chicken breast](/en/food/chicken-breast/) lowers the fat but dries out faster.
 
 ### Variations and tips
 

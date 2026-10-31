@@ -43,7 +43,7 @@ Buy ground fenugreek from a spice shop with high turnover. A yellowish, fragrant
 1. **Soak.** Mix the powder with 500 ml of water, cover and soak in the fridge for 8 hours.
 2. **Pour off the water.** Gently pour off the dark water on top. For a milder flavor, add water, wait 20 minutes and pour it off again.
 3. **Whip.** Transfer to a bowl and whip with an electric mixer for 7–10 minutes. Add cold water a tablespoon at a time until it becomes airy and voluminous.
-4. **Season.** Fold in the lemon, salt and cumin; add zhug only if you want.
+4. **Season.** Fold in the [lemon](/en/food/lemon/), salt and cumin; add zhug only if you want.
 5. **Chill.** Refrigerate for an hour. The spread firms up slightly in the cold.
 
 ### Nutrition facts and calorie estimate

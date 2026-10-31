@@ -1,6 +1,6 @@
 ---
 title: "Artichoke"
-seo_title: "Artichoke: Nutrition Facts, Fiber, Preparation and How It Differs from Leaf Extract"
+seo_title: "Artichoke: Nutrition Facts, Fiber and How to Prepare It"
 date: 2025-12-22T11:00:00+02:00
 lastmod: 2026-09-03T12:00:00+03:00
 featured_image: ""

@@ -17,7 +17,7 @@ calories: 320
 
 ## Shiro Wat
 
-Shiro is a silky stew made from legume flour, usually chickpea or pea, common in northern Ethiopia and in Eritrea. Traditional shiro powder already includes garlic, [berbere](/en/recipes/ethiopia/awaze/) and spices; in Israel you can use it or plain chickpea flour and build the seasoning in the pot.
+Shiro is a silky stew made from legume flour, usually chickpea or pea, common in northern Ethiopia and in Eritrea. Traditional shiro powder already includes [garlic](/en/food/garlic/), [berbere](/en/recipes/ethiopia/awaze/) and spices; in Israel you can use it or plain chickpea flour and build the seasoning in the pot.
 
 **Prep time:** 10 minutes · **Cooking time:** 35 minutes · **Yield:** 6 servings · **Difficulty:** easy
 
@@ -42,7 +42,7 @@ If you use spiced shiro powder from an Ethiopian shop, check the salt and berber
 
 ### Method
 
-1. **Make the base.** Cook the onion without oil for 12–15 minutes. Add the oil, garlic and ginger, then the berbere, tomatoes and turmeric for another 4 minutes.
+1. **Make the base.** Cook the [onion](/en/food/onion/) without oil for 12–15 minutes. Add the oil, garlic and [ginger](/en/food/ginger/), then the berbere, [tomatoes](/en/food/tomato/) and [turmeric](/en/food/turmeric/) for another 4 minutes.
 2. **Loosen the flour.** Whisk the chickpea flour with 500 ml cold water until there are no lumps.
 3. **Combine.** Add 700 ml water to the pot and bring to a simmer. Pour in the flour mixture in a thin stream while whisking.
 4. **Cook.** Lower the heat and cook for 18–25 minutes, stirring often. Add water to the texture of thick tahini and salt at the end.

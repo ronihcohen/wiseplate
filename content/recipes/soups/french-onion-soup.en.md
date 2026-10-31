@@ -1,10 +1,10 @@
 ---
 title: "French Onion Soup"
-seo_title: "French Onion Soup: A Classic Recipe with Gruyère — Calories per Bowl"
+seo_title: "French Onion Soup Recipe: Classic, With Gruyère"
 date: 2026-09-01T10:00:00+03:00
 lastmod: 2026-09-05T12:00:00+03:00
 featured_image: "/images/recipes/soups/french-onion-soup.webp"
-description: "A recipe for French onion soup (soupe à l'oignon) — 45 minutes of caramelizing that are the whole soup, and the calorie breakdown: about 210 for the soup and about 480 with the bread-and-cheese topping."
+description: "French onion soup: 45 minutes of caramelizing are the whole secret. About 210 calories for the soup, 480 with the bread-and-cheese topping."
 recipe_cuisine: "French"
 recipe_category: "Soup"
 prep_time: "PT20M"

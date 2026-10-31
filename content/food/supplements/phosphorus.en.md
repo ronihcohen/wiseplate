@@ -1,96 +1,97 @@
 ---
 title: "Phosphorus"
-seo_title: "Phosphorus: Nobody Is Short of It — the Problem Is Phosphate Additives in Processed Food"
+seo_title: "Phosphorus: Daily Needs and the Problem With Phosphate Additives"
 date: 2026-02-13T05:56:32+02:00
-lastmod: 2026-09-02T09:00:00+03:00
+lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "Phosphorus: its role in bone and ATP, why deficiency is almost nonexistent, and why phosphate additives in processed food are absorbed almost 100% and are a real problem."
+description: "Phosphorus: 700 mg a day for adults, and most get more. Why phosphate additives (E338–E452) are almost fully absorbed, and why that matters in kidney disease."
 ---
 
-Phosphorus is the second most abundant mineral in the body after [calcium](/en/food/supplements/calcium/), and it is essential to every cell: it is part of **ATP** (the energy currency), of **DNA and RNA**, of **cell membranes** (phospholipids), and of **hydroxyapatite** — the crystal that gives bone its hardness.
+## Phosphorus
 
-**And yet, it is one of the few minerals almost nobody is deficient in.** It is present in every food that contains protein, and average intake in the Western world exceeds the requirement.
+**Phosphorus is the second most abundant mineral in the body after calcium, and about 85% of it sits in bones and teeth. Adults need 700 mg a day, and most people get more than that, because it is in every protein-rich food. The practical problem is excess: phosphate additives in processed food are absorbed almost completely, which matters most for people with kidney disease.** In Hebrew it is "זרחן". [NIH fact sheet on phosphorus](https://ods.od.nih.gov/factsheets/Phosphorus-HealthProfessional/).
 
-**The real story of phosphorus runs in the opposite direction**, and it concerns a gap most people don't know about: **industrial phosphate additives are absorbed almost 100%, whereas the natural phosphorus in food is absorbed at only 40-60%.** The result is that true phosphorus intake is much higher than nutrition tables suggest.
+Phosphorus is part of ATP (the cell's energy currency), of DNA and RNA, of cell membranes and of the crystal that makes bone hard. Even so, dietary deficiency is practically unheard of.
 
-### Dosage and sources
+### How much you need a day
 
-| Measure | Value |
-|---|---|
-| Recommended Dietary Allowance (RDA) — adults | 700 mg |
-| Tolerable Upper Intake Level (UL) | 4,000 mg per day |
-| Absorption from plant sources (phytate) | 40-50% |
-| Absorption from animal sources | 40-60% |
-| **Absorption from phosphate additives** | **almost 100%** |
+| Age | Recommended intake a day (RDA) | Tolerable upper limit a day (UL) |
+|---|---|---|
+| Infants 0–6 months | 100 mg (AI) | Not set |
+| Infants 7–12 months | 275 mg (AI) | Not set |
+| 1–3 | 460 mg | 3,000 mg |
+| 4–8 | 500 mg | 3,000 mg |
+| 9–18 | 1,250 mg | 4,000 mg |
+| 19–70 | 700 mg | 4,000 mg |
+| Over 70 | 700 mg | 3,000 mg |
+| Pregnancy | 700 mg (1,250 up to age 18) | 3,500 mg |
+| Breastfeeding | 700 mg (1,250 up to age 18) | 4,000 mg |
+
+The higher need at ages 9–18 reflects the pace of skeletal growth.
+
+### Food sources
 
 | Source | Phosphorus per 100 g |
 |---|---|
-| Hard [cheese](/en/food/cheese/) | 500-700 mg |
-| [Sardines](/en/food/sardines/) with bones | 490 mg |
-| [Pumpkin seeds](/en/food/pumpkin-seeds/) | 1,233 mg |
-| [Lentils](/en/food/lentil/) (cooked) | 180 mg |
-| [Chicken breast](/en/food/chicken-breast/) | 220 mg |
-| One [egg](/en/food/eggs/) | 86 mg |
-| [Milk](/en/food/milk/) (cup) | 250 mg |
+| [Pumpkin seeds](/en/food/pumpkin-seeds/) | about 1,230 mg |
+| Hard [cheese](/en/food/cheese/) | 500–700 mg |
+| [Sardines](/en/food/sardines/) with bones | about 490 mg |
+| [Chicken breast](/en/food/chicken-breast/) | about 220 mg |
+| [Lentils](/en/food/lentil/) (cooked) | about 180 mg |
+| [Egg](/en/food/eggs/) | about 95 mg each |
+| [Milk](/en/food/milk/) | about 250 mg per cup |
 
-## Benefits (Pros)
+### Natural phosphorus versus phosphate additives
 
-### 1. Bone and tooth structure
-About 85% of the body's phosphorus is in the skeleton. Together with [calcium](/en/food/supplements/calcium/) it forms **hydroxyapatite** — the crystal that gives bone its strength. The ratio between the two matters: **a significant excess of phosphorus relative to calcium may harm bone balance.**
+Absorption of the "natural" phosphorus in food varies: animal foods are absorbed better, while in seeds, legumes and grains much of the phosphorus is bound to phytate and only partly absorbed. Industrial phosphate additives are inorganic salts that are absorbed very efficiently, so processed food adds more phosphorus than it seems to. [Ritz et al., 2012](https://pubmed.ncbi.nlm.nih.gov/22334826/).
 
-### 2. Cellular energy
-**ATP** — adenosine triphosphate — is the energy currency of every cell. Without phosphorus there is no energy production, so severe deficiency shows up as extreme weakness and muscle failure.
+They are used as stabilisers, texture improvers, leavening agents and preservatives — in processed meat and sausages, processed cheese, industrial baked goods, cola drinks and ready meals — and appear on labels as "phosphates", "polyphosphates", "phosphoric acid" or E-numbers E338–E341 and E450–E452. The amount of phosphorus they add does not have to be declared.
 
-### 3. DNA, RNA and cell membranes
-The backbone of the DNA molecule is made of phosphate bonds, and every cell membrane in the body is built from phospholipids.
+### Benefits
 
-### 4. Acid-base balance
-The phosphate system is one of the body's main buffers, and helps keep blood and urine pH stable.
+- **Bones and teeth:** Together with [calcium](/en/food/supplements/calcium/), phosphorus forms the crystal (hydroxyapatite) that makes bone hard.
+- **Energy:** ATP, the energy molecule of every cell, is built on phosphate bonds. Severe deficiency causes profound muscle weakness.
+- **DNA, RNA and cell membranes:** The backbone of DNA is made of phosphate links, and cell membranes are made of phospholipids.
+- **Acid–base balance:** The phosphate system is one of the buffers that keep the body's pH stable.
 
-## Downsides and Side Effects (Cons)
+### Downsides and side effects
 
-### 1. Phosphate additives — the real problem
-**This is the important part of this page.** Phosphate additives are used in industry as stabilizers, texture improvers, leavening agents and preservatives — and they are found in **processed meat, sausages, processed cheese, industrial baked goods, cola drinks and ready meals.**
+- **Kidney disease:** The kidneys excrete surplus phosphorus. In chronic kidney disease it builds up in the blood, and high levels are linked to vascular calcification and heart disease. For these patients phosphate additives are the most urgent problem, precisely because they are absorbed so well, and the advice is to favour fresh food. [Ritz et al., 2012](https://pubmed.ncbi.nlm.nih.gov/22334826/).
+- **Cola and bone:** In the Framingham study, women who drank cola daily had about 4% lower bone density at the hip than women who drank it less than once a month; no such link appeared for other fizzy drinks or in men. [Tucker et al., 2006](https://pubmed.ncbi.nlm.nih.gov/17023723/). It is an observational study, and the effect of phosphoric acid cannot be separated from the fact that cola replaces milk.
+- **The hormone FGF23:** Chronic phosphorus excess raises FGF23, a hormone that increases phosphorus excretion and lowers active vitamin D. High levels have been linked to heart disease in observational studies.
+- **Medications:** Aluminium-based antacids and the phosphate binders given in kidney disease reduce phosphorus absorption. Phosphorus supplements can raise blood potassium in people taking potassium-sparing diuretics or ACE inhibitors.
+- **Deficiency — rare:** Hypophosphataemia occurs almost only in medical situations: refeeding syndrome after malnutrition, alcoholism, diabetic ketoacidosis and long-term use of aluminium-based antacids.
 
-They are labeled as **E338 to E341** and **E450 to E452**, or as "phosphates," "phosphoric acid" and "polyphosphates."
+### Practical use
 
-**The critical gap:** whereas the natural phosphorus in food is bound to protein or phytate and is absorbed at 40-60%, **phosphate additives are free salts that are absorbed almost completely.** The result is that **processed food contributes much more to your phosphorus balance than the nutrition label shows** — and manufacturers are not required to declare the amount.
+- **A healthy person does not need a phosphorus supplement;** every protein source provides it.
+- **Read the ingredient list:** If you want to eat less processed food, look for "phosphate" and the E-numbers — they are a good marker of heavily processed products.
+- **Kidney patients:** A tailored diet with a dietitian, focusing first on phosphate additives rather than on natural protein sources.
+- **[Ultra-processed food](/en/food/ultra-processed-foods/)** is the main source of "hidden" phosphorus.
 
-### 2. Kidney disease — the at-risk group
-The kidney excretes excess phosphorus. **In chronic kidney disease this ability is impaired, and phosphorus builds up in the blood.** Hyperphosphatemia leads to **calcification of blood vessels and soft tissues** — one of the main causes of cardiovascular death in kidney patients. **For them, phosphate additives in processed food are the most urgent problem**, precisely because of their complete absorption.
+### Summary
 
-### 3. Bone and FGF23
-Chronic phosphorus excess raises the hormone **FGF23**, which reduces phosphorus absorption and suppresses active vitamin D. High FGF23 levels have been linked in observational studies to left ventricular hypertrophy and cardiovascular risk — even in people with normal kidney function.
-
-### 4. Cola drinks
-Dark cola drinks contain **phosphoric acid** (unlike other drinks). High intake has been linked in observational studies to lower bone density — although it's hard to separate the effect of the phosphate from the fact that cola replaces [milk](/en/food/milk/) in the diet.
-
-### 5. Deficiency — rare, but it exists
-Hypophosphatemia is almost never caused by diet. It appears in **refeeding syndrome**, alcoholism, diabetic ketoacidosis and prolonged use of phosphate-binding drugs or aluminum-based antacids.
-
-## Summary
-
-Phosphorus is essential for bone, ATP and DNA — **and nobody needs to think about it to get enough.** It is in every food that contains protein, and average Western intake exceeds the requirement. **What is worth knowing is the absorption gap:** phosphorus in whole food is absorbed at 40-60%, whereas **industrial phosphate additives are absorbed almost completely** — which makes [ultra-processed food](/en/food/ultra-processed-foods/), sausages and processed cheese a much bigger source of phosphorus than they appear. **For kidney patients this is a genuine clinical consideration**, and for everyone else it's one more good reason to read the ingredient list and look for "phosphate."
+Phosphorus is essential for bone, energy and DNA, and you don't need to think about it to get enough. What is worth knowing: phosphate additives in processed food are absorbed very efficiently, so sausages, processed cheese, industrial baked goods and cola add more phosphorus than they appear to. For people with kidney disease this is a real clinical issue; for everyone else it is one more reason to read the ingredient list.
 
 ### Frequently asked questions
 
-**Question: How much phosphorus do you need per day?**
-Answer: 700 mg for adults, with a tolerable upper intake level of 4,000 mg. In practice, average intake in the Western world is well above the requirement — phosphorus is in every food that contains protein, so dietary deficiency is almost nonexistent in a healthy person.
+**Question: How much phosphorus do I need a day?**
+Answer: 700 mg for adults and 1,250 mg for ages 9–18. The upper limit is 4,000 mg a day up to age 70 and 3,000 mg after that. Most people get more than 700 mg.
 
-**Question: What are phosphate additives, and why are they a problem?**
-Answer: Phosphate salts used in industry as stabilizers, texture improvers, leavening agents and preservatives, labeled E338 to E341 and E450 to E452. The problem is absorption: natural phosphorus in food is absorbed at 40-60% because it is bound to protein or phytate, whereas phosphate additives are free salts that are absorbed almost completely. So processed food contributes much more to your phosphorus balance than the table shows.
+**Question: What are phosphate additives and why are they a problem?**
+Answer: Phosphate salts that manufacturers add as stabilisers, texture improvers and leavening agents. Unlike natural phosphorus, part of which is bound to protein or phytate, they are absorbed very efficiently, so processed food contributes more phosphorus than it appears to.
 
 **Question: Which foods contain phosphate additives?**
-Answer: Mainly processed meat and sausages, processed cheese, industrial baked goods, cola drinks and ready meals. In the ingredient list they appear as "phosphates," "polyphosphates," "phosphoric acid" or as E numbers between 338 and 341 and 450 to 452. Manufacturers are not required to declare the amount, so the list is the only way to identify them.
+Answer: Processed meat and sausages, processed cheese, industrial baked goods, cola drinks and ready meals. On the ingredient list they appear as "phosphates", "polyphosphates", "phosphoric acid" or E338–E341 and E450–E452.
 
-**Question: Who needs to limit phosphorus?**
-Answer: Mainly people with chronic kidney disease. The kidney is what excretes excess phosphorus, and when its function is impaired, phosphorus builds up in the blood and causes calcification of blood vessels and soft tissues — one of the main causes of cardiovascular death in this group. For them, it is precisely the fully absorbed phosphate additives that are the urgent problem.
+**Question: Who should limit phosphorus?**
+Answer: Mainly people with chronic kidney disease, in whom phosphorus builds up in the blood and is linked to vascular calcification. The restriction is planned with a dietitian and focuses first on processed food.
 
-**Question: Do cola drinks harm your bones?**
-Answer: Dark cola drinks contain phosphoric acid, unlike other soft drinks, and high intake of them has been linked in observational studies to lower bone density. It is hard to separate the effect of the phosphate itself from the fact that cola replaces milk and calcium-rich drinks in the diet. Either way, it's one more reason to limit them.
+**Question: Does cola harm bones?**
+Answer: Possibly. In the Framingham study, women who drank cola daily had lower hip bone density, and no such link was seen with other fizzy drinks. It is an observational study, and part of the effect may be because cola replaces milk.
 
 **Question: Which foods are rich in phosphorus?**
-Answer: Pumpkin seeds (1,233 mg per 100 g), hard cheeses (500-700), sardines with bones (490), milk (250 mg per cup), chicken (220), lentils (180) and eggs (86 each). In fact, almost every protein source contributes phosphorus, so there's no need to seek it out.
+Answer: Pumpkin seeds, hard cheeses, sardines, chicken, milk, lentils and eggs. Almost any protein source provides phosphorus.
 
 **Question: Is phosphorus deficiency a thing?**
-Answer: Almost never from diet. Hypophosphatemia appears mainly in refeeding syndrome in malnourished patients, alcoholism, diabetic ketoacidosis, and prolonged use of phosphate-binding drugs or aluminum-based antacids. These are medical conditions treated under supervision, not a reason to supplement on your own.
+Answer: Hardly ever from diet. Hypophosphataemia appears mainly in refeeding syndrome, alcoholism, diabetic ketoacidosis and long-term use of aluminium-based antacids — conditions managed under medical supervision.

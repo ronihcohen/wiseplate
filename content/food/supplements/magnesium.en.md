@@ -1,10 +1,10 @@
 ---
 title: "Magnesium for Athletes"
-seo_title: "Magnesium for Athletes: Cramps, Sleep, Supplement Types and Dosage"
+seo_title: "Magnesium: Supplement Types, Dosage, Sleep and Muscle Cramps"
 date: 2026-01-23T09:42:00+02:00
 lastmod: 2026-09-08T09:00:00+03:00
 featured_image: ""
-description: "Does magnesium help with sleep and muscle cramps? A review for athletes of the quality of the evidence, the differences between supplement forms, elemental magnesium and safety."
+description: "Does magnesium help with sleep and muscle cramps? The quality of the evidence, supplement forms compared, elemental magnesium, dosage and safety."
 ---
 
 ## Magnesium for Athletes: An Essential Mineral, a Benefit That Depends on Need
@@ -47,6 +47,8 @@ Citrate tends to be absorbed better than oxide. However, better absorption is no
 Excess magnesium from supplements can cause diarrhea, nausea and abdominal pain. In kidney disease, the risk of dangerous buildup rises. Magnesium may also interfere with the absorption of certain antibiotics and of bisphosphonates; check the dosing interval for your specific drug with a pharmacist. [Safety and interactions — NIH](https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/).
 
 Before buying, write down three things: what problem you want to solve, what you already eat on a typical day and which supplements and medications you take. That way you can check whether there is a real nutritional gap instead of choosing a product by the name of the form or the big milligram number on the front of the package.
+
+**See also:** [Combining Supplements: What Works Together, What Interferes, and When to Take Them](/en/food/supplements/supplement-stack/)
 
 ### Frequently asked questions
 

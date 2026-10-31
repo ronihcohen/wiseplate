@@ -2,9 +2,9 @@
 title: "Kefir"
 seo_title: "Kefir: Side Effects, Downsides and Benefits — The Complete Guide"
 date: 2026-02-19T09:45:00+02:00
-lastmod: 2026-10-07T09:00:00+03:00
+lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "Kefir's downsides and side effects: bloating at first, histamine, alcohol in homemade kefir, milk protein allergy and who should avoid it — alongside its benefits and full nutritional profile."
+description: "Kefir's downsides and side effects: bloating, histamine, alcohol in homemade kefir, milk allergy and who should avoid it, plus its benefits and nutrition."
 ---
 
 {{< youtube id="pUOLdbINC9s" title="Kefir: Ancient, Immortal and a Bit Boozy? (video)" loading="lazy" >}}
@@ -51,6 +51,22 @@ There are two main types of kefir, which differ in the liquid they are fermented
 
 An important difference worth knowing is the gap between supermarket kefir and kefir made at home from live grains. Commercial kefir is usually made with freeze-dried starter cultures rather than real grains, for reasons of product consistency, storage and transport. A typical commercial kefir contains 7–9 defined strains of bacteria, whereas homemade kefir made with original grains can contain anywhere from 30 to more than 60 different strains of microorganisms. Homemade kefir tends to taste sourer and livelier, with stronger fizz, and its probiotic profile is significantly richer.
 
+### How to make kefir at home
+
+Making kefir from grains takes very little equipment: a glass jar, a cloth or paper towel with a rubber band, a plastic or stainless-steel strainer, and a spoon that is not made of a reactive metal such as copper or aluminium.
+
+1. **The ratio:** about one tablespoon of grains (roughly 10–15 g) per cup of milk (about 250 ml). Cow's, goat's or sheep's milk all work, full-fat or low-fat; whole milk makes a thicker kefir. UHT milk works too, but plant drinks do not keep milk-kefir grains healthy over time.
+2. **Fermenting:** put the grains in the jar, pour in the milk and fill it to about two-thirds so there is room for gas. Cover with the cloth and leave it at room temperature (about 20–25 °C / 68–77 °F), out of direct sun, for around 24 hours. On a hot summer day it can be done in 12–18 hours; in a cold winter kitchen it may take 36.
+3. **How to tell it's ready:** the milk has thickened to the texture of drinkable yogurt, it smells pleasantly sour, and when you tilt the jar the liquid moves as one mass. If a clear, yellowish layer of whey appears at the bottom or sides, it has over-fermented: still fine to drink, just sourer, and next time shorten the time or add more milk.
+4. **Straining:** stir gently and strain into a clean container. The grains stay in the strainer and are ready straight away for the next batch of fresh milk. There is no need to rinse them; rinsing in chlorinated tap water can even weaken them.
+5. **Storing the drink:** pour the strained kefir into a sealed bottle and refrigerate it. You can leave the closed bottle at room temperature for a few more hours first (a "second ferment"), sometimes with lemon peel or fruit, for a fizzier, milder-tasting drink.
+
+**Hygiene:** work with clean hands and utensils, swap in a clean jar every few days, and use fresh pasteurized milk. A rotten smell, coloured mould (green, black or pink) on the surface, or grains that have turned soft and slimy are signs of contamination; in that case throw out both the drink and the grains. Healthy grains grow steadily; when you have too many, remove some to keep the ratio, or give them away.
+
+**Why homemade kefir is fizzier and contains a little alcohol:** live grains contain yeasts alongside the bacteria, and the yeasts break down some of the milk sugar into carbon dioxide and ethanol. Commercial kefir is usually made from defined cultures with few or no yeasts, so it produces very little of either. At home, and especially with long fermentation, warmth or a sealed bottle, you get more gas and more alcohol, as explained in the section on [alcohol in kefir](#alcohol-in-kefir--the-downside-people-know-least-about). A shorter ferment in a cloth-covered jar keeps both down.
+
+**Water kefir in brief:** water-kefir grains are a different culture, translucent and crystal-like, and they do not feed on milk. Dissolve about 3–4 tablespoons of sugar in a litre of (non-chlorinated) water, add about 3 tablespoons of grains and often a dried fruit or a slice of lemon, and leave the covered jar for about 24–48 hours. Strain, carry on with the grains for the next round, and bottle the liquid for a second ferment with fruit or juice if you like. The result is a light, fizzy, dairy-free drink; fermentation leaves less sugar in it than went in, but not zero.
+
 ## A rich nutritional profile
 
 One cup (about 240 ml) of kefir made from fermented cow's milk contains an impressive range of nutrients. Amounts vary slightly with the type of milk and fermentation time, but on average it provides:
@@ -64,6 +80,25 @@ One cup (about 240 ml) of kefir made from fermented cow's milk contains an impre
 - **Riboflavin (vitamin B2):** about 25% of the daily value – a vitamin needed for normal metabolism and enzyme function.
 - **Magnesium:** supports nerve signaling and muscle function, and is also important for sleep quality and blood sugar regulation.
 - **Tryptophan:** an essential amino acid that serves as a building block for serotonin and melatonin, contributing to relaxation and sleep quality.
+
+### Nutrition facts
+
+Values for plain low-fat kefir (about 1% fat, no added sugar), from [USDA FoodData Central](https://fdc.nal.usda.gov/). Amounts vary a little between brands and with fermentation time; vitamin D is present only in fortified products.
+
+| Nutrient | Per 100 ml (about) | Per cup (240 ml, about) |
+| --- | --- | --- |
+| Calories | 43 | 104 |
+| Protein | 3.8 g | 9.2 g |
+| Fat | 1.0 g | 2.5 g |
+| of which saturated | 0.7 g | 1.6 g |
+| Carbohydrates | 4.8 g | 11.6 g |
+| of which sugars (mainly lactose) | 4.6 g | 11.2 g |
+| Calcium | 130 mg | 316 mg |
+| Phosphorus | 105 mg | 255 mg |
+| Potassium | 164 mg | 399 mg |
+| Sodium | 40 mg | 97 mg |
+| Riboflavin (B2) | 0.14 mg | 0.33 mg |
+| Vitamin B12 | 0.29 µg | 0.70 µg |
 
 ## Benefits of kefir
 

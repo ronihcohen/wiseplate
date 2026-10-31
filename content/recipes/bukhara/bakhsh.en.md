@@ -17,7 +17,7 @@ calories: 620
 
 ## Bukharian Bakhsh
 
-Bakhsh is green rice made with meat, liver and a large amount of herbs. The "khalta bakhsh" version is cooked in a cloth bag in water, especially for Shabbat; here we present a convenient pot version that doesn't need a cooking bag. There are also chicken versions and versions without liver.
+Bakhsh is green [rice](/en/food/rice/) made with meat, liver and a large amount of herbs. The "khalta bakhsh" version is cooked in a cloth bag in water, especially for Shabbat; here we present a convenient pot version that doesn't need a cooking bag. There are also chicken versions and versions without liver.
 
 **Prep time:** 35 minutes · **Cooking:** 75 minutes · **Yield:** 8 · **Difficulty:** medium
 
@@ -38,11 +38,11 @@ Four bunches are not a garnish. Chop the tender stems too and add the herbs in t
 
 ### Choosing ingredients and substitutes
 
-You can use chopped boneless chicken thighs instead of beef and liver, a family version documented in Israel. If you avoid liver, replace it with another 250 grams of meat; the flavor is less deep. Liver is not kashered by ordinary salting: if it isn't labeled as kashered by broiling, broil and kasher it separately according to kashrut guidelines before starting the recipe. An oven bag isn't needed for the pot version.
+You can use chopped boneless chicken thighs instead of [beef](/en/food/red-meat/) and liver, a family version documented in Israel. If you avoid liver, replace it with another 250 grams of meat; the flavor is less deep. Liver is not kashered by ordinary salting: if it isn't labeled as kashered by broiling, broil and kasher it separately according to kashrut guidelines before starting the recipe. An oven bag isn't needed for the pot version.
 
 ### Method
 
-1. **Brown the base.** Heat the oil, brown the onions for 8 minutes and add the beef. Break it up and brown for 8 minutes.
+1. **Brown the base.** Heat the oil, brown the [onions](/en/food/onion/) for 8 minutes and add the beef. Break it up and brown for 8 minutes.
 2. **Cook the liver and add herbs.** Add the pre-kashered liver and cook 5–7 minutes, until it is fully cooked and the center of the large pieces reaches 74 degrees (165°F). Set a third of the herbs aside and add the rest with the spices.
 3. **Add rice and water.** Add the drained rice and water to about 1 cm above it. Bring to a boil.
 4. **Cook and rest.** Cover and cook 20 minutes over low heat. Turn off the heat and let rest 15 minutes without opening.

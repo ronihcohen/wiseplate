@@ -1,0 +1,31 @@
+{{ define "main" }}
+{{/* GitHub Pages serves /404.html for every missing URL, so this replaces its
+     stock page, which had no way back into the site. head.html marks it
+     noindex. The Hebrew build is the one at the root, so it also points
+     English readers to /en/. */}}
+<div class="article-header">
+  <div class="container">
+    <h1 class="article-title">{{ T "notFoundTitle" }}</h1>
+    <p class="article-description">{{ T "notFoundText" }}</p>
+  </div>
+</div>
+<div class="article-body">
+  <div class="container">
+    <div class="article-content not-found">
+      <ul>
+        <li><a href="{{ "/food/" | relLangURL }}">{{ T "navFood" }}</a></li>
+        <li><a href="{{ "/food/supplements/" | relLangURL }}">{{ T "navSupplements" }}</a></li>
+        <li><a href="{{ "/compare/" | relLangURL }}">{{ T "navComparisons" }}</a></li>
+        <li><a href="{{ "/recipes/" | relLangURL }}">{{ T "navRecipes" }}</a></li>
+        <li><a href="{{ "/run/" | relLangURL }}">{{ T "navRun" }}</a></li>
+        <li><a href="{{ site.Home.RelPermalink }}">{{ T "notFoundHome" }}</a></li>
+      </ul>
+      {{- if eq site.Language.Lang site.Sites.Default.Language.Lang }}
+      {{- range site.Home.Translations }}
+      <p lang="{{ .Language.LanguageCode }}" dir="{{ .Language.LanguageDirection }}">Page not found. <a href="{{ .RelPermalink }}">Go to the English site</a>.</p>
+      {{- end }}
+      {{- end }}
+    </div>
+  </div>
+</div>
+{{ end }}

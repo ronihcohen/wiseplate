@@ -1,10 +1,10 @@
 ---
 title: "Cinnamon"
-seo_title: "Cinnamon: Nutrition Facts, Medicinal Properties, Ceylon vs. Cassia and Side Effects"
+seo_title: "Cinnamon: Benefits, Ceylon vs. Cassia and Side Effects"
 date: 2025-12-22T11:00:00+02:00
 lastmod: 2026-10-07T09:00:00+03:00
 featured_image: ""
-description: "Cinnamon's nutrition facts, what research really shows about blood sugar, the critical difference between Ceylon cinnamon and cassia, and the amount to be careful about because of coumarin."
+description: "Cinnamon: nutrition facts, what research shows about blood sugar, Ceylon vs. cassia, and how much is too much because of coumarin."
 ---
 
 {{< youtube id="3ZVf-jRDP2Q" title="Cinnamon: Is Your Everyday Cinnamon the Wrong Kind? (video)" loading="lazy" >}}
