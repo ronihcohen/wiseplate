@@ -1,10 +1,10 @@
 ---
 title: "A Scientific Comparison: White, Red and Black Quinoa"
-seo_title: "White vs. Red vs. Black Quinoa: Differences and Which Is Healthiest"
+seo_title: "White vs. Red vs. Black Quinoa: Which Is Healthiest?"
 date: 2025-12-27T07:00:00+02:00
 lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "White, red and black quinoa are nearly identical in calories and protein (about 4.4 g per 100 g cooked). The darker ones have more polyphenols and hold their shape."
+description: "White, red and black quinoa are nearly identical in calories and protein (~4.4 g per 100 g cooked). Darker ones have more polyphenols and hold their shape."
 ---
 
 ## A Scientific Comparison: White, Red and Black Quinoa

@@ -4,7 +4,7 @@ seo_title: "Spinach vs. Kale vs. Chard: Which Leafy Green Is Healthiest?"
 date: 2025-12-27T07:15:00+02:00
 lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "Spinach, kale or chard? Kale leads in vitamin C and absorbable calcium, spinach in folate, chard in vitamin K. Per-100 g table, oxalates, warfarin, who each suits."
+description: "Spinach, kale or chard? Kale leads in vitamin C and absorbable calcium, spinach in folate, chard in vitamin K. Per-100 g table, oxalates and warfarin."
 ---
 
 ## A Scientific Comparison: Spinach, Kale and Chard
