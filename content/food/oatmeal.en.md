@@ -2,25 +2,42 @@
 title: "Oats"
 seo_title: "Oats: Do They Contain Gluten? Benefits and Downsides"
 date: 2026-08-10T08:25:00+03:00
+lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "Do oats contain gluten? The full answer on cross-contamination and gluten-free labels, alongside the benefits, the downsides and the nutrition facts."
+description: "Do oats contain gluten? Not naturally, but most are contaminated with wheat, so celiac needs gluten-free oats. Beta-glucan and LDL, glycemic index, nutrition."
 ---
 
 ## Oats
 
-**In Hebrew, oats are called "שיבולת שועל".** In Israel many people also call them **"קוואקר" ("Quaker")** — a name that took root from the American brand Quaker Oats and became generic. "Quaker" is not a different kind of grain but ordinary rolled oats; the distinction that really matters is not the name but the **degree of processing**, discussed below, which has a major effect on the glycemic index.
+**Oats do not naturally contain gluten, but most ordinary oats are contaminated with wheat in the field and at the mill, so people with celiac disease should buy only oats labeled "gluten-free"; 3 g of oat beta-glucan a day (about 70 g of dry oats) lowers LDL moderately.** In Hebrew, oats are called "שיבולת שועל", and in Israel many people also call them **"קוואקר" ("Quaker")** — a name that took root from the American brand Quaker Oats and became generic. "Quaker" is not a different kind of grain but ordinary rolled oats; the distinction that really matters is not the name but the **degree of processing**, discussed below, which has a major effect on the glycemic index.
 
 Oats (*Avena sativa*) are among the most thoroughly researched grains. Unlike most grains, they are almost always eaten in their whole form — the bran and germ are not removed in normal processing — so they keep their fiber and active compounds even in industrial products.
 
 100 grams of dry oats provide about 389 calories, 66 grams of carbohydrates, 10.6 grams of fiber, 17 grams of protein and 7 grams of fat. A typical serving (40-50 grams dry) provides about 160-190 calories and 4-5 grams of fiber.
 
+### Nutrition facts
+
+| Nutrient | Per 100 g dry | Per serving (40 g dry) |
+|---|---|---|
+| Calories | 389 | about 156 |
+| Carbohydrates | 66 g | about 26 g |
+| Dietary fiber | 10.6 g | about 4.2 g |
+| Of which beta-glucan | 4–6 g | about 1.6–2.4 g |
+| Protein | 16.9 g | about 6.8 g |
+| Fat | 6.9 g | about 2.8 g |
+| [Magnesium](/en/food/supplements/magnesium/) | 177 mg | about 71 mg |
+| [Phosphorus](/en/food/supplements/phosphorus/) | 523 mg | about 209 mg |
+| [Iron](/en/food/iron/) | 4.7 mg | about 1.9 mg |
+
+Values are for dry rolled oats, approximate, based on USDA data. Cooked in water, a 40 g serving makes about a cup of porridge.
+
 ### Beta-glucan — the key component
 
 About 4-6% of oats is **beta-glucan**, a soluble fiber that forms a viscous solution in the small intestine. The viscosity is the mechanism: the gel binds bile acids and prevents their reabsorption, so the liver has to draw cholesterol from the blood to make new ones — and LDL goes down.
 
-This is one of a small number of food components that have earned an **officially approved health claim**. The FDA and EFSA have both approved stating that oat beta-glucan contributes to lowering cholesterol, at a threshold of **3 grams per day** — an amount reached with about 60-80 grams of dry oats, or about two servings.
+This is one of a small number of food components that have earned an **officially approved health claim**. The FDA and EFSA have both approved stating that oat beta-glucan contributes to lowering cholesterol, at a threshold of **3 grams per day** [(EFSA: oat beta-glucan, 2010)](https://doi.org/10.2903/j.efsa.2010.1885) — an amount reached with about 60-80 grams of dry oats, or about two servings.
 
-Meta-analyses of controlled trials show a consistent 5-10% drop in LDL with regular intake, without harming HDL.
+A meta-analysis of 28 controlled trials found that 3 g or more of oat beta-glucan a day lowered LDL by about 0.25 mmol/L (about 10 mg/dL), without changing HDL or triglycerides, and the effect was larger in people with higher LDL [(Whitehead et al., 2014)](https://pubmed.ncbi.nlm.nih.gov/25411276/).
 
 ### Avenanthramides — unique to oats
 
@@ -30,7 +47,7 @@ This is also why colloidal oatmeal appears in skincare products for atopic skin 
 
 ### Gluten — a point that confuses many people
 
-Oats **do not naturally contain gluten**. [Gluten](/en/food/gluten/) is the name of the protein network formed from the prolamins of wheat, rye and barley only; the protein in oats is called avenin, and it is well tolerated by the vast majority of people with celiac disease.
+Oats **do not naturally contain gluten**. [Gluten](/en/food/gluten/) is the name of the protein network formed from the prolamins of wheat, rye and barley only; the protein in oats is called avenin, and it is well tolerated by the vast majority of people with celiac disease. A review found that avenins lack the protein fragments that trigger the immune reaction in celiac disease, and that long-term studies confirmed the safety of uncontaminated oats in a gluten-free diet; in Europe and the US a product can be labeled "gluten-free" if it contains under 20 parts per million of gluten [(Gilissen et al., 2016)](https://pubmed.ncbi.nlm.nih.gov/29083384/).
 
 The problem is not the grain but **cross-contamination**: oats are usually grown in fields next to wheat, harvested with the same machinery, transported in the same trucks and processed in the same plants. Measurements have found significant levels of gluten in regular oats.
 
@@ -56,7 +73,7 @@ The difference between steel-cut oats and an "instant" packet is a real differen
 
 * **Glycemic regulation:** the gel slows glucose absorption and lowers the post-meal blood sugar peak.
 
-* **Resistant starch:** cooling after cooking turns some of the starch resistant to digestion, so it acts like fiber and feeds gut bacteria. This is the advantage of **overnight oats** — beyond convenience, they have a better glycemic profile than freshly made hot porridge.
+* **Resistant starch:** cooling after cooking turns some of the starch resistant to digestion, so it acts like fiber and feeds gut bacteria. This is one possible advantage of **overnight oats**, although the difference in blood sugar response compared with hot porridge has not been well tested in people.
 
 * **High protein for a grain:** 17 grams per 100 grams — among the highest of the grains.
 
@@ -75,20 +92,6 @@ The difference between steel-cut oats and an "instant" packet is a real differen
 * **A sudden jump in fiber:** a sudden increase in soluble fiber intake causes gas and bloating. Increase gradually and drink water.
 
 * **[Oat milk](/en/compare/soy-almond-oat-milk/) is not oats:** the manufacturing process breaks the starch down enzymatically into simple sugars, and most of the fiber is filtered out. Its glycemic index is relatively high and its protein low.
-
-### Nutrition facts per 100 grams (dry)
-
-| Nutrient | Amount |
-|---|---|
-| Calories | 389 |
-| Carbohydrates | 66 g |
-| Dietary fiber | 10.6 g |
-| Of which beta-glucan | 4-6 g |
-| Protein | 16.9 g |
-| Fat | 6.9 g |
-| [Magnesium](/en/food/supplements/magnesium/) | 177 mg |
-| [Phosphorus](/en/food/supplements/phosphorus/) | 523 mg |
-| [Iron](/en/food/iron/) | 4.7 mg |
 
 ### Practical use
 
@@ -118,7 +121,7 @@ Answer: Steel-cut or regular rolled. The more mechanical processing, the faster 
 Answer: 3 grams of beta-glucan per day — about 70 grams of dry oats, roughly two servings. This is the threshold set in the approved health claim of the FDA and EFSA.
 
 **Question: Are overnight oats healthier than hot porridge?**
-Answer: They have an advantage. Cooling creates resistant starch that acts as fiber and feeds gut bacteria, and soaking reduces phytic acid and improves mineral absorption.
+Answer: They may have a small advantage. Cooling creates some resistant starch that acts as fiber and feeds gut bacteria, and soaking reduces phytic acid and improves mineral absorption.
 
 **Question: Is granola the same as oats?**
 Answer: No. Commercial granola usually contains 20-30% sugar and added fat, and it is a completely different product nutritionally — even though the base is the same.

@@ -1,73 +1,89 @@
 ---
 title: "Bone Broth"
+seo_title: "Does Bone Broth Contain Collagen? Nutrition and What Research Shows"
 date: 2026-08-09T12:00:00+03:00
+lastmod: 2026-10-30T09:00:00+02:00
 featured_image: ""
-description: "A scientific analysis of bone broth: its collagen, mineral and glycosaminoglycan content, and their clinical benefits"
+description: "A cup of bone broth: about 40-50 kcal and 6-10 g protein, mostly gelatin. What lab tests and trials show on collagen, joints and gut claims, plus lead and sodium."
 ---
 
-## Bone Broth: The Culinary Marathon That Builds Health From the Ground Up
+## Bone Broth
 
-Bone broth (in Hebrew "מרק עצמות") is the product of long cooking (6–24 hours) of animal bones — usually beef, chicken, fish or [lamb](/en/food/lamb/) — together with vegetables, herbs and an acid (usually [apple cider vinegar](/en/food/apple-cider-vinegar/)). The long cooking process breaks down connective tissue, cartilage, ligaments and bone marrow into absorbable biological compounds — among them [collagen](/en/food/collagen/), which breaks down into gelatin, glycosaminoglycans, amino acids and trace minerals.
+**A cup of bone broth provides about 40-50 calories and 6-10 grams of protein, mostly gelatin — the cooked form of collagen. Lab analyses show that its content of collagen amino acids is low and highly variable compared with the doses tested in trials, and there are no trials showing that bone broth itself improves joints, skin or "leaky gut." It is a nourishing, warming soup, not a medicine.**
 
-A food forgotten in the era of processed food, bone broth has returned to the forefront of clinical research in recent years, as researchers seek to understand why traditional cuisines in every culture kept it as a home remedy.
+Bone broth (in Hebrew "מרק עצמות") is a stock simmered for a long time — 6 to 24 hours — from beef, chicken, fish or [lamb](/en/food/lamb/) bones, sometimes with vegetables and a little vinegar. During long cooking, the collagen in bones, cartilage and skin breaks down into gelatin, which is why a good bone broth sets into a jelly in the fridge. Almost every traditional cuisine has a version of it — from Jewish grandmother's chicken soup to Vietnamese pho — and in recent years it has also become a commercial "health" product.
 
-### Main nutritional composition
+### Nutrition facts
 
-A cup (240 ml) of good-quality homemade bone broth typically contains:
-- About 40–50 calories
-- 9–10 grams of protein (mainly gelatin)
-- 0.5–1 gram of fat
-- Minerals: [calcium](/en/food/supplements/calcium/), [magnesium](/en/food/supplements/magnesium/), [phosphorus](/en/food/supplements/phosphorus/), [potassium](/en/food/supplements/potassium/) and silica
-- Glycosaminoglycans: glucosamine, chondroitin, hyaluronic acid
-- Amino acids: glycine, proline, hydroxyproline, glutamine
+Approximate values per cup (240 ml). They vary widely with the type of bones, cooking time and amount of water:
 
-### Research-based health benefits
+| Nutrient | Homemade (per cup) | Commercial (per cup) |
+|---|---|---|
+| Calories | about 40-50 | about 40-50 |
+| Protein (mostly gelatin) | about 6-10 g | about 8-10 g |
+| Fat | about 0.5-2 g (after skimming) | about 0-1 g |
+| Carbohydrates | about 0-1 g | about 0-1 g |
+| [Sodium](/en/food/supplements/sodium/) | depends on the salt you add | about 300-900 mg |
 
-* **Collagen and gelatin for joint health:** During long cooking, collagen (the main structural protein in cartilage and connective tissue) breaks down into gelatin — an absorbable protein. Gelatin supplies procollagen for the synthesis of new collagen in the body's tissues. Clinical studies have shown that consuming collagen products (including gelatin from bone broth) can reduce joint pain and improve flexibility in people with osteoarthritis.
+Minerals from the bones — [calcium](/en/food/supplements/calcium/), [magnesium](/en/food/supplements/magnesium/) and [phosphorus](/en/food/supplements/phosphorus/) — pass into the broth only in small amounts, and bone broth is not a meaningful calcium source. Its protein is incomplete: gelatin is rich in glycine and proline but low in essential amino acids such as tryptophan.
 
-* **Glycine — a multi-purpose amino acid:** Bone broth is one of the best natural sources of glycine. This amino acid, which most people do not get enough of on a modern diet, is involved in collagen synthesis, in producing glutathione (the body's main internal antioxidant), in producing bile salts (for fat digestion), in brain function — it also acts as an inhibitory neurotransmitter and as a co-agonist of NMDA receptors — and in improving sleep quality.
+### Benefits
 
-* **Gut healing:** Glutamine (another amino acid abundant in bone broth) is the preferred fuel of the epithelial cells of the small intestine. Studies have shown that glutamine helps improve the integrity of the gut barrier and may contribute to treating "leaky gut" (intestinal permeability) — a condition linked to inflammatory diseases, allergies and irritable bowel syndrome.
+* **Protein and fluid for few calories:** a cup provides a few grams of protein and warm fluid for about 40-50 calories. That is useful during illness, after surgery, for older adults with a poor appetite, or as a starter that fills you up a little.
 
-* **Hyaluronic acid for skin and joints:** Hyaluronic acid (HA) is a molecule well known in the cosmetics industry, but when taken internally it may help maintain skin hydration, joint flexibility and proper function of the synovial fluid (joint fluid). Bone broth provides HA in small but bioavailable amounts.
+* **A source of glycine and proline:** gelatin is rich in glycine, proline and hydroxyproline — the amino acids the body uses to build collagen. In a small trial of eight men, 15 grams of vitamin C-enriched gelatin an hour before short exercise raised blood markers of collagen synthesis. [Shaw et al., 2017](https://pubmed.ncbi.nlm.nih.gov/27852613/). But a lab analysis of homemade and commercial bone broths found that in broth made to a standard recipe, the concentration of these amino acids was significantly lower than in a 20-gram dose of collagen supplement, and varied widely between broths. The researchers concluded that bone broth is not a reliable source of them. [Alcock et al., 2019](https://pubmed.ncbi.nlm.nih.gov/29893587/).
 
-* **Biological minerals from bones:** Bones contain [calcium](/en/food/supplements/calcium/), [magnesium](/en/food/supplements/magnesium/) and phosphorus. Adding vinegar to the cooking (even if the final broth does not taste sour) helps release these minerals from the bone matrix into the cooking liquid. The amount of minerals depends on the type and quality of the bones.
+* **Hot soup when you have a cold:** in a lab experiment, homemade chicken soup inhibited the movement of inflammatory cells (neutrophils) in a test tube, which may explain mild relief of cold symptoms. [Rennard et al., 2000](https://pubmed.ncbi.nlm.nih.gov/11035691/). That is a test-tube result, not a human trial, but warm fluids, salt and steam ease congestion anyway.
 
-* **Bone marrow — a unique concentration of fats:** Bone marrow is an especially rich tissue — it contains fats, [vitamin B12](/en/food/supplements/vitamin-b12/), [vitamin K2](/en/food/supplements/vitamin-k/), [zinc](/en/food/supplements/zinc/) and alkylglycerols (fats being studied in the context of immune support). When bones with marrow are cooked, these nutrients are released into the broth.
+* **A tasty cooking base:** homemade bone broth improves the flavor of soups, stews, rice and legumes, and replaces salty soup powders.
 
-* **Calming effect and better sleep:** Specific studies on glycine alone showed that taking 3 grams of glycine before bed improved sleep quality, reduced morning sleepiness and improved cognitive performance. A 240 ml serving of bone broth may provide 1–2 grams of glycine — that is, one third to two thirds of the dose tested in the studies.
+### What bone broth does not do
 
-### Downsides and health considerations
+* **Joints:** some trials of hydrolyzed collagen supplements found short-term relief of joint pain in osteoarthritis. [Liu et al., 2018](https://pubmed.ncbi.nlm.nih.gov/29018060/). But those were supplements at a fixed dose — not bone broth, in which the amount is low and unpredictable. No trials have tested bone broth for joint pain.
+* **"Gut healing":** the claim that bone broth heals "leaky gut" rests on individual components such as glutamine, not on trials of bone broth. It has no clinical support.
+* **Hyaluronic acid, glucosamine and chondroitin:** they are present in cartilage, but the amount that reaches the broth has not been reliably measured, and there is no evidence that it affects skin or joints.
 
-* **Limited direct scientific evidence for bone broth:** Most clinical studies focus on specific components (collagen, glutamine, glycine) and not on bone broth as a whole. It is hard to control the concentrations of components in homemade broth, which vary with the type of bones, cooking time and handling.
+### Downsides
 
-* **Lead and heavy metals:** A study published in *Medical Hypotheses* (2013) tested lead levels in chicken bone broths and found low but measurable amounts, higher than those in tap water. Bones tend to accumulate heavy metals over the animal's lifetime, so bones from animals raised in a polluted environment may contain higher concentrations. This particular study is controversial and has methodological limitations.
+* **Lead:** bones store lead over an animal's lifetime. In a small study, broths made from organic chicken bones contained several times more lead than the water they were made with (7-9.5 micrograms per liter, versus under 1 in the water). [Monro et al., 2013](https://pubmed.ncbi.nlm.nih.gov/23375414/). The amounts are low and the study small, but it is a reason not to drink liters of bone broth a day, especially during pregnancy and for children.
 
-* **High [sodium](/en/food/supplements/sodium/) in commercial versions:** Commercial bone broths, and especially packaged liquid stocks, are often loaded with [sodium](/en/food/supplements/sodium/) (500–900 mg per 240 ml). Making it at home allows you to control the amount of salt.
+* **Sodium:** commercial broths and soup powders usually contain 300-900 mg of sodium per cup. At home, you control the salt.
 
-* **Histamine with long cooking:** Long cooking raises the concentration of histamine — a biogenic amine formed from the breakdown of the amino acid histidine, partly through bacterial action. People with histamine intolerance (MCAS, DAO enzyme deficiency) may experience reactions such as headache, rash or nausea after drinking bone broth.
+* **Histamine:** long cooking and long storage in the fridge raise histamine levels in the broth. People with histamine intolerance may get headaches, flushing or a rash.
 
-* **Oxidation of unsaturated fats:** Long cooking at high heat may oxidize unsaturated fats (PUFA). It is recommended to cook on low heat (85–95°C, 185–203°F) and store the broth properly (fridge up to 5 days, freezer up to 3 months).
+* **Purines:** meat and bone broths are rich in purines and can aggravate gout.
 
-### How to make good-quality bone broth
+* **Price:** commercial bone broths are far more expensive than the nutrition they provide. Homemade broth is very cheap.
 
-1. **Choosing bones:** Marrow bones, oxtail, wings with bones and chicken feet are the best choices for concentrated gelatin and minerals.
-2. **The roasting stage:** Roasting the bones in the oven at 200°C (392°F) for 30–40 minutes before cooking improves flavor and creates Maillard reactions that add depth.
-3. **Adding vinegar:** One or two teaspoons of natural apple cider vinegar before you start cooking helps release minerals from the bones.
-4. **Cooking time:** 12–24 hours for beef bones, 8–12 for chicken, 4–6 for fish. A broth that sets into a jelly when chilled — that is a sign of a good gelatin concentration.
-5. **Straining:** Strain well through a fine sieve before serving.
+### Practical use
+
+1. **Bones:** knuckle bones, oxtail, chicken wings, necks and feet provide plenty of gelatin.
+2. **Roasting (optional):** 30-40 minutes in a hot oven before simmering deepens the flavor.
+3. **Simmering:** on low heat, covered with water — about 8-12 hours for chicken and 12-24 for beef. A little vinegar is optional; it mainly affects the taste.
+4. **Strain and cool:** strain, cool quickly and remove the layer of fat that hardens on top. Broth that sets into a jelly is rich in gelatin.
+5. **Storage:** up to 3-4 days in the fridge, about three months in the freezer. Bring to a boil before drinking.
+6. **How much:** a cup a day is reasonable. If you want protein, chicken, fish, eggs or legumes provide more; if you specifically want collagen, a supplement at a known dose is more useful — see the [collagen](/en/food/collagen/) page.
 
 ### Summary
 
-Bone broth is a traditional, high-value food that provides gelatin, glycine, glutamine, hyaluronic acid and minerals in a biological form. Although the direct clinical evidence on it as a whole product is still limited, the individual components it provides have been studied extensively and point to benefits for the joints, the gut lining and sleep. Careful homemade preparation, control over the quality of the bones and cooking at a low temperature — these are the key to getting the most out of this broth.
+Bone broth is a traditional, warm and filling food, with few calories, a little protein and fluid — and that is its real value. Marketing claims about joints, skin and "gut healing" do not rest on trials of bone broth, and lab analyses show that its collagen components are low and highly variable. Make it at home, skim the fat, control the salt and drink it in moderation, because of the lead that bones can release.
 
 ### Frequently asked questions
 
-**Question: What is the difference between bone broth and regular stock?**
-Answer: Regular stock is usually cooked for 2–4 hours and focuses on flavor. Bone broth is cooked much longer (8–24 hours) on low heat, with the aim of releasing collagen, glycosaminoglycans and minerals. The physical sign is that bone broth sets into a jelly when chilled — a sign of a high gelatin concentration.
+**Question: Does bone broth contain collagen?**
+Answer: It contains gelatin — collagen broken down by cooking — which is why it sets into a jelly. But in a lab analysis, the amount of collagen amino acids in a standard broth was far lower than in a 20-gram supplement dose, and varied widely between broths.
 
-**Question: Is chicken bone broth as good as beef?**
-Answer: Chicken broth is richer in glutamine and hyaluronic acid, while beef broth contains a higher concentration of type I collagen (the collagen found in bones and skin). Both are valuable, and many recommend alternating between them. Chicken feet are the richest source of gelatin.
+**Question: Does bone broth help your joints?**
+Answer: It has not been shown to. Some trials of collagen supplements found short-term pain relief, but there are no trials of bone broth, in which the amount is unknown.
+
+**Question: What is the difference between bone broth and regular stock?**
+Answer: Mainly the cooking time. Stock simmers a few hours, bone broth 8-24 hours, so it has more gelatin and sets when chilled. Nutritionally the difference is modest.
+
+**Question: Is there lead in bone broth?**
+Answer: There can be. In a small study, broths made from chicken bones contained several times more lead than the water they were made with. The amounts are low, but it is a reason to drink it in moderation, especially during pregnancy and for children.
 
 **Question: How much bone broth should you drink a day?**
-Answer: There is no official recommendation, but 1–2 cups (240–480 ml) a day is a common range in gut-healing and joint-health protocols. You can drink it on its own, use it as a base for soups, or add it when cooking legumes and grains.
+Answer: There is no official recommendation. A cup a day is a reasonable amount. There is no reason to drink large amounts in the hope of "healing."
+
+**Question: Does chicken soup help with a cold?**
+Answer: It may ease symptoms. In a lab experiment chicken soup inhibited the movement of inflammatory cells, and warm fluids and steam ease congestion. It has not been shown to shorten the illness.
